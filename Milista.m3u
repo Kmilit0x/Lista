@@ -12,7 +12,7 @@ https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/c
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1137935027596140544/Vi_DGZ3J_200x200.png" group-title="INTERES GENERAL" twitter="telefe",Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-# E XTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1144312867447025665/F7eOXFKJ_200x200.jpg" twitter="canal9oficial" group-title="INTERES GENERAL" aspect-ratio="16:9" ,El Nueve
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1144312867447025665/F7eOXFKJ_200x200.jpg" twitter="canal9oficial" group-title="INTERES GENERAL" aspect-ratio="16:9" ,El Nueve
 #https://ar-elnueve-elnueve-live-0-cdn-0.ned.media/elnueve/smil:elnueve.smil/playlist.m3u8
 #EXTINF:-1 group-title="INTERES GENERAL" tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty_200x200.jpg" twitter="teleferosario" tvg-name="Telefe",Telefe Rosario
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
@@ -31,9 +31,9 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 https://unlimited6-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-y1Tzpi7z4gU/AAAAAAAAAAI/AAAAAAAAAAA/IO5dQLAgMZY/s200-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="INTERES GENERAL" aspect-ratio="16:9" ,Encuentro
 https://contar1.c.s73cdn.net/d2c35dc9-a317-47fd-a323-796a1f42516f/elemental/live/master.m3u8
-# E XTINF:-1 tvg-logo="https://yt3.ggpht.com/-ETYibekId-Q/AAAAAAAAAAI/AAAAAAAAAAA/Q4nr5_8eSz8/s200-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="INTERES GENERAL",TEC TV
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-ETYibekId-Q/AAAAAAAAAAI/AAAAAAAAAAA/Q4nr5_8eSz8/s200-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="INTERES GENERAL",TEC TV
 #https://tectv.secure2.footprint.net/hls-live/streamroot_lsd2latam-tectv/_definst_/live.m3u8
-# E XTINF:-1 group-title="INTERES GENERAL",Mirador
+#EXTINF:-1 group-title="INTERES GENERAL",Mirador
 #https://contar-live.secure.footprint.net/hls-live/ionmicroremux-mirador/_definst_/live.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/876833569380982785/4nT4SSJU_200x200.jpg" group-title="INTERES GENERAL" aspect-ratio="16:9" ,Orbe Canal 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
@@ -43,11 +43,11 @@ http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1066077184048152576/jemQ8FEk_200x200.jpg" group-title="DEPORTES" aspect-ratio="16:9" twitter="canaldeportv",DeporTV
 https://contar1.c.s73cdn.net/ca50b541-05b5-4e4f-ab60-33c3bed01f2d/elemental/live/master.m3u8
-# E XTINF:-1  group-title="DEPORTES" tvg-logo="https://pbs.twimg.com/profile_images/590209545756106752/ckdTiNYI_200x200.jpg" aspect-ratio="4:3" ,El Garage
+#EXTINF:-1  group-title="DEPORTES" tvg-logo="https://pbs.twimg.com/profile_images/590209545756106752/ckdTiNYI_200x200.jpg" aspect-ratio="4:3" ,El Garage
 #http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1199782306_b1412000_sleng.m3u8
-# E XTINF:-1 tvg-logo="https://yt3.ggpht.com/-lJaOJPxf9QI/AAAAAAAAAAI/AAAAAAAAAAA/CKi_DjRkmpg/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg" group-title="DEPORTES", Mundo Autos
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-lJaOJPxf9QI/AAAAAAAAAAI/AAAAAAAAAAA/CKi_DjRkmpg/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg" group-title="DEPORTES", Mundo Autos
 #https://5abdf4edae5bf.streamlock.net:443/8328/8328/playlist.m3u8
-# E XTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/791039473714860040/aQlp7W9V_200x200.jpg" group-title="INFANTIL" aspect-ratio="16:9" ,PakaPaka
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/791039473714860040/aQlp7W9V_200x200.jpg" group-title="INFANTIL" aspect-ratio="16:9" ,PakaPaka
 #https://contar-live.secure.footprint.net/hls-live/ionmicroremux-Pakapaka/_definst_/live.m3u8
 #EXTINF:-1 type="stream" group-title="INFANTIL" tvg-logo="https://pbs.twimg.com/profile_images/714739553979015168/POp9Xp20_200x200.jpg",Boing
 http://cdn2.interlibre.net/hls/193/index.m3u8
@@ -55,7 +55,7 @@ http://cdn2.interlibre.net/hls/193/index.m3u8
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 group-title="INFANTIL",Cachipum
 https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
-# E XTINF:-1  group-title="CINE Y SERIES" tvg-logo="https://yt3.ggpht.com/-5LNKrSd7G58/AAAAAAAAAAI/AAAAAAAAAAA/X4XTHcPJzO4/s200-c-k-no-mo-rj-c0xffffff/photo.jpg" aspect-ratio="16:9",Cine.AR
+#EXTINF:-1  group-title="CINE Y SERIES" tvg-logo="https://yt3.ggpht.com/-5LNKrSd7G58/AAAAAAAAAAI/AAAAAAAAAAA/X4XTHcPJzO4/s200-c-k-no-mo-rj-c0xffffff/photo.jpg" aspect-ratio="16:9",Cine.AR
 #https://contar-live.secure.footprint.net/hls-live/ionmicroremux-cinear/_definst_/live/stream3.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://yt3.ggpht.com/a-/AN66SAyJ1oUx3HBOx-3fWEsN6afFt6RoyBxIYmtRNA=s200-mo-c-c0xffffffff-rj-k-no" youtube="UCbnqPMCXOqM7O-YRr3TcFPw",Telered Costa Rica
 http://k4.usastreams.com/ARBtv/teleplus/.m3u8
@@ -138,7 +138,7 @@ http://cdn2.interlibre.net/hls/464/index.m3u8
 http://cdn2.interlibre.net/hls/468/index.m3u8
 #EXTINF:0 group-title="EXTERIOR" tvg-name="Antena 3" tvg-logo="https://pbs.twimg.com/profile_images/1206928539750191105/L0iknTua_400x400.jpg" twitter="antena3com" aspect-ratio="1,85:1",Antena 3 España
 http://cdn2.interlibre.net/hls/149/index.m3u8
-# E XTINF:0 type="stream" channelId="-1" group-title="EXTERIOR" tvg-name="Cuatro" tvg-logo="https://mdsrwdassets-a.akamaihd.net/dist/assets/favicon/cuatro/apple-touch-icon.png" ,Cuatro
+#EXTINF:0 type="stream" channelId="-1" group-title="EXTERIOR" tvg-name="Cuatro" tvg-logo="https://mdsrwdassets-a.akamaihd.net/dist/assets/favicon/cuatro/apple-touch-icon.png" ,Cuatro
 #http://www.enzomatrix.eu5.net/hls/cuatro.m3u8
 #EXTINF:0 type="stream" channelId="2527" group-title="EXTERIOR" tvg-name="Telecinco" tvg-logo="https://pbs.twimg.com/profile_images/903296444697858048/yS_V6Bk4_200x200.jpg" aspect-ratio="1,85:1",Telecinco España
 http://cdn2.interlibre.net/hls/190/index.m3u8
@@ -213,7 +213,7 @@ https://593aed234297b.streamlock.net/gotvsjoerd/gotvsjoerd/.m3u8
 http://1music.hu/1music.m3u8
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://pbs.twimg.com/profile_images/1214687460011192321/2S4PFFlr_200x200.jpg" twitter="Radio105",Radio 105
 https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ec)/index.m3u8
-# E XTINF:0 group-title="MUSICA" tvg-logo="https://pbs.twimg.com/profile_images/3108296919/6b1e875583edb8ba44216f339ee040e8_200x200.png" twitter="deluxe_music",Deluxe Music eu5
+#EXTINF:0 group-title="MUSICA" tvg-logo="https://pbs.twimg.com/profile_images/3108296919/6b1e875583edb8ba44216f339ee040e8_200x200.png" twitter="deluxe_music",Deluxe Music eu5
 #http://enzomatrix.eu5.net/hls/deluxemusic.m3u8
 #EXTINF:0 group-title="MUSICA" tvg-logo="https://pbs.twimg.com/profile_images/1144605579245211653/TcPUMMM__200x200.png" twitter="mtv", MTV Europe
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
@@ -274,7 +274,7 @@ http://live-edge01.telecentro.net.ar/live/smil:trm.smil/master.m3u8
 https://classicarts.global.ssl.fastly.net/live/cas/master_550k.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/899573564935942144/OTGwThMk_200x200.jpg" group-title="MUSICA", Mezzo
 http://d78722d4.melpakomn.ru/iptv/6S67EMNRR9QAUY/707/index.m3u8
-# E XTINF:0 group-title="NOTICIAS" tvg-name="NTN24" tvg-logo="https://pbs.twimg.com/profile_images/481487481645191168/R2oZ4SWJ_200x200.png" aspect-ratio="1,85:1", NTN24 Colombia
+#EXTINF:0 group-title="NOTICIAS" tvg-name="NTN24" tvg-logo="https://pbs.twimg.com/profile_images/481487481645191168/R2oZ4SWJ_200x200.png" aspect-ratio="1,85:1", NTN24 Colombia
 #https://miniproxy-php.appspot.com/index.php/https://rcnhd.cdn.net.co/live04/ntn24.m3u8
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" twitter="24h_tve",TVE 24h
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_0650_av-b.m3u8?sd=10&rebase=on
@@ -324,9 +324,9 @@ http://194.179.53.124:1935/live/traveltv/playlist.m3u8
 https://5fa5de1a545ae.streamlock.net/turistik/turistik/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/725077587333144577/pnBwJslv_200x200.jpg"  tvg-name="Canal Rural Artear" group-title="VARIEDADES",Canal Rural
 https://g1.vxral-hor.transport.edge-access.net/a17/ngrp:rural_live01-100083_all/rural_live01-100083_540p.m3u8
-# E XTINF:-1 group-title="EVENTOS" aspect-ratio="1,85:1",TN1
+#EXTINF:-1 group-title="EVENTOS" aspect-ratio="1,85:1",TN1
 #https://www.youtube.com/watch?v=l9SWTBtM-uc
 #EXTINF:-1 group-title="EVENTOS" aspect-ratio="1,85:1",TN2
 https://www.youtube.com/watch?v=sAKTFFvy8dM
-# E XTINF:-1 group-title="EVENTOS" aspect-ratio="1,85:1",TN3
+#EXTINF:-1 group-title="EVENTOS" aspect-ratio="1,85:1",TN3
 #https://www.youtube.com/watch?v=rTsjL5X2q3w
