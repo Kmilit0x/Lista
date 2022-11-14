@@ -11,8 +11,9 @@ https://router.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
 #EXTINF:-2022, EL 13
 https://router.cdn.rcs.net.ar/mnp/el13/output.mpd
 #EXTINF:-2022, EL NUEVE
-#EXTINF:-2022, TVP
 https://router.cdn.rcs.net.ar/mnp/tvp/output.mpdhttps://router.cdn.rcs.net.ar/mnp/elnueve/output.mpd
+#EXTINF:-2022, TVP
+https://router.cdn.rcs.net.ar/mnp/tvp/output.mpd
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/876963356405575681/OC2NzZip_200x200.jpg" group-title="Documentales"
 #EXTINF:-2022, HISTORY 
 https://router.cdn.rcs.net.ar/mnp/history/output.mpd
