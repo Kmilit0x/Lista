@@ -11,6 +11,9 @@ https://router.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
 #EXTINF:-2022, EL 13 group-title="INTERES GENERAL"
 https://router.cdn.rcs.net.ar/mnp/el13/output.mpd
 #EXTINF:-2022, EL NUEVE group-title="INTERES GENERAL"
+#EXTINF:-1 group-title="INTERES GENERAL" ,Canal 3 Rosario
+https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/chunklist_w1101133399_b1013840.m3u8
+#https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 https://router.cdn.rcs.net.ar/mnp/tvp/output.mpdhttps://router.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 #EXTINF:-2022, TVP group-title="INTERES GENERAL"
 https://router.cdn.rcs.net.ar/mnp/tvp/output.mpd
@@ -39,7 +42,8 @@ https://router.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
 #EXTINF:-2022, STAR CHANNEL group-title="Deportes"
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Star..
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/876963356405575681/OC2NzZip_200x200.jpg" group-title="Peliculas"
-#EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i.imgur.com/NXIG1He.png",Bayres TV
+#EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i.imgur.com/NXIG1He.png",Bayres TV group-title="Peliculas"
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/876963356405575681/OC2NzZip_200x200.jpg" group-title="Noticias"
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/876963356405575681/OC2NzZip_200x200.jpg" group-title="Infantiles"
