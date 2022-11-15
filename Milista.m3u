@@ -1,58 +1,65 @@
-TELEFE HD
-http://test_deportv-lh.akamaihd.net/i/TelefeHD_1@7273/index_1_av-p.m3u8
-EL TRECE HD
-rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
-CANAL 9 HD
-rtmp://sl100tb.cxnlive.com/live/canal9.stream
-TV PUBLICA HD
-rtmp://sl100tb.cxnlive.com/live/tvpublica.stream
-TyC Sports HD
-rtmp://sl100tb.cxnlive.com/live/tyc.stream
-TN HD
-rtsp://stream.tn.com.ar/live/tnhd1
-C5N
-http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8
-Canal 26 HD
-rtsp://live-edge01.telecentro.net.ar:80/live/26hd-720
-ESPN +
-http://www.ienlace-tv.com:1935/live7/livestream1.sdp/playlist.m3u8
-Magazine TV
-rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
-History
-http://www.ienlace-tv.com:1935/live10/livestream1.sdp/playlist.m3u8
-Boomerang
-http://www.ienlace-tv.com:1935/live11/livestream1.sdp/playlist.m3u8
-Discovery kids
-http://www.ienlace-tv.com:1935/live6/livestream1.sdp/playlist.m3u8
-Q Musica
-mms://streamqm.uigc.net/qmusica
-Deportv HD
-rtmp://sl100tb.cxnlive.com/live/deportv.stream
-America TV
-rtmp://wdc.cxnlive.com/live/americasd.stream
-NATGEO HD
-http://ilg.club/streamlink.m3u8?channel_id=7ad09373f65c48d5bb6aa6c3b2ca519a&bitrate=800
-NATGEO WILD HD
-http://ilg.club/streamlink.m3u8?channel_id=607fa33938bc4a3ea6c43ce47ddb8ed8&bitrate=800
-FX HD
-http://ilg.club/streamlink.m3u8?channel_id=2e0e4b05aa6e428593f3b45b710045b7&bitrate=800
-STAR WORLD HD
-http://ilg.club/streamlink.m3u8?channel_id=65f7358b813048a0898f5677e1793cf9&bitrate=800
-NAT GEO MUSIC HD
-http://ilg.club/streamlink.m3u8?channel_id=69c2eab6794344619a049c5dea60ca22&bitrate=800
-BABY TV HD
-http://ilg.club/streamlink.m3u8?channel_id=7773f3cef0334a28ad248552ea63d9e7&bitrate=800
-SYFY HD
-http://ilg.club/streamlink.m3u8?channel_id=71f197de056e499a85265c03b44bdab1&bitrate=800
-COMEDY CENTRAL HD
-http://ilg.club/streamlink.m3u8?channel_id=2f18d4ba25224edaa8bb9aac94b00d4f&bitrate=800
-FOX SPORTS
-rtmp://wdc.cxnlive.com/live/foxsd.stream
-ESPN
-rtmp://wdc.cxnlive.com/live/espn.stream
-CRONICA TV
-rtmp://wdc.cxnlive.com/live/cronica.stream
-TELESUR
-http://cdn2.telesur.ultrabase.net/livecf/telesurLive/master.m3u8
-TELEMAX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTM3U 
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="General" user-agent="iPhone",América TV (720p)
+#EXTVLCOPT:http-user-agent=iPhone
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+#EXTINF:-1 group-title="INTERES GENERAL" ,Encuentro 
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1137935027596140544/Vi_DGZ3J_200x200.png" group-title="INTERES GENERAL" ,Telefe
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="General",TV Pública (TVP) (1080p) [Not 24/7]
+https://youtu.be/rzXad39RSAE
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1075497247129911296/_RyuQ8I4_200x200.jpg" twitter="canalnetar" group-title="INTERES GENERAL",NET TV
+https://unlimited6-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1036261896897417217/PyLR6rnw_400x400.jpg" group-title="INTERES GENERAL" twitter="elTresTV",Canal 3 Rosario
+https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
+#EXTINF:-1 group-title="INTERES GENERAL" tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty_200x200.jpg" twitter="teleferosario" tvg-name="Telefe",Telefe Rosario
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1083024133062123521/cHU8zOpn_200x200.jpg" group-title="INTERES GENERAL" " ,Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal9Litoral.ar" tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png" group-title="Undefined",Canal 9 Litoral
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+#EXTINF:-1 group-title="INTERES GENERAL" tvg-logo="https://pbs.twimg.com/profile_images/607708464257896448/1JrRLGLc_200x200.jpg" ,Argentinisima
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26_200x200.jpg" group-title="INTERES GENERAL" ,26 TV
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/791039473714860040/aQlp7W9V_200x200.jpg" group-title="INFANTIL" ,PakaPaka
+#https://contar-live.secure.footprint.net/hls-live/ionmicroremux-Pakapaka/_definst_/live.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/616231451403624448/un6zS-V-_200x200.png" twitter="orbitcable" group-title="CINE Y SERIES",Orbit TV
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://graph.facebook.com/Televisiondeleste/picture?width=200&height=200" facebook="Televisiondeleste" group-title="CINE Y SERIES",Television del Este
+https://cm.hostlagarto.com:4445/ESTV/estv.myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2LfyhI9.png" group-title="MUSICA",MUSICTOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="News",Canal 26 (720p)
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A24_%282019-1%29.png/512px-A24_%282019-1%29.png" group-title="News" user-agent="iPhone",A24 (720p)
+#EXTVLCOPT:http-user-agent=iPhone
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",A24 (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCR9120YBAqMfntqgRTKmkjQ/live
+#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/512px-C5N_2017_Alternate.svg.png" group-title="News",C5N (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/c5n/live
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews en Español (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/euronewses/live
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/512px-TN_todo_noticias_logo.svg.png" group-title="News",TN Todo Noticias (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live
+#EXTINF:-1 tvg-id="InformacionPeriodistica.ar" tvg-logo="https://i.imgur.com/SQSu9M5.png" group-title="News",Informacion Periodística (1080p)
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+#EXTINF:-1 tvg-id="AmericaSports.ar" tvg-logo="https://i.imgur.com/GOQ9zOI.png" group-title="Sports",América Sports (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Deportv.svg/512px-Deportv.svg.png" group-title="Sports",DeporTV (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCSmh3DFxBwFurMttT60PQ1g/live
+#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Sports",DirecTV Sports (480p)
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/512px-Cine.Ar_logo.svg.png" group-title="Movies",CINE.AR (720p) [Not 24/7]
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id="CosmosTV.ar" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Entertainment",Cosmos TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="Auto",El Garage TV (480p) [Not 24/7]
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i.imgur.com/NXIG1He.png" group-title="Undefined",Bayres TV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:-1 tvg-id="CadenaVivo.ar" tvg-logo="https://cvivo.com.ar/wp-content/uploads/2021/11/VIVO-CIRCULO.png" group-title="Undefined",Cadena VIVO (720p)
+https://videostream.shockmedia.com.ar:19360/tvnoficial/tvnoficial.m3u8
