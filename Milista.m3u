@@ -1,10 +1,10 @@
 #EXTM3U 
 #Noticias
-#EXTINF:-1 tvg-id="LaNacionPlus.ar" group-title="Noticias",La Nacion +
+#EXTINF:-1 tvg-id="LaNacionPlus.ar" group-title="Noticias",La Nacion
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:-1 tvg-id="IPNoticias.ar" group-title="Noticias",IP Noticias
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
-#EXTINF:-1 tvg-id="TN.ar" group-title="TN Noticias", TN Todo Noticias (1080p)
+#EXTINF:-1 tvg-id="TN.ar" group-title="Noticias", TN Todo Noticias
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #Peliculas
 #EXTINF:-1 tvg-id="BayresTV.ar" group-title="Peliculas",Bayres TV
