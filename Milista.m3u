@@ -16,3 +16,6 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal5Rosario.ar" group-title="Generales",Canal 5 Rosario
 https://ythls.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
+#otros
+#EXTINF:-1 tvg-id="Mario bros" group-title="otros",Mario Bros
+https://brunochanrio.github.io/Listas-IPTV/super-mario-bros-la-pelicula.m3u
