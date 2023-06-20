@@ -6,6 +6,8 @@ https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 #EXTINF:-1 tvg-id="TN.ar" group-title="Noticias", TN Todo Noticias
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1 tvg-id="A24" group-title="Noticias", A24
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3197
 #Peliculas
 #EXTINF:-1 tvg-id="BayresTV.ar" group-title="Peliculas",Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
