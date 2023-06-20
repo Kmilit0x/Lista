@@ -1,4 +1,4 @@
 #EXTM3U 
 #Noticias
-#EXTINF:-1 tvg-id="TVPublica.ar" 
-https://www.ver-tv.online/canal/cronica-tv-en-vivo
+#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://i.imgur.com/Gj1kqH5.png" group-title="General",La Nacion +
+https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
