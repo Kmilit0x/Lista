@@ -44,6 +44,10 @@ https://ythls.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
 #EXTINF:-1 tvg-id="Encuentro.ar" group-title="Documentales",Encuentro 
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
+#EXTINF:-1 tvg-id="NatGeo" group-title="Documentales",NatGeo 
+http://pe.shortgod.com/gonka/tv1.php?id=7312
+#EXTINF:-1 tvg-id="Discovery" group-title="Documentales",Discovery
+http://pe.shortgod.com/gonka/tv1.php?id=7308
 #Musica
 #EXTINF:-1 tvg-id="GlobalTV.ar" group-title="Musica",Global TV 
 https://stmv.video.gmpro.top/global/global/playlist.m3u8
@@ -56,6 +60,8 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal 26" group-title="Funcionan mal", Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #Infantiles
-#EXTINF:-1 tvg-id="1015"  group-title="Infantiles" , PlanetaTV Kids
+#EXTINF:-1 tvg-id="1015"  group-title="Infantiles",PlanetaTV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?tecnotv
+#EXTINF:-1 tvg-id="Clasicos Disney"  group-title="Infantiles",Clasicos Disney
+http://pe.shortgod.com/gonka/tv1.php?id=2111
 
