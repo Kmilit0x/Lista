@@ -12,7 +12,7 @@ https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 tvg-id="CnArNoticias.ar" group-title="Noticias",CnAr Noticias 
 https://stmv1.cnarlatam.com/cnarnoticias/cnarnoticias/playlist.m3u8
-#EXTINF:-1 tvg-id="CronicaTV.ar" user-agent="iPhone",Crónica TV 
+#EXTINF:-1 tvg-id="CronicaTV.ar" user-agent="iPhone",Crónica TV (720p)
 #EXTVLCOPT:http-user-agent=iPhone
 https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
 #Peliculas
@@ -20,12 +20,18 @@ https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all
 https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8
 #EXTINF:-1 tvg-id="BayresTV.ar" group-title="Peliculas",Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:-1 tvg-id="CineAr.ar" group-title="Peliculas",CINE.AR 
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #Generales
+#EXTINF:-1 tvg-id="TelefeSalta.ar" group-title="Generales",Telefe Salta (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
+#EXTINF:-1 tvg-id="AmericaTV.ar" group-title="Generales",América TV
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 #EXTINF:-1 tvg-id="TVPublica.ar" group-title="Generales",TV Pública 
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 tvg-id="ElNueve.ar" group-title="Generales",El Nueve
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
-#EXTINF:-1 tvg-id="ElTrece.ar" group-title="Generales",El Trece 
+#EXTINF:-1 tvg-id="ElTrece.ar" group-title="Generales",El Trece (1080p)
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="Canal3Rosario.ar" group-title="Generales",Canal 3 Rosario
 https://dai.ly/x8aobf1
@@ -34,10 +40,16 @@ https://ythls.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
 #Documentales
 #EXTINF:-1 tvg-id="ElHistonautaTV.ar" group-title="Documentales",El Histonauta TV 
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
-#EXTINF:-1 tvg-id="Encuentro.ar" group-title="Documentales",Encuentro
+#EXTINF:-1 tvg-id="Encuentro.ar" group-title="Documentales",Encuentro (1080p)
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 #Musica
+#EXTINF:-1 tvg-id="GlobalTV.ar" group-title="Musica",Global TV (1080p)
+https://stmv.video.gmpro.top/global/global/playlist.m3u8
+#EXTINF:-1 tvg-id="MusicTop.ar" group-title="Musica",MusicTop 
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #Deportes
+#EXTINF:-1 tvg-id="DeporTV.ar" group-title="Deportes",DeporTV 
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #Funcionan mal
 #EXTINF:-1 tvg-id="Canal 26" group-title="Funcionan mal", Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
