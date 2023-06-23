@@ -68,7 +68,7 @@ http://pe.shortgod.com/gonka/tv1.php?id=2111
 http://pe.shortgod.com/gonka/tv1.php?id=2044
 #EXTINF:-1 tvg-id="Chavo del 8"  group-title="Infantiles",Chavo del 8
 http://pe.shortgod.com/gonka/tv1.php?id=2045
-EXTINF:-1 tvg-id="Reino Infantil"  group-title="Infantiles",Reino Infantil
+#EXTINF:-1 tvg-id="Reino Infantil"  group-title="Infantiles",Reino Infantil
 http://clubtv.link/m1923/top4565/plutotv.php?c=5f4d3d06fb60d8000781fce8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=51f247aa-de6a-4551-a331-ffa4c5dc6b64&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="Bob Esponja"  group-title="Infantiles",Bob Esponja
 http://clubtv.link/m1923/top4565/plutotv.php?c=5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4c3e30-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2122e9a3-0ffd-41e4-bb57-eb51058728f6&userId=&serverSideAds=true
