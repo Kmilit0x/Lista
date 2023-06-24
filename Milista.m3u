@@ -26,6 +26,14 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-id="CineAr.ar" group-title="Peliculas",CINE.AR 
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
+
+
+
+Retro Play TV | CL
+https://v4.tustreaming.cl/retroplaytv/index.m3u8
+
+
+
 #Generales
 #EXTINF:-1 tvg-id="TelefeSalta.ar" group-title="Generales",Telefe Salta 
 https://ythls.onrender.com/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
@@ -53,14 +61,27 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 http://pe.shortgod.com/gonka/tv1.php?id=7312
 #EXTINF:-1 tvg-id="Discovery" group-title="Documentales",Discovery
 http://pe.shortgod.com/gonka/tv1.php?id=7308
+
 #Musica
 #EXTINF:-1 tvg-id="GlobalTV.ar" group-title="Musica",Global TV 
 https://stmv.video.gmpro.top/global/global/playlist.m3u8
 #EXTINF:-1 tvg-id="MusicTop.ar" group-title="Musica",MusicTop 
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTv" group-title="Musica",PowerTv
+http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Vevo Latino" group-title="Musica",Vevo Latino
+https://d3k7iagvenqkpa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lgynwyncl1q5l/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="HTV" group-title="Musica",HTV
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35025
+#EXTINF:-1 tvg-id="MTV" group-title="Musica",MTV
+http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35018
+
+
 #Deportes
 #EXTINF:-1 tvg-id="DeporTV.ar" group-title="Deportes",DeporTV 
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+
+
 #Funcionan mal
 #EXTINF:-1 tvg-id="Canal 26" group-title="Funcionan mal", Canal 26
 http://tvpremiumhd.club/lista-gratuita/153021/on/live.php?id=200.115.193.177/live/26hd-480/.m3u8?teleregiogratis?chile.m3u8
@@ -81,3 +102,23 @@ http://clubtv.link/m1923/top4565/plutotv.php?c=5f4d3d06fb60d8000781fce8/master.m
 http://clubtv.link/m1923/top4565/plutotv.php?c=5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4c3e30-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2122e9a3-0ffd-41e4-bb57-eb51058728f6&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="mario"  group-title="Infantiles",mario
 http://51.222.43.170:8001/movie/Palafox1650/whYWQCJhUNsk/311954.mkv
+
+#EXTINF:-1 tvg-id="Bob Esponja"  group-title="Infantiles",EL CHAVO ANIMADO 24-7
+
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/12023
+
+#EXTINF:-1 tvg-id="Bob Esponja"  group-title="Infantiles",LA CASA DE MICKEY MOUSE 24-7
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/11977
+
+#EXTINF:-1 tvg-id="Bob Esponja"  group-title="Infantiles",looney toons
+
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/12008
+
+#EXTINF:-1 tvg-id="Bob Esponja"  group-title="Infantiles",los thunderscats
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/2372
+
+#EXTINF:-1 tvg-id="Bob Esponja"  group-title="Infantiles",Peppa Pig
+
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/2386
+
+
