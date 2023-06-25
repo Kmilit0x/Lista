@@ -100,7 +100,6 @@ http://pe.shortgod.com/gonka/tv1.php?id=2045
 http://51.222.43.170:8001/movie/Palafox1650/whYWQCJhUNsk/311954.mkv
 #EXTINF:-1 tvg-id="Bob Esponja"  group-title="Infantiles",EL CHAVO ANIMADO 24-7
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/12023
-
 #EXTINF:-1 tvg-id="Bob Esponja"  group-title="Infantiles",LA CASA DE MICKEY MOUSE
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/11977
 #EXTINF:-1 tvg-id="Bob Esponja"  group-title="Infantiles",looney toons
@@ -115,13 +114,13 @@ http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/12003
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/11093
 #EXTINF:-1 tvg-id="HI-MAN"  group-title="Infantiles",HI-MAN
 http://premiumultra.xyz:8080/alen2022/alen2022/9881
-#EXTINF:-1 tvg-id="LOONEY TUNES PLATINUM COLLECTION"  group-title="Infantiles",LOONEY TUNES
+#EXTINF:-1 tvg-id="LOONEY TUNES PLATINUM" group-title="Infantiles",LOONEY TUNES
 http://premiumultra.xyz:8080/alen2022/alen2022/9876
-#EXTINF:-1 tvg-id="PINKI ELVIRA Y CEREBRO"  group-title="Infantiles",PINKI ELVIRA Y CEREBRO
+#EXTINF:-1 tvg-id="PINKI ELVIRA Y CEREBRO" group-title="Infantiles",PINKI ELVIRA Y CEREBRO
 http://premiumultra.xyz:8080/alen2022/alen2022/9883
 #EXTINF:-1 tvg-id="ROBOTECH"  group-title="Infantiles",ROBOTECH
 http://premiumultra.xyz:8080/alen2022/alen2022/9890
-#EXTINF:-1 tvg-id="Infantiles"group-title="Infantiles", Infantiles
+#EXTINF:-1 tvg-id="Infantiles" group-title="Infantiles", Infantiles
 http://premiumultra.xyz:8080/alen2022/alen2022/13850
 #EXTINF:-1 tvg-id="Games of Thrones"  group-title="Infantiles", Games of Thrones
 http://premiumultra.xyz:8080/alen2022/alen2022/13862
