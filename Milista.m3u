@@ -1,4 +1,4 @@
-#EXTM3U 
+si#EXTM3U 
 #Noticias
 #EXTINF:-1 tvg-id="LaNacionPlus.ar" group-title="Noticias",La Nacion
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
@@ -121,4 +121,22 @@ http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/2372
 
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/2386
 
-
+#EXTINF:-1 tvg-id="PHINEAS Y FERB"  group-title="Infantiles",PHINEAS Y FERB
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/12003
+#EXTINF:-1 tvg-id="Teen Titans Go"  group-title="Infantiles",
+Teen Titans Go
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/11093
+#EXTINF:-1 tvg-id="HI-MAN"  group-title="Infantiles",HI-MAN
+http://premiumultra.xyz:8080/alen2022/alen2022/9881
+#EXTINF:-1 tvg-id="LOONEY TUNES PLATINUM COLLECTION"  group-title="Infantiles",LOONEY TUNES PLATINUM COLLECTION
+http://premiumultra.xyz:8080/alen2022/alen2022/9876
+#EXTINF:-1 tvg-id="PINKI ELVIRA Y CEREBRO"  group-title="Infantiles",PINKI ELVIRA Y CEREBRO
+http://premiumultra.xyz:8080/alen2022/alen2022/9883
+#EXTINF:-1 tvg-id="ROBOTECH"  group-title="Infantiles", ROBOTECH
+http://premiumultra.xyz:8080/alen2022/alen2022/9890
+#EXTINF:-1 tvg-id="Infantiles"  group-title="Infantiles", Infantiles
+http://premiumultra.xyz:8080/alen2022/alen2022/13850
+#EXTINF:-1 tvg-id="Games of Thrones"  group-title="Infantiles", Games of Thrones
+http://premiumultra.xyz:8080/alen2022/alen2022/13862
+#EXTINF:-1 tvg-id="Cartoon Network"  group-title="Infantiles",Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
