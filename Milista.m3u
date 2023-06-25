@@ -25,14 +25,8 @@ https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-id="CineAr.ar" group-title="Peliculas",CINE.AR 
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-
-
-
-
-Retro Play TV | CL
+#EXTINF:-1 tvg-id="Retro Play" group-title="Peliculas",Retro Play
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
-
-
 
 #Generales
 #EXTINF:-1 tvg-id="TelefeSalta.ar" group-title="Generales",Telefe Salta 
@@ -88,31 +82,31 @@ http://tvpremiumhd.club/lista-gratuita/153021/on/live.php?id=200.115.193.177/liv
 
 
 #Infantiles
-#EXTINF:-1 tvg-id="1015"  group-title="Infantiles",PlanetaTV Kids
+#EXTINF:-1 tvg-id="1015" group-title="Infantiles",PlanetaTV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?tecnotv
-#EXTINF:-1 tvg-id="Clasicos Disney"  group-title="Infantiles",Clasicos Disney
+#EXTINF:-1 tvg-id="Clasicos Disney" group-title="Infantiles",Clasicos Disney
 http://pe.shortgod.com/gonka/tv1.php?id=2111
-#EXTINF:-1 tvg-id="Dragon Ball Z"  group-title="Infantiles",Dragon Ball Z
+#EXTINF:-1 tvg-id="Dragon Ball Z" group-title="Infantiles",Dragon Ball Z
 http://pe.shortgod.com/gonka/tv1.php?id=2044
-#EXTINF:-1 tvg-id="Chavo del 8"  group-title="Infantiles",Chavo del 8
+#EXTINF:-1 tvg-id="Chavo del 8" group-title="Infantiles",Chavo del 8
 http://pe.shortgod.com/gonka/tv1.php?id=2045
 #EXTINF:-1 tvg-id="mario" group-title="Infantiles",mario
 http://51.222.43.170:8001/movie/Palafox1650/whYWQCJhUNsk/311954.mkv
-#EXTINF:-1 tvg-id="Bob Esponja"  group-title="Infantiles",EL CHAVO ANIMADO 24-7
+#EXTINF:-1 tvg-id="Bob Esponja" group-title="Infantiles",EL CHAVO ANIMADO 24-7
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/12023
-#EXTINF:-1 tvg-id="Bob Esponja"  group-title="Infantiles",LA CASA DE MICKEY MOUSE
+#EXTINF:-1 tvg-id="Bob Esponja" group-title="Infantiles",LA CASA DE MICKEY MOUSE
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/11977
-#EXTINF:-1 tvg-id="Bob Esponja"  group-title="Infantiles",looney toons
+#EXTINF:-1 tvg-id="Bob Esponja" group-title="Infantiles",looney toons
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/12008
-#EXTINF:-1 tvg-id="Bob Esponja"  group-title="Infantiles",los thunderscats
+#EXTINF:-1 tvg-id="Bob Esponja" group-title="Infantiles",los thunderscats
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/2372
-#EXTINF:-1 tvg-id="Peppa Pig"  group-title="Infantiles",Peppa Pig
+#EXTINF:-1 tvg-id="Peppa Pig" group-title="Infantiles",Peppa Pig
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/2386
-#EXTINF:-1 tvg-id="PHINEAS Y FERB"  group-title="Infantiles",PHINEAS Y FERB
+#EXTINF:-1 tvg-id="PHINEAS Y FERB" group-title="Infantiles",PHINEAS Y FERB
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/12003
-#EXTINF:-1 tvg-id="Teen Titans Go"  group-title="Infantiles",Teen Titans Go
+#EXTINF:-1 tvg-id="Teen Titans Go" group-title="Infantiles",Teen Titans Go
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/11093
-#EXTINF:-1 tvg-id="HI-MAN"  group-title="Infantiles",HI-MAN
+#EXTINF:-1 tvg-id="HI-MAN" group-title="Infantiles",HI-MAN
 http://premiumultra.xyz:8080/alen2022/alen2022/9881
 #EXTINF:-1 tvg-id="LOONEY TUNES PLATINUM" group-title="Infantiles",LOONEY TUNES
 http://premiumultra.xyz:8080/alen2022/alen2022/9876
