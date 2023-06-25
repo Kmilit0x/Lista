@@ -27,6 +27,8 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-id="Retro Play" group-title="Peliculas",Retro Play
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
+#EXTINF:-1 tvg-id="Cosmos TV" group-title="Peliculas",Cosmos TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 #Generales
 #EXTINF:-1 tvg-id="TelefeSalta.ar" group-title="Generales",Telefe Salta 
@@ -84,15 +86,35 @@ http://tvpremiumhd.club/lista-gratuita/153021/on/live.php?id=200.115.193.177/liv
 #Infantiles
 #EXTINF:-1 tvg-id="1015" group-title="Infantiles",PlanetaTV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?tecnotv
-#EXTINF:-1 tvg-id="Clasicos Disney" group-title="Infantiles",Clasicos Disney
-http://pe.shortgod.com/gonka/tv1.php?id=2111
-#EXTINF:-1 tvg-id="Dragon Ball Z" group-title="Infantiles",Dragon Ball Z
-http://pe.shortgod.com/gonka/tv1.php?id=2044
-#EXTINF:-1 tvg-id="Chavo del 8" group-title="Infantiles",Chavo del 8
-http://pe.shortgod.com/gonka/tv1.php?id=2045
-#EXTINF:-1 tvg-id="mario" group-title="Infantiles",mario
-http://51.222.43.170:8001/movie/Palafox1650/whYWQCJhUNsk/311954.mkv
-#EXTINF:-1 tvg-id="Disney" group-title="Infantiles",Disney
-https://clubtv.link/m1923/top4565/24.php?c=0ueen_diney
 #EXTINF:-1 tvg-id="Cartoon Network"  group-title="Infantiles",Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="Canal 34 San Juan" group-title="Infantiles",Canal 34 San Juan
+https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaRetroCartoons.ar" group-title="Infantiles",Xtrema Retro Cartoons
+#Otros
+#EXTINF:-1 tvg-id="TEC TV" group-title="Otros",TEC TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+#EXTINF:-1 tvg-id="Viajar TV" group-title="Otros",Viajar TV
+https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaAccion.ar" group-title="Otros",Xtrema Accion
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaAnimal.ar" group-title="Otros",Xtrema Animal
+https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaAnime.ar" group-title="Otros",Xtrema Anime
+https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaAsia.ar" group-title="Otros",Xtrema Asia
+https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaCartoons.ar" group-title="Otros",Xtrema Cartoons
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaComedy.ar" group-title="Otros",Xtrema Comedy
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaDrama.ar"  group-title="Otros",Xtrema Drama
+https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaEuropa.ar" group-title="Otros",Xtrema Europa
+https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaFamily.ar" group-title="Otros",Xtrema Family
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaHindi.ar" group-title="Movies",Xtrema Hindi
+https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaLatina.ar" group-title="Otros",Xtrema Latina
+https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
