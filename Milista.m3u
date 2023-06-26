@@ -4,6 +4,8 @@
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:-1 tvg-id="IPNoticias.ar" group-title="Noticias",IP Noticias
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+#EXTINF:-1 tvg-id="Euronews" group-title="Noticias",Euronews
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/f1f29e913cb79ff20b9491b00992ce53.m3u8
 #EXTINF:-1 tvg-id="TN.ar" group-title="Noticias",TN Todo Noticias
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-id="A24" group-title="Noticias",A24
@@ -15,6 +17,12 @@ https://stmv1.cnarlatam.com/cnarnoticias/cnarnoticias/playlist.m3u8
 #EXTINF:-1 tvg-id="CronicaTV.ar" user-agent="iPhone",Crónica TV 
 #EXTVLCOPT:http-user-agent=iPhone
 https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
+#EXTINF:-1 tvg-id="DW Español" group-title="Noticias",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="Canal 26" group-title="Funcionan mal", Canal 26
+http://tvpremiumhd.club/lista-gratuita/153021/on/live.php?id=200.115.193.177/live/26hd-480/.m3u8?teleregiogratis?chile.m3u8
+
+
 
 #Peliculas
 #EXTINF:-1 tvg-id="GEN TV" group-title="Peliculas", GEN TV
@@ -45,7 +53,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 https://stream-03.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4LsxNOZ-NhuYEQ3hMBaWI_6U7Pg31Blh_2GmSadSArEAub)/dm/3/x8aobf1/s/live-2.m3u8
 #EXTINF:-1 tvg-id="Canal5Rosario.ar" group-title="Generales",Canal 5 Rosario
 https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/master.m3u8?hdnea=st=1687738724~exp=1687915124~acl=/hls/live/2033413-b/canal5rosario/TOK/*~hmac=45705e3553886e14f3cc1b182161f7f8f45ff5781495dace34b88bb9dc5ff2c4
-EXTINF:-1 tvg-id="America" group-title="Generales",America
+#EXTINF:-1 tvg-id="America" group-title="Generales",America
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #Documentales
@@ -77,17 +85,17 @@ http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35018
 #EXTINF:-1 tvg-id="DeporTV.ar" group-title="Deportes",DeporTV 
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
-
 #Funcionan mal
-#EXTINF:-1 tvg-id="Canal 26" group-title="Funcionan mal", Canal 26
-http://tvpremiumhd.club/lista-gratuita/153021/on/live.php?id=200.115.193.177/live/26hd-480/.m3u8?teleregiogratis?chile.m3u8
-
 
 #Infantiles
 #EXTINF:-1 tvg-id="1015" group-title="Infantiles",PlanetaTV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?tecnotv
 #EXTINF:-1 tvg-id="Cartoon Network"  group-title="Infantiles",Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network" group-title="Infantiles",Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-id="Locomotion" group-title="Infantiles",Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-id="Canal 34 San Juan" group-title="Infantiles",Canal 34 San Juan
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
