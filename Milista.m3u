@@ -14,140 +14,7 @@ https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 tvg-id="CnArNoticias.ar" group-title="Noticias",CnAr Noticias 
 https://stmv1.cnarlatam.com/cnarnoticias/cnarnoticias/playlist.m3u8
-#EXTINF:-1 tvg-id="CronicaTV.ar" user-agent="iPhone",Crónica TV 
-#EXTVLCOPT:http-user-agent=iPhone
-https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
-#EXTINF:-1 tvg-id="DW Español" group-title="Noticias",DW Español
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="Canal 26" group-title="Funcionan mal", Canal 26
-http://tvpremiumhd.club/lista-gratuita/153021/on/live.php?id=200.115.193.177/live/26hd-480/.m3u8?teleregiogratis?chile.m3u8
-
-#Peliculas
-#EXTINF:-1 tvg-id="GEN TV" group-title="Peliculas", GEN TV
-https://inliveserver.com:1936/14056/14056/playlist.m3u8?TecnoPlaylist
-#EXTINF:-1 tvg-id="Canal2Sanagasta.ar" group-title="Peliculas",Canal 2 Sanagasta
-https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8
-#EXTINF:-1 tvg-id="BayresTV.ar" group-title="Peliculas",Bayres TV
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-#EXTINF:-1 tvg-id="CineAr.ar" group-title="Peliculas",CINE.AR 
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-#EXTINF:-1 tvg-id="Retro Play" group-title="Peliculas",Retro Play
-https://v4.tustreaming.cl/retroplaytv/index.m3u8
-#EXTINF:-1 tvg-id="Cosmos TV" group-title="Peliculas",Cosmos TV
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:-1 tvg-id="HBO FHD" group-title="Peliculas",HBO FHD 
-http://postv.shop:80/elane639/66392639/91217
-#EXTINF:-1 tvg-id="HBO Family HD" group-title="Peliculas",HBO Family HD
-http://5ce.co:80/live/Barroquinha15/Phierry21/6557.m3u8
-#EXTINF:-1 tvg-id="HBO Plus HD" group-title="Peliculas",HBO Plus HD
-http://5ce.co:80/live/Barroquinha15/Phierry21/35403.m3u8
-#EXTINF:-1 tvg-id="TNT" group-title="Peliculas",TNT
-http://tvplux.ddns.me:33200/sergiodelafuente/3bVThT8pRBpz/6350
-#EXTINF:-1 tvg-id="SPACE" group-title="Peliculas",SPACE
-http://tvplux.ddns.me:33200/sergiodelafuente/3bVThT8pRBpz/47856
-
-LA: TNT
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3089
-
-Sent from my Android with Castify https://play.google.com/store/apps/details?id=com.castify
-
-
-#Generales
-#EXTINF:-1 tvg-id="TelefeSalta.ar" group-title="Generales",Telefe Salta 
-https://ythls.onrender.com/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
-#EXTINF:-1 tvg-id="AmericaTV.ar" group-title="Generales",América TV
-https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
-#EXTINF:-1 tvg-id="TVPublica.ar" group-title="Generales",TV Pública 
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-#EXTINF:-1 tvg-id="ElNueve.ar" group-title="Generales",El Nueve
-https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
-#EXTINF:-1 tvg-id="ElTrece.ar" group-title="Generales",El Trece 
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-id="Canal3Rosario.ar" group-title="Generales",Canal 3 Rosario
-https://stream-03.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4LsxNOZ-NhuYEQ3hMBaWI_6U7Pg31Blh_2GmSadSArEAub)/dm/3/x8aobf1/s/live-2.m3u8
-#EXTINF:-1 tvg-id="Canal5Rosario.ar" group-title="Generales",Canal 5 Rosario
-https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/master.m3u8?hdnea=st=1687738724~exp=1687915124~acl=/hls/live/2033413-b/canal5rosario/TOK/*~hmac=45705e3553886e14f3cc1b182161f7f8f45ff5781495dace34b88bb9dc5ff2c4
-#EXTINF:-1 tvg-id="America" group-title="Generales",America
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-
-#Documentales
-#EXTINF:-1 tvg-id="ElHistonautaTV.ar" group-title="Documentales",El Histonauta TV 
-https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
-#EXTINF:-1 tvg-id="Encuentro.ar" group-title="Documentales",Encuentro 
-https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
-#EXTINF:-1 tvg-id="NatGeo" group-title="Documentales",NatGeo 
-http://pe.shortgod.com/gonka/tv1.php?id=7312
-#EXTINF:-1 tvg-id="Discovery" group-title="Documentales",Discovery
-http://pe.shortgod.com/gonka/tv1.php?id=7308
-
-#Musica
-#EXTINF:-1 tvg-id="GlobalTV.ar" group-title="Musica",Global TV 
-https://stmv.video.gmpro.top/global/global/playlist.m3u8
-#EXTINF:-1 tvg-id="MusicTop.ar" group-title="Musica",MusicTop 
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PowerTv" group-title="Musica",PowerTv
-http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo Latino" group-title="Musica",Vevo Latino
-https://d3k7iagvenqkpa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lgynwyncl1q5l/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="HTV" group-title="Musica",HTV
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35025
-#EXTINF:-1 tvg-id="MTV" group-title="Musica",MTV
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35018
-
-#Deportes
-#EXTINF:-1 tvg-id="ESPN.ar" group-title="Deportes",ESPN
-http://revteam2.offshorerev.cc/SPIDER_SP307M/fY2jPGgGD8/155575
-#EXTINF:-1 tvg-id="DeporTV.ar" group-title="Deportes",DeporTV 
-https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO FHD" group-title="Deportes",HBO FHD 
-http://postv.shop:80/elane639/66392639/91217
-#EXTINF:-1 tvg-id="Deportes" group-title="Otros",ESPN
-http://revteam2.offshorerev.cc:80/SPIDER_SP307M/fY2jPGgGD8/155575
-#EXTINF:-1 tvg-id="CA NBA_TV" group-title="Deportes",CA NBA_TV
-http://cdn.erost.us:8080/22719538/47725540/72326
-#EXTINF:-1 tvg-id="FOX SPORTS" group-title="Deportes",FOX SPORTS
-http://elmonkey.us:25461/Victor/Victor/117023
-
-#Funcionan mal
-
-#Infantiles
-#EXTINF:-1 tvg-id="1015" group-title="Infantiles",PlanetaTV Kids
-https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?tecnotv
-#EXTINF:-1 tvg-id="Cartoon Network"  group-title="Infantiles",Cartoon Network
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="Locomotion" group-title="Infantiles",Locomotion
-http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 tvg-id="Canal 34 San Juan" group-title="Infantiles",Canal 34 San Juan
-https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network" group-title="Infantiles",Cartoon Network
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-
-#Otros
-#EXTINF:-1 tvg-id="TEC TV" group-title="Otros",TEC TV
-https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
-#EXTINF:-1 tvg-id="Viajar TV" group-title="Otros",Viajar TV
-https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
-
-
-TNT SPORTS
-http://51.222.43.170:8001/8CLMc5CTn72/46zKthhjXww6/1259#EXTM3U 
-#Noticias
-#EXTINF:-1 tvg-id="LaNacionPlus.ar" group-title="Noticias",La Nacion
-https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
-#EXTINF:-1 tvg-id="IPNoticias.ar" group-title="Noticias",IP Noticias
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
-#EXTINF:-1 tvg-id="Euronews" group-title="Noticias",Euronews
-https://rakuten-euronews-4-es.samsung.wurl.com/manifest/f1f29e913cb79ff20b9491b00992ce53.m3u8
-#EXTINF:-1 tvg-id="TN.ar" group-title="Noticias",TN Todo Noticias
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-#EXTINF:-1 tvg-id="A24" group-title="Noticias",A24
-https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
-#EXTINF:-1 tvg-id="C5N.ar" group-title="Noticias",C5N 
-https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
-#EXTINF:-1 tvg-id="CnArNoticias.ar" group-title="Noticias",CnAr Noticias 
-https://stmv1.cnarlatam.com/cnarnoticias/cnarnoticias/playlist.m3u8
-#EXTINF:-1 tvg-id="CronicaTV.ar" user-agent="iPhone",Crónica TV 
-#EXTVLCOPT:http-user-agent=iPhone
+#EXTINF:-1 tvg-id="CronicaTV.ar" group-title="Noticias",Crónica TV 
 https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
 #EXTINF:-1 tvg-id="DW Español" group-title="Noticias",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
@@ -204,11 +71,11 @@ https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 #EXTINF:-1 tvg-id="Discovery" group-title="Documentales",Discovery
 http://pe.shortgod.com/gonka/tv1.php?id=7308
-#EXTINF:-1 tvg-id="NatGeo" group-title="Otros",NatGeo
+#EXTINF:-1 tvg-id="NatGeo" group-title="Documentales",NatGeo
 http://hostengine.live/live/Alice/Alice123/162577.ts
-#EXTINF:-1 tvg-id="NatGeo" group-title="Otros",NatGeoWild
+#EXTINF:-1 tvg-id="NatGeo" group-title="Documentales",NatGeoWild
 http://elmonkey.us:25461/Victor/Victor/103
-#EXTINF:-1 tvg-id="NatGeo" group-title="Otros",NatGeo World
+#EXTINF:-1 tvg-id="NatGeo" group-title="Documentales",NatGeo World
 http://elmonkey.us:25461/Victor/Victor/102
 
 
@@ -231,10 +98,6 @@ http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35018
 http://revteam2.offshorerev.cc/SPIDER_SP307M/fY2jPGgGD8/155575
 #EXTINF:-1 tvg-id="DeporTV.ar" group-title="Deportes",DeporTV 
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO FHD" group-title="Deportes",HBO FHD 
-http://postv.shop:80/elane639/66392639/91217
-#EXTINF:-1 tvg-id="Deportes" group-title="Deportes",ESPN
-http://revteam2.offshorerev.cc:80/SPIDER_SP307M/fY2jPGgGD8/155575
 #EXTINF:-1 tvg-id="CA NBA_TV" group-title="Deportes",CA NBA_TV
 http://cdn.erost.us:8080/22719538/47725540/72326
 #EXTINF:-1 tvg-id="FOX SPORTS" group-title="Deportes",FOX SPORTS
@@ -243,9 +106,11 @@ http://elmonkey.us:25461/Victor/Victor/117023
 http://51.222.43.170:8001/8CLMc5CTn72/46zKthhjXww6/1259
 #EXTINF:-1 tvg-id="TYC SPORTS" group-title="Deportes",TYC SPORTS
 https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8?WebM3UCL
+#EXTINF:-1 tvg-id="TYC SPORTS" group-title="Deportes",TYC SPORTS
+https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_14.m3u8
 
 #Infantiles
-#EXTINF:-1 tvg-id="1015" group-title="Infantiles",PlanetaTV Kids
+#EXTINF:-1 tvg-id="PlanetaTV Kids" group-title="Infantiles",PlanetaTV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?tecnotv
 #EXTINF:-1 tvg-id="Cartoon Network"  group-title="Infantiles",Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
@@ -261,6 +126,3 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 #EXTINF:-1 tvg-id="Viajar TV" group-title="Otros",Viajar TV
 https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TYC SPORTS" group-title="Deportes",TYC SPORTS
-https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_14.m3u8
