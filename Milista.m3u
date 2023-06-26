@@ -44,7 +44,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="Canal3Rosario.ar" group-title="Generales",Canal 3 Rosario
 https://www.dailymotion.com/cdn/live/video/x8aobf1.m3u8?sec=sO-huNA2pgAjHiVT9dyY1YM9JwUmRZwXpAQkzsGkcZ9n6GSvb2Ogzxqgc3uDCysd&dmTs=178553&dmV1st=74372C5A230CF1264D84ECEB025F459F
 #EXTINF:-1 tvg-id="Canal5Rosario.ar" group-title="Generales",Canal 5 Rosario
-https://ythls.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
+https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/master.m3u8?hdnea=st=1687738724~exp=1687915124~acl=/hls/live/2033413-b/canal5rosario/TOK/*~hmac=45705e3553886e14f3cc1b182161f7f8f45ff5781495dace34b88bb9dc5ff2c4
 EXTINF:-1 tvg-id="America" group-title="Generales",America
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
@@ -90,31 +90,10 @@ https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?tecnotv
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="Canal 34 San Juan" group-title="Infantiles",Canal 34 San Juan
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaRetroCartoons.ar" group-title="Infantiles",Xtrema Retro Cartoons
+
+
 #Otros
 #EXTINF:-1 tvg-id="TEC TV" group-title="Otros",TEC TV
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 #EXTINF:-1 tvg-id="Viajar TV" group-title="Otros",Viajar TV
 https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaAccion.ar" group-title="Otros",Xtrema Accion
-https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaAnimal.ar" group-title="Otros",Xtrema Animal
-https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaAnime.ar" group-title="Otros",Xtrema Anime
-https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaAsia.ar" group-title="Otros",Xtrema Asia
-https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaCartoons.ar" group-title="Otros",Xtrema Cartoons
-https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaComedy.ar" group-title="Otros",Xtrema Comedy
-https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaDrama.ar"  group-title="Otros",Xtrema Drama
-https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaEuropa.ar" group-title="Otros",Xtrema Europa
-https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaFamily.ar" group-title="Otros",Xtrema Family
-https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaHindi.ar" group-title="Movies",Xtrema Hindi
-https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaLatina.ar" group-title="Otros",Xtrema Latina
-https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
