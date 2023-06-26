@@ -42,7 +42,7 @@ https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" group-title="Generales",El Trece 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="Canal3Rosario.ar" group-title="Generales",Canal 3 Rosario
-https://www.dailymotion.com/cdn/live/video/x8aobf1.m3u8?sec=sO-huNA2pgAjHiVT9dyY1YM9JwUmRZwXpAQkzsGkcZ9n6GSvb2Ogzxqgc3uDCysd&dmTs=178553&dmV1st=74372C5A230CF1264D84ECEB025F459F
+https://stream-03.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4LsxNOZ-NhuYEQ3hMBaWI_6U7Pg31Blh_2GmSadSArEAub)/dm/3/x8aobf1/s/live-2.m3u8
 #EXTINF:-1 tvg-id="Canal5Rosario.ar" group-title="Generales",Canal 5 Rosario
 https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/master.m3u8?hdnea=st=1687738724~exp=1687915124~acl=/hls/live/2033413-b/canal5rosario/TOK/*~hmac=45705e3553886e14f3cc1b182161f7f8f45ff5781495dace34b88bb9dc5ff2c4
 EXTINF:-1 tvg-id="America" group-title="Generales",America
