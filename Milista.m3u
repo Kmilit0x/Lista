@@ -22,8 +22,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/strea
 #EXTINF:-1 tvg-id="Canal 26" group-title="Funcionan mal", Canal 26
 http://tvpremiumhd.club/lista-gratuita/153021/on/live.php?id=200.115.193.177/live/26hd-480/.m3u8?teleregiogratis?chile.m3u8
 
-
-
 #Peliculas
 #EXTINF:-1 tvg-id="GEN TV" group-title="Peliculas", GEN TV
 https://inliveserver.com:1936/14056/14056/playlist.m3u8?TecnoPlaylist
@@ -37,6 +35,16 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
 #EXTINF:-1 tvg-id="Cosmos TV" group-title="Peliculas",Cosmos TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 tvg-id="HBO FHD" group-title="Peliculas",HBO FHD 
+http://postv.shop:80/elane639/66392639/91217
+#EXTINF:-1 tvg-id="HBO Family HD" group-title="Peliculas",HBO Family HD
+http://5ce.co:80/live/Barroquinha15/Phierry21/6557.m3u8
+#EXTINF:-1 tvg-id="HBO Plus HD" group-title="Peliculas",HBO Plus HD
+http://5ce.co:80/live/Barroquinha15/Phierry21/35403.m3u8
+#EXTINF:-1 tvg-id="TNT" group-title="Peliculas",TNT
+http://tvplux.ddns.me:33200/sergiodelafuente/3bVThT8pRBpz/6350
+#EXTINF:-1 tvg-id="SPACE" group-title="Peliculas",SPACE
+http://elmonkey.us:25461/Victor/Victor/113
 
 #Generales
 #EXTINF:-1 tvg-id="TelefeSalta.ar" group-title="Generales",Telefe Salta 
@@ -80,10 +88,19 @@ http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35025
 #EXTINF:-1 tvg-id="MTV" group-title="Musica",MTV
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35018
 
-
 #Deportes
+#EXTINF:-1 tvg-id="ESPN.ar" group-title="Deportes",ESPN
+http://revteam2.offshorerev.cc/SPIDER_SP307M/fY2jPGgGD8/155575
 #EXTINF:-1 tvg-id="DeporTV.ar" group-title="Deportes",DeporTV 
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO FHD" group-title="Deportes",HBO FHD 
+http://postv.shop:80/elane639/66392639/91217
+#EXTINF:-1 tvg-id="Deportes" group-title="Otros",ESPN
+http://revteam2.offshorerev.cc:80/SPIDER_SP307M/fY2jPGgGD8/155575
+#EXTINF:-1 tvg-id="CA NBA_TV" group-title="Deportes",CA NBA_TV
+http://cdn.erost.us:8080/22719538/47725540/72326
+#EXTINF:-1 tvg-id="FOX SPORTS" group-title="Deportes",FOX SPORTS
+http://elmonkey.us:25461/Victor/Victor/117023
 
 #Funcionan mal
 
@@ -92,13 +109,12 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?tecnotv
 #EXTINF:-1 tvg-id="Cartoon Network"  group-title="Infantiles",Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network" group-title="Infantiles",Cartoon Network
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 tvg-id="Locomotion" group-title="Infantiles",Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-id="Canal 34 San Juan" group-title="Infantiles",Canal 34 San Juan
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-
+#EXTINF:-1 tvg-id="Cartoon Network" group-title="Infantiles",Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
 #Otros
 #EXTINF:-1 tvg-id="TEC TV" group-title="Otros",TEC TV
