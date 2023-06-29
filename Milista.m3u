@@ -62,15 +62,15 @@ https://stream-03.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4LsxNOZ-NhuYEQ3hMBaW
 https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/master.m3u8?hdnea=st=1687738724~exp=1687915124~acl=/hls/live/2033413-b/canal5rosario/TOK/*~hmac=45705e3553886e14f3cc1b182161f7f8f45ff5781495dace34b88bb9dc5ff2c4
 #EXTINF:-1 tvg-id="America" group-title="Generales",America
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-#EXTINF:-1 tvg-id="EL GOURMET" group-title="Infantiles",EL GOURMET
+#EXTINF:-1 tvg-id="EL GOURMET" group-title="Generales",EL GOURMET
 http://elmonkey.us:25461/Victor/Victor/60
-#EXTINF:-1 tvg-id="FOX" group-title="Infantiles",FOX
+#EXTINF:-1 tvg-id="FOX" group-title="Generales",FOX
 http://elmonkey.us:25461/Victor/Victor/69
-#EXTINF:-1 tvg-id="FOX LIFE" group-title="Infantiles",FOX LIFE
+#EXTINF:-1 tvg-id="FOX LIFE" group-title="Generales",FOX LIFE
 http://elmonkey.us:25461/Victor/Victor/74
-#EXTINF:-1 tvg-id="Film And Arts" group-title="Infantiles",Film And Arts
+#EXTINF:-1 tvg-id="Film And Arts" group-title="Generales",Film And Arts
 http://elmonkey.us:25461/Victor/Victor/615
-#EXTINF:-1 tvg-id="Game of Thrones" group-title="Infantiles",Game of Thrones
+#EXTINF:-1 tvg-id="Game of Thrones" group-title="Generales",Game of Thrones
 https://v3.playerlatino.live/stream/m3u8/515
 
 #Documentales
