@@ -57,10 +57,9 @@ https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" group-title="Generales",El Trece 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="Canal3Rosario.ar" group-title="Generales",Canal 3 Rosario
-https://stream-03.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4LsxNOZ-NhuYEQ3hMBaWI_6U7Pg31Blh_2GmSadSArEAub)/dm/3/x8aobf1/s/live-2.m3u8
+https://dmxleo.dailymotion.com/cdn/manifest/video/x8aobf1.m3u8?auth=x&cs=dmx_hNHxDD8Ps0goSfWoaUl5FfQ_NbTW6q6PL4goI6fEtD8Yp3oKbKj5jncdoB2d89y7pPpl6d6JLldJHKVC-rVhXqg8spsH3V92nj_mKI1om60
 #EXTINF:-1 tvg-id="Canal5Rosario.ar" group-title="Generales",Canal 5 Rosario
-https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/master.m3u8?hdnea=st=1687738724~exp=1687915124~acl=/hls/live/2033413-b/canal5rosario/TOK/*~hmac=45705e3553886e14f3cc1b182161f7f8f45ff5781495dace34b88bb9dc5ff2c4
-#EXTINF:-1 tvg-id="America" group-title="Generales",America
+https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/hdntl=exp=1688138836~acl=%2f*~data=hdntl~hmac=13d1bd6ab6dbf375ee21c422df2627093251db71d9675216877d0d6555897516/canal5rosario0.m3u8#EXTINF:-1 tvg-id="America" group-title="Generales",America
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="EL GOURMET" group-title="Generales",EL GOURMET
 http://elmonkey.us:25461/Victor/Victor/60
