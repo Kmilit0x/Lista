@@ -62,6 +62,16 @@ https://stream-03.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4LsxNOZ-NhuYEQ3hMBaW
 https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/master.m3u8?hdnea=st=1687738724~exp=1687915124~acl=/hls/live/2033413-b/canal5rosario/TOK/*~hmac=45705e3553886e14f3cc1b182161f7f8f45ff5781495dace34b88bb9dc5ff2c4
 #EXTINF:-1 tvg-id="America" group-title="Generales",America
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 tvg-id="EL GOURMET" group-title="Infantiles",EL GOURMET
+http://elmonkey.us:25461/Victor/Victor/60
+#EXTINF:-1 tvg-id="FOX" group-title="Infantiles",FOX
+http://elmonkey.us:25461/Victor/Victor/69
+#EXTINF:-1 tvg-id="FOX LIFE" group-title="Infantiles",FOX LIFE
+http://elmonkey.us:25461/Victor/Victor/74
+#EXTINF:-1 tvg-id="Film And Arts" group-title="Infantiles",Film And Arts
+http://elmonkey.us:25461/Victor/Victor/615
+#EXTINF:-1 tvg-id="Game of Thrones" group-title="Infantiles",Game of Thrones
+https://v3.playerlatino.live/stream/m3u8/515
 
 #Documentales
 #EXTINF:-1 tvg-id="ElHistonautaTV.ar" group-title="Documentales",El Histonauta TV 
@@ -119,6 +129,58 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network" group-title="Infantiles",Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-id="CAPITAN TSUBSA" group-title="Infantiles",CAPITAN TSUBSA
+http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87405.ts
+#EXTINF:-1 tvg-id="Simpson" group-title="Infantiles",Simpson
+https://clubtv.link/2306j/top4565/24.php?c=simpson_maniahd189
+#EXTINF:-1 tvg-id="Pocoyo" group-title="Infantiles",Pocoyo
+https://v3.playerlatino.live/stream/m3u8/799
+#EXTINF:-1 tvg-id="Spiderman" group-title="Infantiles",Spiderman
+https://v3.playerlatino.live/stream/m3u8/889
+#EXTINF:-1 tvg-id="Samurai" group-title="Infantiles",Samurai
+https://v3.playerlatino.live/stream/m3u8/663
+#EXTINF:-1 tvg-id="Pokemon" group-title="Infantiles",Pokemon
+https://v3.playerlatino.live/stream/m3u8/420
+#EXTINF:-1 tvg-id="BATMAN" group-title="Infantiles",BATMAN
+http://ultra-premium-pro.xyz:8080/954657236tv/h75tca3/724
+#EXTINF:-1 tvg-id="EL CONDE PATULA " group-title="Infantiles",EL CONDE PATULA 
+http://ultra-premium-pro.xyz:8080/954657236tv/h75tca3/733
+#EXTINF:-1 tvg-id="DON GATO Y SU PANDILLA" group-title="Infantiles",DON GATO Y SU PANDILLA
+http://ultra-premium-pro.xyz:8080/954657236tv/h75tca3/731
+#EXTINF:-1 tvg-id="SCOOBY DOO " group-title="Infantiles",SCOOBY DOO 
+http://ultra-premium-pro.xyz:8080/954657236tv/h75tca3/721
+#EXTINF:-1 tvg-id="PINKI Y CEREBRO" group-title="Infantiles",PINKI Y CEREBRO
+http://ultra-premium-pro.xyz:8080/954657236tv/h75tca3/715
+#EXTINF:-1 tvg-id="SONIC Y SU BANDA" group-title="Infantiles",SONIC Y SU BANDA
+http://ultra-premium-pro.xyz:8080/954657236tv/h75tca3/720
+#EXTINF:-1 tvg-id="XMEN" group-title="Infantiles",XMEN 
+http://ultra-premium-pro.xyz:8080/954657236tv/h75tca3/717
+#EXTINF:-1 tvg-id="DRAGON BALL" group-title="Infantiles",DRAGON BALL
+http://ultra-premium-pro.xyz:8080/954657236tv/h75tca3/697
+#EXTINF:-1 tvg-id="DANIEL EL TRAVIESO" group-title="Infantiles",DANIEL EL TRAVIESO
+http://ultra-premium-pro.xyz:8080/954657236tv/h75tca3/710
+#EXTINF:-1 tvg-id="LAS NUEVAS AVENTURAS DE HI-MAN" group-title="Infantiles",LAS NUEVAS AVENTURAS DE HI-MAN
+http://ultra-premium-pro.xyz:8080/954657236tv/h75tca3/712
+#EXTINF:-1 tvg-id="Looney Tunes " group-title="Infantiles",Looney Tunes 
+https://v3.playerlatino.live/stream/m3u8/524
+#EXTINF:-1 tvg-id="Discovery Kids" group-title="Infantiles",Discovery Kids
+http://clubtv.link/2306j/top4565/lista1.php?c=210&f=.m3u8
+#EXTINF:-1 tvg-id="El Gallo Claudio" group-title="Infantiles",El Gallo Claudio
+https://v3.playerlatino.live/stream/m3u8/845
+#EXTINF:-1 tvg-id="Bob Esponja" group-title="Infantiles",Bob Esponja
+https://v3.playerlatino.live/stream/m3u8/518
+#EXTINF:-1 tvg-id="Caballeros del Zodiaco" group-title="Infantiles",Caballeros del Zodiaco
+https://v3.playerlatino.live/stream/m3u8/427
+#EXTINF:-1 tvg-id="Chapulin Colorado " group-title="Infantiles",Chapulin Colorado 
+https://v3.playerlatino.live/stream/m3u8/418
+#EXTINF:-1 tvg-id="Coraje el Perro Cobarde" group-title="Infantiles",Coraje el Perro Cobarde
+https://v3.playerlatino.live/stream/m3u8/519
+#EXTINF:-1 tvg-id="El Chavo del 8" group-title="Infantiles",El Chavo del 8
+https://v3.playerlatino.live/stream/m3u8/400
+#EXTINF:-1 tvg-id="Los Thundercats" group-title="Infantiles",Los Thundercats
+http://tutv.online:2080/85k53bzk9j/kgf6w87u83/71577
+#EXTINF:-1 tvg-id="La Pantera Rosa" group-title="Infantiles",La Pantera Rosa 
+https://v3.playerlatino.live/stream/m3u8/671
 
 #Otros
 #EXTINF:-1 tvg-id="TEC TV" group-title="Otros",TEC TV
@@ -408,20 +470,3 @@ https://v3.playerlatino.live/stream/m3u8/400
 http://tutv.online:2080/85k53bzk9j/kgf6w87u83/71577
 #EXTINF:-1 tvg-id="La Pantera Rosa" group-title="Infantiles",La Pantera Rosa 
 https://v3.playerlatino.live/stream/m3u8/671
-
-
-
-#EXTINF:-1 tvg-id="EL GOURMET" group-title="Infantiles",EL GOURMET
-http://elmonkey.us:25461/Victor/Victor/60
-
-#EXTINF:-1 tvg-id="FOX" group-title="Infantiles",FOX
-http://elmonkey.us:25461/Victor/Victor/69
-
-#EXTINF:-1 tvg-id="FOX LIFE" group-title="Infantiles",FOX LIFE
-http://elmonkey.us:25461/Victor/Victor/74
-
-#EXTINF:-1 tvg-id="Film And Arts" group-title="Infantiles",Film And Arts
-http://elmonkey.us:25461/Victor/Victor/615
-
-#EXTINF:-1 tvg-id="Game of Thrones" group-title="Infantiles",Game of Thrones
-https://v3.playerlatino.live/stream/m3u8/515
