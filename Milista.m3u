@@ -23,7 +23,7 @@ http://tvpremiumhd.club/lista-gratuita/153021/on/live.php?id=200.115.193.177/liv
 
 #Peliculas
 #EXTINF:-1 tvg-id="GEN TV" group-title="Peliculas", GEN TV
-https://inliveserver.com:1936/14056/14056/playlist.m3u8?TecnoPlaylist
+https://inliveserver.com:1936/14056/14056/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal2Sanagasta.ar" group-title="Peliculas",Canal 2 Sanagasta
 https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8
 #EXTINF:-1 tvg-id="BayresTV.ar" group-title="Peliculas",Bayres TV
