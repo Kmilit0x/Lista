@@ -37,7 +37,7 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-id="HBO FHD" group-title="Peliculas",HBO FHD 
 http://postv.shop:80/elane639/66392639/91217
 #EXTINF:-1 tvg-id="HBO Family HD" group-title="Peliculas",HBO Family HD
-http://5ce.co:80/live/Barroquinha15/Phierry21/6557.m3u8
+https://dtvott-cbc.akamaized.net/dash_live_1139/manifest.mpd
 #EXTINF:-1 tvg-id="HBO Plus HD" group-title="Peliculas",HBO Plus HD
 http://5ce.co:80/live/Barroquinha15/Phierry21/35403.m3u8
 #EXTINF:-1 tvg-id="TNT" group-title="Peliculas",TNT
