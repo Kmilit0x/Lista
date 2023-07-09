@@ -58,7 +58,9 @@ http://elmonkey.us:25461/Victor/Victor/74
 http://elmonkey.us:25461/Victor/Victor/615
 #EXTINF:-1 tvg-id="Game of Thrones" group-title="Generales",Game of Thrones
 https://v3.playerlatino.live/stream/m3u8/515
-
+#EXINT:-1 tvg-id="Canal 3 Rosario" group-title="Generales",Canal 3 Rosario
+https://www.dailymotion.com/cdn/live/video/x8aobf1.m3u8?sec=sO-huNA2pgAjHiVT9dyY1bYkRmnx2JNf9DT5hOydNP15yVfcxoHBm7wVSDKXxtNI&dmTs=270121&dmV1st=9f831153-f1e0-4278-8119-21e19e5968d6
+  
 #Documentales
 #EXTINF:-1 tvg-id="ElHistonautaTV.ar" group-title="Documentales",El Histonauta TV 
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
