@@ -14,8 +14,6 @@ https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 tvg-id="CnArNoticias.ar" group-title="Noticias",CnAr Noticias 
 https://stmv1.cnarlatam.com/cnarnoticias/cnarnoticias/playlist.m3u8
-#EXTINF:-1 tvg-id="CronicaTV.ar" group-title="Noticias",Crónica TV 
-https://g3.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 #EXTINF:-1 tvg-id="DW Español" group-title="Noticias",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="Canal 26" group-title="Noticias", Canal 26
@@ -34,16 +32,10 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
 #EXTINF:-1 tvg-id="Cosmos TV" group-title="Peliculas",Cosmos TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:-1 tvg-id="HBO FHD" group-title="Peliculas",HBO FHD 
-http://postv.shop:80/elane639/66392639/91217
-#EXTINF:-1 tvg-id="HBO Family HD" group-title="Peliculas",HBO Family HD
-https://dtvott-cbc.akamaized.net/dash_live_1139/manifest.mpd
-#EXTINF:-1 tvg-id="HBO Plus HD" group-title="Peliculas",HBO Plus HD
-http://5ce.co:80/live/Barroquinha15/Phierry21/35403.m3u8
 #EXTINF:-1 tvg-id="TNT" group-title="Peliculas",TNT
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3089
-#EXTINF:-1 tvg-id="SPACE" group-title="Peliculas",SPACE
-http://tvplux.ddns.me:33200/sergiodelafuente/3bVThT8pRBpz/47856
+#EXTINF:-1 tvg-id="Canal 34 San Juan" group-title="Peliculas",Canal 34 San Juan
+https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
 #Generales
 #EXTINF:-1 tvg-id="TelefeSalta.ar" group-title="Generales",Telefe Salta 
@@ -56,10 +48,6 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" group-title="Generales",El Trece 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-id="Canal3Rosario.ar" group-title="Generales",Canal 3 Rosario
-https://stream-02.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4Ls16hYtVmGNbOvfGgwvKBHthDHKR72LP7LWcbF063zqB2)/dm/3/x8aobf1/s/live-2.m3u8#cell=lnyc
-#EXTINF:-1 tvg-id="Canal5Rosario.ar" group-title="Generales",Canal 5 Rosario
-https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/master.m3u8?hdnea=st=1688048610~exp=1688225010~acl=/hls/live/2033413-b/canal5rosario/TOK/*~hmac=025c9f4dbef7c3e1839544c376abe3d5587aef2da7d0cd34765ac94b4bf0f975https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="EL GOURMET" group-title="Generales",EL GOURMET
 http://elmonkey.us:25461/Victor/Victor/60
 #EXTINF:-1 tvg-id="FOX" group-title="Generales",FOX
@@ -101,20 +89,12 @@ http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35025
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35018
 
 #Deportes
-#EXTINF:-1 tvg-id="ESPN.ar" group-title="Deportes",ESPN
-http://revteam2.offshorerev.cc/SPIDER_SP307M/fY2jPGgGD8/155575
 #EXTINF:-1 tvg-id="DeporTV.ar" group-title="Deportes",DeporTV 
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1 tvg-id="CA NBA_TV" group-title="Deportes",CA NBA_TV
-http://cdn.erost.us:8080/22719538/47725540/72326
-#EXTINF:-1 tvg-id="FOX SPORTS" group-title="Deportes",FOX SPORTS
-http://elmonkey.us:25461/Victor/Victor/117023
 #EXTINF:-1 tvg-id="TNT SPORTS" group-title="Deportes",TNT SPORTS
 http://51.222.43.170:8001/8CLMc5CTn72/46zKthhjXww6/1259
 #EXTINF:-1 tvg-id="TYC SPORTS" group-title="Deportes",TYC SPORTS
 https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8?WebM3UCL
-#EXTINF:-1 tvg-id="TYC SPORTS" group-title="Deportes",TYC SPORTS
-https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index_14.m3u8
 
 #Infantiles
 #EXTINF:-1 tvg-id="Mario Brs" group-title="Infantiles",Mario Brs
@@ -123,48 +103,16 @@ http://51.222.43.170:8001/movie/Palafox1650/whYWQCJhUNsk/311954.mkv
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?tecnotv
 #EXTINF:-1 tvg-id="Cartoon Network"  group-title="Infantiles",Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="Locomotion" group-title="Infantiles",Locomotion
-http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 tvg-id="Canal 34 San Juan" group-title="Infantiles",Canal 34 San Juan
-https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network" group-title="Infantiles",Cartoon Network
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 tvg-id="CAPITAN TSUBSA" group-title="Infantiles",CAPITAN TSUBSA
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87405.ts
-#EXTINF:-1 tvg-id="Simpson" group-title="Infantiles",Simpson
-https://clubtv.link/2306j/top4565/24.php?c=simpson_maniahd189
-#EXTINF:-1 tvg-id="Pocoyo" group-title="Infantiles",Pocoyo
-https://v3.playerlatino.live/stream/m3u8/799
 #EXTINF:-1 tvg-id="Spiderman" group-title="Infantiles",Spiderman
 https://v3.playerlatino.live/stream/m3u8/889
 #EXTINF:-1 tvg-id="Samurai" group-title="Infantiles",Samurai
 https://v3.playerlatino.live/stream/m3u8/663
 #EXTINF:-1 tvg-id="Pokemon" group-title="Infantiles",Pokemon
 https://v3.playerlatino.live/stream/m3u8/420
-#EXTINF:-1 tvg-id="BATMAN" group-title="Infantiles",BATMAN
-http://ultra-premium-pro.xyz:8080/954657236tv/h75tca3/724
-#EXTINF:-1 tvg-id="EL CONDE PATULA " group-title="Infantiles",EL CONDE PATULA 
-http://ultra-premium-pro.xyz:8080/954657236tv/h75tca3/733
-#EXTINF:-1 tvg-id="DON GATO Y SU PANDILLA" group-title="Infantiles",DON GATO Y SU PANDILLA
-http://ultra-premium-pro.xyz:8080/954657236tv/h75tca3/731
-#EXTINF:-1 tvg-id="SCOOBY DOO " group-title="Infantiles",SCOOBY DOO 
-http://ultra-premium-pro.xyz:8080/954657236tv/h75tca3/721
-#EXTINF:-1 tvg-id="PINKI Y CEREBRO" group-title="Infantiles",PINKI Y CEREBRO
-http://ultra-premium-pro.xyz:8080/954657236tv/h75tca3/715
-#EXTINF:-1 tvg-id="SONIC Y SU BANDA" group-title="Infantiles",SONIC Y SU BANDA
-http://ultra-premium-pro.xyz:8080/954657236tv/h75tca3/720
-#EXTINF:-1 tvg-id="XMEN" group-title="Infantiles",XMEN 
-http://ultra-premium-pro.xyz:8080/954657236tv/h75tca3/717
-#EXTINF:-1 tvg-id="DRAGON BALL" group-title="Infantiles",DRAGON BALL
-http://ultra-premium-pro.xyz:8080/954657236tv/h75tca3/697
-#EXTINF:-1 tvg-id="DANIEL EL TRAVIESO" group-title="Infantiles",DANIEL EL TRAVIESO
-http://ultra-premium-pro.xyz:8080/954657236tv/h75tca3/710
-#EXTINF:-1 tvg-id="LAS NUEVAS AVENTURAS DE HI-MAN" group-title="Infantiles",LAS NUEVAS AVENTURAS DE HI-MAN
-http://ultra-premium-pro.xyz:8080/954657236tv/h75tca3/712
 #EXTINF:-1 tvg-id="Looney Tunes " group-title="Infantiles",Looney Tunes 
 https://v3.playerlatino.live/stream/m3u8/524
-#EXTINF:-1 tvg-id="Discovery Kids" group-title="Infantiles",Discovery Kids
-http://clubtv.link/2306j/top4565/lista1.php?c=210&f=.m3u8
 #EXTINF:-1 tvg-id="El Gallo Claudio" group-title="Infantiles",El Gallo Claudio
 https://v3.playerlatino.live/stream/m3u8/845
 #EXTINF:-1 tvg-id="Bob Esponja" group-title="Infantiles",Bob Esponja
@@ -177,10 +125,6 @@ https://v3.playerlatino.live/stream/m3u8/418
 https://v3.playerlatino.live/stream/m3u8/519
 #EXTINF:-1 tvg-id="El Chavo del 8" group-title="Infantiles",El Chavo del 8
 https://v3.playerlatino.live/stream/m3u8/400
-#EXTINF:-1 tvg-id="Los Thundercats" group-title="Infantiles",Los Thundercats
-http://tutv.online:2080/85k53bzk9j/kgf6w87u83/71577
-#EXTINF:-1 tvg-id="La Pantera Rosa" group-title="Infantiles",La Pantera Rosa 
-https://v3.playerlatino.live/stream/m3u8/671
 
 #Otros
 #EXTINF:-1 tvg-id="TEC TV" group-title="Otros",TEC TV
