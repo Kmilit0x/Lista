@@ -65,6 +65,21 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/36
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/37
 #EXTINF:-1 group-title="Peliculas",AXN
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/38
+#EXTINF:-1 group-title="Peliculas",Golden
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/171
+#EXTINF:-1 group-title="Peliculas",Golden Edge
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/172
+#EXTINF:-1 group-title="Peliculas",HBO
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/173
+#EXTINF:-1 group-title="Peliculas",HBO Mundi
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/174
+#EXTINF:-1 group-title="Peliculas",HBO Signature
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/175
+#EXTINF:-1 group-title="Peliculas",HBO 2
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/176
+#EXTINF:-1 group-title="Peliculas",Paramount
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/185
+
 
 
 #Generales
@@ -104,6 +119,9 @@ http://hostengine.live/live/Alice/Alice123/162577.ts
 http://elmonkey.us:25461/Victor/Victor/103
 #EXTINF:-1 tvg-id="NatGeo" group-title="Documentales",NatGeo World
 http://elmonkey.us:25461/Victor/Victor/102
+#EXTINF:-1 group-title="Documentales",History 2
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/178
+
 
 
 #Musica
@@ -119,6 +137,9 @@ https://d3k7iagvenqkpa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35025
 #EXTINF:-1 tvg-id="MTV" group-title="Musica",MTV
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35018
+#EXTINF:-1 group-title="Musica",Zona Latina
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/52
+
 
 #Deportes
 #EXTINF:-1 tvg-id="DeporTV.ar" group-title="Deportes",DeporTV 
@@ -137,9 +158,21 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/21
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/22
 #EXTINF:-1 group-title="Deportes",Fox Sports 3
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/23
+#EXTINF:-1 group-title="Deportes",TNT Sports 3
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/151
+#EXTINF:-1 group-title="Deportes",Fox Sports 1
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/152
+#EXTINF:-1 group-title="Deportes",Fox Sports 2
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/153
+#EXTINF:-1 group-title="Deportes",TYC Sports
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/196
+
+
 
 
 #Infantiles
+#EXTINF:-1 group-title="Infantiles",Tooncast
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/195
 #EXTINF:-1 tvg-id="Mario Brs" group-title="Infantiles",Mario Brs
 http://51.222.43.170:8001/movie/Palafox1650/whYWQCJhUNsk/311954.mkv
 #EXTINF:-1 tvg-id="PlanetaTV Kids" group-title="Infantiles",PlanetaTV Kids
