@@ -4,36 +4,27 @@
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:-1 tvg-id="IPNoticias.ar" group-title="Noticias",IP Noticias
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
-#EXTINF:-1 tvg-id="Euronews" group-title="Noticias",Euronews
-https://rakuten-euronews-4-es.samsung.wurl.com/manifest/f1f29e913cb79ff20b9491b00992ce53.m3u8
 #EXTINF:-1 tvg-id="TN.ar" group-title="Noticias",TN Todo Noticias
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-id="A24" group-title="Noticias",A24
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 #EXTINF:-1 tvg-id="C5N.ar" group-title="Noticias",C5N 
 https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+#EXTINF:-1 tvg-id="Canal 26" group-title="Noticias", Canal 26
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-id="CnArNoticias.ar" group-title="Noticias",CnAr Noticias 
 https://stmv1.cnarlatam.com/cnarnoticias/cnarnoticias/playlist.m3u8
-#EXTINF:-1 tvg-id="DW Español" group-title="Noticias",DW Español
+
+
+#Internacionales
+#EXTINF:-1 tvg-id="DW Español" group-title="Internacionales",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="Canal 26" group-title="Noticias", Canal 26
-http://tvpremiumhd.club/lista-gratuita/153021/on/live.php?id=200.115.193.177/live/26hd-480/.m3u8?teleregiogratis?chile.m3u8
-#EXTINF:-1 group-title="Noticias",CNN espanol
+#EXTINF:-1 tvg-id="Euronews" group-title="Internacionales",Euronews
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/f1f29e913cb79ff20b9491b00992ce53.m3u8
+#EXTINF:-1 group-title="Internacionales",CNN espanol
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/46
-#EXTINF:-1 group-title="Noticias",Fox News
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4274
-#EXTINF:-1 group-title="Noticias",France 24
+#EXTINF:-1 group-title="Internacionales",France 24
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4275
-#EXTINF:-1 group-title="Noticias",GLOBAL
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4276
-#EXTINF:-1 group-title="Noticias",Gamavision
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4277
-#EXTINF:-1 group-title="Noticias",Glitz
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4278
-#EXTINF:-1 group-title="Noticias",Globovision
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4279
-
-
 
 #Peliculas
 #EXTINF:-1 tvg-id="GEN TV" group-title="Peliculas", GEN TV
