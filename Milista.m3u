@@ -21,10 +21,7 @@ https://stmv1.cnarlatam.com/cnarnoticias/cnarnoticias/playlist.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="Euronews" group-title="Internacionales",Euronews
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/f1f29e913cb79ff20b9491b00992ce53.m3u8
-#EXTINF:-1 group-title="Internacionales",CNN espanol
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/46
-#EXTINF:-1 group-title="Internacionales",France 24
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4275
+
 
 #Peliculas
 #EXTINF:-1 tvg-id="GEN TV" group-title="Peliculas", GEN TV
@@ -33,82 +30,16 @@ https://inliveserver.com:1936/14056/14056/chunklist_w1743376968.m3u8
 https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8
 #EXTINF:-1 tvg-id="BayresTV.ar" group-title="Peliculas",Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-#EXTINF:-1 tvg-id="CineAr.ar" group-title="Peliculas",CINE.AR 
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id="PlanetaTV Kids" group-title="Peliculas",PlanetaTV Kids
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?tecnotv
 #EXTINF:-1 tvg-id="Retro Play" group-title="Peliculas",Retro Play
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
 #EXTINF:-1 tvg-id="Cosmos TV" group-title="Peliculas",Cosmos TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:-1 tvg-id="TNT" group-title="Peliculas",TNT
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/3089
 #EXTINF:-1 tvg-id="Canal 34 San Juan" group-title="Peliculas",Canal 34 San Juan
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-#EXTINF:-1 group-title="Peliculas",Win
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/24
-#EXTINF:-1 group-title="Peliculas",FX
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/25
-#EXTINF:-1 group-title="Peliculas",TNT
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/26
-#EXTINF:-1 group-title="Peliculas",Cinecanal
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/27
-#EXTINF:-1 group-title="Peliculas",Cinemax
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/28
-#EXTINF:-1,Star Channel
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/31
-#EXTINF:-1 group-title="Peliculas",Warner
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/32
-#EXTINF:-1 group-title="Peliculas",Universal
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/33
-#EXTINF:-1 group-title="Peliculas",Sony
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/34
-#EXTINF:-1 group-title="Peliculas",Space
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/35
-#EXTINF:-1 group-title="Peliculas",TCM
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/36
-#EXTINF:-1 group-title="Peliculas",I-sat
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/37
-#EXTINF:-1 group-title="Peliculas",AXN
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/38
-#EXTINF:-1 group-title="Peliculas",Golden
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/171
-#EXTINF:-1 group-title="Peliculas",Golden Edge
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/172
-#EXTINF:-1 group-title="Peliculas",HBO
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/173
-#EXTINF:-1 group-title="Peliculas",HBO Mundi
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/174
-#EXTINF:-1 group-title="Peliculas",HBO Signature
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/175
-#EXTINF:-1 group-title="Peliculas",HBO 2
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/176
-#EXTINF:-1 group-title="Peliculas",Paramount
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/185
-#EXTINF:-1 group-title="Peliculas",HBO Plus HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4349
-#EXTINF:-1 group-title="Peliculas",HBO Signature HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4350
 
 #24/07
-#EXTINF:-1 group-title="24/07",INVENCIBLE
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/313
-#EXTINF:-1 group-title="24/07",24/7 JUJUTSU KAISEN
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/338
-#EXTINF:-1 group-title="24/07",24/7 El Juego Del Calamar
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/348
-#EXTINF:-1 group-title="24/07",24/7 LOKI
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/366
-#EXTINF:-1 group-title="24/07",24/7 DragonBall - Movies
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/495
-#EXTINF:-1 group-title="24/07",24/7 Batman del futuro
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/774
-#EXTINF:-1 group-title="24/07",24/7 Cadillacs and dinosaurs
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/775
-#EXTINF:-1 group-title="24/07",24/7 Flash Gordon
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/801
-#EXTINF:-1 group-title="24/07",24/7 Inspector Ardilla
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/828
-#EXTINF:-1 group-title="24/07",24/7 Pinky y Cerebro
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/894
 
 
 
@@ -134,8 +65,6 @@ http://elmonkey.us:25461/Victor/Victor/69
 http://elmonkey.us:25461/Victor/Victor/74
 #EXTINF:-1 tvg-id="Film And Arts" group-title="Generales",Film And Arts
 http://elmonkey.us:25461/Victor/Victor/615
-#EXTINF:-1 tvg-id="Game of Thrones" group-title="Generales",Game of Thrones
-https://v3.playerlatino.live/stream/m3u8/515
   
 #Documentales
 #EXTINF:-1 tvg-id="ElHistonautaTV.ar" group-title="Documentales",El Histonauta TV 
@@ -150,8 +79,6 @@ http://hostengine.live/live/Alice/Alice123/162577.ts
 http://elmonkey.us:25461/Victor/Victor/103
 #EXTINF:-1 tvg-id="NatGeo" group-title="Documentales",NatGeo World
 http://elmonkey.us:25461/Victor/Victor/102
-#EXTINF:-1 group-title="Documentales",History 2
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/178
 
 
 
@@ -198,9 +125,6 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/153
 #EXTINF:-1 group-title="Deportes",TYC Sports
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/196
 
-
-
-
 #Infantiles
 #EXTINF:-1 group-title="Infantiles",Tooncast
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/195
@@ -210,62 +134,12 @@ http://51.222.43.170:8001/movie/Palafox1650/whYWQCJhUNsk/311954.mkv
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?tecnotv
 #EXTINF:-1 tvg-id="Cartoon Network"  group-title="Infantiles",Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="CAPITAN TSUBSA" group-title="Infantiles",CAPITAN TSUBSA
-http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87405.ts
-#EXTINF:-1 tvg-id="Spiderman" group-title="Infantiles",Spiderman
-https://v3.playerlatino.live/stream/m3u8/889
-#EXTINF:-1 tvg-id="Samurai" group-title="Infantiles",Samurai
-https://v3.playerlatino.live/stream/m3u8/663
-#EXTINF:-1 tvg-id="Pokemon" group-title="Infantiles",Pokemon
-https://v3.playerlatino.live/stream/m3u8/420
-#EXTINF:-1 tvg-id="Looney Tunes " group-title="Infantiles",Looney Tunes 
-https://v3.playerlatino.live/stream/m3u8/524
-#EXTINF:-1 tvg-id="El Gallo Claudio" group-title="Infantiles",El Gallo Claudio
-https://v3.playerlatino.live/stream/m3u8/845
-#EXTINF:-1 tvg-id="Bob Esponja" group-title="Infantiles",Bob Esponja
-https://v3.playerlatino.live/stream/m3u8/518
-#EXTINF:-1 tvg-id="Caballeros del Zodiaco" group-title="Infantiles",Caballeros del Zodiaco
-https://v3.playerlatino.live/stream/m3u8/427
-#EXTINF:-1 tvg-id="Chapulin Colorado " group-title="Infantiles",Chapulin Colorado 
-https://v3.playerlatino.live/stream/m3u8/418
-#EXTINF:-1 tvg-id="Coraje el Perro Cobarde" group-title="Infantiles",Coraje el Perro Cobarde
-https://v3.playerlatino.live/stream/m3u8/519
-#EXTINF:-1 tvg-id="El Chavo del 8" group-title="Infantiles",El Chavo del 8
-https://v3.playerlatino.live/stream/m3u8/400
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/9
-#EXTINF:-1 group-title="Infantiles",Cartoonito
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/10
-#EXTINF:-1 group-title="Infantiles",NICK JR
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/11
-#EXTINF:-1 group-title="Infantiles",DISCOVERY KIDS
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/12
-#EXTINF:-1 group-title="Infantiles",DISCOVERY TURBO
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/13
-#EXTINF:-1 group-title="Infantiles",Disney Channel
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/14
-#EXTINF:-1 group-title="Infantiles",Disney Jr
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/15
-#EXTINF:-1 group-title="Infantiles",Cartoon Network
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/18
 
-
-#Otros
 #EXTINF:-1 tvg-id="TEC TV" group-title="Otros",TEC TV
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 #EXTINF:-1 tvg-id="Viajar TV" group-title="Otros",Viajar TV
 https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
-#EXTINF:-1 group-title="Otros",Nat Geo
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/39
-#EXTINF:-1 group-title="Otros",Home and Health
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/40
-#EXTINF:-1 group-title="Otros",Discovery ID
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/41
-#EXTINF:-1 group-title="Otros",Discovery Channel
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/42
-#EXTINF:-1 group-title="Otros",Animal Planet
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/43
-#EXTINF:-1 group-title="Otros",History Channel
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/44
+
 
 
 #ENTRETENIMIENTO
