@@ -371,3 +371,202 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61a52615cbef2500072876
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f159209fcc3800076ed4a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-61f323397027f90007542bc3" tvg-id="61f323397027f90007542bc3" tvg-chno="120" tvg-logo="https://images.pluto.tv/channels/61f323397027f90007542bc3/colorLogoPNG.png" group-title="ENTRETENIMIENTO",Señorita Pólvora
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f323397027f90007542bc3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+EXTINF:-1 ,ARG: 24/7 Canal de Noticias
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/285870
+#EXTINF:-1 ,ARG: 5TV Corrientes
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/285872
+#EXTINF:-1 ,ARG: A&E
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/38648
+#EXTINF:-1 ,ARG: A24
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/3197
+#EXTINF:-1 ,ARG: AMC
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/38654
+#EXTINF:-1 ,ARG: America TV
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/49245
+#EXTINF:-1 ,ARG: Argentinisima
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/38659
+#EXTINF:-1 ,ARG: AXN
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/38651
+#EXTINF:-1 ,ARG: Baby TV
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/38649
+#EXTINF:-1 ,ARG: Bloomberg TV
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/285198
+#EXTINF:-1 ,ARG: Boomerang
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/38657
+#EXTINF:-1 ,ARG: C5N
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/3191
+#EXTINF:-1 ,ARG: Canal 10 Cordoba
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/54280
+#EXTINF:-1 ,ARG: Canal 10 Rio Negro
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/285877
+#EXTINF:-1 ,ARG: Canal 11 La Rioja
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/285878
+#EXTINF:-1 ,ARG: Canal 12 Puerto Madryn
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/285879
+#EXTINF:-1 ,ARG: Canal 13 La Rioja
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/285880
+#EXTINF:-1 ,ARG: Canal 2 Jujuy
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/285881
+#EXTINF:-1 ,ARG: Canal 26
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/3190
+#EXTINF:-1 ,ARG: Canal 6 Noticias
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/284235
+#EXTINF:-1 ,ARG: Canal 79 Catamarca
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/297240
+#EXTINF:-1 ,ARG: Canal 79 Mar del Plata
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/297239
+#EXTINF:-1 ,ARG: canal orbe 21
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/9374
+#EXTINF:-1 ,ARG: Canal Provincial
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/285888
+#EXTINF:-1 ,ARG: Canal TDC
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/285874
+#EXTINF:-1 ,ARG: Chaco TV
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/166055
+#EXTINF:-1 ,ARG: Chacra TV
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/285890
+#EXTINF:-1 ,ARG: Cine AR
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/38652
+#EXTINF:-1 ,ARG: Cinecanal
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/38655
+#EXTINF:-1 ,ARG: Cinemax
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/38661
+#EXTINF:-1 ,ARG: Ciudad Magazine
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/38663
+#EXTINF:-1 ,ARG: Ciudad TV Chaco
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/285892
+#EXTINF:-1 ,ARG: Comedy Central
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/49261
+#EXTINF:-1 ,ARG: CPE
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/299184
+#EXTINF:-1 ,ARG: Cronica TV
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/8763
+#EXTINF:-1 ,ARG: DeporTV
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/38664
+#EXTINF:-1 ,ARG: DirecTV Sports
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/67721
+#EXTINF:-1 ,ARG: DirecTV Sports 2
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/31645
+#EXTINF:-1 ,ARG: DirecTV Sports Plus
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/65750
+#EXTINF:-1 ,ARG: Discovery Theater
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/172605
+#EXTINF:-1 ,ARG: Disney Channel
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/49266
+#EXTINF:-1 ,ARG: Disney Junior
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/38665
+#EXTINF:-1 ,ARG: El Gourmet
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/8691
+#EXTINF:-1 ,ARG: El Nueve
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/3202
+#EXTINF:-1 ,ARG: El Trece
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/3194
+#EXTINF:-1 ,ARG: Encuentro
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/30694
+#EXTINF:-1 ,ARG: ESPN 2
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/70752
+#EXTINF:-1 ,ARG: ESPN 3
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/61170
+#EXTINF:-1 ,ARG: ESPN 4
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/295627
+#EXTINF:-1 ,ARG: ESPN Extra
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/66298
+#EXTINF:-1 ,ARG: ESPN Premium
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/298158
+#EXTINF:-1 ,ARG: Europa Europa
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/29295
+#EXTINF:-1 ,ARG: Fenix TV
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/285896
+#EXTINF:-1 ,ARG: Film & Arts
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/38678
+#EXTINF:-1 ,ARG: FOX SPORTS
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/280370
+#EXTINF:-1 ,ARG: FOX SPORTS 3
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/10921
+#EXTINF:-1 ,ARG: FOX SPORTS Premium
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/3203
+#EXTINF:-1 ,ARG: FX
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/172268
+#EXTINF:-1 ,ARG: FXM
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/29302
+#EXTINF:-1 ,ARG: Garage TV
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/23915
+#EXTINF:-1 ,ARG: Glitz
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/30712
+#EXTINF:-1 ,ARG: HBO Mundi
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/38701
+#EXTINF:-1 ,ARG: HBO Pop
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/29305
+#EXTINF:-1 ,ARG: HBO Xtreme
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/172272
+#EXTINF:-1 ,ARG: HBO+
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/38685
+#EXTINF:-1 ,ARG: I Sat
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/148593
+#EXTINF:-1 ,ARG: IP Noticias
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/297230
+#EXTINF:-1 ,ARG: IVC TV
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/285197
+#EXTINF:-1 ,ARG: Litus
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/23925
+#EXTINF:-1 ,ARG: LN+
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/8758
+#EXTINF:-1 ,ARG: Multivision
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/18341
+#EXTINF:-1 ,ARG: Music Top
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/199644
+#EXTINF:-1 ,ARG: NAT GEO Wild
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/38698
+#EXTINF:-1 ,ARG: Net TV
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/267322
+#EXTINF:-1 ,ARG: Nick Jr
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/29310
+#EXTINF:-1 ,ARG: nickelodeon
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/29311
+#EXTINF:-1 ,ARG: Pakapaka
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/49304
+#EXTINF:-1 ,ARG: Quiero Musica en mi Idioma
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/30699
+#EXTINF:-1 ,ARG: Santa Fe Canal
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/285871
+#EXTINF:-1 ,ARG: Santa Maria TV
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/285904
+#EXTINF:-1 ,ARG: Smithsonian Channel
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/285203
+#EXTINF:-1 ,ARG: Space
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/34566
+#EXTINF:-1 ,ARG: Star Channel
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/280374
+#EXTINF:-1 ,ARG: Studio Universal
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/280367
+#EXTINF:-1 ,ARG: SYFY
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/49316
+#EXTINF:-1 ,ARG: TCM
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/49314
+#EXTINF:-1 ,ARG: Tele Red
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/285183
+#EXTINF:-1 ,ARG: Telefe
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/3199
+#EXTINF:-1 ,ARG: Telefe Rosario
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/285909
+#EXTINF:-1 ,ARG: Telemax
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/146051
+#EXTINF:-1 ,ARG: Telenord Corrientes
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/285910
+#EXTINF:-1 ,ARG: Tierramia TV
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/76509
+#EXTINF:-1 ,ARG: TNT Series
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/3109
+#EXTINF:-1 ,ARG: Todo Noticias
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/146052
+#EXTINF:-1 ,ARG: TV Publica
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/8752
+#EXTINF:-1 ,ARG: TVU Universidad Nacional de La Plata
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/285907
+#EXTINF:-1 ,ARG: TyC Sports
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/8749
+#EXTINF:-1 ,ARG: Universal TV
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/38719
+#EXTINF:-1 ,ARG: Volver
+http://premiumiptvmk.com:8080/kodicologne/48e237edd2/49329
