@@ -24,6 +24,8 @@ https://rakuten-euronews-4-es.samsung.wurl.com/manifest/f1f29e913cb79ff20b9491b0
 
 
 #Peliculas
+#EXTINF:-1 tgv-id="elementos" group-title="Peliculas", Elementos
+http://latintvec.com:43201/movie/LaloTv/Tvlaloest8/264116.mkv
 #EXTINF:-1 tvg-id="GEN TV" group-title="Peliculas", GEN TV
 https://inliveserver.com:1936/14056/14056/chunklist_w1743376968.m3u8
 #EXTINF:-1 tvg-id="Canal2Sanagasta.ar" group-title="Peliculas",Canal 2 Sanagasta
