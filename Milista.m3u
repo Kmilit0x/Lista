@@ -1,4 +1,16 @@
 #EXTM3U 
+#Generales
+#EXTINF:-1 tvg-id="TelefeSalta.ar" group-title="Generales",Telefe Salta 
+https://ythls.onrender.com/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
+#EXTINF:-1 tvg-id="AmericaTV.ar" group-title="Generales",América TV
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+#EXTINF:-1 tvg-id="TVPublica.ar" group-title="Generales",TV Pública 
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:-1 tvg-id="ElNueve.ar" group-title="Generales",El Nueve
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+#EXTINF:-1 tvg-id="ElTrece.ar" group-title="Generales",El Trece 
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
 #Noticias
 #EXTINF:-1 tvg-id="LaNacionPlus.ar" group-title="Noticias",La Nacion
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
@@ -41,24 +53,12 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-id="Canal 34 San Juan" group-title="Peliculas",Canal 34 San Juan
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
-#24/07
 
 
 
 
-#Generales
-#EXTINF:-1 tvg-id="TelefeSalta.ar" group-title="Generales",Telefe Salta 
-https://ythls.onrender.com/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
-#EXTINF:-1 tvg-id="AmericaTV.ar" group-title="Generales",América TV
-https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
-#EXTINF:-1 tvg-id="TVPublica.ar" group-title="Generales",TV Pública 
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-#EXTINF:-1 tvg-id="ElNueve.ar" group-title="Generales",El Nueve
-https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
-#EXTINF:-1 tvg-id="ElTrece.ar" group-title="Generales",El Trece 
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="Canal 3 Rosario" group-title="Generales",Canal 3 Rosario 
-https://www.dailymotion.com/cdn/live/video/x8aobf1.m3u8?sec=sO-huNA2pgAjHiVT9dyY1bYkRmnx2JNf9DT5hOydNP15yVfcxoHBm7wVSDKXxtNI&dmTs=270121&dmV1st=9f831153-f1e0-4278-8119-21e19e5968d6
+https://dmxleo.dailymotion.com/cdn/manifest/video/x8aobf1.m3u8?auth=1695076520-2562-0hbrwl05-989a1969eeb827b643c3415fc4a24f9b2mp472BR-GQNbqi81y5NMkQkr-_rvDmpRWuXBb0Z21_Hu5bua3_-b6zaGRgu2RCyIP8bNBu-4XbUZfBFCwQb6Nm8LqHXsH08PQ2DxucejhZfFipsvVizfDxhX2U9p5XJJ9U2x6V2XiXmoarHhXPdguUCXmIuBYDBKWiKzulF-E-9cSrC5YXYa4UPZAci7nqfvSHevV0g0WMv0hz5k8eC1tn9j_j81_Tp3IZTLa4rkidrRW_YJD0ecWmcSJoB0jU-U2opqEIpz6hIWK8OUaJVMU1h9_TkmaE1gJUPeKjBNBK6820wHO9wOklFypnYWa_lOpqvMh14EOZaqxaXuLnFRx71qaOVegnteFShGLtqN8XuTuhp1da2gVad6ckH_n2I3y-w4NdBMT0u2AjnKJ5fkC2ETmPDiAQxA1-pQ0qSDzgYIzvP-HGMgItR3tcHb5EUdAzcbpURhGw0z5WUtLc4ms6JfQCgkKGbykBG0fJQn6LXe7-wg8qJkpR1gvqRiHl8SQb9SpMe-_iNU3mEQtjGY_FZk3Suz1iOddqTuud0cs05m5ZOuwBKJpbwyocXTsG3kdU6L1dCxOhYvQzSC-p_9vE74Jqc8_cCnJd4yLLfo0ABp-2GW-y7GfZ8XbxriWVmF-ejguCx8WAeSoc7iBlzK2kaHeSb5gcaSLxgsL4gFQiUWL2mItqoSHtns4sp-FtH95GHKd0Qcv683HKbQtiacctdXmwG3sElpc-6sd7MAo9H72zMirCKZrBAiYkcuhe-y5OptGVsGn2fGWGIlk-BG3rWpTAki1n7T-T51Yg-12fTs9-ndW5EjzK5tAZrMBO5HQU6yUyvX07iaIMBNSPo9kmvkj6yGCwSI86UBCs-P7HCVgKYb030L2GKyHu_xv9a1G8YfhMrbem6AEIXoy4y8dNdvJV_fFqJHJPIf2Z7mhZRCZgVe9Vezuai3Cgnej1BrkqsEP5iiY4C4kTZZaK-mQo6zddomCkUQP8inbegkmkUFippdopLBiVhAAO9opEtII6_f6xBlskA3s2fwckBLVE389u7UTDhgAq7MoNfBVoK4JKA2rvv_M0UgJ0tz1qdD_DYZlQM0HvLN16KufvqFzUqU3CiPad5i5iSNnG2YrM_hau4Xm2RSLIssekmARwBSsfPtD_t4QnZfpdH4COJfm02O3JgOJ4F7ydn4ky9TdnlWH2Nl8Eim9ui0LPzKF1Eq&bs=1&cookie_sync_ab_gk=1&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&reader_us_privacy=1---
 #EXTINF:-1 tvg-id="EL GOURMET" group-title="Generales",EL GOURMET
 http://elmonkey.us:25461/Victor/Victor/60
 #EXTINF:-1 tvg-id="FOX" group-title="Generales",FOX
@@ -95,11 +95,6 @@ http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8
 https://d3k7iagvenqkpa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lgynwyncl1q5l/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="HTV" group-title="Musica",HTV
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35025
-#EXTINF:-1 tvg-id="MTV" group-title="Musica",MTV
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35018
-#EXTINF:-1 group-title="Musica",Zona Latina
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/52
-
 
 #Deportes
 #EXTINF:-1 tvg-id="DeporTV.ar" group-title="Deportes",DeporTV 
@@ -108,32 +103,10 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 http://51.222.43.170:8001/8CLMc5CTn72/46zKthhjXww6/1259
 #EXTINF:-1 tvg-id="TYC SPORTS" group-title="Deportes",TYC SPORTS
 https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8?WebM3UCL
-#EXTINF:-1 group-title="Deportes",ESPN
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/19
-#EXTINF:-1 group-title="Deportes",ESPN 2
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/20
-#EXTINF:-1 group-title="Deportes",ESPN 2 CO
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/21
-#EXTINF:-1 group-title="Deportes",ESPN 3
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/22
-#EXTINF:-1 group-title="Deportes",Fox Sports 3
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/23
-#EXTINF:-1 group-title="Deportes",TNT Sports 3
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/151
-#EXTINF:-1 group-title="Deportes",Fox Sports 1
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/152
-#EXTINF:-1 group-title="Deportes",Fox Sports 2
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/153
-#EXTINF:-1 group-title="Deportes",TYC Sports
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/196
 
 #Infantiles
-#EXTINF:-1 group-title="Infantiles",Tooncast
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/195
-#EXTINF:-1 tvg-id="Mario Brs" group-title="Infantiles",Mario Brs
-http://51.222.43.170:8001/movie/Palafox1650/whYWQCJhUNsk/311954.mkv
-#EXTINF:-1 tvg-id="PlanetaTV Kids" group-title="Infantiles",PlanetaTV Kids
-https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?tecnotv
+#EXTINF:-1 group-title="Infantiles",PakaPaka
+https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/chunklist_w2051298164.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network"  group-title="Infantiles",Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 
