@@ -10,6 +10,8 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" group-title="Generales",El Trece 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-id="Canal 3 Rosario" group-title="Generales",Canal 3 Rosario 
+https://stream-04.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4LszVywR2H-hzhX8j7ue0Ug_nT-EVkZFAjy4-jHITTVbcc)/dm/3/x8aobf1/s/live-2.m3u8#cell=lnychttp://elmonkey.us:25461/Victor/Victor/60
 
 #Noticias
 #EXTINF:-1 tvg-id="LaNacionPlus.ar" group-title="Noticias",La Nacion
@@ -27,17 +29,13 @@ http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-id="CnArNoticias.ar" group-title="Noticias",CnAr Noticias 
 https://stmv1.cnarlatam.com/cnarnoticias/cnarnoticias/playlist.m3u8
 
-
 #Internacionales
 #EXTINF:-1 tvg-id="DW Español" group-title="Internacionales",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="Euronews" group-title="Internacionales",Euronews
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/f1f29e913cb79ff20b9491b00992ce53.m3u8
 
-
 #Peliculas
-#EXTINF:-1 tgv-id="elementos" group-title="Peliculas", Elementos
-http://latintvec.com:43201/movie/LaloTv/Tvlaloest8/264116.mkv
 #EXTINF:-1 tvg-id="GEN TV" group-title="Peliculas", GEN TV
 https://inliveserver.com:1936/14056/14056/chunklist_w1743376968.m3u8
 #EXTINF:-1 tvg-id="Canal2Sanagasta.ar" group-title="Peliculas",Canal 2 Sanagasta
@@ -53,19 +51,6 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-id="Canal 34 San Juan" group-title="Peliculas",Canal 34 San Juan
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-id="Canal 3 Rosario" group-title="Generales",Canal 3 Rosario 
-https://stream-04.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4LszVywR2H-hzhX8j7ue0Ug_nT-EVkZFAjy4-jHITTVbcc)/dm/3/x8aobf1/s/live-2.m3u8#cell=lnychttp://elmonkey.us:25461/Victor/Victor/60
-#EXTINF:-1 tvg-id="FOX" group-title="Generales",FOX
-http://elmonkey.us:25461/Victor/Victor/69
-#EXTINF:-1 tvg-id="FOX LIFE" group-title="Generales",FOX LIFE
-http://elmonkey.us:25461/Victor/Victor/74
-#EXTINF:-1 tvg-id="Film And Arts" group-title="Generales",Film And Arts
-http://elmonkey.us:25461/Victor/Victor/615
-  
 #Documentales
 #EXTINF:-1 tvg-id="ElHistonautaTV.ar" group-title="Documentales",El Histonauta TV 
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
@@ -79,8 +64,6 @@ http://hostengine.live/live/Alice/Alice123/162577.ts
 http://elmonkey.us:25461/Victor/Victor/103
 #EXTINF:-1 tvg-id="NatGeo" group-title="Documentales",NatGeo World
 http://elmonkey.us:25461/Victor/Victor/102
-
-
 
 #Musica
 #EXTINF:-1 tvg-id="GlobalTV.ar" group-title="Musica",Global TV 
@@ -97,8 +80,6 @@ http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35025
 #Deportes
 #EXTINF:-1 tvg-id="DeporTV.ar" group-title="Deportes",DeporTV 
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1 tvg-id="TNT SPORTS" group-title="Deportes",TNT SPORTS
-http://51.222.43.170:8001/8CLMc5CTn72/46zKthhjXww6/1259
 #EXTINF:-1 tvg-id="TYC SPORTS" group-title="Deportes",TYC SPORTS
 https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8?WebM3UCL
 
