@@ -2,13 +2,12 @@
 #Generales
 #EXTINF:-1 tvg-id="TelefeSalta.ar" group-title="Generales",Telefe Salta 
 https://ythls.onrender.com/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
-#EXTINF:-1 tvg-id="AmericaTV.ar" group-title="Generales",América TV
-https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+#EXTINF:-1 tvg-id="AmericaTucuman.ar" tvg-logo="https://i.imgur.com/TJmzwv9.png" group-title="News",America Tucuman
+https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 #EXTINF:-1 tvg-id="TVPublica.ar" group-title="Generales",TV Pública 
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 tvg-id="ElNueve.ar" group-title="Generales",El Nueve
-https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
-#EXTINF:-1 tvg-id="ElTrece.ar" group-title="Generales",El Trece 
+https://youtu.be/HNNSYYmP7qs#EXTINF:-1 tvg-id="ElTrece.ar" group-title="Generales",El Trece 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="Canal 5 Rosario" group-title="Generales",Canal 5 Rosario 
 https://ythls.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
