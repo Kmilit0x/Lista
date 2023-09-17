@@ -7,7 +7,8 @@ https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 #EXTINF:-1 tvg-id="TVPublica.ar" group-title="Generales",TV Pública 
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 tvg-id="ElNueve.ar" group-title="Generales",El Nueve
-https://ythls.onrender.com/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1695004460/ei/zGIHZYbZDOuT1PIPvYCpmAc/ip/92.205.15.128/id/HNNSYYmP7qs.1/source/yt_live_broadcast/requiressl/yes/tx/24554066/txs/24554063%2C24554066/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwu9jfN1VvWoEBokCLkQDD251OhZtskPUeF8pQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgJOiW3de8XGWMSo4m8LF-LdtxPNxJdjSdosQ-o3u4OmwCIQCdTWrklAtorFtB03w9XyiU1GOm5GOlZEyXPu_cbLJEvw%3D%3D/file/index.m3u8#EXTINF:-1 tvg-id="ElTrece.ar" group-title="Generales",El Trece 
+
 #EXTINF:-1 tvg-id="ElTrece.ar" group-title="Generales",El Trece 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="Canal 5 Rosario" group-title="Generales",Canal 5 Rosario 
@@ -55,6 +56,9 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/strea
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/f1f29e913cb79ff20b9491b00992ce53.m3u8
 
 #Peliculas
+PlanetaTV Movie
+#EXTINF:-1 tvg-id="PlanetaTV Movie" group-title="Peliculas", PlanetaTV Movie
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:-1 tvg-id="GEN TV" group-title="Peliculas", GEN TV
 https://inliveserver.com:1936/14056/14056/chunklist_w1743376968.m3u8
 #EXTINF:-1 tvg-id="Canal2Sanagasta.ar" group-title="Peliculas",Canal 2 Sanagasta
