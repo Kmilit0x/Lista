@@ -7,7 +7,7 @@ https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 #EXTINF:-1 tvg-id="TVPublica.ar" group-title="Generales",TV Pública 
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 tvg-id="ElNueve.ar" group-title="Generales",El Nueve
-https://www.youtube.com/embed/HNNSYYmP7qs
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1695004460/ei/zGIHZYbZDOuT1PIPvYCpmAc/ip/92.205.15.128/id/HNNSYYmP7qs.1/source/yt_live_broadcast/requiressl/yes/tx/24554066/txs/24554063%2C24554066/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwu9jfN1VvWoEBokCLkQDD251OhZtskPUeF8pQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgJOiW3de8XGWMSo4m8LF-LdtxPNxJdjSdosQ-o3u4OmwCIQCdTWrklAtorFtB03w9XyiU1GOm5GOlZEyXPu_cbLJEvw%3D%3D/file/index.m3u8#EXTINF:-1 tvg-id="ElTrece.ar" group-title="Generales",El Trece 
 #EXTINF:-1 tvg-id="ElTrece.ar" group-title="Generales",El Trece 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="Canal 5 Rosario" group-title="Generales",Canal 5 Rosario 
