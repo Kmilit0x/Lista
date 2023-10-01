@@ -1,4 +1,32 @@
 #EXTM3U 
+#varios
+#EXTINF:-1 group-title="varios",Locomotions
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 group-title="varios",Retro Cartoons
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+#EXTINF:-1 group-title="varios",24/7 Super Campeones
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37817
+#EXTINF:-1 group-title="varios",24/7 Spider-Man Animated Series
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37857
+#EXTINF:-1 group-title="varios",24/7 Super Agente 86 
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37789
+#EXTINF:-1 group-title="varios",24/7 Los Simpsons 
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37758
+#EXTINF:-1 group-title="varios",24/7 Caballeros del Zodiaco
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37845
+#EXTINF:-1 group-title="varios",24/7 Caballeros del Zodiaco (e)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37815
+#EXTINF:-1 group-title="varios",
+#EXTINF:-1 group-title="varios",
+#EXTINF:-1 group-title="varios",
+#EXTINF:-1 group-title="varios",
+#EXTINF:-1 group-title="varios",
+#EXTINF:-1 group-title="varios",
+#EXTINF:-1 group-title="varios",
+#EXTINF:-1 group-title="varios",
+#EXTINF:-1 group-title="varios",
+
+
 #Generales
 #EXTINF:-1 tvg-id="TelefeSalta.ar" group-title="Generales",Telefe Salta 
 https://ythls.onrender.com/channel/UCy-r-BQ5BQRU6rzGS73-WBQ.m3u8
