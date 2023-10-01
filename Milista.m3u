@@ -75,6 +75,11 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-id="Canal 34 San Juan" group-title="Peliculas",Canal 34 San Juan
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Gigantes de Acero (2011)" group-title="Peliculas",Gigantes de Acero (2011)
+http://svtv.xyz:8080/movie/Rigo2/r4TqXGc/431954.mp4
+
+
+
 
 #Documentales
 #EXTINF:-1 tvg-id="ElHistonautaTV.ar" group-title="Documentales",El Histonauta TV 
