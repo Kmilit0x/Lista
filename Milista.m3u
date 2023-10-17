@@ -4,9 +4,9 @@
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22089
 #EXTINF:-1 tvg-id="TVPublica.ar" group-title="Generales",TV Pública 
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-#EXTINF:-1 group-title="varios",El Trece
+#EXTINF:-1 group-title="Generales",El Trece
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153937
-#EXTINF:-1 group-title="varios",Telefe
+#EXTINF:-1 group-title="Generales",Telefe
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153673
 #EXTINF:-1 tvg-id="Canal2Sanagasta.ar" group-title="Generales",Canal 2 Sanagasta
 https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8
@@ -24,8 +24,10 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:-1 group-title="Infantiles",INF-Nick Jr
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1392
-#EXTINF:-1 group-title="varios",INF-Disney Jr (M)(1080)
+#EXTINF:-1 group-title="Infantiles",INF-Disney Jr 
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1379
+#EXTINF:-1 group-title="Infantiles",INF-Discovery Kids
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1375
 
 
 #Noticias
@@ -42,6 +44,32 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/strea
 #EXTINF:-1 tvg-id="Euronews" group-title="Internacionales",Euronews
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/f1f29e913cb79ff20b9491b00992ce53.m3u8
 
+#DEPORTES
+#EXTINF:-1 group-title="DEPORTES",TNT Sports
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166829
+#EXTINF:-1 group-title="DEPORTES",UFC 
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/8918
+#EXTINF:-1 group-title="DEPORTES",Directv Sports 
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/4674
+#EXTINF:-1 group-title="DEPORTES",Espn Deportes
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1544
+#EXTINF:-1 group-title="DEPORTES",Espn Extra ARG 
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/974
+#EXTINF:-1 group-title="DEPORTES",ESPN 
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1528
+#EXTINF:-1 group-title="DEPORTES",Fight BOX  
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/60375
+#EXTINF:-1 group-title="DEPORTES",Fox Sports 1 ARG 
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/141445
+#EXTINF:-1 group-title="DEPORTES",Fox Sports 2 ARG 
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/978
+#EXTINF:-1 group-title="varios",Espn 3 
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/59803
+#EXTINF:-1 group-title="varios",ARG-Espn 1 
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166821
+#EXTINF:-1 group-title="varios",ARG-FOX Sports Premium 
+
+
 #Peliculas
 PlanetaTV Movie
 #EXTINF:-1 tvg-id="PlanetaTV Movie" group-title="Peliculas", PlanetaTV Movie
@@ -56,8 +84,42 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-id="Canal 34 San Juan" group-title="Peliculas",Canal 34 San Juan
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="Movies",Xtrema Accion
+#EXTINF:-1 tvg-id="XtremaAccion.ar" group-title="Peliculas",Xtrema Accion
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 group-title="Peliculas",CINE - A&E (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26925
+#EXTINF:-1 group-title="Peliculas",CINE - A3 Series (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26906
+#EXTINF:-1 group-title="Peliculas",CINE - AMC (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26931
+#EXTINF:-1 group-title="Peliculas",CINE - CineCanal (PM)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26903
+#EXTINF:-1 group-title="Peliculas",CINE - Cinemax (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26743
+#EXTINF:-1 group-title="Peliculas",CINE - FX (M)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26746
+#EXTINF:-1 group-title="Peliculas",CINE - HBO (e)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1040
+#EXTINF:-1 group-title="Peliculas",CINE - HBO Family (e)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1034
+#EXTINF:-1 group-title="Peliculas",CINE - HBO Mundi (L)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/52878
+#EXTINF:-1 group-title="Peliculas",CINE - HBO Plus (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1434
+#EXTINF:-1 group-title="Peliculas",CINE - Paramount Channel (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1485
+#EXTINF:-1 group-title="Peliculas",CINE - Space (e)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/74409
+#EXTINF:-1 group-title="Peliculas",CINE - STAR Channel (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26901
+#EXTINF:-1 group-title="Peliculas",CINE - TCM (M)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26756
+#EXTINF:-1 group-title="Peliculas",CINE - TNT (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26926
+#EXTINF:-1 group-title="Peliculas",CINE - TNT Series (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26907
+#EXTINF:-1 group-title="Peliculas",CINE - Universal Channel (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26908
 
 
 #Documentales
@@ -73,6 +135,18 @@ https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 #EXTINF:-1 tvg-id="Viajar TV" group-title="Documentales",Viajar TV
 https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
+#EXTINF:-1 group-title="Documentales",DOC-Animal Planet (e)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1071
+#EXTINF:-1 group-title="Documentales",Discovery Channel 
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26891
+#EXTINF:-1 group-title="Documentales",Discovery Turbo
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1404
+#EXTINF:-1 group-title="Documentales",DOC-H2 
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1408
+#EXTINF:-1 group-title="Documentales",History
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177629
+#EXTINF:-1 group-title="Documentales",NatGeo
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1409
 
 #Musica
 #EXTINF:-1 tvg-id="GlobalTV.ar" group-title="Musica",Global TV 
@@ -83,3 +157,4 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 https://d3k7iagvenqkpa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lgynwyncl1q5l/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="PowerHD" group-title="Musica",PowerHD
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
+
