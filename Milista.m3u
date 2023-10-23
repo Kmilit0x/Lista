@@ -76,27 +76,6 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
 #EXTINF:-1 group-title="Infantiles",Xtrema Cartoons
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
-#EXTINF:-1 group-title="Infantiles", Cartoon Network 
-http://tv.teleclub.xyz/envivo/Infantil/CARTOON_NETWORK/index.m3u8 
-#EXTINF:-1 group-title="Infantiles", Disney Channel 
-http://tv.teleclub.xyz/envivo/Infantil/DISNEY_CHANNEL/index.m3u8 
-#EXTINF:-1 group-title="Infantiles", Disney Jr 
-http://tv.teleclub.xyz/envivo/Infantil/DISNEY_JUNIOR/index.m3u8 
-#EXTINF:-1 group-title="Infantiles", Discovery Kids 
-http://tv.teleclub.xyz/envivo/Infantil/DISCOVERY_KIDS/index.m3u8 
-#EXTINF:-1 group-title="Infantiles", Nick 
-http://tv.teleclub.xyz/envivo/Infantil/NICK/index.m3u8 
-#EXTINF:-1 group-title="Infantiles", Nick Jr 
-http://tv.teleclub.xyz/envivo/Infantil/NICK_JR/index.m3u8 
-#EXTINF:-1 group-title="Infantiles", Tooncast 
-http://tv.teleclub.xyz/envivo/Infantil/TOONCAST/index.m3u8 
-#EXTINF:-1 group-title="Infantiles", Bitme 
-http://tv.teleclub.xyz/envivo/Infantil/BITME/index.m3u8 
-#EXTINF:-1 group-title="Infantiles", Cartoonito 
-http://tv.teleclub.xyz/envivo/Infantil/CARTOONITO/index.m3u8 
-#EXTINF:-1 group-title="Infantiles", EnerGeek Retro 
-http://tv.teleclub.xyz/envivo/Infantil/ENERGEEK_RETRO/index.m3u8 
-
 ################################################################
 #Deportes
 ################################################################
