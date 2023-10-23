@@ -76,6 +76,16 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
 #EXTINF:-1 group-title="Infantiles",Xtrema Cartoons
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantiles", Cartoon Network http://tv.teleclub.xyz/envivo/Infantil/CARTOON_NETWORK/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantiles", Disney Channel http://tv.teleclub.xyz/envivo/Infantil/DISNEY_CHANNEL/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantiles", Disney Jr http://tv.teleclub.xyz/envivo/Infantil/DISNEY_JUNIOR/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I18tgBc.png" group-title="Infantiles", Discovery Kids http://tv.teleclub.xyz/envivo/Infantil/DISCOVERY_KIDS/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="Infantiles", Nick http://tv.teleclub.xyz/envivo/Infantil/NICK/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="Infantiles", Nick Jr http://tv.teleclub.xyz/envivo/Infantil/NICK_JR/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RO1czIu.png" group-title="Infantiles", Tooncast http://tv.teleclub.xyz/envivo/Infantil/TOONCAST/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u4sw0pf.png" group-title="Infantiles", Bitme http://tv.teleclub.xyz/envivo/Infantil/BITME/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5U7AMyc.png" group-title="Infantiles", Cartoonito http://tv.teleclub.xyz/envivo/Infantil/CARTOONITO/index.m3u8 
+#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Retro-2023.png" group-title="Infantiles", EnerGeek Retro http://tv.teleclub.xyz/envivo/Infantil/ENERGEEK_RETRO/index.m3u8 
 
 ################################################################
 #Deportes
@@ -134,5 +144,4 @@ https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
 https://ythls.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
 #EXTINF:-1 tvg-id="Canal 3 Rosario" group-title="nofuncan",Canal 3 Rosario 
 https://stream-04.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4LswRu-2ODVijAm49_LFBWwQZsR5qeNUoCyfUgZfSoPtY5)/dm/3/x8aobf1/s/live-2.m3u8#cell=lnyc
-#extinf: -1 group-title="nofuncan", lista
-https://tv.teleclub.xyz/lista/canales.m3u
+
