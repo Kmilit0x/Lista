@@ -134,3 +134,5 @@ https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
 https://ythls.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
 #EXTINF:-1 tvg-id="Canal 3 Rosario" group-title="nofuncan",Canal 3 Rosario 
 https://stream-04.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4LswRu-2ODVijAm49_LFBWwQZsR5qeNUoCyfUgZfSoPtY5)/dm/3/x8aobf1/s/live-2.m3u8#cell=lnyc
+#extinf: -1 group-title="nofuncan", lista
+https://tv.teleclub.xyz/lista/canales.m3u
