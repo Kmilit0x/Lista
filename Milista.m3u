@@ -8,14 +8,9 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 http://hidra.live:80/vvxegoaa/ggB4z56P7d/43317.ts
 #EXTINF:-1 tvg-id="ElTrece.ar" group-title="Generales",El Trece 
 http://hidra.live:80/vvxegoaa/ggB4z56P7d/43314.ts
-
-#nofuncan
-#EXTINF:-1 tvg-id="Canal 5 Rosario" group-title="Generales",Canal 5 Rosario 
-https://ythls.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
-#EXTINF:-1 tvg-id="Canal 3 Rosario" group-title="Generales",Canal 3 Rosario 
-https://stream-04.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4LswRu-2ODVijAm49_LFBWwQZsR5qeNUoCyfUgZfSoPtY5)/dm/3/x8aobf1/s/live-2.m3u8#cell=lnyc
-
+################################################################
 #Noticias
+################################################################
 #EXTINF:-1 tvg-id="TN.ar" group-title="Noticias",TN Todo Noticias
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-id="A24" group-title="Noticias",A24
@@ -26,14 +21,16 @@ https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-id="CnArNoticias.ar" group-title="Noticias",CnAr Noticias 
 https://stmv1.cnarlatam.com/cnarnoticias/cnarnoticias/playlist.m3u8
-
+################################################################
 #Internacionales
+################################################################
 #EXTINF:-1 tvg-id="DW Español" group-title="Internacionales",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="Euronews" group-title="Internacionales",Euronews
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/f1f29e913cb79ff20b9491b00992ce53.m3u8
-
+################################################################
 #Peliculas
+################################################################
 PlanetaTV Movie
 #EXTINF:-1 tvg-id="PlanetaTV Movie" group-title="Peliculas", PlanetaTV Movie
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
@@ -49,8 +46,40 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal 34 San Juan" group-title="Peliculas", peliculas
 http://00322.xyz:8000/rances123/9IFBBCRBIX/2544
+#EXTINF:-1 group-title="Movies",Xtrema Accion
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 channel-id="pluto-5dcb62e63d4d8f0009f36881" group-title="CINE Y SERIES",Pluto TV Cine Acción
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+################################################################
+#Series
+################################################################
+#EXTINF:-1 group-title="Classic;Series",Xtrema Retro Series
+https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
+################################################################
+#Infantiles
+################################################################
+#EXTINF:-1 tvg-id="El Chavo" group-title="Infantiles",El Chavo
+http://gustvplay.com:8080/zgavR7zhCjes/fxwTvAJBv2NJ/84027
+#EXTINF:-1 tvg-id="PakaPaka" group-title="Infantiles",PakaPaka
+https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/chunklist_w2051298164.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network"  group-title="Infantiles",Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+################################################################
+#Deportes
+################################################################
+#EXTINF:-1 tvg-id="DeporTV.ar" group-title="Deportes",DeporTV 
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id="CnAr Deportes" group-title="Deportes",CnAr Deportes
+https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
+#EXTINF:-1 tvg-id="TYC SPORTS" group-title="Deportes",TYC SPORTS
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8?WebM3UCL
+#EXTINF:-1 tvg-id="FoxSports" group-title="Deportes",FoxSports
 
+#EXTINF:-1 tvg-id="ARG-Espn 1" group-title="Deportes",ARG-Espn 1
+
+################################################################
 #Documentales
+################################################################
 #EXTINF:-1 tvg-id="ElHistonautaTV.ar" group-title="Documentales",El Histonauta TV 
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
 #EXTINF:-1 tvg-id="Encuentro.ar" group-title="Documentales",Encuentro 
@@ -59,8 +88,11 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 https://stmv1.cnarlatam.com/astronet/astronet/playlist.m3u8
 #EXTINF:-1 tvg-id="Aventuras TV" group-title="Documentales",Aventuras TV
 https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
-
+#EXTINF:-1 group-title="Documentary;Science",Xtrema Animal
+https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
+################################################################
 #Musica
+################################################################
 #EXTINF:-1 tvg-id="GlobalTV.ar" group-title="Musica",Global TV 
 https://stmv.video.gmpro.top/global/global/playlist.m3u8
 #EXTINF:-1 tvg-id="MusicTop.ar" group-title="Musica",MusicTop 
@@ -75,38 +107,23 @@ http://g5.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 #EXTINF:-1 tvg-id="HTV" group-title="Musica",HTV
 http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35025
-
-#Deportes
-#EXTINF:-1 tvg-id="DeporTV.ar" group-title="Deportes",DeporTV 
-https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1 tvg-id="CnAr Deportes" group-title="Deportes",CnAr Deportes
-https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
-#EXTINF:-1 tvg-id="TYC SPORTS" group-title="Deportes",TYC SPORTS
-https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8?WebM3UCL
-#EXTINF:-1 tvg-id="FoxSports" group-title="Deportes",FoxSports
-
-#EXTINF:-1 tvg-id="ARG-Espn 1" group-title="Deportes",ARG-Espn 1
-
-
-#Infantiles
-#EXTINF:-1 tvg-id="El Chavo" group-title="Infantiles",El Chavo
-http://gustvplay.com:8080/zgavR7zhCjes/fxwTvAJBv2NJ/84027
-#EXTINF:-1 tvg-id="PakaPaka" group-title="Infantiles",PakaPaka
-https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/chunklist_w2051298164.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network"  group-title="Infantiles",Cartoon Network
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-
-
+################################################################
+#Otros
+################################################################
 #EXTINF:-1 tvg-id="TEC TV" group-title="Otros",TEC TV
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 #EXTINF:-1 tvg-id="Viajar TV" group-title="Otros",Viajar TV
 https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
-
-
-
+################################################################
+#nofuncan
+################################################################
+#EXTINF:-1 tvg-id="Canal 5 Rosario" group-title="nofuncan",Canal 5 Rosario 
+https://ythls.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
+#EXTINF:-1 tvg-id="Canal 3 Rosario" group-title="nofuncan",Canal 3 Rosario 
+https://stream-04.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4LswRu-2ODVijAm49_LFBWwQZsR5qeNUoCyfUgZfSoPtY5)/dm/3/x8aobf1/s/live-2.m3u8#cell=lnyc
+################################################################
 #ENTRETENIMIENTO
-#EXTINF:-1 channel-id="pluto-5dcb62e63d4d8f0009f36881" tvg-id="5dcb62e63d4d8f0009f36881" tvg-chno="56" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="CINE Y SERIES",Pluto TV Cine Acción
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+################################################################
 #EXTINF:-1 channel-id="pluto-5dcdde78f080d900098550e4" tvg-id="5dcdde78f080d900098550e4" tvg-chno="60" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" group-title="CINE Y SERIES",Pluto TV Cine COMEDIA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-5dcddf1ed95e740009fef7ab" tvg-id="5dcddf1ed95e740009fef7ab" tvg-chno="72" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="CINE Y SERIES",Pluto TV Cine Terror
@@ -341,26 +358,16 @@ https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
 https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
 #EXTINF:-1 group-title="Animation",Xtrema Anime
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Xtrema Asia
-https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
 #EXTINF:-1 group-title="Animation;Kids",Xtrema Cartoons
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 #EXTINF:-1 group-title="Comedy;Movies",Xtrema Comedy
 https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Xtrema Drama
 https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
-#EXTINF: group-title="Movies",Xtrema Europa
-https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
 #EXTINF:-1 group-title="Family;Movies",Xtrema Family
 https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Xtrema Hindi
-https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Xtrema Latina
-https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
 #EXTINF:-1 group-title="Animation;Classic;Kids",Xtrema Retro Cartoons
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
-#EXTINF:-1 group-title="Classic;Series",Xtrema Retro Series
-https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies",Xtrema Series
 https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
