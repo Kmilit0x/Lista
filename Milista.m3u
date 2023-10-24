@@ -56,6 +56,22 @@ https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
 https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
 #EXTINF:-1 group-title="Peliculas",Xtrema Family
 https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+#EXTINF:-1 group-title="Peliculas",STAR_CHANNEL
+http://tv.teleclub.xyz/envivo/Entretenimiento/STAR_CHANNEL/index.m3u8
+EXTINF:-1 group-title="Peliculas",UNIVERSAL_TV
+http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_TV/index.m3u8
+EXTINF:-1 group-title="Peliculas",WARNER_TV
+http://tv.teleclub.xyz/envivo/Entretenimiento/WARNER_TV/index.m3u8
+EXTINF:-1 group-title="Peliculas",TNT
+http://tv.teleclub.xyz/envivo/Entretenimiento/TNT/index.m3u8
+EXTINF:-1 group-title="Peliculas",CINEMAX
+http://tv.teleclub.xyz/envivo/Entretenimiento/CINEMAX/index.m3u8
+EXTINF:-1 group-title="Peliculas",CINECANAL
+http://tv.teleclub.xyz/envivo/Entretenimiento/CINECANAL/index.m3u8
+EXTINF:-1 group-title="Peliculas",HBO
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO/index.m3u8
+EXTINF:-1 group-title="Peliculas",HBO_FAMILY
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_FAMILY/index.m3u8
 
 
 ################################################################
@@ -89,6 +105,8 @@ http://tv.teleclub.xyz/envivo/Infantil/DISCOVERY_KIDS/index.m3u8
 http://tv.teleclub.xyz/envivo/24_7/CHAPULIN_COLORADO/index.m3u8
 #EXTINF:-1 group-title="Infantiles",LOONEYTOONS
 http://tv.teleclub.xyz/envivo/24_7/LOONEYTOONS_247/index.m3u8
+EXTINF:-1 group-title="Infantiles",TOONCAST
+http://tv.teleclub.xyz/envivo/Infantil/TOONCAST/index.m3u8
 ################################################################
 #Deportes
 ################################################################
