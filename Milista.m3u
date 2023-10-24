@@ -76,6 +76,10 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
 #EXTINF:-1 group-title="Infantiles",Xtrema Cartoons
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+#EXTINF:-1 group-title="Infantiles",El Chapulin Colorado
+http://tv.teleclub.xyz/envivo/24_7/CHAPULIN_COLORADO/index.m3u8
+#EXTINF:-1 group-title="Infantiles",LOONEYTOONS
+http://tv.teleclub.xyz/envivo/24_7/LOONEYTOONS_247/index.m3u8
 ################################################################
 #Deportes
 ################################################################
@@ -86,8 +90,11 @@ https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
 #EXTINF:-1 tvg-id="TYC SPORTS" group-title="Deportes",TYC SPORTS
 https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="FoxSports" group-title="Deportes",FoxSports
-
+http://tv.teleclub.xyz/envivo/Deportes/FOXSPORTS_PREMIUM/index.m3u8
 #EXTINF:-1 tvg-id="ARG-Espn 1" group-title="Deportes",ARG-Espn 1
+
+#EXTINF:-1 tvg-id="ARG-Espn 1" group-title="Deportes",TNT_SPORTS
+http://tv.teleclub.xyz/envivo/Deportes/TNT_SPORTS/index.m3u8
 
 ################################################################
 #Documentales
