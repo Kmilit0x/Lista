@@ -139,5 +139,5 @@ https://stream-04.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4LswRu-2ODVijAm49_LF
 http://tv.teleclub.xyz/envivo/24_7/ALF/index.m3u8
 #EXTINF:-1 group-title="otros",Correcamino
 http://tv.teleclub.xyz/envivo/24_7/CORRECAMINOS/index.m3u8
-#EXTINF:-1 group-title="otros",Los Simpsons
+#EXTINF:-1group-title="otros",Los Simpsons
 http://tv.teleclub.xyz/envivo/24_7/SIMPSONS_247/index.m3u8
