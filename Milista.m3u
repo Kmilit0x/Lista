@@ -76,6 +76,15 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
 #EXTINF:-1 group-title="Infantiles",Xtrema Cartoons
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+#EXTINF:-1 group-title="Infantiles",DISNEY_JUNIOR
+http://tv.teleclub.xyz/envivo/Infantil/DISNEY_JUNIOR/index.m3u8
+#EXTINF:-1 group-title="Infantiles",DISNEY_CHANNEL
+http://tv.teleclub.xyz/envivo/Infantil/DISNEY_CHANNEL/index.m3u8
+
+#EXTINF:-1 group-title="Infantiles",NICK_JR
+http://tv.teleclub.xyz/envivo/Infantil/NICK_JR/index.m3u8
+EXTINF:-1 group-title="Infantiles",DISCOVERY_KIDS
+http://tv.teleclub.xyz/envivo/Infantil/DISCOVERY_KIDS/index.m3u8
 #EXTINF:-1 group-title="Infantiles",El Chapulin Colorado
 http://tv.teleclub.xyz/envivo/24_7/CHAPULIN_COLORADO/index.m3u8
 #EXTINF:-1 group-title="Infantiles",LOONEYTOONS
@@ -97,6 +106,10 @@ http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_3_SUR/index.m3u8
 http://tv.teleclub.xyz/envivo/Deportes/TNT_SPORTS/index.m3u8
 #EXTINF:-1 group-title="Deportes",Claro Deporte
 http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8
+#EXTINF:-1 group-title="Deportes",DIRECTV
+http://tv.teleclub.xyz/envivo/Deportes/DIRECTV/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN
+http://tv.teleclub.xyz/envivo/Deportes/ESPN_SUR/index.m3u8
 
 ################################################################
 #Documentales
