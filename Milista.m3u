@@ -31,24 +31,21 @@ https://rakuten-euronews-4-es.samsung.wurl.com/manifest/f1f29e913cb79ff20b9491b0
 ################################################################
 #Peliculas
 ################################################################
-PlanetaTV Movie
-#EXTINF:-1 tvg-id="PlanetaTV Movie" group-title="Peliculas", PlanetaTV Movie
+#EXTINF:-1 group-title="Peliculas",PlanetaTV Movie
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
-#EXTINF:-1 tvg-id="PlanetaTV Kids" group-title="Peliculas",PlanetaTV Kids
+#EXTINF:-1 group-title="Peliculas",PlanetaTV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?tecnotv
-#EXTINF:-1 tvg-id="GEN TV" group-title="Peliculas", GEN TV
+#EXTINF:-1 group-title="Peliculas", GEN TV
 https://inliveserver.com:1936/14056/14056/chunklist_w1743376968.m3u8
-#EXTINF:-1 tvg-id="Neo TV" group-title="Peliculas",Neo TV
+#EXTINF:-1 group-title="Peliculas",Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1 tvg-id="Cosmos TV" group-title="Peliculas",Cosmos TV
+#EXTINF:-1 group-title="Peliculas",Cosmos TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:-1 tvg-id="Canal 34 San Juan" group-title="Peliculas",Canal 34 San Juan
+#EXTINF:-1 group-title="Peliculas",Canal 34 San Juan
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal 34 San Juan" group-title="Peliculas", peliculas
-http://00322.xyz:8000/rances123/9IFBBCRBIX/2544
 #EXTINF:-1 group-title="Peliculas",Xtrema Accion
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 channel-id="pluto-5dcb62e63d4d8f0009f36881" group-title="Peliculas",Pluto TV Cine Acción
+#EXTINF:-1 group-title="Peliculas",Pluto TV Cine Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Peliculas",Xtrema Comedy
 https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
