@@ -95,6 +95,8 @@ http://tv.teleclub.xyz/envivo/Deportes/FOXSPORTS_PREMIUM/index.m3u8
 http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_3_SUR/index.m3u8
 #EXTINF:-1 tvg-id="ARG-Espn 1" group-title="Deportes",TNT_SPORTS
 http://tv.teleclub.xyz/envivo/Deportes/TNT_SPORTS/index.m3u8
+#EXTINF:-1 group-title="Deportes",Claro Deporte
+http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8
 
 ################################################################
 #Documentales
