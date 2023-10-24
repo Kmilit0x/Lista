@@ -1,4 +1,4 @@
-#EXTM3U 
+lo#EXTM3U 
 #Generales
 #EXTINF:-1 tvg-id="America" group-title="Generales",America
 http://hidra.live:80/vvxegoaa/ggB4z56P7d/43320.ts
@@ -134,5 +134,9 @@ https://ythls.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
 #EXTINF:-1 tvg-id="Canal 3 Rosario" group-title="nofuncan",Canal 3 Rosario 
 https://stream-04.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4LswRu-2ODVijAm49_LFBWwQZsR5qeNUoCyfUgZfSoPtY5)/dm/3/x8aobf1/s/live-2.m3u8#cell=lnyc
 
-#EXTINF:-1 tvg-id="Canal 5 Rosario" group-title="nofuncan",Canal 5 Rosario 
+#otros
+#EXTINF:-1 tvg-id="alf" group-title="otros",Alf
 http://tv.teleclub.xyz/envivo/24_7/ALF/index.m3u8
+#EXTINF:-1 tvg-id="correcaminos" group-title="otros",Correcaminos
+Correcaminos
+http://tv.teleclub.xyz/envivo/24_7/CORRECAMINOS/index.m3u8
