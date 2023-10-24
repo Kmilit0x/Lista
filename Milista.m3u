@@ -137,5 +137,5 @@ https://stream-04.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4LswRu-2ODVijAm49_LF
 #otros
 #EXTINF:-1 tvg-id="alf" group-title="otros",Alf
 http://tv.teleclub.xyz/envivo/24_7/ALF/index.m3u8
-#EXTINF:-1 tvg-id="alf" group-title="otros",Correcamino
+#EXTINF:-1 group-title="otros",Correcamino
 http://tv.teleclub.xyz/envivo/24_7/CORRECAMINOS/index.m3u8
