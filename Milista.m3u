@@ -106,8 +106,10 @@ http://tv.teleclub.xyz/envivo/Infantil/DISCOVERY_KIDS/index.m3u8
 http://tv.teleclub.xyz/envivo/24_7/CHAPULIN_COLORADO/index.m3u8
 #EXTINF:-1 group-title="Infantiles",LOONEYTOONS
 http://tv.teleclub.xyz/envivo/24_7/LOONEYTOONS_247/index.m3u8
-EXTINF:-1 group-title="Infantiles",TOONCAST
+#EXTINF:-1 group-title="Infantiles",TOONCAST
 http://tv.teleclub.xyz/envivo/Infantil/TOONCAST/index.m3u8
+#EXTINF:-1 group-title="Infantiles",Disney Jr
+http://00322.xyz:8000/rances123/9IFBBCRBIX/2819
 ################################################################
 #Deportes
 ################################################################
