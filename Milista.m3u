@@ -35,8 +35,10 @@ https://rakuten-euronews-4-es.samsung.wurl.com/manifest/f1f29e913cb79ff20b9491b0
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:-1 group-title="Peliculas",PlanetaTV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?tecnotv
+
 #EXTINF:-1 group-title="Peliculas",Bayres Tv
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?TecnoPlaylist
+
 #EXTINF:-1 group-title="Peliculas", GEN TV
 https://inliveserver.com:1936/14056/14056/chunklist_w1743376968.m3u8
 #EXTINF:-1 group-title="Peliculas",Neo TV
