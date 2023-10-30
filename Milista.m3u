@@ -5,18 +5,20 @@ http://hidra.live:80/vvxegoaa/ggB4z56P7d/43320.ts
 #EXTINF:-1 tvg-id="TVPublica.ar" group-title="Generales",TV Pública 
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 tvg-id="ElNueve.ar" group-title="Generales",El Nueve
-http://hidra.live:80/vvxegoaa/ggB4z56P7d/43317.ts
+http://disfruta.net:80/htapias36/FaECsfqEsp/358
 #EXTINF:-1 tvg-id="ElTrece.ar" group-title="Generales",El Trece 
 http://hidra.live:80/vvxegoaa/ggB4z56P7d/43314.ts
+EXTINF:-1 group-title="Generales",Telefe
+http://disfruta.net:80/htapias36/FaECsfqEsp/375
 ################################################################
 #Noticias
 ################################################################
 #EXTINF:-1 tvg-id="TN.ar" group-title="Noticias",TN Todo Noticias
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-id="A24" group-title="Noticias",A24
-http://hidra.live:80/vvxegoaa/ggB4z56P7d/43323.ts
+http://disfruta.net:80/htapias36/FaECsfqEsp/340
 #EXTINF:-1 tvg-id="C5N.ar" group-title="Noticias",C5N 
-https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+http://disfruta.net:80/htapias36/FaECsfqEsp/344
 #EXTINF:-1 tvg-id="Canal 26" group-title="Noticias", Canal 26
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-id="CnArNoticias.ar" group-title="Noticias",CnAr Noticias 
