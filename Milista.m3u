@@ -1,4 +1,4 @@
-Yo#EXTM3U 
+#EXTM3U 
 #Generales
 #EXTINF:-1 tvg-id="America" group-title="Generales",America
 http://hidra.live:80/vvxegoaa/ggB4z56P7d/43320.ts
@@ -202,9 +202,9 @@ http://home-playtv.com:8080/marcelalopez/CHXRH/177323
 #EXTINF:-1 group-title="otros",24/7 BEN 10 
 http://home-playtv.com:8080/marcelalopez/CHXRH/107843
 
-24/7 | MacGiver ⭐️
+#EXTINF:-1 group-title="otros",24/7 | MacGiver ⭐️
 http://home-playtv.com:8080/marcelalopez/CHXRH/257380
 
-24/7 | El Auto Fantástico ⭐️
+#EXTINF:-1 group-title="otros",24/7 | El Auto Fantástico ⭐️
 http://home-playtv.com:8080/marcelalopez/CHXRH/107873
 
