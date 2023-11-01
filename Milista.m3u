@@ -85,6 +85,8 @@ https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
 ################################################################
 #Infantiles
 ################################################################
+#EXTINF:-1 tvg-id="El Chavo" group-title="Infantiles",Super Mario Brs
+https://brunochanrio.github.io/Listas-IPTV/super-mario-bros-la-pelicula.m3u
 #EXTINF:-1 tvg-id="El Chavo" group-title="Infantiles",El Chavo
 http://gustvplay.com:8080/zgavR7zhCjes/fxwTvAJBv2NJ/84027
 #EXTINF:-1 tvg-id="PakaPaka" group-title="Infantiles",PakaPaka
