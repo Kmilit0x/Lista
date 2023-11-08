@@ -68,7 +68,7 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/TNT/index.m3u8
 #EXTINF:-1 group-title="Peliculas",CINEMAX
 http://tv.teleclub.xyz/envivo/Entretenimiento/CINEMAX/index.m3u8
 #EXTINF:-1 group-title="Peliculas",CINECANAL
-http://tv.teleclub.xyz/envivo/Entretenimiento/CINECANAL/index.m3u8
+http://lunar.pm:8080/GerryH24/Sb56nt/112451
 #EXTINF:-1 group-title="Peliculas",HBO
 http://tv.teleclub.xyz/envivo/Entretenimiento/HBO/index.m3u8
 #EXTINF:-1 group-title="Peliculas",HBO_FAMILY
