@@ -58,13 +58,15 @@ https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
 #EXTINF:-1 group-title="Peliculas",Xtrema Family
 https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
 #EXTINF:-1 group-title="Peliculas",STAR_CHANNEL
-http://tv.soccerplus.link:8000/alberto/emma18/22182
+http://tv.soccerplus.link:8000/alberto/emma18/22184
 #EXTINF:-1 group-title="Peliculas",UNIVERSAL_TV
-http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_TV/index.m3u8
+http://tv.soccerplus.link:8000/alberto/emma18/22240
+#EXTINF:-1 group-title="Peliculas",UNIVERSAL_TV
+http://tv.soccerplus.link:8000/alberto/emma18/22241
 #EXTINF:-1 group-title="Peliculas",WARNER_TV
-http://tv.teleclub.xyz/envivo/Entretenimiento/WARNER_TV/index.m3u8
+http://tv.soccerplus.link:8000/alberto/emma18/6727
 #EXTINF:-1 group-title="Peliculas",TNT
-http://tv.teleclub.xyz/envivo/Entretenimiento/TNT/index.m3u8
+http://tv.soccerplus.link:8000/alberto/emma18/6678
 #EXTINF:-1 group-title="Peliculas",CINEMAX
 http://tv.teleclub.xyz/envivo/Entretenimiento/CINEMAX/index.m3u8
 #EXTINF:-1 group-title="Peliculas",CINECANAL
@@ -73,13 +75,16 @@ http://lunar.pm:8080/GerryH24/Sb56nt/112451
 http://tv.teleclub.xyz/envivo/Entretenimiento/HBO/index.m3u8
 #EXTINF:-1 group-title="Peliculas",HBO_FAMILY
 http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_FAMILY/index.m3u8
-
+EXTINF:-1 group-title="Peliculas",Space
+http://tv.soccerplus.link:8000/alberto/emma18/22219
 
 ################################################################
 #Series
 ################################################################
 #EXTINF:-1 group-title="Series",Xtrema Retro Series
 https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
+#EXTINF:-1 group-title="Series",TnT Series
+http://tv.soccerplus.link:8000/alberto/emma18/6731
 ################################################################
 #Infantiles
 ################################################################
@@ -101,7 +106,7 @@ http://tv.teleclub.xyz/envivo/Infantil/DISNEY_JUNIOR/index.m3u8
 http://tv.teleclub.xyz/envivo/Infantil/DISNEY_CHANNEL/index.m3u8
 
 #EXTINF:-1 group-title="Infantiles",NICK_JR
-http://tv.teleclub.xyz/envivo/Infantil/NICK_JR/index.m3u8
+http://tv.soccerplus.link:8000/alberto/emma18/22319
 EXTINF:-1 group-title="Infantiles",DISCOVERY_KIDS
 http://tv.teleclub.xyz/envivo/Infantil/DISCOVERY_KIDS/index.m3u8
 #EXTINF:-1 group-title="Infantiles",El Chapulin Colorado
@@ -112,6 +117,8 @@ http://tv.teleclub.xyz/envivo/24_7/LOONEYTOONS_247/index.m3u8
 http://tv.teleclub.xyz/envivo/Infantil/TOONCAST/index.m3u8
 #EXTINF:-1 group-title="Infantiles",Disney Jr
 http://00322.xyz:8000/rances123/9IFBBCRBIX/2819
+#EXTINF:-1 group-title="Infantiles",Nickelodeon
+http://tv.soccerplus.link:8000/alberto/emma18/22315
 ################################################################
 #Deportes
 ################################################################
@@ -147,6 +154,8 @@ https://stmv1.cnarlatam.com/astronet/astronet/playlist.m3u8
 https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
 #EXTINF:-1 group-title="Documentales",Xtrema Animal
 https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
+#EXTINF:-1 group-title="Documentales",NatGeo
+http://tv.soccerplus.link:8000/alberto/emma18/22286
 ################################################################
 #Musica
 ################################################################
@@ -190,7 +199,7 @@ http://home-playtv.com:8080/marcelalopez/CHXRH/216938
 #EXTINF:-1 group-title="otros",ESPN 3 
 http://home-playtv.com:8080/marcelalopez/CHXRH/19459
 #EXTINF:-1 group-title="otros",TNT Sports AR
-http://home-playtv.com:8080/marcelalopez/CHXRH/211363
+http://tv.soccerplus.link:8000/alberto/emma18/22145
 #EXTINF:-1 group-title="otros",ESPN Premium HD AR
 http://home-playtv.com:8080/marcelalopez/CHXRH/215252
 #EXTINF:-1 group-title="otros",Paramount
