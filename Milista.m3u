@@ -72,12 +72,15 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/CINEMAX/index.m3u8
 #EXTINF:-1 group-title="Peliculas",CINECANAL
 http://lunar.pm:8080/GerryH24/Sb56nt/112451
 #EXTINF:-1 group-title="Peliculas",HBO
-http://tv.teleclub.xyz/envivo/Entretenimiento/HBO/index.m3u8
+http://tv.soccerplus.link:8000/alberto/emma18/32894
 #EXTINF:-1 group-title="Peliculas",HBO_FAMILY
-http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_FAMILY/index.m3u8
-EXTINF:-1 group-title="Peliculas",Space
+http://tv.soccerplus.link:8000/alberto/emma18/22208
+EXTINF:-1 group-title="Peliculas",Hbo Plus
+http://tv.soccerplus.link:8000/alberto/emma18/22209
+#EXTINF:-1 group-title="Peliculas",Space
 http://tv.soccerplus.link:8000/alberto/emma18/22219
-
+#EXTINF:-1 group-title="Peliculas",Fx HD
+http://tv.soccerplus.link:8000/alberto/emma18/6737
 ################################################################
 #Series
 ################################################################
@@ -129,8 +132,8 @@ https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
 #EXTINF:-1 tvg-id="TYC SPORTS" group-title="Deportes",TYC SPORTS
 https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="FoxSports" group-title="Deportes",FoxSports
-http://tv.teleclub.xyz/envivo/Deportes/FOXSPORTS_PREMIUM/index.m3u8
-#EXTINF:-1 tvg-id="ARG-Espn 1" group-title="Deportes",FOX_SPORTS_3
+http://tv.soccerplus.link:8000/alberto/emma18/92724
+#EXTINF:-1 group-title="Deportes",FOX_SPORTS_3
 http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_3_SUR/index.m3u8
 #EXTINF:-1 tvg-id="ARG-Espn 1" group-title="Deportes",TNT_SPORTS
 http://tv.teleclub.xyz/envivo/Deportes/TNT_SPORTS/index.m3u8
@@ -139,7 +142,7 @@ http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8
 #EXTINF:-1 group-title="Deportes",DIRECTV
 http://tv.teleclub.xyz/envivo/Deportes/DIRECTV/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN
-http://tv.teleclub.xyz/envivo/Deportes/ESPN_SUR/index.m3u8
+http://home-playtv.com:8080/marcelalopez/CHXRH/19459
 
 ################################################################
 #Documentales
@@ -156,6 +159,8 @@ https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
 https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
 #EXTINF:-1 group-title="Documentales",NatGeo
 http://tv.soccerplus.link:8000/alberto/emma18/22286
+#EXTINF:-1 group-title="Documentales",Historia channel
+http://tv.soccerplus.link:8000/alberto/emma18/22278
 ################################################################
 #Musica
 ################################################################
