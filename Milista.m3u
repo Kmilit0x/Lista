@@ -1,7 +1,9 @@
 #EXTM3U 
 #Generales
+#EXTINF:-1 tvg-id="5R Tv"
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?TecnoPlaylist
 #EXTINF:-1 tvg-id="America" group-title="Generales",America
-http://hidra.live:80/vvxegoaa/ggB4z56P7d/43320.ts
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="TVPublica.ar" group-title="Generales",TV Pública 
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 tvg-id="ElNueve.ar" group-title="Generales",El Nueve
@@ -10,6 +12,8 @@ http://disfruta.net:80/htapias36/FaECsfqEsp/357
 http://hidra.live:80/vvxegoaa/ggB4z56P7d/43314.ts
 #EXTINF:-1 group-title="Generales",Telefe
 http://disfruta.net:80/htapias36/FaECsfqEsp/375
+
+
 ################################################################
 #Noticias
 ################################################################
@@ -122,27 +126,35 @@ http://tv.teleclub.xyz/envivo/Infantil/TOONCAST/index.m3u8
 http://00322.xyz:8000/rances123/9IFBBCRBIX/2819
 #EXTINF:-1 group-title="Infantiles",Nickelodeon
 http://tv.soccerplus.link:8000/alberto/emma18/22315
+#EXTINF:-1 group-title="Infantiles",La casa de Mickey mouse 
+http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/37834
+#EXTINF:-1 group-title="Infantiles",Looney Toons
+http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/37848
+
+
 ################################################################
 #Deportes
 ################################################################
-#EXTINF:-1 tvg-id="DeporTV.ar" group-title="Deportes",DeporTV 
+#EXTINF:-1 group-title="Deportes",DeporTV 
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1 tvg-id="CnAr Deportes" group-title="Deportes",CnAr Deportes
+#EXTINF:-1 group-title="Deportes",CnAr Deportes
 https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
-#EXTINF:-1 tvg-id="TYC SPORTS" group-title="Deportes",TYC SPORTS
+#EXTINF:-1 group-title="Deportes",TYC SPORTS
 https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="FoxSports" group-title="Deportes",FoxSports
 http://tv.soccerplus.link:8000/alberto/emma18/92724
-#EXTINF:-1 group-title="Deportes",FOX_SPORTS_3
-http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_3_SUR/index.m3u8
-#EXTINF:-1 tvg-id="ARG-Espn 1" group-title="Deportes",TNT_SPORTS
-http://tv.teleclub.xyz/envivo/Deportes/TNT_SPORTS/index.m3u8
+#EXTINF:-1 group-title="Deportes",FOX SPORT PREMIUM
+http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/59809
+#EXTINF:-1 group-title="Deportes",TNT_SPORTS
+http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/166822
 #EXTINF:-1 group-title="Deportes",Claro Deporte
 http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8
 #EXTINF:-1 group-title="Deportes",DIRECTV
 http://tv.teleclub.xyz/envivo/Deportes/DIRECTV/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN
 http://home-playtv.com:8080/marcelalopez/CHXRH/19459
+
+
 
 ################################################################
 #Documentales
@@ -195,7 +207,7 @@ https://stream-04.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4LswRu-2ODVijAm49_LF
 
 #otros
 #EXTINF:-1 group-title="otros",Alf
-http://tv.teleclub.xyz/envivo/24_7/ALF/index.m3u8
+http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/37766
 #EXTINF:-1 group-title="otros",Correcamino
 http://tv.teleclub.xyz/envivo/24_7/CORRECAMINOS/index.m3u8
 #EXTINF:-1 group-title="otros",Los Simpsons
@@ -223,3 +235,5 @@ http://home-playtv.com:8080/marcelalopez/CHXRH/257380
 http://home-playtv.com:8080/marcelalopez/CHXRH/107873
 #EXTINF:-1 group-title="otros",Discovery kids
 http://disfruta.net:80/htapias36/FaECsfqEsp/2174
+#EXTINF:-1 group-title="otros", Chapulín colorado 
+http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/37765
