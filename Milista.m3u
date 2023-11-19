@@ -1,7 +1,7 @@
 #EXTM3U 
 #Generales
 #EXTINF:-1 group-title="Generales",America
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+http://visi4k.site:8080/play/rtKqSB9wbsu60u3m77qMgzdXTGza7QtunD6b60BjEEdLwmlyPYlWVAeM1wwnmsKw/ts
 #EXTINF:-1 tvg-id="TVPublica.ar" group-title="Generales",TV Pública 
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 tvg-id="ElNueve.ar" group-title="Generales",El Nueve
