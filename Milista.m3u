@@ -131,7 +131,7 @@ http://tv.soccerplus.link:8000/alberto/emma18/22319
 EXTINF:-1 group-title="Infantiles",DISCOVERY_KIDS
 http://tv.teleclub.xyz/envivo/Infantil/DISCOVERY_KIDS/index.m3u8
 #EXTINF:-1 group-title="Infantiles",El Chapulin Colorado
-http://tv.teleclub.xyz/envivo/24_7/CHAPULIN_COLORADO/index.m3u8
+http://disfruta.net:80/htapias36/FaECsfqEsp/2174
 #EXTINF:-1 group-title="Infantiles",LOONEYTOONS
 http://tv.teleclub.xyz/envivo/24_7/LOONEYTOONS_247/index.m3u8
 #EXTINF:-1 group-title="Infantiles",TOONCAST
@@ -144,6 +144,7 @@ http://tv.soccerplus.link:8000/alberto/emma18/22315
 http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/37834
 #EXTINF:-1 group-title="Infantiles",Looney Toons
 http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/37848
+
 
 
 ################################################################
@@ -239,15 +240,12 @@ http://clubtv.link/o2810/key7132/lista.php?c=185
 http://clubtv.link/o2810/key7132/lista.php?c=173
 #EXTINF:-1 group-title="otros",Cinema DC Universe 
 http://home-playtv.com:8080/marcelalopez/CHXRH/177323
-#EXTINF:-1 group-title="otros",24/7 BEN 10 
-http://home-playtv.com:8080/marcelalopez/CHXRH/107843
 
-#EXTINF:-1 group-title="otros",24/7 | MacGiver 
+
+#seriesretro
+#EXTINF:-1 group-title="seriesretro",24/7 | MacGiver 
 http://home-playtv.com:8080/marcelalopez/CHXRH/257380
-
-#EXTINF:-1 group-title="otros",24/7 | El Auto Fantástico 
+#EXTINF:-1 group-title="seriesretro",24/7 | El Auto Fantástico 
 http://home-playtv.com:8080/marcelalopez/CHXRH/107873
-#EXTINF:-1 group-title="otros",Discovery kids
-http://disfruta.net:80/htapias36/FaECsfqEsp/2174
-#EXTINF:-1 group-title="otros", Chapulín colorado 
-http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/37765
+#EXTINF:-1 group-title="seriesretro",24/7 BEN 10 
+http://home-playtv.com:8080/marcelalopez/CHXRH/107843
