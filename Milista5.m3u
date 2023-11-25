@@ -32,8 +32,6 @@ https://panel.dattalive.com/8064/8064/playlist.m3u8
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:-1 group-title="NOTICIAS",TN
 https://castlempire.site:443/FerMatinez/9ZnhDmS2C3bN/184393.m3u8
-#EXTINF:-1 group-title="NOTICIAS", Canal 26
-http://disfruta.net:80/htapias36/FaECsfqEsp/347
 #EXTINF:-1 group-title="NOTICIAS",C5N 
 http://disfruta.net:80/htapias36/FaECsfqEsp/344
 #EXTINF:-1 group-title="NOTICIAS",A24
@@ -43,7 +41,7 @@ http://oaktvpro.club:8080/993429811/Thiago3011/5763
 
 
 #INFANTILES
-#EXTINF:-1 group-title="INFANTILES" DISNEY CHANNEL
+#EXTINF:-1 group-title="INFANTILES",DISNEY CHANNEL
 http://665588472100321214.of1124.xyz:80/play/hu419653/MDbXaEU3RcAn/321214.ts
 #EXTINF:-1 group-title="INFANTILES",Super Mario Brs
 https://ia902305.us.archive.org/34/items/videotime-cine-latino/Super%20Mario%20Bros.%20La%20pelicula.mp4
