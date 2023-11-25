@@ -18,11 +18,9 @@ http://disfruta.net:80/htapias36/FaECsfqEsp/374
 http://tv.proyectox.vip:8080/voolooo/BDsjuVShby/101841
 #EXTINF:-1 group-title="GENERALES",Canal 5
 https://castlempire.site:443/FerMatinez/9ZnhDmS2C3bN/184440.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS",Canal 5 Rosario
+#EXTINF:-1 group-title="GENERALES",Canal 5 Rosario
 https://jaciptv.com:443/8752ALsv/ewjK5VvjD77u/184415.ts
-
-Canal 3 Rosario
+#EXTINF:-1 group-title="GENERALES",Canal 3 Rosario
 https://jaciptv.com:443/8752ALsv/ewjK5VvjD77u/184415.ts
 
 #NOTICIAS
@@ -64,9 +62,9 @@ https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 
 
 #PELICULAS
-#EXTINF:-1 group-title="Peliculas",PlanetaTV Movie
+#EXTINF:-1 group-title="PELICULAS",PlanetaTV Movie
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
-#EXTINF:-1 group-title="Peliculas",PlanetaTV Kids
+#EXTINF:-1 group-title="PELICULAS",PlanetaTV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?tecnotv
 #EXTINF:-1 group-title="PELICULAS",Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
@@ -108,9 +106,9 @@ http://tv.soccerplus.link:8000/alberto/emma18/6727
 http://tv.soccerplus.link:8000/alberto/emma18/6678
 #EXTINF:-1 group-title="DECABLE",CINEMAX
 http://disfruta.net:80/htapias36/FaECsfqEsp/2211
-#EXTINF:-1 group-title="Peliculas",CINECANAL
+#EXTINF:-1 group-title="DECABLE",CINECANAL
 http://disfruta.net:80/htapias36/FaECsfqEsp/2204
-#EXTINF:-1 group-title="Peliculas",HBO
+#EXTINF:-1 group-title="DECABLE",HBO
 http://tv.soccerplus.link:8000/alberto/emma18/32894
 #EXTINF:-1 group-title="DECABLE",HBO_FAMILY
 http://tv.soccerplus.link:8000/alberto/emma18/22208
