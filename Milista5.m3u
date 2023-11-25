@@ -8,8 +8,6 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1 group-title="GENERALES",TV Publica
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-#EXTINF:-1 group-title="GENERALES", Americatv
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 group-title="GENERALES",El Nueve
 http://disfruta.net:80/htapias36/FaECsfqEsp/357
 #EXTINF:-1 group-title="GENERALES",Telefe
@@ -22,7 +20,7 @@ https://castlempire.site:443/FerMatinez/9ZnhDmS2C3bN/184440.m3u8
 https://jaciptv.com:443/8752ALsv/ewjK5VvjD77u/184415.ts
 #EXTINF:-1 group-title="GENERALES",Canal 3 Rosario
 https://jaciptv.com:443/8752ALsv/ewjK5VvjD77u/184415.ts
-Americatv
+#EXTINF:-1 group-title="GENERALES",Americatv
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #NOTICIAS
