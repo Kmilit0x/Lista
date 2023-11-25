@@ -10,6 +10,10 @@ https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 group-title="GENERALES", Americatv
 http://home-playtv.com:8080/nubetvgt/HYFGE342htd4/209741
+#EXTINF:-1 group-title="GENERALES",El Nueve
+http://disfruta.net:80/htapias36/FaECsfqEsp/357
+#EXTINF:-1 group-title="GENERALES",Telefe
+http://disfruta.net:80/htapias36/FaECsfqEsp/374
 
 #NOTICIAS
 #EXTINF:-1 group-title="NOTICIAS",C5N
@@ -18,10 +22,22 @@ https://panel.dattalive.com/8064/8064/playlist.m3u8
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:-1 group-title="NOTICIAS",TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-#EXTINF:-1 group-title="NOTICIAS",Canal 26
-http://home-playtv.com:8080/nubetvgt/HYFGE342htd4/54199
+#EXTINF:-1 group-title="NOTICIAS", Canal 26
+http://disfruta.net:80/htapias36/FaECsfqEsp/347
+#EXTINF:-1 group-title="NOTICIAS",C5N 
+http://disfruta.net:80/htapias36/FaECsfqEsp/344
+#EXTINF:-1 group-title="NOTICIAS",A24
+http://disfruta.net:80/htapias36/FaECsfqEsp/340
 
 #INFANTILES
+#EXTINF:-1 group-title="INFANTILES",Super Mario Brs
+https://ia902305.us.archive.org/34/items/videotime-cine-latino/Super%20Mario%20Bros.%20La%20pelicula.mp4
+#EXTINF:-1 tvg-id="El Chavo" group-title="INFANTILES",El Chavo
+http://gustvplay.com:8080/zgavR7zhCjes/fxwTvAJBv2NJ/84027
+#EXTINF:-1 tvg-id="PakaPaka" group-title="INFANTILES",PakaPaka
+https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/chunklist_w2051298164.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network"  group-title="INFANTILES",Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 group-title="INFANTILES",Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="SuperKaosTV.ar" tvg-logo="https://i.imgur.com/uOkAHVq.png" group-title="INFANTILES",Super Kaos TV
@@ -33,7 +49,12 @@ https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 #EXTINF:-1 group-title="INFANTILES",Xtrema Retro Cartoons
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 
+
 #PELICULAS
+#EXTINF:-1 group-title="Peliculas",PlanetaTV Movie
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+#EXTINF:-1 group-title="Peliculas",PlanetaTV Kids
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?tecnotv
 #EXTINF:-1 group-title="PELICULAS",Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 group-title="PELICULAS",Neo TV
@@ -58,6 +79,30 @@ https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
 https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
 #EXTINF:-1 group-title="PELICULAS",Xtrema Suspenso
 https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
+
+#DECABLE
+#EXTINF:-1 group-title="DECABLE",STAR_CHANNEL
+http://tv.soccerplus.link:8000/alberto/emma18/22184
+#EXTINF:-1 group-title="DECABLE",UNIVERSAL_TV
+http://tv.soccerplus.link:8000/alberto/emma18/22240
+#EXTINF:-1 group-title="DECABLE",WARNER_TV
+http://tv.soccerplus.link:8000/alberto/emma18/6727
+#EXTINF:-1 group-title="DECABLE",TNT
+http://tv.soccerplus.link:8000/alberto/emma18/6678
+#EXTINF:-1 group-title="DECABLE",CINEMAX
+http://disfruta.net:80/htapias36/FaECsfqEsp/2211
+#EXTINF:-1 group-title="Peliculas",CINECANAL
+http://disfruta.net:80/htapias36/FaECsfqEsp/2204
+#EXTINF:-1 group-title="Peliculas",HBO
+http://tv.soccerplus.link:8000/alberto/emma18/32894
+#EXTINF:-1 group-title="DECABLE",HBO_FAMILY
+http://tv.soccerplus.link:8000/alberto/emma18/22208
+EXTINF:-1 group-title="DECABLE",Hbo Plus
+http://tv.soccerplus.link:8000/alberto/emma18/22209
+#EXTINF:-1 group-title="DECABLE",Space
+http://tv.soccerplus.link:8000/alberto/emma18/22219
+#EXTINF:-1 group-title="DECABLE",Fx HD
+http://tv.soccerplus.link:8000/alberto/emma18/6737
 
 #SERIES
 #EXTINF:-1 group-title="SERIES",Xtrema Retro Series
