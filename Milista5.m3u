@@ -9,7 +9,7 @@ https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1 group-title="GENERALES",TV Publica
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 group-title="GENERALES", Americatv
-http://home-playtv.com:8080/nubetvgt/HYFGE342htd4/209741
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 group-title="GENERALES",El Nueve
 http://disfruta.net:80/htapias36/FaECsfqEsp/357
 #EXTINF:-1 group-title="GENERALES",Telefe
