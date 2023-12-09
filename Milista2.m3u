@@ -1,17 +1,29 @@
 #EXTM3U 
-#EXTINF:-1 group-title="About", AGOSTO | Latino | teleclub! http://tv.teleclub.xyz/hls/welcome.m3u8 
-#EXTINF:-1 group-title="About", Activar desde www.teleclub.xyz/activar http://tv.teleclub.xyz/hls/welcome.m3u8 
-#EXTINF:-1 group-title="About", Telegram: @teleclubxyz http://tv.teleclub.xyz/hls/welcome.m3u8 
-#EXTINF:-1 group-title="Eventos", EVENTO 01 http://tv.teleclub.xyz/envivo/Eventos/EVENTO_01/index.m3u8 
-#EXTINF:-1  group-title="Eventos", EVENTO 02 http://tv.teleclub.xyz/envivo/Eventos/EVENTO_02/index.m3u8 
-#EXTINF:-1 group-title="Eventos", EVENTO 04 http://tv.teleclub.xyz/envivo/Eventos/EVENTO_04/index.m3u8 
-#EXTINF:-1 group-title="Eventos", EVENTO 05 http://tv.teleclub.xyz/envivo/Eventos/EVENTO_05/index.m3u8 
-#EXTINF:-1 group-title="Infantil", Cartoon Network http://tv.teleclub.xyz/envivo/Infantil/CARTOON_NETWORK/index.m3u8 
-#EXTINF:-1 group-title="Infantil", Disney Channel http://tv.teleclub.xyz/envivo/Infantil/DISNEY_CHANNEL/index.m3u8 
-#EXTINF:-1 group-title="Infantil", Disney Jr http://tv.teleclub.xyz/envivo/Infantil/DISNEY_JUNIOR/index.m3u8 
-#EXTINF:-1 group-title="Infantil", Discovery Kids http://tv.teleclub.xyz/envivo/Infantil/DISCOVERY_KIDS/index.m3u8 
-#EXTINF:-1 group-title="Infantil", Nick http://tv.teleclub.xyz/envivo/Infantil/NICK/index.m3u8 
-#EXTINF:-1 group-title="Infantil", Nick Jr http://tv.teleclub.xyz/envivo/Infantil/NICK_JR/index.m3u8 
-#EXTINF:-1 group-title="Infantil", Tooncast http://tv.teleclub.xyz/envivo/Infantil/TOONCAST/index.m3u8 
-#EXTINF:-1 group-title="Infantil", Bitme http://tv.teleclub.xyz/envivo/Infantil/BITME/index.m3u8 
-#EXTINF:-1 group-title="Infantil", Cartoonito http://tv.teleclub.xyz/envivo/Infantil/CARTOONITO/index.m3u8 
+#EXTINF:-1 group-title="About", AGOSTO | Latino | teleclub! 
+http://tv.teleclub.xyz/hls/welcome.m3u8 
+#EXTINF:-1 group-title="Eventos", EVENTO 01 
+http://tv.teleclub.xyz/envivo/Eventos/EVENTO_01/index.m3u8 
+#EXTINF:-1  group-title="Eventos", EVENTO 02 
+http://tv.teleclub.xyz/envivo/Eventos/EVENTO_02/index.m3u8 
+#EXTINF:-1 group-title="Eventos", EVENTO 04 
+http://tv.teleclub.xyz/envivo/Eventos/EVENTO_04/index.m3u8 
+#EXTINF:-1 group-title="Eventos", EVENTO 05 
+http://tv.teleclub.xyz/envivo/Eventos/EVENTO_05/index.m3u8 
+#EXTINF:-1 group-title="Infantil", Cartoon Network 
+http://tv.teleclub.xyz/envivo/Infantil/CARTOON_NETWORK/index.m3u8 
+#EXTINF:-1 group-title="Infantil", Disney Channel 
+http://tv.teleclub.xyz/envivo/Infantil/DISNEY_CHANNEL/index.m3u8 
+#EXTINF:-1 group-title="Infantil", Disney Jr 
+http://tv.teleclub.xyz/envivo/Infantil/DISNEY_JUNIOR/index.m3u8 
+#EXTINF:-1 group-title="Infantil", Discovery Kids 
+http://tv.teleclub.xyz/envivo/Infantil/DISCOVERY_KIDS/index.m3u8 
+#EXTINF:-1 group-title="Infantil", Nick 
+http://tv.teleclub.xyz/envivo/Infantil/NICK/index.m3u8 
+#EXTINF:-1 group-title="Infantil", Nick Jr 
+http://tv.teleclub.xyz/envivo/Infantil/NICK_JR/index.m3u8 
+#EXTINF:-1 group-title="Infantil", Tooncast 
+http://tv.teleclub.xyz/envivo/Infantil/TOONCAST/index.m3u8 
+#EXTINF:-1 group-title="Infantil", Bitme 
+http://tv.teleclub.xyz/envivo/Infantil/BITME/index.m3u8 
+#EXTINF:-1 group-title="Infantil", Cartoonito 
+http://tv.teleclub.xyz/envivo/Infantil/CARTOONITO/index.m3u8 
