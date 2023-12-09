@@ -13,7 +13,7 @@ http://tv.teleclub.xyz/envivo/Eventos/EVENTO_02/index.m3u8
 http://tv.teleclub.xyz/envivo/Eventos/EVENTO_04/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Eventos", EVENTO 05 
 http://tv.teleclub.xyz/envivo/Eventos/EVENTO_05/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", Cartoon Network 
+#EXTINF:-1 group-title="Infantil", Cartoon Network 
 http://tv.teleclub.xyz/envivo/Infantil/CARTOON_NETWORK/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil", Disney Channel 
 http://tv.teleclub.xyz/envivo/Infantil/DISNEY_CHANNEL/index.m3u8 
