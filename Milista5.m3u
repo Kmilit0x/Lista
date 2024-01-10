@@ -3,13 +3,13 @@
 #EXTINF:-1 group-title="GENERALES",13Max Television
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1 group-title="GENERALES",El Trece
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22098
 #EXTINF:-1 group-title="GENERALES",Santa Fe Canal
 https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-1 group-title="GENERALES",TV Publica
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 group-title="GENERALES",El Nueve
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/286030
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22101
 #EXTINF:-1 group-title="GENERALES",Telefe
 http://disfruta.net:80/htapias36/FaECsfqEsp/374
 #EXTINF:-1 group-title="GENERALES",ARG-Telefe2
@@ -25,17 +25,15 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #NOTICIAS
 #EXTINF:-1 group-title="NOTICIAS",C5N
-http://megaxtv.com:80/play/1_7UeTMxmBJbaqx37_fkZd9r2yNULKy22-R4BDNvOmA
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22097
 #EXTINF:-1 Group-title="NOTICIAS",La Nacion
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:-1 group-title="NOTICIAS",TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS",A24
 http://megaxtv.com:80/play/1_7UeTMxmBJbaqx37_fkZcKme45VkCbFwp2ZMwaJw60
-#EXTINF:-1 group-title="NOTICIAS",CANAL 26 NOTICIAS HD
-http://disfruta.net:80/htapias36/FaECsfqEsp/347
-
-
+#EXTINF:-1 group-title="NOTICIAS",CANAL 26 NOTICIAS
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22100
 
 #INFANTILES
 #EXTINF:-1 group-title="INFANTILES",DISNEY CHANNEL
