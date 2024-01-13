@@ -11,23 +11,17 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 #EXTINF:-1 group-title="GENERALES",El Nueve
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22101
 #EXTINF:-1 group-title="GENERALES",Telefe
-http://disfruta.net:80/htapias36/FaECsfqEsp/374
-#EXTINF:-1 group-title="GENERALES",ARG-Telefe2
 http://tv.proyectox.vip:8080/voolooo/BDsjuVShby/101841
-#EXTINF:-1 group-title="GENERALES",Canal 5
-https://castlempire.site:443/FerMatinez/9ZnhDmS2C3bN/184440.m3u8
-#EXTINF:-1 group-title="GENERALES",Canal 5 Rosario
-https://jaciptv.com:443/8752ALsv/ewjK5VvjD77u/184415.ts
-#EXTINF:-1 group-title="GENERALES",Canal 3 Rosario
-https://jaciptv.com:443/8752ALsv/ewjK5VvjD77u/184415.ts
 #EXTINF:-1 group-title="GENERALES",Americatv
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #NOTICIAS
+EXTINF:-1 group-title="NOTICIAS",Cronica
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22108
 #EXTINF:-1 group-title="NOTICIAS",C5N
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22097
-#EXTINF:-1 Group-title="NOTICIAS",La Nacion
-https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+
+
 #EXTINF:-1 group-title="NOTICIAS",TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS",A24
