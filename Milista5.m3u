@@ -1,5 +1,7 @@
 #EXTM3U
 #GENERALES
+#EXTINF:-1 group-title="GENERALES",
+http://kplay.red:80/336813/458453/682.ts
 #EXTINF:-1 group-title="GENERALES",13Max Television
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1 group-title="GENERALES",El Trece
