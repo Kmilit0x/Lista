@@ -67,22 +67,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
 #EXTINF:-1 group-title="PELICULAS",Solive TV
 https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8
-#EXTINF:-1 group-title="PELICULAS",Xtrema Accion
-https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 group-title="PELICULAS",Xtrema Comedy
-https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
-#EXTINF:-1 group-title="PELICULAS",Xtrema Drama
-https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
-#EXTINF:-1 group-title="PELICULAS",Xtrema Europa
-https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
-#EXTINF:-1  group-title="PELICULAS",Xtrema Family
-https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
-#EXTINF:-1 group-title="PELICULAS",Xtrema Hindi
-https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
-#EXTINF:-1 group-title="PELICULAS",Xtrema Latina
-https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
-#EXTINF:-1 group-title="PELICULAS",Xtrema Suspenso
-https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
+
 
 #DECABLE
 #EXTINF:-1 group-title="DECABLE",AXN 
