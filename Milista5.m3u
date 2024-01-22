@@ -98,9 +98,9 @@ http://tv.soccerplus.link:8000/alberto/emma18/6727
 #EXTINF:-1 group-title="DECABLE",TNT
 http://tv.soccerplus.link:8000/alberto/emma18/6678
 #EXTINF:-1 group-title="DECABLE",CINEMAX
-http://disfruta.net:80/htapias36/FaECsfqEsp/2211
+http://clubtv.link/2001en/key4513/lista.php?c=28&token=TECNOTVGENERADOR&f=.m3u8
 #EXTINF:-1 group-title="DECABLE",CINECANAL
-http://disfruta.net:80/htapias36/FaECsfqEsp/2204
+http://clubtv.link/2001en/key4513/lista.php?c=27&token=TECNOTVGENERADOR&f=.m3u8
 #EXTINF:-1 group-title="DECABLE",HBO
 http://tv.soccerplus.link:8000/alberto/emma18/32894
 #EXTINF:-1 group-title="DECABLE",HBO_FAMILY
@@ -111,6 +111,10 @@ http://tv.soccerplus.link:8000/alberto/emma18/22209
 http://cineplay.vip:8080/Vazjor/Hwf52YtYkN/25582
 #EXTINF:-1 group-title="DECABLE",Fx HD
 http://tv.soccerplus.link:8000/alberto/emma18/6737
+#EXTINF:-1 group-title="DECABLE",TCM
+http://clubtv.link/2001en/key4513/lista.php?c=36&token=TECNOTVGENERADOR&f=.m3u8
+#EXTINF:-1 group-title="DECABLE",Paramount
+http://clubtv.link/2001en/key4513/lista.php?c=185&token=TECNOTVGENERADOR&f=.m3u8
 
 #SERIES
 #EXTINF:-1 group-title="SERIES",Xtrema Retro Series
