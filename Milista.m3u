@@ -13,8 +13,10 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/101841
 
 #Noticias
 #EXTINF:-1 group-title="Noticias",TN NOTICIAS HD
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1 group-title="Noticias",Nacion+
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22124
-#EXTINF:-1 group-title="Noticias",A24
+EXTINF:-1 group-title="Noticias",A24
 
 #EXTINF:-1 group-title="Noticias",Cronica
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22108
@@ -121,7 +123,7 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 group-title="Deportes",CnAr Deportes
 https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
 #EXTINF:-1 group-title="Deportes",TYC SPORTS
-http://00322.xyz:8000/rances123/9IFBBCRBIX/4945
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/59813
 #EXTINF:-1 tvg-id="FoxSports" group-title="Deportes",FoxSports
 http://tv.soccerplus.link:8000/alberto/emma18/92724
 #EXTINF:-1 group-title="Deportes",FOX SPORT PREMIUM
