@@ -20,7 +20,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 https://www.dailymotion.com/cdn/live/video/x8aobf1.m3u8?sec=sO-huNA2pgAjHiVT9dyY1dFxSBzgGOsWN2phLUEeZijU40L4GEf6G4JIaITfow9r&dmTs=505949&dmV1st=fdc89e75-9e71-45c0-8aa2-8e0d8fa56463
 
 #NOTICIAS
-EXTINF:-1 group-title="NOTICIAS",Cronica
+#EXTINF:-1 group-title="NOTICIAS",Cronica
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22108
 #EXTINF:-1 group-title="NOTICIAS",C5N
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22097
