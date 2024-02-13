@@ -1,5 +1,7 @@
 #EXTM3U 
+################################################################
 #Generales
+################################################################
 #EXTINF:-1 group-title="Generales",America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/116192
 #EXTINF:-1 group-title="Generales",TV Pública 
@@ -11,33 +13,36 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22098
 #EXTINF:-1 group-title="Generales",Telefe
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/101841
 
+################################################################
 #Noticias
+################################################################
 #EXTINF:-1 group-title="Noticias",TN NOTICIAS HD
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 group-title="Noticias",Nacion+
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22124
 EXTINF:-1 group-title="Noticias",A24
-
 #EXTINF:-1 group-title="Noticias",Cronica
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22108
 #EXTINF:-1 group-title="Noticias",C5N 
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22097
 #EXTINF:-1 group-title="Noticias", Canal 26
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22100
-
+################################################################
 #Internacionales
+################################################################
 #EXTINF:-1 tvg-id="DW Español" group-title="Internacionales",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="Euronews" group-title="Internacionales",Euronews
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/f1f29e913cb79ff20b9491b00992ce53.m3u8
 
-
+################################################################
 #Peliculas
+################################################################
 #EXTINF:-1 group-title="Peliculas",PlanetaTV Movie
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:-1 group-title="Peliculas",PlanetaTV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?tecnotv
-#EXTINF:-1 group-title="nofuncan",Bayres Tv
+#EXTINF:-1 group-title="Peliculas",Bayres Tv
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?TecnoPlaylist
 #EXTINF:-1 group-title="Peliculas",Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -45,55 +50,73 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 group-title="Peliculas",Canal 34 San Juan
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+
+################################################################
 #plutotv
+################################################################
 #EXTINF:-1 group-title="plutotv",Pluto TV Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#premium
-#EXTINF:-1 group-title="premium",STAR_CHANNEL
+################################################################
+#DeCable
+################################################################
+#EXTINF:-1 group-title="DeCable",STAR_CHANNEL
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26901
-#EXTINF:-1 group-title="Peliculas",UNIVERSAL_TV
+#EXTINF:-1 group-title="DeCable",UNIVERSAL_TV
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26908
-#EXTINF:-1 group-title="Peliculas",WARNER_TV
+#EXTINF:-1 group-title="DeCable",WARNER_TV
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26908
-#EXTINF:-1 group-title="Peliculas",TNT
+#EXTINF:-1 group-title="DeCable",TNT
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26926
-#EXTINF:-1 group-title="Peliculas",CINEMAX
+#EXTINF:-1 group-title="DeCable",CINEMAX
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26903
-#EXTINF:-1 group-title="Peliculas",CINECANAL
+#EXTINF:-1 group-title="DeCable",CINECANAL
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26903
-#EXTINF:-1 group-title="Peliculas",HBO
+#EXTINF:-1 group-title="DeCable",HBO
 http://tv.soccerplus.link:8000/alberto/emma18/32894
-#EXTINF:-1 group-title="Peliculas",HBO_FAMILY
+#EXTINF:-1 group-title="DeCable",HBO_FAMILY
 http://tv.soccerplus.link:8000/alberto/emma18/22208
-EXTINF:-1 group-title="Peliculas",Hbo Plus
+EXTINF:-1 group-title="DeCable",Hbo Plus
 http://tv.soccerplus.link:8000/alberto/emma18/22209
-#EXTINF:-1 group-title="Peliculas",Space
+#EXTINF:-1 group-title="DeCable",Space
 http://tv.soccerplus.link:8000/alberto/emma18/22219
-#EXTINF:-1 group-title="Peliculas",Fx HD
+#EXTINF:-1 group-title="DeCable",Fx HD
 http://tv.soccerplus.link:8000/alberto/emma18/6737
+#EXTINF:-1 group-title="DeCable",Paramount
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1486
+#EXTINF:-1 group-title="DeCable",HBO
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/141189
+#EXTINF:-1 group-title="DeCable",Cinema DC Universe 
+http://home-playtv.com:8080/marcelalopez/CHXRH/177323
+
+
 ################################################################
 #Series
 ################################################################
 #EXTINF:-1 group-title="Series",TnT Series
 http://tv.soccerplus.link:8000/alberto/emma18/6731
+
+################################################################
+#seriesretro
+################################################################
+#EXTINF:-1 group-title="seriesretro",24/7 | MacGiver 
+http://home-playtv.com:8080/marcelalopez/CHXRH/257380
+#EXTINF:-1 group-title="seriesretro",24/7 | El Auto Fantástico 
+http://home-playtv.com:8080/marcelalopez/CHXRH/107873
+#EXTINF:-1 group-title="seriesretro",24/7 BEN 10 
+http://home-playtv.com:8080/marcelalopez/CHXRH/107843
+
 ################################################################
 #Infantiles
 ################################################################
-#EXTINF:-1 group-title="Infantiles",Super Mario Brs
-https://ia902305.us.archive.org/34/items/videotime-cine-latino/Super%20Mario%20Bros.%20La%20pelicula.mp4
-#EXTINF:-1 tvg-id="El Chavo" group-title="Infantiles",El Chavo
-http://gustvplay.com:8080/zgavR7zhCjes/fxwTvAJBv2NJ/84027
 #EXTINF:-1 tvg-id="PakaPaka" group-title="Infantiles",PakaPaka
 https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/chunklist_w2051298164.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network"  group-title="Infantiles",Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-
 #EXTINF:-1 group-title="Infantiles",DISNEY_JUNIOR
 http://tv.teleclub.xyz/envivo/Infantil/DISNEY_JUNIOR/index.m3u8
 #EXTINF:-1 group-title="Infantiles",DISNEY_CHANNEL
 http://tv.teleclub.xyz/envivo/Infantil/DISNEY_CHANNEL/index.m3u8
-
 #EXTINF:-1 group-title="Infantiles",NICK_JR
 http://tv.soccerplus.link:8000/alberto/emma18/22319
 EXTINF:-1 group-title="Infantiles",DISCOVERY_KIDS
@@ -136,9 +159,16 @@ http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8
 http://tv.teleclub.xyz/envivo/Deportes/DIRECTV/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN
 http://home-playtv.com:8080/marcelalopez/CHXRH/19459
-
 #EXTINF:-1 group-title="Deportes",foxsport
 http://00322.xyz:8000/rances123/9IFBBCRBIX/4787
+#EXTINF:-1 group-title="24/7",ESPN 3 
+http://home-playtv.com:8080/marcelalopez/CHXRH/19459
+#EXTINF:-1 group-title="24/7",TNT Sports AR
+http://tv.soccerplus.link:8000/alberto/emma18/22145
+#EXTINF:-1 group-title="24/7",ESPN Premium HD AR
+http://home-playtv.com:8080/marcelalopez/CHXRH/215252
+
+
 ################################################################
 #Documentales
 ################################################################
@@ -188,32 +218,16 @@ https://ythls.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
 #EXTINF:-1 tvg-id="Canal 3 Rosario" group-title="nofuncan",Canal 3 Rosario 
 https://dai.ly/x8aobf1
 
-#otros
-#EXTINF:-1 group-title="otros",Alf
+################################################################
+#24/7
+################################################################
+#EXTINF:-1 tvg-id="El Chavo" group-title="24/7",El Chavo
+http://gustvplay.com:8080/zgavR7zhCjes/fxwTvAJBv2NJ/84027
+#EXTINF:-1 group-title="24/7",X-Men (e)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37924
+#EXTINF:-1 group-title="24/7",Alf
 http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/37766
-#EXTINF:-1 group-title="otros",Correcamino
+#EXTINF:-1 group-title="24/7",Correcamino
 http://tv.teleclub.xyz/envivo/24_7/CORRECAMINOS/index.m3u8
-#EXTINF:-1 group-title="otros",Los Simpsons
+#EXTINF:-1 group-title="24/7",Los Simpsons
 http://home-playtv.com:8080/marcelalopez/CHXRH/216938
-
-#EXTINF:-1 group-title="otros",ESPN 3 
-http://home-playtv.com:8080/marcelalopez/CHXRH/19459
-#EXTINF:-1 group-title="otros",TNT Sports AR
-http://tv.soccerplus.link:8000/alberto/emma18/22145
-#EXTINF:-1 group-title="otros",ESPN Premium HD AR
-http://home-playtv.com:8080/marcelalopez/CHXRH/215252
-#EXTINF:-1 group-title="otros",Paramount
-http://clubtv.link/o2810/key7132/lista.php?c=185
-#EXTINF:-1 group-title="otros",HBO
-http://clubtv.link/o2810/key7132/lista.php?c=173
-#EXTINF:-1 group-title="otros",Cinema DC Universe 
-http://home-playtv.com:8080/marcelalopez/CHXRH/177323
-
-
-#seriesretro
-#EXTINF:-1 group-title="seriesretro",24/7 | MacGiver 
-http://home-playtv.com:8080/marcelalopez/CHXRH/257380
-#EXTINF:-1 group-title="seriesretro",24/7 | El Auto Fantástico 
-http://home-playtv.com:8080/marcelalopez/CHXRH/107873
-#EXTINF:-1 group-title="seriesretro",24/7 BEN 10 
-http://home-playtv.com:8080/marcelalopez/CHXRH/107843
