@@ -126,14 +126,12 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1377
 http://tv.soccerplus.link:8000/alberto/emma18/22319
 EXTINF:-1 group-title="Infantiles",DISCOVERY_KIDS
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1375
-#EXTINF:-1 group-title="Infantiles",El Chapulin Colorado
+EXTINF:-1 group-title="Infantiles",El Chapulin Colorado
 http://disfruta.net:80/htapias36/FaECsfqEsp/2174
-#EXTINF:-1 group-title="Infantiles",LOONEYTOONS
-http://tv.teleclub.xyz/envivo/24_7/LOONEYTOONS_247/index.m3u8
 #EXTINF:-1 group-title="Infantiles",TOONCAST
-http://tv.teleclub.xyz/envivo/Infantil/TOONCAST/index.m3u8
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1397
 #EXTINF:-1 group-title="Infantiles",Disney Jr
-http://00322.xyz:8000/rances123/9IFBBCRBIX/2819
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1382
 #EXTINF:-1 group-title="Infantiles",Nickelodeon
 http://tv.soccerplus.link:8000/alberto/emma18/22315
 #EXTINF:-1 group-title="Infantiles",La casa de Mickey mouse 
@@ -152,26 +150,33 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
 #EXTINF:-1 group-title="Deportes",TYC SPORTS
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/59813
-#EXTINF:-1 tvg-id="FoxSports" group-title="Deportes",FoxSports
-http://tv.soccerplus.link:8000/alberto/emma18/92724
-#EXTINF:-1 group-title="Deportes",FOX SPORT PREMIUM
-http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/59809
 #EXTINF:-1 group-title="Deportes",TNT_SPORTS
 http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/166822
+#EXTINF:-1 group-title="Deportes",TNT Sports AR
+http://tv.soccerplus.link:8000/alberto/emma18/22145
 #EXTINF:-1 group-title="Deportes",Claro Deporte
 http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8
 #EXTINF:-1 group-title="Deportes",DIRECTV
 http://tv.teleclub.xyz/envivo/Deportes/DIRECTV/index.m3u8
+
+#EXTINF:-1 group-title="Deportes",FoxSports
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/141445
+#EXTINF:-1 group-title="Deportes",Fox Sports 2 ARG 
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1526
+#EXTINF:-1 group-title="Deportes",FOX Sports Premium 
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/59809
 #EXTINF:-1 group-title="Deportes",ESPN
-http://home-playtv.com:8080/marcelalopez/CHXRH/19459
-#EXTINF:-1 group-title="Deportes",foxsport
-http://00322.xyz:8000/rances123/9IFBBCRBIX/4787
-#EXTINF:-1 group-title="24/7",ESPN 3 
-http://home-playtv.com:8080/marcelalopez/CHXRH/19459
-#EXTINF:-1 group-title="24/7",TNT Sports AR
-http://tv.soccerplus.link:8000/alberto/emma18/22145
-#EXTINF:-1 group-title="24/7",ESPN Premium HD AR
-http://home-playtv.com:8080/marcelalopez/CHXRH/215252
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166827
+#EXTINF:-1 group-title="Deportes",ESPN 2
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/967
+#EXTINF:-1 group-title="Deportes",ESPN 3 
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1542
+#EXTINF:-1 group-title="Deportes",ESPN Premium HD AR
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1528
+#EXTINF:-1 group-title="Deportes",Espn Extra ARG 
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69719
+#EXTINF:-1 group-title="Deportes",Espn 4 
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1525
 
 
 ################################################################
@@ -249,7 +254,35 @@ http://gustvplay.com:8080/zgavR7zhCjes/fxwTvAJBv2NJ/84027
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37924
 #EXTINF:-1 group-title="24/7",Alf
 http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/37766
-#EXTINF:-1 group-title="24/7",Correcamino
-http://tv.teleclub.xyz/envivo/24_7/CORRECAMINOS/index.m3u8
-#EXTINF:-1 group-title="24/7",Los Simpsons
-http://home-playtv.com:8080/marcelalopez/CHXRH/216938
+#EXTINF:-1 group-title="24/7",Los Magnificos 
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37805
+#EXTINF:-1 group-title="24/7",La casa de los dibujos
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37825
+#EXTINF:-1 group-title="24/7",Juego de Tronos 
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37751
+#EXTINF:-1 group-title="24/7",Jackie Chan 
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/54827
+#EXTINF:-1 group-title="24/7",Friends 
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37800
+#EXTINF:-1 group-title="24/7",Fantasia 2022 
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/225781
+#EXTINF:-1 group-title="24/7",Estrenos Comedia 
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/144552
+#EXTINF:-1 group-title="24/7",Xena warrior princess 
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37781
+#EXTINF:-1 group-title="24/7",Walker Texas Ranger 
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37762
+#EXTINF:-1 group-title="24/7",Universo Marvel 
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37907
+#EXTINF:-1 group-title="24/7",Suspenso
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37923
+#EXTINF:-1 group-title="24/7",Sagas 
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37915
+#EXTINF:-1 group-title="24/7",Marvel Comics Peliculas 
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37911
+#EXTINF:-1 group-title="24/7",Super Agente 86 
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37789
+#EXTINF:-1 group-title="24/7",Macgyver
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/44374
+
+
