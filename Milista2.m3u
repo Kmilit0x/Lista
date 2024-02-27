@@ -1,4 +1,32 @@
 #EXTM3U 
+################################################################
+#Generales
+################################################################
+#EXTINF:-1 group-title="Generales",America
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/116192
+#EXTINF:-1 group-title="Generales",TV Pública 
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:-1 group-title="Generales",El Nueve
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22101
+#EXTINF:-1 group-title="Generales",El Trece 
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22098
+#EXTINF:-1 group-title="Generales",Telefe
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/101841
+
+################################################################
+#Noticias
+################################################################
+#EXTINF:-1 group-title="Noticias",TN NOTICIAS HD
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1 group-title="Noticias",Nacion+
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22124
+EXTINF:-1 group-title="Noticias",A24
+#EXTINF:-1 group-title="Noticias",Cronica
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22108
+#EXTINF:-1 group-title="Noticias",C5N 
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22097
+#EXTINF:-1 group-title="Noticias", Canal 26
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22100
 #EXTINF:-1 group-title="About",AGOSTO | Latino | teleclub! 
 http://tv.teleclub.xyz/hls/welcome.m3u8
 #EXTINF:-1 group-title="About", Activar desde www.teleclub.xyz/activar 
