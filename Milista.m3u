@@ -12,9 +12,10 @@ http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl40znqOPzabhp4ienX7lWhO5T1mFv0o
 http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl40znqOPzabhp4ienX7lWhO4PMTR_1WnmXoh043iBGS_h
 #EXTINF:-1 group-title="Generales",Telefe
 http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl40znqOPzabhp4ienX7lWhO7jk_2930no8khoChe5t5zJ
-#EXTINF:-1 group-title="Generales",Gourmet
+#EXTINF:0 group-title="Generales",Gourmet
 http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBmB0o9LGwVOUkYhqUiQofim
-
+#EXTINF:-1 group-title="Generales",Telefe Rosario
+http://elperrotv.online:80/Rolando/123456/1072549
 ################################################################
 #Noticias
 ################################################################
