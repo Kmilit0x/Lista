@@ -3,7 +3,7 @@
 #Generales
 ################################################################
 #EXTINF:-1 group-title="Generales",prueba
-http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a02l&k=SrRegio&f=.m3u8
+http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a05l&k=SrRegio&f=.m3u8
 #EXTINF:-1 group-title="Generales",America
 http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl40znqOPzabhp4ienX7lWhO6CoqKYtlUd7veCnhGJLThS
 #EXTINF:-1 group-title="Generales",TV Pública 
