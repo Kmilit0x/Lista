@@ -12,13 +12,13 @@ http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl40znqOPzabhp4ienX7lWhO6CoqKYtl
 #EXTINF:-1 group-title="Generales",TV Pública 
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 group-title="Generales",El Nueve
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl40znqOPzabhp4ienX7lWhO5T1mFv0okjdR6_gAG2bqPV
+http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenJkrZH62gmQSalk78M20M4I/ts
 #EXTINF:-1 group-title="Generales",El Trece 
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl40znqOPzabhp4ienX7lWhO4PMTR_1WnmXoh043iBGS_h
+http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenBD-apeZHtdU3Ad8sDiCyahiJJ02VNxPTI90jEiFKimo/ts
 #EXTINF:-1 group-title="Generales",Telefe
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl40znqOPzabhp4ienX7lWhO7jk_2930no8khoChe5t5zJ
+http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenOAotStoQaPgVKkRyWXY52Q/ts
 #EXTINF:0 group-title="Generales",Gourmet
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBmB0o9LGwVOUkYhqUiQofim
+http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenCo7AEJ1Ct9ppyFrNi70EJM/ts
 #EXTINF:-1 group-title="Generales",Telefe Rosario
 http://elperrotv.online:80/Rolando/123456/1072549
 ################################################################
@@ -29,9 +29,9 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 group-title="Noticias",Nacion+
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22124
 EXTINF:-1 group-title="Noticias",A24
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl4_EMIlM3MGOXgkN4JN47HLzs_x3cixQF2sBkdDbgIcRH
+http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenEEdQuHTOfSXsfpsQ2WQEUM/ts
 #EXTINF:-1 group-title="Noticias",Cronica
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22108
+http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenFSEf7Wl9gXjsRs70KeeDGA/ts
 #EXTINF:-1 group-title="Noticias",C5N
 http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl4_EMIlM3MGOXgkN4JN47HLxzrc7iA8Y7FuljE4t9fq1Q
 #EXTINF:-1 group-title="Noticias", Canal 26
@@ -41,9 +41,11 @@ http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0073
 ################################################################
 #EXTINF:-1 tvg-id="DW Español" group-title="Internacionales",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="Euronews" group-title="Internacionales",Euronews
+#EXTINF:-1 group-title="Internacionales",Euronews
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/f1f29e913cb79ff20b9491b00992ce53.m3u8
+#EXTINF:-1 group-title="Internacionales",CNN
 
+http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenIhjD-t4jQrGBs7c0zIhX9dpb9U4RvtJFHp8HbEYZIpY/ts
 ################################################################
 #Peliculas
 ################################################################
