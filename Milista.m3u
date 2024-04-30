@@ -2,7 +2,10 @@
 ################################################################
 #Generales
 ################################################################
-#EXTINF:-1 group-title="Generales",prueba
+#EXTINF:-1 group-title="Generales",prueba 2
+http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenEEdQuHTOfSXsfpsQ2WQEUM/ts
+
+EXTINF:-1 group-title="Generales",prueba
 http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=a05l&k=SrRegio&f=.m3u8
 #EXTINF:-1 group-title="Generales",America
 http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl40znqOPzabhp4ienX7lWhO6CoqKYtlUd7veCnhGJLThS
