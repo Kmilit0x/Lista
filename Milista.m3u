@@ -21,13 +21,15 @@ http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenOAotStoQaPgVKkRyWXY52Q/ts
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenCo7AEJ1Ct9ppyFrNi70EJM/ts
 #EXTINF:-1 group-title="Generales",Telefe Rosario
 http://elperrotv.online:80/Rolando/123456/1072549
+#EXTINF:-1 group-title="Generales",Canal 3 Rosario
+http://tv-max.online:80/alfondodelared/cQhCNx2pmy/443103.m3u8
 ################################################################
 #Noticias
 ################################################################
 #EXTINF:-1 group-title="Noticias",TN NOTICIAS HD
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 group-title="Noticias",Nacion+
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22124
+http://tv-max.online:80/alfondodelared/cQhCNx2pmy/19101.m3u8
 EXTINF:-1 group-title="Noticias",A24
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenEEdQuHTOfSXsfpsQ2WQEUM/ts
 #EXTINF:-1 group-title="Noticias",Cronica
@@ -180,7 +182,7 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1526
 #EXTINF:-1 group-title="Deportes",FOX Sports Premium 
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/59809
 #EXTINF:-1 group-title="Deportes",ESPN
-http://tv.fuxxionpro.online:8080/juanalvarez0261/fdoWi3KMtE/69718
+http://tv-max.online:80/alfondodelared/cQhCNx2pmy/9117.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 2
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/967
 #EXTINF:-1 group-title="Deportes",ESPN 3 
@@ -249,14 +251,6 @@ http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35025
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 #EXTINF:-1 tvg-id="Viajar TV" group-title="Otros",Viajar TV
 https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
-################################################################
-#nofuncan
-################################################################
-#EXTINF:-1 tvg-id="Canal 5 Rosario" group-title="nofuncan",Canal 5 Rosario 
-https://ythls.onrender.com/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
-#EXTINF:-1 tvg-id="Canal 3 Rosario" group-title="nofuncan",Canal 3 Rosario 
-https://www.youtube.com/embed/Ru1wTQDNvkc
-
 ################################################################
 #24/7
 ################################################################
