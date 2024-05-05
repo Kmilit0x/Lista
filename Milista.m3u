@@ -2,7 +2,7 @@
 ################################################################
 #Generales
 ################################################################
-EXTINF:-1 group-title="Generales",prueba 2
+#EXTINF:-1 group-title="Generales",prueba 2
 http://elperrotv.online:80/12345678/12345678/1070873
 
 #EXTINF:-1 group-title="Generales",TV Pública 
