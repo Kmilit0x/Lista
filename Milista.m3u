@@ -135,21 +135,19 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/chunklist_w2051298164
 #EXTINF:-1 tvg-id="Cartoon Network"  group-title="Infantiles",Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 group-title="Infantiles",DISNEY_JUNIOR
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBlN3AHzU4fkBRar12ROZ64U
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/225866
 #EXTINF:-1 group-title="Infantiles",DISNEY_CHANNEL
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBlGcA49iEAhG5aD_KvJQXPm
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439758
 #EXTINF:-1 group-title="Infantiles",NICK_JR
-http://tv.soccerplus.link:8000/alberto/emma18/22319
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242022
 EXTINF:-1 group-title="Infantiles",DISCOVERY_KIDS
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBlCjPrgQvm8eFLl3utOXG_f
-EXTINF:-1 group-title="Infantiles",El Chapulin Colorado
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439758
+#EXTINF:-1 group-title="Infantiles",El Chapulin Colorado
 http://disfruta.net:80/htapias36/FaECsfqEsp/2174
 #EXTINF:-1 group-title="Infantiles",TOONCAST
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBkxZzQRVGnIahJ6vtefHTLv
-#EXTINF:-1 group-title="Infantiles",Disney Jr
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1382
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19567
 #EXTINF:-1 group-title="Infantiles",Nickelodeon
-http://tv.soccerplus.link:8000/alberto/emma18/22315
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439807
 #EXTINF:-1 group-title="Infantiles",La casa de Mickey mouse 
 http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/37834
 #EXTINF:-1 group-title="Infantiles",Looney Toons
@@ -166,34 +164,24 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
 #EXTINF:-1 group-title="Deportes",TYC SPORTS
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/59813
-#EXTINF:-1 group-title="Deportes",TNT_SPORTS
-http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/166822
-#EXTINF:-1 group-title="Deportes",TNT Sports AR
-http://tv.soccerplus.link:8000/alberto/emma18/22145
-#EXTINF:-1 group-title="Deportes",Claro Deporte
-http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8
-#EXTINF:-1 group-title="Deportes",DIRECTV
-http://tv.teleclub.xyz/envivo/Deportes/DIRECTV/index.m3u8
-
+#EXTINF:-1 group-title="Deportes",TNT SPORTS
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19461
 #EXTINF:-1 group-title="Deportes",FoxSports
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/141445
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36387
 #EXTINF:-1 group-title="Deportes",Fox Sports 2 ARG 
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1526
-#EXTINF:-1 group-title="Deportes",FOX Sports Premium 
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/59809
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/186606
+#EXTINF:-1 group-title="Deportes",Fox Sports 3
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36389
 #EXTINF:-1 group-title="Deportes",ESPN
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/219171
 #EXTINF:-1 group-title="Deportes",ESPN 2
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/967
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/185666
 #EXTINF:-1 group-title="Deportes",ESPN 3 
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1542
-#EXTINF:-1 group-title="Deportes",ESPN Premium HD AR
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1528
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/21220
+#EXTINF:-1 group-title="Deportes",ESPN extra 
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/21229
 #EXTINF:-1 group-title="Deportes",Espn Extra ARG 
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69719
-#EXTINF:-1 group-title="Deportes",Espn 4 
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1525
-
 
 ################################################################
 #Documentales
