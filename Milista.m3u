@@ -2,7 +2,7 @@
 ################################################################
 #Generales
 ################################################################
-#EXTINF:0 group-title="Generales",prueba 2
+EXTINF:0 group-title="Generales",prueba 
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenKEORNVFynB8Pab2KGqPtSuvEeZEXCE6HFxplSkRr7J-/ts
 
 #EXTINF:-1 group-title="Generales",America Tv
@@ -21,10 +21,7 @@ http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenCo7AEJ1Ct9ppyFrNi70EJM/ts
 http://elperrotv.online:80/Rolando/123456/1072549
 #EXTINF:-1 group-title="Generales",Canal 3 Rosario
 http://tv-max.online:80/alfondodelared/cQhCNx2pmy/443103.m3u8
-#EXTINF:-1 group-title="Generales",Net Tv
-http://likea8bitboss.xyz:80/live/rahim123/4867123950/651622.m3u8
-#EXTINF:-1 group-title="Generales",Magazine
-http://likea8bitboss.xyz:80/live/rahim123/4867123950/651673.m3u8
+
 ################################################################
 #Noticias
 ################################################################
@@ -76,34 +73,32 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f368
 ################################################################
 #DeCable
 ################################################################
-#EXTINF:0 group-title="DeCable",STAR_CHANNEL
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBkE-jQwP01vUezVAcAY78lZ
-#EXTINF:-1 group-title="DeCable",UNIVERSAL_TV
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBlEeBm5S7FSacQFssvaSC5J
+#EXTINF:-1 group-title="DeCable",STAR_CHANNEL
+http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenExmNgXKqIvI-U52po9jSGM/ts
+#EXTINF:-1 group-title="DeCable",UNIVERSAL
+http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenMOh41Hpgm1aYBxFe2kyH3Y/ts
 #EXTINF:-1 group-title="DeCable",WARNER_TV
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBkA_hU21c7IWwSuyBOdIlCf
+http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenDEyI5XQq337U1nVvd1fvaA/ts
 #EXTINF:-1 group-title="DeCable",TNT
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBk7QMSPkNoa1Uj0sWFKxFa4
+http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenKSQmu3Y_aqZ5WpeZrVqgd0/ts
 #EXTINF:-1 group-title="DeCable",CINEMAX
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBkJ5mqExubRx6gYad7tPSv8
+http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenLZMLHKdL59N_h62SMiyCdw/ts
 #EXTINF:-1 group-title="DeCable",CINECANAL
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBk0V-wGyoTsmhJirdVzXGyL
+http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenFdtlcQaMUFiSxiR0Pwvknc/ts
 #EXTINF:-1 group-title="DeCable",HBO
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBkPkIkLT1sWjMEdO3M6rUsO
-#EXTINF:-1 group-title="DeCable",HBO_FAMILY
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBlGaqye_73WL6cGcVgX7PTu
-#EXTINF:-1 group-title="DeCable",Hbo Plus
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBkT9U--yIHl7NlRNWm55a2M
+http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenMBtiM7LfYYxUPgiJ1W5r05O-zHOR5hl32HBttE6IVpR/ts
 #EXTINF:-1 group-title="DeCable",CINE - HBO 2
 http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBlQQhc1xH0XbO2eFeDCPgWj
-#EXTINF:-1 group-title="DeCable",CINE - HBO Mundi 
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBnn9DZO_f-rMR9cokUl8mIZ
-#EXTINF:-1 group-title="DeCable",CINE - HBO signature
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBkqRjELDG3FzQzDtKPHNVZL
+#EXTINF:-1 group-title="DeCable",HBO_FAMILY
+http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenBDF4TTyL9_RnrvKHe2DXWz1OnalavCDjbdwg65Atp9s/ts
+#EXTINF:-1 group-title="DeCable",Hbo Plus
+http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBkT9U--yIHl7NlRNWm55a2M
+
+
 #EXTINF:-1 group-title="DeCable",Space
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBlSNWWHxi4nHnQgPDZnVB0g
+http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenMETjT6nNaXM40t41kEKg98/ts
 #EXTINF:-1 group-title="DeCable",Fx HD
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBkpwjo1cPX6ILa_G7VjFOwy
+http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenOkjYtdfyRqxQY1EAeQCvQk/ts
 #EXTINF:-1 group-title="DeCable",Paramount
 http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBkKixMpiAt8U7_jtRxZ1Dnu
 #EXTINF:-1 group-title="DeCable",Golden Edge 
@@ -132,7 +127,7 @@ http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenOHm57ptLNt7bU5MGRw_zMyfdCQH1OC
 ################################################################
 #Infantiles
 ################################################################
-#EXTINF:0 group-title="Infantiles",ART ATACK
+#EXTINF:-1 group-title="Infantiles",ART ATACK
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenONPmqOmOLSxkglH18UPphgFLqDaAFGMS2scYZacXpS1/ts
 #EXTINF:0 group-title="Infantiles",El Chavo
 http://dashtv.tech:8000/Plan3/Plano@_003/280763
@@ -151,7 +146,7 @@ http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439758
 #EXTINF:-1 group-title="Infantiles",El Chapulin Colorado
 http://disfruta.net:80/htapias36/FaECsfqEsp/2174
 #EXTINF:-1 group-title="Infantiles",TOONCAST
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19567
+http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenBU4BdAwPRPGr8igbn_wXS3VHy_SJ7uhcI3FqH_PFpuc/ts
 #EXTINF:-1 group-title="Infantiles",Nickelodeon
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439807
 #EXTINF:-1 group-title="Infantiles",La casa de Mickey mouse 
