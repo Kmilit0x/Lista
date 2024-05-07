@@ -4,7 +4,7 @@
 ################################################################
 #EXTINF:0 group-title="Generales",prueba
 http://likea8bitboss.xyz:80/KGoode2/Fs7F9c7Kkp/5935
-#EXTINF:0 group-title="Generales",America Tv
+#EXTINF:-1 group-title="Generales",America Tv
 http://likea8bitboss.xyz:80/live/rahim123/4867123950/651617.m3u8
 #EXTINF:-1 group-title="Generales",TV Pública 
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
