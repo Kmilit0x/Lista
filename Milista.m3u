@@ -5,13 +5,13 @@
 #EXTINF:0 group-title="Generales",prueba
 http://likea8bitboss.xyz:80/KGoode2/Fs7F9c7Kkp/5935
 #EXTINF:-1 group-title="Generales",America Tv
-http://likea8bitboss.xyz:80/live/rahim123/4867123950/651617.m3u8
+http://likea8bitboss.xyz:80/live/rahim123/4867123950/651639.m3u8
 #EXTINF:-1 group-title="Generales",TV Pública 
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 group-title="Generales",El Nueve
 http://likea8bitboss.xyz:80/live/rahim123/4867123950/651635.m3u8
 #EXTINF:-1 group-title="Generales",El Trece 
-http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenBD-apeZHtdU3Ad8sDiCyahiJJ02VNxPTI90jEiFKimo/ts
+http://likea8bitboss.xyz:80/live/rahim123/4867123950/651646.m3u8
 #EXTINF:-1 group-title="Generales",Telefe
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenOAotStoQaPgVKkRyWXY52Q/ts
 #EXTINF:0 group-title="Generales",Gourmet
@@ -24,6 +24,8 @@ http://elperrotv.online:80/Rolando/123456/1072549
 http://tv-max.online:80/alfondodelared/cQhCNx2pmy/443103.m3u8
 #EXTINF:-1 group-title="Generales",Net Tv
 http://likea8bitboss.xyz:80/live/rahim123/4867123950/651622.m3u8
+#EXTINF:-1 group-title="Generales",Magazine
+http://likea8bitboss.xyz:80/live/rahim123/4867123950/651673.m3u8
 ################################################################
 #Noticias
 ################################################################
@@ -31,13 +33,13 @@ http://likea8bitboss.xyz:80/live/rahim123/4867123950/651622.m3u8
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 group-title="Noticias",Nacion+
 http://likea8bitboss.xyz:80/live/rahim123/4867123950/651623.m3u8
-EXTINF:0 group-title="Noticias",A24
-http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenEEdQuHTOfSXsfpsQ2WQEUM/ts
+#EXTINF:0 group-title="Noticias",A24
+http://likea8bitboss.xyz:80/live/rahim123/4867123950/651638.m3u8
 #EXTINF:-1 group-title="Noticias",Cronica
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenFSEf7Wl9gXjsRs70KeeDGA/ts
 #EXTINF:-1 group-title="Noticias",C5N
 http://likea8bitboss.xyz:80/live/rahim123/4867123950/651630.m3u8
-#EXTINF:0 group-title="Noticias", Canal 26
+#EXTINF:-1 group-title="Noticias", Canal 26
 http://likea8bitboss.xyz:80/live/rahim123/4867123950/651621.m3u8
 
 ################################################################
