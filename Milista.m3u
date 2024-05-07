@@ -2,22 +2,21 @@
 ################################################################
 #Generales
 ################################################################
-#EXTINF:0 group-title="Generales",prueba 
+#EXTINF:0 group-title="Generales",prueba 2
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenKEORNVFynB8Pab2KGqPtSuvEeZEXCE6HFxplSkRr7J-/ts
+
 #EXTINF:-1 group-title="Generales",America Tv
-http://likea8bitboss.xyz:80/live/rahim123/4867123950/651639.m3u8
+http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenEEdQuHTOfSXsfpsQ2WQEUM/ts
 #EXTINF:-1 group-title="Generales",TV Pública 
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 group-title="Generales",El Nueve
-http://likea8bitboss.xyz:80/live/rahim123/4867123950/651635.m3u8
+http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenJkrZH62gmQSalk78M20M4I/ts
 #EXTINF:-1 group-title="Generales",El Trece 
-http://likea8bitboss.xyz:80/live/rahim123/4867123950/651646.m3u8
+http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenBD-apeZHtdU3Ad8sDiCyahiJJ02VNxPTI90jEiFKimo/ts
 #EXTINF:-1 group-title="Generales",Telefe
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenOAotStoQaPgVKkRyWXY52Q/ts
 #EXTINF:0 group-title="Generales",Gourmet
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenCo7AEJ1Ct9ppyFrNi70EJM/ts
-#EXTINF:-1 group-title="Generales",TELEFE
-http://likea8bitboss.xyz:80/live/rahim123/4867123950/651620.m3u8
 #EXTINF:-1 group-title="Generales",Telefe Rosario
 http://elperrotv.online:80/Rolando/123456/1072549
 #EXTINF:-1 group-title="Generales",Canal 3 Rosario
@@ -122,16 +121,19 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26906
 ################################################################
 #seriesretro
 ################################################################
-#EXTINF:-1 group-title="seriesretro",24/7 | MacGiver 
+#EXTINF:-1 group-title="seriesretro",MacGiver 
 http://home-playtv.com:8080/marcelalopez/CHXRH/257380
-#EXTINF:-1 group-title="seriesretro",24/7 | El Auto Fantástico 
+#EXTINF:-1 group-title="seriesretro",El Auto Fantástico 
 http://home-playtv.com:8080/marcelalopez/CHXRH/107873
-#EXTINF:-1 group-title="seriesretro",24/7 BEN 10 
+#EXTINF:-1 group-title="seriesretro",BEN 10 
 http://home-playtv.com:8080/marcelalopez/CHXRH/107843
-
+#EXTINF:-1 group-title="seriesretro",ALF
+http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenOHm57ptLNt7bU5MGRw_zMyfdCQH1OCiluQURKfflqZO/ts
 ################################################################
 #Infantiles
 ################################################################
+#EXTINF:0 group-title="Infantiles",ART ATACK
+http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenONPmqOmOLSxkglH18UPphgFLqDaAFGMS2scYZacXpS1/ts
 #EXTINF:0 group-title="Infantiles",El Chavo
 http://dashtv.tech:8000/Plan3/Plano@_003/280763
 #EXTINF:-1 group-title="Infantiles",PakaPaka
@@ -241,16 +243,16 @@ http://likea8bitboss.xyz:80/live/rahim123/4867123950/651632.m3u8
 ################################################################
 #Otros
 ################################################################
-#EXTINF:-1 tvg-id="TEC TV" group-title="Otros",TEC TV
+#EXTINF:-1 group-title="Otros",TEC TV
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
-#EXTINF:-1 tvg-id="Viajar TV" group-title="Otros",Viajar TV
+#EXTINF:-1 group-title="Otros",Viajar TV
 https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
 ################################################################
 #24/7
 ################################################################
 #EXTINF:-1 group-title="24/7",Estrenos Disney
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/225778
-EXTINF:-1 tvg-id="El Chavo" group-title="24/7",El Chavo
+#EXTINF:-1 tvg-id="El Chavo" group-title="24/7",El Chavo
 http://gustvplay.com:8080/zgavR7zhCjes/fxwTvAJBv2NJ/84027
 #EXTINF:-1 group-title="24/7",X-Men (e)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37924
