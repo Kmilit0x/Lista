@@ -2,7 +2,7 @@
 ################################################################
 #Generales
 ################################################################
-EXTINF:0 group-title="Generales",prueba 
+EXTINF:0 group-title="Generales",prueba 1
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenKEORNVFynB8Pab2KGqPtSuvEeZEXCE6HFxplSkRr7J-/ts
 
 #EXTINF:-1 group-title="Generales",America Tv
@@ -86,11 +86,11 @@ http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenLZMLHKdL59N_h62SMiyCdw/ts
 #EXTINF:-1 group-title="DeCable",CINECANAL
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenFdtlcQaMUFiSxiR0Pwvknc/ts
 #EXTINF:-1 group-title="DeCable",HBO
-http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenMBtiM7LfYYxUPgiJ1W5r05O-zHOR5hl32HBttE6IVpR/ts
+http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoKeAKorENHdpEv7TUCWGcQk/ts
 #EXTINF:-1 group-title="DeCable",CINE - HBO 2
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBlQQhc1xH0XbO2eFeDCPgWj
+http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoJ_mZJzBpMzDLQil5Iqft67/ts
 #EXTINF:-1 group-title="DeCable",HBO_FAMILY
-http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenBDF4TTyL9_RnrvKHe2DXWz1OnalavCDjbdwg65Atp9s/ts
+http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoKNK_jkcWURggBXaBqflz0E/ts
 #EXTINF:-1 group-title="DeCable",Space
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenMETjT6nNaXM40t41kEKg98/ts
 #EXTINF:-1 group-title="DeCable",Fx HD
@@ -98,6 +98,11 @@ http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenOkjYtdfyRqxQY1EAeQCvQk/ts
 #EXTINF:-1 group-title="DeCable",Paramount
 http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoJkbYL2gDbqtSGjmYN5Hb5o/ts
 
+#EXTINF:-1 group-title="DeCable",AMC
+http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoK0yfcs0Xl81ze3AWlg_qdU/ts
+
+#EXTINF:-1 group-title="DeCable",AXN
+http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoKbOW724kyYnx3BBwDPiVXB/ts
 ################################################################
 #Series
 ################################################################
@@ -116,9 +121,28 @@ http://home-playtv.com:8080/marcelalopez/CHXRH/107873
 http://home-playtv.com:8080/marcelalopez/CHXRH/107843
 #EXTINF:-1 group-title="seriesretro",ALF
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenOHm57ptLNt7bU5MGRw_zMyfdCQH1OCiluQURKfflqZO/ts
+
+#EXTINF:-1 group-title="seriesretro",El Chapulín colorado
+http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoJQdEU84p78FSGnbbKXSPb7/ts
+
+#EXTINF:-1 group-title="seriesretro",Dragón Ball Z 
+http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoJ1K6NOQ92DuG_vkNK8Hj2e/ts
+#EXTINF:-1 group-title="seriesretro", C del Zod
+http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoKa26uz6Lcp0CxY8mU42bPc/ts
+#EXTINF:-1 group-title="seriesretro",RoboTech
+http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoJh1PL_bNHozGE8dZUMbNQK/ts
+
+#EXTINF:-1 group-title="seriesretro",Samurai X
+http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoJEcX_SkUSmAx62ECwL_tGb/ts
 ################################################################
 #Infantiles
 ################################################################
+#EXTINF:-1 group-title="Infantiles",Lilo y Stich
+http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoIxblvscw8aRWCyROQ3jF5a/ts
+#EXTINF:-1 group-title="Infantiles",ScoobyDoo
+http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoIboQbj7DwTSrjDEi3rPnye/ts
+#EXTINF:-1 group-title="Infantiles",PawPatrol
+http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoK9BeeDVY0gYbx7vxkQpoTs/ts
 #EXTINF:-1 group-title="Infantiles",ART ATACK
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenONPmqOmOLSxkglH18UPphgFLqDaAFGMS2scYZacXpS1/ts
 #EXTINF:0 group-title="Infantiles",El Chavo
@@ -239,54 +263,10 @@ https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
 ################################################################
 #EXTINF:-1 group-title="24/7",Estrenos Disney
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/225778
-#EXTINF:-1 tvg-id="El Chavo" group-title="24/7",El Chavo
-http://gustvplay.com:8080/zgavR7zhCjes/fxwTvAJBv2NJ/84027
-#EXTINF:-1 group-title="24/7",X-Men (e)(720)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37924
 #EXTINF:-1 group-title="24/7",Alf
 http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/37766
-#EXTINF:-1 group-title="24/7",Los Magnificos 
-http://tv.proyectox.vip:8080/MarceloCentofanti/RNe48QBDyX/37805
-#EXTINF:-1 group-title="24/7",La casa de los dibujos
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37825
 #EXTINF:-1 group-title="24/7",Juego de Tronos 
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37751
-#EXTINF:-1 group-title="24/7",Jackie Chan 
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/54827
-#EXTINF:-1 group-title="24/7",Friends 
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37800
-#EXTINF:-1 group-title="24/7",Fantasia 2022 
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/225781
-#EXTINF:-1 group-title="24/7",Estrenos Comedia 
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/144552
-#EXTINF:-1 group-title="24/7",Xena warrior princess 
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37781
-#EXTINF:-1 group-title="24/7",Walker Texas Ranger 
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37762
-#EXTINF:-1 group-title="24/7",Universo Marvel 
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37907
-#EXTINF:-1 group-title="24/7",Suspenso
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37923
-#EXTINF:-1 group-title="24/7",Sagas 
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37915
-#EXTINF:-1 group-title="24/7",Marvel Comics Peliculas 
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37911
-#EXTINF:-1 group-title="24/7",Super Agente 86 
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37789
-#EXTINF:-1 group-title="24/7",Macgyver
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/44374
-#EXTINF:-1 group-title="24/7",Estrenos 2020 
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/55628
-#EXTINF:-1 group-title="24/7",Crimen 2022 
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/225777
-#EXTINF:-1 group-title="24/7",Accion 2022 
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/225772
-#EXTINF:-1 group-title="24/7",Aventura 
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37931
-#EXTINF:-1 group-title="24/7",Estrenos 2023 
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/225477
-#EXTINF:-1 group-title="24/7",Estrenos 2019 
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/55349
 
-#EXTINF:-1 group-title="24/7",FOX SPORTS 1  Arg
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl4zcuhNjb2uqKmMtvWHEDqoUsNT95FFn0O6YxrCp4rc5o
+#EXTINF:-1 group-title="24/7",Marvel
+http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoJ7_8OtII1ObJG1tRipYKse/ts
