@@ -5,7 +5,7 @@
 EXTINF:0 group-title="Generales",prueba 
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenKEORNVFynB8Pab2KGqPtSuvEeZEXCE6HFxplSkRr7J-/ts
 
-#EXTINF:-1 group-title="Generales",America Tv
+#EXTINF:-1 group-title="Generales",America Tv 1
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenEEdQuHTOfSXsfpsQ2WQEUM/ts
 #EXTINF:-1 group-title="Generales",TV Pública 
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
