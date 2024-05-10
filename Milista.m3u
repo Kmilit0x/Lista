@@ -2,7 +2,7 @@
 ################################################################
 #Generales
 ################################################################
-EXTINF:0 group-title="Generales",prueba 1
+EXTINF:0 group-title="Generales",prueba 
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenKEORNVFynB8Pab2KGqPtSuvEeZEXCE6HFxplSkRr7J-/ts
 
 #EXTINF:-1 group-title="Generales",America Tv
@@ -125,7 +125,7 @@ http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenOHm57ptLNt7bU5MGRw_zMyfdCQH1OC
 #EXTINF:-1 group-title="seriesretro",El Chapulín colorado
 http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoJQdEU84p78FSGnbbKXSPb7/ts
 
-#EXTINF:-1 group-title="seriesretro",Dragón Ball Z 
+#EXTINF:0 group-title="seriesretro",Dragón Ball Z 
 http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoJ1K6NOQ92DuG_vkNK8Hj2e/ts
 #EXTINF:-1 group-title="seriesretro", C del Zod
 http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoKa26uz6Lcp0CxY8mU42bPc/ts
