@@ -2,17 +2,8 @@
 ################################################################
 #Generales
 ################################################################
-#EXTINF:-1 group-title="Generales",Pixar
-http://moontools.me:8080/aleX674c5/soliZ35/1202384
-#EXTINF:-1 group-title="Generales",El Bebe Jefazo  
-http://home-playtv.com:8080/VinicioMora/CNAzc82usQ/107981
-EXTINF:0 group-title="Generales",prueba 
-
-http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenKEORNVFynB8Pab2KGqPtSuvEeZEXCE6HFxplSkRr7J-/ts
 #EXTINF:-1 group-title="Generales",13 Max
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-#EXTINF:-1 group-title="Generales",America Tv 1
-http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenEEdQuHTOfSXsfpsQ2WQEUM/ts
 #EXTINF:-1 group-title="Generales",TV Pública 
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 group-title="Generales",El Nueve
@@ -27,6 +18,10 @@ http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenCo7AEJ1Ct9ppyFrNi70EJM/ts
 http://elperrotv.online:80/Rolando/123456/1072549
 #EXTINF:-1 group-title="Generales",Canal 3 Rosario
 http://tv-max.online:80/alfondodelared/cQhCNx2pmy/443103.m3u8
+#EXTINF:-1 group-title="News",América Tucumán
+https://ythls.armelin.one/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
+#EXTINF:-1 group-title="General",América TV 
+https://ythls.armelin.one/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
 
 ################################################################
 #Noticias
@@ -34,9 +29,9 @@ http://tv-max.online:80/alfondodelared/cQhCNx2pmy/443103.m3u8
 #EXTINF:-1 group-title="Noticias",TN NOTICIAS HD
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 group-title="Noticias",Nacion+
-http://likea8bitboss.xyz:80/live/rahim123/4867123950/651623.m3u8
+https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:0 group-title="Noticias",A24
-http://likea8bitboss.xyz:80/live/rahim123/4867123950/651638.m3u8
+http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenEEdQuHTOfSXsfpsQ2WQEUM/ts
 #EXTINF:-1 group-title="Noticias",Cronica
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenFSEf7Wl9gXjsRs70KeeDGA/ts
 #EXTINF:-1 group-title="Noticias",C5N
