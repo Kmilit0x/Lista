@@ -1,1 +1,548 @@
-http://clubtv.link/2206JU/lista.m3u
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgur.com/TviWIyE.png" group-title="TV PREMIUM",TECNOTV
+http://clubtv.link/2206JU/key4513/0smartv.php?c=712
+#EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="INFO",Telegram: @tecnotvchat
+http://clubtv.link/2206JU/key4513/0smartv.php?c=712
+#EXTINF:-1 tvg-logo="https://imgur.com/m9ieeUa.png" group-title="INFO",Redes Sociales
+http://clubtv.link/redes.mp4
+
+
+
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/Gmnvh9I.png" group-title="MÉXICO", Azteca uno
+https://mdstrm.com/live-stream-gdai/609b243156cca108312822a6/linear/hls/pa/event/ZiyeO1LFRfG1k2-GZ5TgEg/stream/85015c65-a649-448a-b880-b61a7fca4656:DLS/master.m3u8?uid=Zvbh9PBFPtLUFsSzRdU24iEiCQ8Fjkgt&sid=Hyk4RFmX4GXN0q7JGeCqV2Buwi3VC4ep&pid=n0hxyg3tbLu36Ra8QWr5C3y1pp0Uy9U2&an=screen&at=web-app&av=v5.2.417&ref=https%3A%2F%2Fwww.tvazteca.com%2F&res=739x416&without_cookies=false&listenerid=&dnt=true
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/Gmnvh9I.png" group-title="CINE Y SERIES",RunTime
+http://clubtv.link/2206JU/key4513/runtime.php?c=2154
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/LhYX209.png" group-title="CINE Y SERIES",Accion
+http://clubtv.link/2206JU/key4513/runtime.php?c=2550
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/uRMHvKV.png" group-title="CINE Y SERIES",Comedia
+http://clubtv.link/2206JU/key4513/runtime.php?c=2551
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/vZu909y.png" group-title="CINE Y SERIES",Crimen
+http://clubtv.link/2206JU/key4513/runtime.php?c=3533
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/H3YgS6y.png" group-title="CINE Y SERIES",Cine Espanto
+http://clubtv.link/2206JU/key4513/runtime.php?c=3539
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/nx7oVpZ.png" group-title="CINE Y SERIES",CINE Y SERIES
+http://clubtv.link/2206JU/key4513/runtime.php?c=4819
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/yFEU3yG.png" group-title="ENTRETENIMIENTO",Clic	
+http://clubtv.link/2206JU/key4513/runtime.php?c=4827
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/NGeikk3.png" group-title="ENTRETENIMIENTO",Corazon
+http://clubtv.link/2206JU/key4513/runtime.php?c=4826
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/5cNpgAO.png" group-title="ENTRETENIMIENTO",Romance
+http://clubtv.link/2206JU/key4513/runtime.php?c=3532
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/S3qCgKW.png" group-title="CINE Y SERIES",Familia
+http://clubtv.link/2206JU/key4513/runtime.php?c=3528
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/bHhRRom.png" group-title="DEPORTES",AYM
+http://clubtv.link/2206JU/key4513/runtime.php?c=5106
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/4p1oIev.png" group-title="DEPORTES",CombaTV
+http://clubtv.link/2206JU/key4513/runtime.php?c=5090
+#EXTINF:-1 channel-id="" tvg-id="" tvg-logo="https://imgur.com/zzOtkwl.png" group-title="MUSICA",Vivaldi
+http://clubtv.link/2206JU/key4513/runtime.php?c=2806
+
+
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/rJFmf80.png" group-title="NOTICIAS",Euronews Español
+http://clubtv.link/2206JU/key4513/distro.php?c=euronews-spa
+#EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="CINE Y SERIES",Top Cine
+http://clubtv.link/2206JU/key4513/distro.php?c=top-cine-latam
+#EXTINF:-1 tvg-logo="https://imgur.com/3qWnqKg.png" group-title="DISTRO TV",Juntos
+http://clubtv.link/2206JU/key4513/distro.php?c=juntos
+#EXTINF:-1 tvg-logo="https://imgur.com/RaPCveu.png" group-title="CINE Y SERIES",Cine Real
+http://clubtv.link/2206JU/key4513/distro.php?c=cine-real-latam
+#EXTINF:-1 tvg-logo="https://imgur.com/ZgYlMv1.png" group-title="CINE Y SERIES",Cine Sureño
+http://clubtv.link/2206JU/key4513/distro.php?c=cine-sureno
+#EXTINF:-1 tvg-logo="https://imgur.com/ySWZ76R.png" group-title="COMEDIA",Flou Cine
+http://clubtv.link/2206JU/key4513/distro.php?c=flou-cine
+#EXTINF:-1 tvg-logo="https://imgur.com/HClN7n1.png" group-title="ENTRETENIMIENTO",Flou Caribeño
+http://clubtv.link/2206JU/key4513/distro.php?c=flou-caribeno
+#EXTINF:-1 tvg-logo="https://imgur.com/6W5H0ww.png" group-title="ENTRETENIMIENTO",Horrorfy
+http://clubtv.link/2206JU/key4513/distro.php?c=horrorfy
+#EXTINF:-1 tvg-logo="https://imgur.com/kUduzlM.png" group-title="ENTRETENIMIENTO",Wapp
+http://clubtv.link/2206JU/key4513/distro.php?c=wapptv
+#EXTINF:-1 tvg-logo="https://imgur.com/MwHOw6v.png" group-title="CINE Y SERIES",Tu Cine
+http://clubtv.link/2206JU/key4513/distro.php?c=tu-cine-latam
+#EXTINF:-1 tvg-logo="https://imgur.com/h0xbcdy.png" group-title="DISTRO TV",El Conflicto TV
+http://clubtv.link/2206JU/key4513/distro.php?c=el-conflicto-tv
+#EXTINF:-1 tvg-logo="https://imgur.com/20bgIyT.png" group-title="DISTRO TV",Saber Mas
+http://clubtv.link/2206JU/key4513/distro.php?c=saber-mas
+#EXTINF:-1 tvg-logo="https://imgur.com/CSdHTbt.png" group-title="DISTRO TV",Flash
+http://clubtv.link/2206JU/key4513/distro.php?c=flash-1
+#EXTINF:-1 tvg-logo="https://imgur.com/oUB44oQ.png" group-title="DISTRO TV",MMC
+http://clubtv.link/2206JU/key4513/distro.php?c=mmc
+#EXTINF:-1 tvg-logo="https://imgur.com/RRNQ7jI.png" group-title="INFANTIL",Chiquilines
+http://clubtv.link/2206JU/key4513/distro.php?c=chiquilines
+#EXTINF:-1 tvg-logo="https://imgur.com/9Fyjvq3.png" group-title="DISTRO TV",Glewedtv Spanish
+http://clubtv.link/2206JU/key4513/distro.php?c=glewedtv-spanish
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s.png" group-title="TV PREMIUM", A&E HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a01s&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a039.png" group-title="TV PREMIUM", AMC HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a039&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0c3.png" group-title="TV PREMIUM", ANTENA3 DIGITA Y ANALOGICO 
+http://clubtv.link/2206JU/key4513/lista.php?c=a0c3&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02g.png" group-title="TV PREMIUM", ATRES SERIES HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a02g&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a00z.png" group-title="TV PREMIUM", ATV
+http://clubtv.link/2206JU/key4513/lista.php?c=a00z&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0e6.png" group-title="TV PREMIUM", ATV + HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a0e6&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0ba.png" group-title="TV PREMIUM", ATV SUR 
+http://clubtv.link/2206JU/key4513/lista.php?c=a0ba&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01v.png" group-title="TV PREMIUM", AXN HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a01v&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0dg.png" group-title="TV PREMIUM", AZ Cinema HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a0dg&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0ea.png" group-title="TV PREMIUM", AZ Cinema HD M3U
+http://clubtv.link/2206JU/key4513/lista.php?c=a0ea&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a091.png" group-title="TV PREMIUM", AZ click HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a091&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0c2.png" group-title="TV PREMIUM", Adult Swim
+http://clubtv.link/2206JU/key4513/lista.php?c=a0c2&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a03w.png" group-title="TV PREMIUM", America TV HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a03w&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a03k.png" group-title="TV PREMIUM", Animal Planet HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a03k&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a04n.png" group-title="TV PREMIUM", Antena 3 Chile
+http://clubtv.link/2206JU/key4513/lista.php?c=a04n&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a05n.png" group-title="TV PREMIUM", Az Corazon
+http://clubtv.link/2206JU/key4513/lista.php?c=a05n&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0bm.png" group-title="TV PREMIUM", Azmundo
+http://clubtv.link/2206JU/key4513/lista.php?c=a0bm&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a060.png" group-title="TV PREMIUM", BBC News
+http://clubtv.link/2206JU/key4513/lista.php?c=a060&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a078.png" group-title="TV PREMIUM", Baby First
+http://clubtv.link/2206JU/key4513/lista.php?c=a078&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a04k.png" group-title="TV PREMIUM", Baby TV
+http://clubtv.link/2206JU/key4513/lista.php?c=a04k&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01l.png" group-title="TV PREMIUM", CDO Premium
+http://clubtv.link/2206JU/key4513/lista.php?c=a01l&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a027.png" group-title="TV PREMIUM", CHV HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a027&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a08n.png" group-title="TV PREMIUM", CINECANAL HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a08n&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01q.png" group-title="TV PREMIUM", CNN Chile HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a01q&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a04v.png" group-title="TV PREMIUM", CNN Internacional
+http://clubtv.link/2206JU/key4513/lista.php?c=a04v&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a05z.png" group-title="TV PREMIUM", CNNE
+http://clubtv.link/2206JU/key4513/lista.php?c=a05z&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a00k.png" group-title="TV PREMIUM", CREOTV HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a00k&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0bc.png" group-title="TV PREMIUM", Canal 13 HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a0bc&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0bd.png" group-title="TV PREMIUM", Canal N
+http://clubtv.link/2206JU/key4513/lista.php?c=a0bd&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a04a.png" group-title="TV PREMIUM", Caracol HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a04a&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a03d.png" group-title="TV PREMIUM", Cartoon Network HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a03d&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a05h.png" group-title="TV PREMIUM", Cartoonito
+http://clubtv.link/2206JU/key4513/lista.php?c=a05h&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0a9.png" group-title="TV PREMIUM", Cine Latino
+http://clubtv.link/2206JU/key4513/lista.php?c=a0a9&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0bn.png" group-title="TV PREMIUM", Cinemax HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a0bn&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a020.png" group-title="TV PREMIUM", Clover HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a020&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02i.png" group-title="TV PREMIUM", Comedy Central HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a02i&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0e0.png" group-title="TV PREMIUM", Concert Channel
+http://clubtv.link/2206JU/key4513/lista.php?c=a0e0&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a04c.png" group-title="TV PREMIUM", DHE HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a04c&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a00h.png" group-title="TV PREMIUM", DIRECTV Liga 1 Max
+http://clubtv.link/2206JU/key4513/lista.php?c=a00h&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0em.png" group-title="TV PREMIUM", DIRECTV SPORTS
+http://clubtv.link/2206JU/key4513/lista.php?c=a0em&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a097.png" group-title="TV PREMIUM", DISC THEATHER HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a097&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0ar.png" group-title="TV PREMIUM", Discovery Channel HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a0ar&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02p.png" group-title="TV PREMIUM", Discovery H&H HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a02p&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a04d.png" group-title="TV PREMIUM", Discovery HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a04d&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0av.png" group-title="TV PREMIUM", Discovery ID HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a0av&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02o.png" group-title="TV PREMIUM", Discovery Kids HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a02o&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a04q.png" group-title="TV PREMIUM", Discovery Science
+http://clubtv.link/2206JU/key4513/lista.php?c=a04q&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02q.png" group-title="TV PREMIUM", Discovery Theater HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a02q&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a09y.png" group-title="TV PREMIUM", Discovery Turbo
+http://clubtv.link/2206JU/key4513/lista.php?c=a09y&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a037.png" group-title="TV PREMIUM", Discovery World HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a037&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0bi.png" group-title="TV PREMIUM", Disney
+http://clubtv.link/2206JU/key4513/lista.php?c=a0bi&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a05i.png" group-title="TV PREMIUM", Disney JR
+http://clubtv.link/2206JU/key4513/lista.php?c=a05i&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a06b.png" group-title="TV PREMIUM", E! Entertairment HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a06b&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a03s.png" group-title="TV PREMIUM", E! HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a03s&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a021.png" group-title="TV PREMIUM", ESPN 2 HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a021&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0dw.png" group-title="TV PREMIUM", ESPN 2 HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a0dw&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02c.png" group-title="TV PREMIUM", ESPN 3 HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a02c&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0dx.png" group-title="TV PREMIUM", ESPN 4HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a0dx&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0dr.png" group-title="TV PREMIUM", ESPN 5HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a0dr&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a065.png" group-title="TV PREMIUM", ESPN 6
+http://clubtv.link/2206JU/key4513/lista.php?c=a065&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0dv.png" group-title="TV PREMIUM", ESPN 6HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a0dv&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0ds.png" group-title="TV PREMIUM", ESPN 7HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a0ds&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a03a.png" group-title="TV PREMIUM", ESPN EXTRA HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a03a&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a025.png" group-title="TV PREMIUM", ESPN HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a025&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0dt.png" group-title="TV PREMIUM", ESPN Premium HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a0dt&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0ek.png" group-title="TV PREMIUM", EURO Channel
+http://clubtv.link/2206JU/key4513/lista.php?c=a0ek&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0b3.png" group-title="TV PREMIUM", EXITOSA TV
+http://clubtv.link/2206JU/key4513/lista.php?c=a0b3&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02l.png" group-title="TV PREMIUM", El Gourmet HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a02l&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a040.png" group-title="TV PREMIUM", ElCanaldelFutbol HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a040&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a08y.png" group-title="TV PREMIUM", Europa HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a08y&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a08i.png" group-title="TV PREMIUM", Exa TV
+http://clubtv.link/2206JU/key4513/lista.php?c=a08i&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a09j.png" group-title="TV PREMIUM", FUTV CR
+http://clubtv.link/2206JU/key4513/lista.php?c=a09j&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02z.png" group-title="TV PREMIUM", FX HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a02z&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a08t.png" group-title="TV PREMIUM", Film & arts HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a08t&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a03v.png" group-title="TV PREMIUM", Food Network HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a03v&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02d.png" group-title="TV PREMIUM", Fox Sports 3 HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a02d&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0br.png" group-title="TV PREMIUM", GOLDEN TRANSCODIN 
+http://clubtv.link/2206JU/key4513/lista.php?c=a0br&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a03z.png" group-title="TV PREMIUM", GOLPERU HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a03z&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a03t.png" group-title="TV PREMIUM", GolTV HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a03t&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0bx.png" group-title="TV PREMIUM", Golden HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a0bx&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a054.png" group-title="TV PREMIUM", Golden Premiere 2 HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a054&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a053.png" group-title="TV PREMIUM", Golden Premiere HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a053&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a06m.png" group-title="TV PREMIUM", Golf Channel HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a06m&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0dn.png" group-title="TV PREMIUM", HBO 2 HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a0dn&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a04g.png" group-title="TV PREMIUM", HBO Family HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a04g&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a03b.png" group-title="TV PREMIUM", HBO HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a03b&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01y.png" group-title="TV PREMIUM", HBO POP HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a01y&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0dc.png" group-title="TV PREMIUM", HBO XTREME HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a0dc&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0dq.png" group-title="TV PREMIUM", HBO2
+http://clubtv.link/2206JU/key4513/lista.php?c=a0dq&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02a.png" group-title="TV PREMIUM", HOLA TV HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a02a&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a04f.png" group-title="TV PREMIUM", History 2 HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a04f&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01r.png" group-title="TV PREMIUM", History Channel HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a01r&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a064.png" group-title="TV PREMIUM", History HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a064&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a098.png" group-title="TV PREMIUM", Home & Health HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a098&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a04p.png" group-title="TV PREMIUM", Home Garden Latino
+http://clubtv.link/2206JU/key4513/lista.php?c=a04p&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02j.png" group-title="TV PREMIUM", ID HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a02j&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a03c.png" group-title="TV PREMIUM", Kanal D Drama HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a03c&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0e4.png" group-title="TV PREMIUM", LATINA HD 
+http://clubtv.link/2206JU/key4513/lista.php?c=a0e4&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a024.png" group-title="TV PREMIUM", La Red HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a024&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0by.png" group-title="TV PREMIUM", Las Estrellas HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a0by&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a07i.png" group-title="TV PREMIUM", Latin America Sport
+http://clubtv.link/2206JU/key4513/lista.php?c=a07i&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a03x.png" group-title="TV PREMIUM", Latina HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a03x&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a042.png" group-title="TV PREMIUM", Lolly Kids HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a042&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0bo.png" group-title="TV PREMIUM", Love Nature HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a0bo&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0bs.png" group-title="TV PREMIUM", Love Nature HD TRANSCODING 
+http://clubtv.link/2206JU/key4513/lista.php?c=a0bs&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a035.png" group-title="TV PREMIUM", MEGA HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a035&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0cv.png" group-title="TV PREMIUM", MEGAVISION 
+http://clubtv.link/2206JU/key4513/lista.php?c=a0cv&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0cx.png" group-title="TV PREMIUM", MONITOR TV
+http://clubtv.link/2206JU/key4513/lista.php?c=a0cx&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a09c.png" group-title="TV PREMIUM", MTV 00s HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a09c&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a05v.png" group-title="TV PREMIUM", MTV 80s
+http://clubtv.link/2206JU/key4513/lista.php?c=a05v&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a049.png" group-title="TV PREMIUM", MTV HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a049&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a05u.png" group-title="TV PREMIUM", MTV Hits
+http://clubtv.link/2206JU/key4513/lista.php?c=a05u&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02t.png" group-title="TV PREMIUM", MTV LIVE HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a02t&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a09b.png" group-title="TV PREMIUM", MTV SIM HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a09b&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a04m.png" group-title="TV PREMIUM", Mas Chic
+http://clubtv.link/2206JU/key4513/lista.php?c=a04m&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0ca.png" group-title="TV PREMIUM", Movistar Deportes HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a0ca&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a07o.png" group-title="TV PREMIUM", Multicinema
+http://clubtv.link/2206JU/key4513/lista.php?c=a07o&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0a8.png" group-title="TV PREMIUM", Multipremier
+http://clubtv.link/2206JU/key4513/lista.php?c=a0a8&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a033.png" group-title="TV PREMIUM", NTV
+http://clubtv.link/2206JU/key4513/lista.php?c=a033&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a036.png" group-title="TV PREMIUM", Nat Geo HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a036&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a05r.png" group-title="TV PREMIUM", National Geographic
+http://clubtv.link/2206JU/key4513/lista.php?c=a05r&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a023.png" group-title="TV PREMIUM", Nick HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a023&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0bh.png" group-title="TV PREMIUM", Nick Jr
+http://clubtv.link/2206JU/key4513/lista.php?c=a0bh&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a095.png" group-title="TV PREMIUM", Nick SIM HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a095&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a09v.png" group-title="TV PREMIUM", Nickelodeon
+http://clubtv.link/2206JU/key4513/lista.php?c=a09v&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a00v.png" group-title="TV PREMIUM", Panamericana
+http://clubtv.link/2206JU/key4513/lista.php?c=a00v&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a03e.png" group-title="TV PREMIUM", Paramount HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a03e&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0at.png" group-title="TV PREMIUM", Pasiones HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a0at&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0bg.png" group-title="TV PREMIUM", Playboy HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a0bg&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0c4.png" group-title="TV PREMIUM", RCN HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a0c4&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a07a.png" group-title="TV PREMIUM", RCN Novelas
+http://clubtv.link/2206JU/key4513/lista.php?c=a07a&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a010.png" group-title="TV PREMIUM", RED GLOBAL
+http://clubtv.link/2206JU/key4513/lista.php?c=a010&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01d.png" group-title="TV PREMIUM", RPP
+http://clubtv.link/2206JU/key4513/lista.php?c=a01d&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a05k.png" group-title="TV PREMIUM", SEMILLITAS
+http://clubtv.link/2206JU/key4513/lista.php?c=a05k&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a00l.png" group-title="TV PREMIUM", SOL TV HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a00l&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a022.png" group-title="TV PREMIUM", STAR CHANNEL HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a022&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a03g.png" group-title="TV PREMIUM", STAR TVE HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a03g&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01p.png" group-title="TV PREMIUM", Sextreme
+http://clubtv.link/2206JU/key4513/lista.php?c=a01p&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01t.png" group-title="TV PREMIUM", Sony HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a01t&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a06i.png" group-title="TV PREMIUM", Sony Movies HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a06i&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01w.png" group-title="TV PREMIUM", Space HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a01w&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a03u.png" group-title="TV PREMIUM", Stingray Concerts HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a03u&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a03f.png" group-title="TV PREMIUM", Studio Universal HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a03f&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02n.png" group-title="TV PREMIUM", Sun Channel HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a02n&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a08b.png" group-title="TV PREMIUM", SyFy
+http://clubtv.link/2206JU/key4513/lista.php?c=a08b&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0bb.png" group-title="TV PREMIUM", TAURUS TV
+http://clubtv.link/2206JU/key4513/lista.php?c=a0bb&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0el.png" group-title="TV PREMIUM", TBN Enlace
+http://clubtv.link/2206JU/key4513/lista.php?c=a0el&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a07n.png" group-title="TV PREMIUM", TCM
+http://clubtv.link/2206JU/key4513/lista.php?c=a07n&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a04z.png" group-title="TV PREMIUM", TD+2 HD CR
+http://clubtv.link/2206JU/key4513/lista.php?c=a04z&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0cd.png" group-title="TV PREMIUM", TELESUR
+http://clubtv.link/2206JU/key4513/lista.php?c=a0cd&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0cw.png" group-title="TV PREMIUM", TELESYSTEM
+http://clubtv.link/2206JU/key4513/lista.php?c=a0cw&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a08f.png" group-title="TV PREMIUM", TLC
+http://clubtv.link/2206JU/key4513/lista.php?c=a08f&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02b.png" group-title="TV PREMIUM", TNT HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a02b&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01x.png" group-title="TV PREMIUM", TNT SPORTS HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a01x&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02y.png" group-title="TV PREMIUM", TNT Series HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a02y&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02k.png" group-title="TV PREMIUM", TRUTV HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a02k&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a00x.png" group-title="TV PREMIUM", TV PERU
+http://clubtv.link/2206JU/key4513/lista.php?c=a00x&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a034.png" group-title="TV PREMIUM", TV+ HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a034&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a04o.png" group-title="TV PREMIUM", TVChile
+http://clubtv.link/2206JU/key4513/lista.php?c=a04o&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a026.png" group-title="TV PREMIUM", TVN HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a026&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a068.png" group-title="TV PREMIUM", Teen Nick HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a068&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0bu.png" group-title="TV PREMIUM", Telehit HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a0bu&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a06f.png" group-title="TV PREMIUM", Telemundo HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a06f&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0ct.png" group-title="TV PREMIUM", Telenovelas
+http://clubtv.link/2206JU/key4513/lista.php?c=a0ct&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a094.png" group-title="TV PREMIUM", Tigo Sports HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a094&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a085.png" group-title="TV PREMIUM", Tooncast
+http://clubtv.link/2206JU/key4513/lista.php?c=a085&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a03y.png" group-title="TV PREMIUM", TyC Sports HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a03y&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a02s.png" group-title="TV PREMIUM", UNIVERSAL CHANNEL HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a02s&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0aw.png" group-title="TV PREMIUM", UNIVERSAL CINEMA ESTE HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a0aw&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a09h.png" group-title="TV PREMIUM", UNIVERSAL COMEDY HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a09h&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a09g.png" group-title="TV PREMIUM", UNIVERSAL CRIME HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a09g&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a09f.png" group-title="TV PREMIUM", UNIVERSAL REALITY HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a09f&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0au.png" group-title="TV PREMIUM", Univision HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a0au&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0c9.png" group-title="TV PREMIUM", VISION TV 
+http://clubtv.link/2206JU/key4513/lista.php?c=a0c9&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01o.png" group-title="TV PREMIUM", Venus
+http://clubtv.link/2206JU/key4513/lista.php?c=a01o&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a08l.png" group-title="TV PREMIUM", WARNER HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a08l&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a00j.png" group-title="TV PREMIUM", WILLAX
+http://clubtv.link/2206JU/key4513/lista.php?c=a00j&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0eg.png" group-title="TV PREMIUM", WIN SPORTS + HD M3U 
+http://clubtv.link/2206JU/key4513/lista.php?c=a0eg&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01u.png" group-title="TV PREMIUM", Warner Channel HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a01u&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a03j.png" group-title="TV PREMIUM", Win Sports+ HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a03j&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a04l.png" group-title="TV PREMIUM", ZooMoo
+http://clubtv.link/2206JU/key4513/lista.php?c=a04l&token=tecnotvtoken1306&f=.m3u8
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0db.png" group-title="TV PREMIUM", la tele Colombia HD
+http://clubtv.link/2206JU/key4513/lista.php?c=a0db&token=tecnotvtoken1306&f=.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="MÉXICO", ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.gruposalinas.com/images/v_economico/azteca/azteca1.png" group-title="MÉXICO", AZTECA UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/escandaloso/images/6/6a/Logo_Azteca_7.png/revision/latest?cb=20180716012938&path-prefix=es" group-title="MÉXICO", AZTECA 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/175px-Logo_a%2B_%28canal%29.svg.png" group-title="MÉXICO", AZTECA 7.2
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png" group-title="MÉXICO", ADN40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+
+
+
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/simpson_maniahd189_large.png",Simpson Maniahd189
+http://clubtv.link/2206JU/key4513/24.php?c=simpson_maniahd189
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/punto_movies_large.png",Punto Movies
+http://clubtv.link/2206JU/key4513/24.php?c=punto_movies
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/beto_7hd_large.png",Beto 7hd
+http://clubtv.link/2206JU/key4513/24.php?c=beto_7hd
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/a_neflix01_large.png",Neflix01
+http://clubtv.link/2206JU/key4513/24.php?c=a_neflix01
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/cheli_cooper_large.png",Cheli Cooper
+http://clubtv.link/2206JU/key4513/24.php?c=cheli_cooper
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/cinemundo_plus_large.png",Cinemundo Plus
+http://clubtv.link/2206JU/key4513/24.php?c=cinemundo_plus
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/peliculas_mania_large.png",Peliculas Mania
+http://clubtv.link/2206JU/key4513/24.php?c=peliculas_mania
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/terror_mania_large.png",Terror Mania
+http://clubtv.link/2206JU/key4513/24.php?c=terror_mania
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/shay_saheed_large.png",Shay Saheed
+http://clubtv.link/2206JU/key4513/24.php?c=shay_saheed
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/simpson_maniahd192_large.png",Simpson Maniahd192
+http://clubtv.link/2206JU/key4513/24.php?c=simpson_maniahd192
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/a_juanmusic_large.png",A Juanmusic
+http://clubtv.link/2206JU/key4513/24.php?c=a_juanmusic
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/cienciaficcion_large.png",Cienciaficcion
+http://clubtv.link/2206JU/key4513/24.php?c=cienciaficcion
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/cienciaficcion01_large.png",Cienciaficcion01
+http://clubtv.link/2206JU/key4513/24.php?c=cienciaficcion01
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/padre_de_familia1_large.png",Padre de Familia
+http://clubtv.link/2206JU/key4513/24.php?c=padre_de_familia1
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/futurama_mania__large.png",Futurama
+http://clubtv.link/2206JU/key4513/24.php?c=futurama_mania_
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/agente_de_familia1_large.png",Agente de Familia
+http://clubtv.link/2206JU/key4513/24.php?c=agente_de_familia1
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/tele29_large.png",Tele29
+http://clubtv.link/2206JU/key4513/24.php?c=tele29
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/ysblf_large.png",Ysblf
+http://clubtv.link/2206JU/key4513/24.php?c=ysblf
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/0ueen_disney_large.png",Disney
+http://clubtv.link/2206JU/key4513/24.php?c=0ueen_disney
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/2312_large.png",2312
+http://clubtv.link/2206JU/key4513/24.php?c=2312
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/ganja_tv_large.png",Ganja Gv
+http://clubtv.link/2206JU/key4513/24.php?c=ganja_tv
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/malcomhd_large.png",Malcomhd
+http://clubtv.link/2206JU/key4513/24.php?c=malcomhd
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/ganja_tv_2_large.png",Ganja Tv 2
+http://clubtv.link/2206JU/key4513/24.php?c=ganja_tv_2
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/shy_ch_eurydice_large.png",shy ch eurydice
+http://clubtv.link/2206JU/key4513/24.php?c=shy_ch_eurydice
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/zonafilmsterror_large.png",zonafilmsterror
+http://clubtv.link/2206JU/key4513/24.php?c=zonafilmsterror
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/tufortunatv_large.png",tufortunatv
+http://clubtv.link/2206JU/key4513/24.php?c=tufortunatv
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/zonafilmstvseries_large.png",zonafilmstvseries
+http://clubtv.link/2206JU/key4513/24.php?c=zonafilmstvseries
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/rincondegago_large.png",rincondegago
+http://clubtv.link/2206JU/key4513/24.php?c=rincondegago
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/radiofelove_large.png",radiofelove
+http://clubtv.link/2206JU/key4513/24.php?c=radiofelove
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/ovninews_large.png",ovninews
+http://clubtv.link/2206JU/key4513/24.php?c=ovninews
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/cityfm_large.png",cityfm
+http://clubtv.link/2206JU/key4513/24.php?c=cityfm
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/chelito_sv_large.png",chelito sv
+http://clubtv.link/2206JU/key4513/24.php?c=chelito_sv
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/nezradiovision_large.png",nezradiovision
+http://clubtv.link/2206JU/key4513/24.php?c=nezradiovision
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/tvsalvision_large.png",tvsalvision
+http://clubtv.link/2206JU/key4513/24.php?c=tvsalvision
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/felovetv_large.png",felovetv
+http://clubtv.link/2206JU/key4513/24.php?c=felovetv
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/ficoatv_large.png",ficoatv
+http://clubtv.link/2206JU/key4513/24.php?c=ficoatv
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/fundacion1410_large.png",fundacion1410
+http://clubtv.link/2206JU/key4513/24.php?c=fundacion1410
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/lvpradiotv_large.png",lvpradiotv
+http://clubtv.link/2206JU/key4513/24.php?c=lvpradiotv
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/omega_tv_large.png",omega tv
+http://clubtv.link/2206JU/key4513/24.php?c=omega_tv
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/telemedellin_large.png",telemedellin
+http://clubtv.link/2206JU/key4513/24.php?c=telemedellin
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/tv777_large.png",tv777
+http://clubtv.link/2206JU/key4513/24.php?c=tv777
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/vozdelcielotv_large.png",vozdelcielotv
+http://clubtv.link/2206JU/key4513/24.php?c=vozdelcielotv
+#EXTINF:-1 group-title="24/7" tvg-logo="http://thumbnails.vaughnsoft.net/1657830357/fetch/live/yhwhesmisalvacion_large.png",yhwhesmisalvacion
+http://clubtv.link/2206JU/key4513/24.php?c=yhwhesmisalvacion
