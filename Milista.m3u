@@ -2,10 +2,22 @@
 ################################################################
 #Generales
 ################################################################
+#EXTINF:-1 group-title="Generales",Claro Sport
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 group-title="Generales",Varied TV
+https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
+#EXTINF:-1 group-title="Generales",Canal 13 La Rioj
+http://arcast.net:1935/mp/mp/playlist.m3u8
+#EXTINF:-1 group-title="Generales",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Generales",Canal 2 de Ushuaia
+https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
+#EXTINF:-1 group-title="Generales",Aires de Santa FE
+https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Generales",13 Max
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1 group-title="Generales",TV Pública 
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 group-title="Generales",El Nueve
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenJkrZH62gmQSalk78M20M4I/ts
 #EXTINF:-1 group-title="Generales",El Trece 
@@ -70,10 +82,16 @@ http://likea8bitboss.xyz:80/live/rahim123/4867123950/651624.m3u8
 ################################################################
 #EXTINF:-1 group-title="plutotv",Pluto TV Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
+#EXTINF:-1 group-title="plutotv",Pluto TV Acción
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
 ################################################################
+#Rkuten
+#EXTINF:-1 group-title="Rkuten",Pluto TV Acción
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
 #DeCable
 ################################################################
+#EXTINF:-1 group-title="DeCable",Cine Sony
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 group-title="DeCable",STAR_CHANNEL
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenExmNgXKqIvI-U52po9jSGM/ts
 #EXTINF:-1 group-title="DeCable",UNIVERSAL
@@ -89,7 +107,7 @@ http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenFdtlcQaMUFiSxiR0Pwvknc/ts
 #EXTINF:-1 group-title="DeCable",HBO
 http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoKeAKorENHdpEv7TUCWGcQk/ts
 #EXTINF:-1 group-title="DeCable",CINE - HBO 2
-http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoJ_mZJzBpMzDLQil5Iqft67/ts
+https://fl5.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 group-title="DeCable",HBO_FAMILY
 http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoKNK_jkcWURggBXaBqflz0E/ts
 #EXTINF:-1 group-title="DeCable",Space
