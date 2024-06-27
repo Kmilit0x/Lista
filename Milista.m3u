@@ -8,41 +8,10 @@ Tyc
 http://home-playtv.com:8080/MenaMinor/HFYKQ/21222
 24/7 EL COYOTE Y EL CORRECAMINOS ⭐️
 http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/216294
-24/7 | El Bebe Jefazo  ⭐️
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/107981
-24/7 JORGE EL CURIOSO ⭐️
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/216296
-24/7 MIRACULOUS ⭐️
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/217139
-24/7 La Casa de Mickey Mouse ⭐️
-http://home-playtv.com:8080/VinicioMora/CNAzc82usQ/177184
-24/7 | Paw Patrol ⭐️
-http://home-playtv.com:8080/VinicioMora/CNAzc82usQ/108007
-24/7 EL CHAVO DEL 8  ⭐️
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/216295
-24/7 TOY STORY ⭐️
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/177367
-24/7 LAT | Cinema Lego Movies ⁽ᴴᴰ⁾
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/177331
-24/7 LAT | Cinema DreamWorks ⁽ᴴᴰ⁾
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/177326
-24/7 Juego de Tronos
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/177327
-24/7 JOHN WICK
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/531600
-24/7 | DURO DE MATAR
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/531601
-#EXTINF:-1 group-title="Generales",Cinema Disney Family
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/177324
-#EXTINF:-1 group-title="Generales",El Chavo del Ocho
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/531614
-#EXTINF:-1 group-title="Generales",Cinema Marvel Studios 
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/177333
-#EXTINF:-1 group-title="Generales",Claro Sport
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 group-title="Generales",Varied TV
-https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
-#EXTINF:-1 group-title="Generales",Canal 13 La Rioj
+
+
+
+#EXTINF:-1 group-title="Generales",Canal 13 La Rioja
 http://arcast.net:1935/mp/mp/playlist.m3u8
 #EXTINF:-1 group-title="Generales",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -66,8 +35,6 @@ http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenCo7AEJ1Ct9ppyFrNi70EJM/ts
 http://elperrotv.online:80/Rolando/123456/1072549
 #EXTINF:-1 group-title="Generales",Canal 3 Rosario
 http://tv-max.online:80/alfondodelared/cQhCNx2pmy/443103.m3u8
-#EXTINF:-1 group-title="News",América Tucumán
-https://ythls.armelin.one/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 #EXTINF:-1 group-title="General",América TV 
 https://ythls.armelin.one/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
 
@@ -99,6 +66,8 @@ http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenIhjD-t4jQrGBs7c0zIhX9dpb9U4Rvt
 ################################################################
 #Peliculas
 ################################################################
+#EXTINF:-1 group-title="Peliculas",Cinema Marvel Studios 
+http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/177333
 #EXTINF:-1 group-title="Peliculas",PlanetaTV Movie
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:-1 group-title="Peliculas",PlanetaTV Kids
@@ -113,6 +82,13 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 EXTINF:-1 group-title="Peliculas",VOLVER*
 http://likea8bitboss.xyz:80/live/rahim123/4867123950/651624.m3u8
+EXTINF:-1 group-title="Peliculas",Juego de Tronos
+http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/177327
+EXTINF:-1 group-title="Peliculas",JOHN WICK
+http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/531600
+EXTINF:-1 group-title="Peliculas", DURO DE MATAR
+http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/531601
+
 ################################################################
 #plutotv
 ################################################################
@@ -188,8 +164,30 @@ http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoJh1PL_bNH
 #EXTINF:-1 group-title="seriesretro",Samurai X
 http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoJEcX_SkUSmAx62ECwL_tGb/ts
 ################################################################
-#Infantiles
+#Infantiles 
 ################################################################
+#EXTINF:-1 group-title="Infantiles",El Bebe Jefazo  ⭐️
+http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/107981
+#EXTINF:-1 group-title="Infantiles",JORGE EL CURIOSO ⭐️
+http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/216296
+#EXTINF:-1 group-title="Infantiles",MIRACULOUS ⭐️
+http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/217139
+#EXTINF:-1 group-title="Infantiles",La Casa de Mickey Mouse ⭐️
+http://home-playtv.com:8080/VinicioMora/CNAzc82usQ/177184
+#EXTINF:-1 group-title="Infantiles", Paw Patrol ⭐️
+http://home-playtv.com:8080/VinicioMora/CNAzc82usQ/108007
+#EXTINF:-1 group-title="Infantiles",EL CHAVO DEL 8  ⭐️
+http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/216295
+#EXTINF:-1 group-title="Infantiles",TOY STORY ⭐️
+http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/177367
+#EXTINF:-1 group-title="Infantiles",LAT | Cinema Lego Movies ⁽ᴴᴰ⁾
+http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/177331
+#EXTINF:-1 group-title="Infantiles",Cinema Disney Family
+http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/177324
+#EXTINF:-1 group-title="Infantiles",El Chavo del Ocho
+http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/531614
+#EXTINF:-1 group-title="Infantiles",Varied TV
+https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:-1 group-title="Infantiles",Lilo y Stich
 http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoIxblvscw8aRWCyROQ3jF5a/ts
 #EXTINF:-1 group-title="Infantiles",ScoobyDoo
