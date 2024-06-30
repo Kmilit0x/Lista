@@ -1,29 +1,15 @@
+
 #EXTM3U 
 ################################################################
 #Generales
 ################################################################
 #EXTINF:-1 group-title="Generales",Intensamente 2
 http://dctv.pro:8080/movie/By6gwM8f/sG4bYUzp/282197.mp4
-
-Tyc
-http://home-playtv.com:8080/MenaMinor/HFYKQ/21222
-24/7 EL COYOTE Y EL CORRECAMINOS ⭐️
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/216294
-
-
-
-#EXTINF:-1 group-title="Generales",Canal 13 La Rioja
-http://arcast.net:1935/mp/mp/playlist.m3u8
-#EXTINF:-1 group-title="Generales",Net TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Generales",Canal 2 de Ushuaia
-https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
-#EXTINF:-1 group-title="Generales",Aires de Santa FE
-https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
+################################################################
 #EXTINF:-1 group-title="Generales",13 Max
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1 group-title="Generales",TV Pública 
-http://ok4.club:8080/Carisha5362/8k5A9X8UYWHR/51022
+https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 group-title="Generales",El Nueve
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenJkrZH62gmQSalk78M20M4I/ts
 #EXTINF:-1 group-title="Generales",El Trece 
@@ -81,13 +67,13 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 group-title="Peliculas",Canal 34 San Juan
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-EXTINF:-1 group-title="Peliculas",VOLVER*
+#EXTINF:-1 group-title="Peliculas",VOLVER*
 http://likea8bitboss.xyz:80/live/rahim123/4867123950/651624.m3u8
-EXTINF:-1 group-title="Peliculas",Juego de Tronos
+#EXTINF:-1 group-title="Peliculas",Juego de Tronos
 http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/177327
-EXTINF:-1 group-title="Peliculas",JOHN WICK
+#EXTINF:-1 group-title="Peliculas",JOHN WICK
 http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/531600
-EXTINF:-1 group-title="Peliculas", DURO DE MATAR
+#EXTINF:-1 group-title="Peliculas", DURO DE MATAR
 http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/531601
 
 ################################################################
