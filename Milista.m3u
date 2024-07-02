@@ -1,6 +1,12 @@
 
 #EXTM3U 
 ################################################################
+#Radios
+################################################################
+#EXTINF:-1 group-title="Radios",WOX - 88.3 TV - Rosario
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0351
+
+################################################################
 #Generales
 ################################################################
 #EXTINF:-1 group-title="Generales",Intensamente 2
@@ -24,7 +30,12 @@ http://elperrotv.online:80/Rolando/123456/1072549
 http://tv-max.online:80/alfondodelared/cQhCNx2pmy/443103.m3u8
 #EXTINF:-1 group-title="General",América TV 
 https://ythls.armelin.one/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
-
+#EXTINF:-1 group-title="General",Aire de Santa Fe
+https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
+#EXTINF:-1 group-title="General",El Tres 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0354
+#EXTINF:-1 group-title="General",Canal 5 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0355
 ################################################################
 #Noticias
 ################################################################
@@ -37,7 +48,7 @@ http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenEEdQuHTOfSXsfpsQ2WQEUM/ts
 #EXTINF:-1 group-title="Noticias",Cronica
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenFSEf7Wl9gXjsRs70KeeDGA/ts
 #EXTINF:-1 group-title="Noticias",C5N
-http://galaxypro.online:8080/7g8cUEXashwd/BxU6hvFDHqCt/99745
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0077
 #EXTINF:-1 group-title="Noticias", Canal 26
 http://xdplayer.tv:8080/play/9YbwDSr3Y4Y5VxUHJ1KsX0bKuuE3Ld8ufB7iPtyBFe09-hbGop548SG0vPTzWgJ_/ts
 
@@ -55,10 +66,8 @@ http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenIhjD-t4jQrGBs7c0zIhX9dpb9U4Rvt
 ################################################################
 #EXTINF:-1 group-title="Peliculas",Cinema Marvel Studios 
 http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/177333
-#EXTINF:-1 group-title="Peliculas",PlanetaTV Movie
-https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
-#EXTINF:-1 group-title="Peliculas",PlanetaTV Kids
-https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?tecnotv
+#EXTINF:-1 group-title="Peliculas",ViveTV 
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0347
 #EXTINF:-1 group-title="Peliculas",Bayres Tv
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?TecnoPlaylist
 #EXTINF:-1 group-title="Peliculas",Neo TV
@@ -75,6 +84,10 @@ http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/177327
 http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/531600
 #EXTINF:-1 group-title="Peliculas", DURO DE MATAR
 http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/531601
+#EXTINF:-1 group-title="Peliculas",PlanetaTV Movie
+https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+#EXTINF:-1 group-title="Peliculas",PlanetaTV Kids
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?tecnotv
 
 ################################################################
 #plutotv
@@ -83,10 +96,14 @@ http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/531601
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="plutotv",Pluto TV Acción
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+
 ################################################################
 #Rkuten
+################################################################
 #EXTINF:-1 group-title="Rkuten",Pluto TV Acción
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+
+################################################################
 #DeCable
 ################################################################
 #EXTINF:-1 group-title="DeCable",Cine Sony
@@ -104,21 +121,27 @@ http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenLZMLHKdL59N_h62SMiyCdw/ts
 #EXTINF:-1 group-title="DeCable",CINECANAL
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenFdtlcQaMUFiSxiR0Pwvknc/ts
 #EXTINF:-1 group-title="DeCable",HBO
-http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoKeAKorENHdpEv7TUCWGcQk/ts
+http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/242029
 #EXTINF:-1 group-title="DeCable",CINE - HBO 2
-https://fl5.moveonjoy.com/HBO_2/index.m3u8
+http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/19581
 #EXTINF:-1 group-title="DeCable",HBO_FAMILY
 http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoKNK_jkcWURggBXaBqflz0E/ts
+#EXTINF:-1 group-title="DeCable",CINE | HBO Family FHD SUR
+http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/73200
 #EXTINF:-1 group-title="DeCable",Space
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenMETjT6nNaXM40t41kEKg98/ts
 #EXTINF:-1 group-title="DeCable",Fx HD
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenOkjYtdfyRqxQY1EAeQCvQk/ts
 #EXTINF:-1 group-title="DeCable",Paramount
-http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoJkbYL2gDbqtSGjmYN5Hb5o/ts
+http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/439808
 #EXTINF:-1 group-title="DeCable",AMC
-http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoK0yfcs0Xl81ze3AWlg_qdU/ts
+http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/159149
 #EXTINF:-1 group-title="DeCable",AXN
-http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoKbOW724kyYnx3BBwDPiVXB/ts
+http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/241995
+#EXTINF:-1 group-title="DeCable",CINE | Claro Cinema
+http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/276307
+#EXTINF:-1 group-title="DeCable",CINE | TCM
+http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/19563
 ################################################################
 #Series
 ################################################################
@@ -129,17 +152,8 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26906
 ################################################################
 #seriesretro
 ################################################################
-#EXTINF:-1 group-title="seriesretro",MacGiver 
-http://home-playtv.com:8080/marcelalopez/CHXRH/257380
-#EXTINF:-1 group-title="seriesretro",El Auto Fantástico 
-http://home-playtv.com:8080/marcelalopez/CHXRH/107873
-#EXTINF:-1 group-title="seriesretro",BEN 10 
-http://home-playtv.com:8080/marcelalopez/CHXRH/107843
 #EXTINF:-1 group-title="seriesretro",ALF
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenOHm57ptLNt7bU5MGRw_zMyfdCQH1OCiluQURKfflqZO/ts
-
-#EXTINF:-1 group-title="seriesretro",El Chapulín colorado
-http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoJQdEU84p78FSGnbbKXSPb7/ts
 
 #EXTINF:0 group-title="seriesretro",Dragón Ball Z 
 http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoJ1K6NOQ92DuG_vkNK8Hj2e/ts
@@ -300,65 +314,3 @@ https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
 ################################################################
 #24/7
 ################################################################
-#EXTINF:-1 group-title="24/7",Estrenos Disney
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/225778
-#EXTINF:-1 group-title="24/7",Alf
-http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/37766
-#EXTINF:-1 group-title="24/7",Juego de Tronos 
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37751
-
-#EXTINF:-1 group-title="24/7",Marvel
-http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoJ7_8OtII1ObJG1tRipYKse/ts
-
-#EXTINF:-1 group-title="24/7",24/7 La Casa de Mickey Mouse ⭐️
-http://home-playtv.com:8080/VinicioMora/CNAzc82usQ/177184
-
-#EXTINF:-1 group-title="24/7",24/7 | Paw Patrol ⭐️
-http://home-playtv.com:8080/VinicioMora/CNAzc82usQ/108007
-#EXTINF:-1 group-title="24/7",Avatar
-http://tv.proyectox.vip:8080/j8s3m4nu37/ZVi9HziEVO/38448
-#EXTINF:-1 group-title="24/7",Bob esponja
-http://tv.proyectox.vip:8080/j8s3m4nu37/ZVi9HziEVO/37847
-
-#EXTINF:-1 group-title="24/7",24/7 Estrenos 2019 
-http://tv.proyectox.vip:8080/j8s3m4nu37/ZVi9HziEVO/55349
-#EXTINF:-1 group-title="24/7",24/7 Estrenos 2020 (e)(1080)
-http://tv.proyectox.vip:8080/j8s3m4nu37/ZVi9HziEVO/55628
-
-#EXTINF:-1 group-title="24/7",Disney 2022
-http://tv.proyectox.vip:8080/j8s3m4nu37/ZVi9HziEVO/225778
-#EXTINF:-1 group-title="24/7",24/7 Estrenos 2023
-http://tv.proyectox.vip:8080/j8s3m4nu37/ZVi9HziEVO/225477
-
-#EXTINF:-1 group-title="24/7",24/7 Estrenos Accion 
-http://tv.proyectox.vip:8080/j8s3m4nu37/ZVi9HziEVO/144548
-#EXTINF:-1 group-title="24/7",24/7 Estrenos Familiar
-http://tv.proyectox.vip:8080/j8s3m4nu37/ZVi9HziEVO/144554
-
-
-
-#EXTINF:-1 group-title="24/7",Disney Animacion
-http://tv.proyectox.vip:8080/j8s3m4nu37/ZVi9HziEVO/37910
-#EXTINF:-1 group-title="24/7",24/7 Dragon Ball GT
-http://tv.proyectox.vip:8080/j8s3m4nu37/ZVi9HziEVO/37831
-#EXTINF:-1 group-title="24/7",24/7 Dragon Ball Peliculas
-http://tv.proyectox.vip:8080/j8s3m4nu37/ZVi9HziEVO/119556
-#EXTINF:-1 group-title="24/7",24/7 Dragon Ball Super
-http://tv.proyectox.vip:8080/j8s3m4nu37/ZVi9HziEVO/37841
-#EXTINF:-1 group-title="24/7",24/7 Dragon Ball Z - Saga Cell
-http://tv.proyectox.vip:8080/j8s3m4nu37/ZVi9HziEVO/37826
-
-#EXTINF:-1 group-title="24/7",24/7 Dragon Ball Z - Saga de Freezer
-http://tv.proyectox.vip:8080/j8s3m4nu37/ZVi9HziEVO/37812
-
-#EXTINF:-1 group-title="24/7",24/7 Dragon Ball Z - Saga Majin Boo
-http://tv.proyectox.vip:8080/j8s3m4nu37/ZVi9HziEVO/37813
-#EXTINF:-1 group-title="24/7",24/7 La Pantera Rosa 
-http://tv.proyectox.vip:8080/j8s3m4nu37/ZVi9HziEVO/38447
-#EXTINF:-1 group-title="24/7",24/7 Los Simpsons S01 a S20
-http://tv.proyectox.vip:8080/j8s3m4nu37/ZVi9HziEVO/37767
-
-#EXTINF:-1 group-title="24/7",24/7 Los Simpsons S20 a S30 
-http://tv.proyectox.vip:8080/j8s3m4nu37/ZVi9HziEVO/37758
-#EXTINF:0 group-title="24/7",24/7 Los Thundercats 1
-http://tv.proyectox.vip:8080/j8s3m4nu37/ZVi9HziEVO/37837
