@@ -1,19 +1,18 @@
-
 #EXTM3U 
-################################################################
-#Radios
-################################################################
-#EXTINF:-1 group-title="Radios",WOX - 88.3 TV - Rosario
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0351
-
-################################################################
+#Infantiles 
+#EXTINF:-1 group-title="Infantiles",DISNEY_JUNIOR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/225866
+#EXTINF:-1 group-title="Infantiles",DISNEY_CHANNEL
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439758
+#EXTINF:-1 group-title="Infantiles",NICK_JR
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242022
+EXTINF:-1 group-title="Infantiles",DISCOVERY_KIDS
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439758
+#EXTINF:-1 group-title="Infantiles",PakaPaka
+https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/chunklist_w2051298164.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network"  group-title="Infantiles",Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #Generales
-################################################################
-#EXTINF:-1 group-title="Generales",Intensamente 2
-http://dctv.pro:8080/movie/By6gwM8f/sG4bYUzp/282197.mp4
-################################################################
-#EXTINF:-1 group-title="Generales",13 Max
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1 group-title="Generales",TV Pública 
 https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 group-title="Generales",El Nueve
@@ -22,23 +21,22 @@ http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenJkrZH62gmQSalk78M20M4I/ts
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenBD-apeZHtdU3Ad8sDiCyahiJJ02VNxPTI90jEiFKimo/ts
 #EXTINF:-1 group-title="Generales",Telefe
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenOAotStoQaPgVKkRyWXY52Q/ts
-#EXTINF:0 group-title="Generales",Gourmet
-http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenCo7AEJ1Ct9ppyFrNi70EJM/ts
-#EXTINF:-1 group-title="Generales",Telefe Rosario
-http://elperrotv.online:80/Rolando/123456/1072549
-#EXTINF:-1 group-title="Generales",Canal 3 Rosario
-http://tv-max.online:80/alfondodelared/cQhCNx2pmy/443103.m3u8
-#EXTINF:-1 group-title="General",América TV 
-https://ythls.armelin.one/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
-#EXTINF:-1 group-title="General",Aire de Santa Fe
-https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
 #EXTINF:-1 group-title="General",El Tres 
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0354
 #EXTINF:-1 group-title="General",Canal 5 
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0355
-################################################################
+#Deportes
+#EXTINF:-1 group-title="Deportes",DeporTV 
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",TYC SPORTS
+http://home-playtv.com:8080/MenaMinor/HFYKQ/21222
+#EXTINF:-1 group-title="Deportes",TNT SPORTS
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19461
+#EXTINF:-1 group-title="Deportes",FoxSports
+http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36387
+
+
 #Noticias
-################################################################
 #EXTINF:-1 group-title="Noticias",TN NOTICIAS HD
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 group-title="Noticias",Nacion+
@@ -51,23 +49,7 @@ http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenFSEf7Wl9gXjsRs70KeeDGA/ts
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0077
 #EXTINF:-1 group-title="Noticias", Canal 26
 http://xdplayer.tv:8080/play/9YbwDSr3Y4Y5VxUHJ1KsX0bKuuE3Ld8ufB7iPtyBFe09-hbGop548SG0vPTzWgJ_/ts
-
-################################################################
-#Internacionales
-################################################################
-#EXTINF:-1 tvg-id="DW Español" group-title="Internacionales",DW Español
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
-#EXTINF:-1 group-title="Internacionales",Euronews
-https://rakuten-euronews-4-es.samsung.wurl.com/manifest/f1f29e913cb79ff20b9491b00992ce53.m3u8
-#EXTINF:-1 group-title="Internacionales",CNN
-http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenIhjD-t4jQrGBs7c0zIhX9dpb9U4RvtJFHp8HbEYZIpY/ts
-################################################################
 #Peliculas
-################################################################
-#EXTINF:-1 group-title="Peliculas",Cinema Marvel Studios 
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/177333
-#EXTINF:-1 group-title="Peliculas",ViveTV 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0347
 #EXTINF:-1 group-title="Peliculas",Bayres Tv
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?TecnoPlaylist
 #EXTINF:-1 group-title="Peliculas",Neo TV
@@ -75,39 +57,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 group-title="Peliculas",Cosmos TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 group-title="Peliculas",Canal 34 San Juan
-https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-#EXTINF:-1 group-title="Peliculas",VOLVER*
-http://likea8bitboss.xyz:80/live/rahim123/4867123950/651624.m3u8
-#EXTINF:-1 group-title="Peliculas",Juego de Tronos
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/177327
-#EXTINF:-1 group-title="Peliculas",JOHN WICK
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/531600
-#EXTINF:-1 group-title="Peliculas", DURO DE MATAR
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/531601
-#EXTINF:-1 group-title="Peliculas",PlanetaTV Movie
-https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
-#EXTINF:-1 group-title="Peliculas",PlanetaTV Kids
-https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?tecnotv
-
-################################################################
-#plutotv
-################################################################
-#EXTINF:-1 group-title="plutotv",Pluto TV Acción
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="plutotv",Pluto TV Acción
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-
-################################################################
-#Rkuten
-################################################################
-#EXTINF:-1 group-title="Rkuten",Pluto TV Acción
-https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
-
-################################################################
 #DeCable
-################################################################
-#EXTINF:-1 group-title="DeCable",Cine Sony
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 group-title="DeCable",STAR_CHANNEL
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenExmNgXKqIvI-U52po9jSGM/ts
 #EXTINF:-1 group-title="DeCable",UNIVERSAL
@@ -119,15 +69,6 @@ http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenKSQmu3Y_aqZ5WpeZrVqgd0/ts
 #EXTINF:-1 group-title="DeCable",CINEMAX
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenLZMLHKdL59N_h62SMiyCdw/ts
 #EXTINF:-1 group-title="DeCable",CINECANAL
-http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenFdtlcQaMUFiSxiR0Pwvknc/ts
-#EXTINF:-1 group-title="DeCable",HBO
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/242029
-#EXTINF:-1 group-title="DeCable",CINE - HBO 2
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/19581
-#EXTINF:-1 group-title="DeCable",HBO_FAMILY
-http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoKNK_jkcWURggBXaBqflz0E/ts
-#EXTINF:-1 group-title="DeCable",CINE | HBO Family FHD SUR
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/73200
 #EXTINF:-1 group-title="DeCable",Space
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenMETjT6nNaXM40t41kEKg98/ts
 #EXTINF:-1 group-title="DeCable",Fx HD
@@ -142,175 +83,9 @@ http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/241995
 http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/276307
 #EXTINF:-1 group-title="DeCable",CINE | TCM
 http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/19563
-################################################################
-#Series
-################################################################
-#EXTINF:-1 group-title="Series",TnT Series
-http://offshore.lat:8080/play/wxghS3_dgfi0W5F91HCl43CFNzsvZmfnVf7jLUzdbBkhEXej5UxMSKwJ0yEDWk2l
-#EXTINF:-1 group-title="Series",CINE - A3 Series (M)(1080)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26906
-################################################################
-#seriesretro
-################################################################
-#EXTINF:-1 group-title="seriesretro",ALF
-http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenOHm57ptLNt7bU5MGRw_zMyfdCQH1OCiluQURKfflqZO/ts
-
-#EXTINF:0 group-title="seriesretro",Dragón Ball Z 
-http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoJ1K6NOQ92DuG_vkNK8Hj2e/ts
-#EXTINF:-1 group-title="seriesretro", C del Zod
-http://tv.proyectox.vip:8080/j8s3m4nu37/ZVi9HziEVO/37815
-#EXTINF:-1 group-title="seriesretro",RoboTech
-http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoJh1PL_bNHozGE8dZUMbNQK/ts
-
-#EXTINF:-1 group-title="seriesretro",Samurai X
-http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoJEcX_SkUSmAx62ECwL_tGb/ts
-################################################################
-#Infantiles 
-################################################################
-#EXTINF:-1 group-title="Infantiles",El Bebe Jefazo  ⭐️
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/107981
-#EXTINF:-1 group-title="Infantiles",JORGE EL CURIOSO ⭐️
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/216296
-#EXTINF:-1 group-title="Infantiles",MIRACULOUS ⭐️
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/217139
-#EXTINF:-1 group-title="Infantiles",La Casa de Mickey Mouse ⭐️
-http://home-playtv.com:8080/VinicioMora/CNAzc82usQ/177184
-#EXTINF:-1 group-title="Infantiles", Paw Patrol ⭐️
-http://home-playtv.com:8080/VinicioMora/CNAzc82usQ/108007
-#EXTINF:-1 group-title="Infantiles",EL CHAVO DEL 8  ⭐️
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/216295
-#EXTINF:-1 group-title="Infantiles",TOY STORY ⭐️
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/177367
-#EXTINF:-1 group-title="Infantiles",LAT | Cinema Lego Movies ⁽ᴴᴰ⁾
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/177331
-#EXTINF:-1 group-title="Infantiles",Cinema Disney Family
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/177324
-#EXTINF:-1 group-title="Infantiles",El Chavo del Ocho
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/531614
-#EXTINF:-1 group-title="Infantiles",Varied TV
-https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8
-#EXTINF:-1 group-title="Infantiles",Lilo y Stich
-http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoIxblvscw8aRWCyROQ3jF5a/ts
-#EXTINF:-1 group-title="Infantiles",ScoobyDoo
-http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoIboQbj7DwTSrjDEi3rPnye/ts
-#EXTINF:-1 group-title="Infantiles",PawPatrol
-http://xdplayer.tv:8080/play/YcPesnbTRsrEpxhG9VZ3rqPhCfLBAaSsBLYHHVdsAoK9BeeDVY0gYbx7vxkQpoTs/ts
-#EXTINF:-1 group-title="Infantiles",ART ATACK
-http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenONPmqOmOLSxkglH18UPphgFLqDaAFGMS2scYZacXpS1/ts
-#EXTINF:0 group-title="Infantiles",El Chavo
-http://dashtv.tech:8000/Plan3/Plano@_003/280763
-#EXTINF:-1 group-title="Infantiles",PakaPaka
-https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/chunklist_w2051298164.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network"  group-title="Infantiles",Cartoon Network
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 group-title="Infantiles",DISNEY_JUNIOR
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/225866
-#EXTINF:-1 group-title="Infantiles",DISNEY_CHANNEL
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439758
-#EXTINF:-1 group-title="Infantiles",NICK_JR
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242022
-EXTINF:-1 group-title="Infantiles",DISCOVERY_KIDS
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439758
-#EXTINF:-1 group-title="Infantiles",El Chapulin Colorado
-http://disfruta.net:80/htapias36/FaECsfqEsp/2174
-#EXTINF:-1 group-title="Infantiles",TOONCAST
-http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenBU4BdAwPRPGr8igbn_wXS3VHy_SJ7uhcI3FqH_PFpuc/ts
-#EXTINF:-1 group-title="Infantiles",Nickelodeon
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439807
-#EXTINF:-1 group-title="Infantiles",La casa de Mickey mouse 
-http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/37834
-#EXTINF:-1 group-title="Infantiles",Looney Toons
-http://tv.proyectox.vip:8080/MarceloCentofanti/k18nWztf8R/37848
-
-
-
-################################################################
-#Deportes
-################################################################
-#EXTINF:-1 group-title="Deportes",DeporTV 
-https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1 group-title="Deportes",CnAr Deportes
-https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
-#EXTINF:-1 group-title="Deportes",TYC SPORTS
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
-#EXTINF:-1 group-title="Deportes",TNT SPORTS
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/19461
-
-#EXTINF:-1 group-title="Deportes",FoxSports
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36387
-#EXTINF:-1 group-title="Deportes",Fox Sports 2 ARG 
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/186606
-#EXTINF:-1 group-title="Deportes",Fox Sports 3
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36389
-#EXTINF:-1 group-title="Deportes",ESPN
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/219171
-#EXTINF:-1 group-title="Deportes",ESPN 2
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/185666
-#EXTINF:-1 group-title="Deportes",ESPN 3 
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/21220
-#EXTINF:-1 group-title="Deportes",ESPN extra 
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/21229
-#EXTINF:-1 group-title="Deportes",Espn Extra ARG 
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69719
-
-################################################################
-#Documentales
-################################################################
-#EXTINF:-1 group-title="Documentales",El Histonauta TV 
-https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
-#EXTINF:-1 group-title="Documentales",Encuentro 
-https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
-#EXTINF:-1 group-title="Documentales",Astro Net
-https://stmv1.cnarlatam.com/astronet/astronet/playlist.m3u8
-#EXTINF:-1 group-title="Documentales",Aventuras TV
-https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
-#EXTINF:-1 group-title="Documentales",NatGeo
-http://tv.soccerplus.link:8000/alberto/emma18/22286
-#EXTINF:-1 group-title="Documentales",Historia channel
-http://tv.soccerplus.link:8000/alberto/emma18/22278
-#EXTINF:-1 group-title="Documentales",Discovery 
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177627
-#EXTINF:-1 group-title="Documentales",Discovery Familia 
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/119734
-#EXTINF:-1 group-title="Documentales",Discovery Home & Health 
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1402
-#EXTINF:-1 group-title="Documentales",Discovery World
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26896
-#EXTINF:-1 group-title="Documentales",Discovery TLC 
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177632
-#EXTINF:-1 group-title="Documentales",Discovery Science 
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177630
-#EXTINF:-1 group-title="Documentales",Discovery Channel 
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177636
-#EXTINF:-1 group-title="Documentales",Discovery TURBO 
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177633
-
-################################################################
-#Musica
-################################################################
-#EXTINF:-1 tvg-id="GlobalTV.ar" group-title="Musica",Global TV 
-https://stmv.video.gmpro.top/global/global/playlist.m3u8
-#EXTINF:-1 tvg-id="MusicTop.ar" group-title="Musica",MusicTop 
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PowerTv" group-title="Musica",PowerTv
-http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo Latino" group-title="Musica",Vevo Latino
-https://d3k7iagvenqkpa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lgynwyncl1q5l/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-id="CM El Canal de la Musica" group-title="Musica",CM El Canal de la Musica
-http://g5.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8
-#EXTINF:-1 tvg-id="PowerHD" group-title="Musica",PowerHD
-https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
-#EXTINF:-1 group-title="Musica",HTV
-http://dnsplay.xyz:80/iulbtxvx/aKbfP2691e/35025
-#EXTINF:-1 group-title="Musica",
-http://likea8bitboss.xyz:80/live/rahim123/4867123950/651632.m3u8
-################################################################
-#Otros
-################################################################
-#EXTINF:-1 group-title="Otros",TEC TV
-https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
-#EXTINF:-1 group-title="Otros",Viajar TV
-https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
-################################################################
-#24/7
-################################################################
+#EXTINF:-1 group-title="DeCable",Cine Sony
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 group-title="DeCable",HBO
+http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/242029
+#EXTINF:-1 group-title="DeCable",CINE - HBO 2
+http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/19581
