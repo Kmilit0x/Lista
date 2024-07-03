@@ -1,13 +1,17 @@
 #EXTM3U 
 #Infantiles 
+#EXTINF:-1 group-title="Infantiles",Cartoonito
+http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/54405
+#EXTINF:-1 group-title="Infantiles",Cartoon Network  
+http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/54404
 #EXTINF:-1 group-title="Infantiles",DISNEY_JUNIOR
-http://offshore.lat:8080/play/u6k_BQ4HVLyLiGlWdq13RoW8MApSFCAUb1CYgMZAgX46JAirdcaomzFRQKcrgCQA/ts
+http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/439796
 #EXTINF:-1 group-title="Infantiles",DISNEY_CHANNEL
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439758
+http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/439795
 #EXTINF:-1 group-title="Infantiles",NICK_JR
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/242022
-EXTINF:-1 group-title="Infantiles",DISCOVERY_KIDS
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/439758
+http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/242022
+#EXTINF:-1 group-title="Infantiles",DISCOVERY_KIDS
+http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/439758
 #EXTINF:-1 group-title="Infantiles",PakaPaka
 https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/chunklist_w2051298164.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network"  group-title="Infantiles",Cartoon Network
