@@ -48,6 +48,8 @@ http://home-playtv.com:8080/MenaMinor/HFYKQ/21222
 http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/211363
 #EXTINF:-1 group-title="Deportes",FoxSports
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36387
+#EXTINF:-1 group-title="Deportes",DirecTV
+http://185.192.124.243:80/play/C-DOOXNkmUQI2dcCyCZvIjCB3q3VNYnAFcSfSapjfuR_Q5T4zFUJ94aZqG8_ovIh/m3u8
 #Noticias
 #EXTINF:-1 group-title="Noticias",TN NOTICIAS HD
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
