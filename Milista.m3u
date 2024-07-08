@@ -51,7 +51,11 @@ http://tv.soccerplus.link:8000/GEN2137/MTE21042024/34588
 #EXTINF:-1 group-title="Deportes",FOX SPORTS 3
 http://tv.soccerplus.link:8000/GEN2137/MTE21042024/92723
 #EXTINF:-1 group-title="Deportes",ESPN 2
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/185666
+http://tv.soccerplus.link:8000/andreajimenez/OPAOMYMrs9/34585
+#EXTINF:-1 group-title="Deportes",ESPN 3
+http://tv.soccerplus.link:8000/andreajimenez/OPAOMYMrs9/22113
+#EXTINF:-1 group-title="Deportes",ESPN EXTRA
+http://tv.soccerplus.link:8000/andreajimenez/OPAOMYMrs9/22116
 #EXTINF:-1 group-title="Deportes",DeporTV 
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 group-title="Deportes",TYC SPORTS
