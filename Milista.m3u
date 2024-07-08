@@ -44,8 +44,12 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0354
 #EXTINF:-1 group-title="Generales",Canal 5 
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0355
 #Deportes
+#EXTINF:-1 group-title="Deportes",FOX SPORTS
+http://tv.soccerplus.link:8000/GEN2137/MTE21042024/556
 #EXTINF:-1 group-title="Deportes",FOX Sports 2
-http://home-playtv.com:8080/Eltico800/yqLAvES9xr/19652
+http://tv.soccerplus.link:8000/GEN2137/MTE21042024/34588
+#EXTINF:-1 group-title="Deportes",FOX SPORTS 3
+http://tv.soccerplus.link:8000/GEN2137/MTE21042024/92723
 #EXTINF:-1 group-title="Deportes",ESPN 2
 http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/185666
 #EXTINF:-1 group-title="Deportes",DeporTV 
