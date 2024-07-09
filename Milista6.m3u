@@ -1,21 +1,3 @@
-Skip to content
- 
-Search Gists
-Search...
-All gists
-Back to GitHub
-@josezambrana
-josezambrana/argentina.m3u
-Created 8 months ago • Report abuse
-Code
-Revisions
-1
-Stars
-1
-Clone this repository at &lt;script src=&quot;https://gist.github.com/josezambrana/9e2a41580df9a92a82e903e37c53c956.js&quot;&gt;&lt;/script&gt;
-<script src="https://gist.github.com/josezambrana/9e2a41580df9a92a82e903e37c53c956.js"></script>
-argentina.m3u
-argentina.m3u
 #EXTM3U
 #EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="General",13Max Television
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
