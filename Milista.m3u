@@ -31,6 +31,8 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/chunklist_w2051298164
 #EXTINF:-1 tvg-id="Cartoon Network"  group-title="Infantiles",Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #Generales
+#EXTINF:-1 group-title="Generales",America TV
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 #EXTINF:-1 group-title="Generales",Zonda TV
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Generales",Sello TV 
@@ -52,13 +54,34 @@ https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_
 #EXTINF:-1 group-title="Generales",El Nueve
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenJkrZH62gmQSalk78M20M4I/ts
 #EXTINF:-1 group-title="Generales",El Trece 
-http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenBD-apeZHtdU3Ad8sDiCyahiJJ02VNxPTI90jEiFKimo/ts
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Generales",Telefe
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenOAotStoQaPgVKkRyWXY52Q/ts
+#EXTINF:0 group-title="Generales",TELEFE OPCION 2
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1 group-title="Generales",El Tres 
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0354
 #EXTINF:-1 group-title="Generales",Canal 5 
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0355
+#EXTINF:0 group-title="Generales",NET TV 27.2
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
+#Noticias
+#EXTINF:-1 group-title="Noticias",TN NOTICIAS HD
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1 group-title="Noticias",Nacion+
+https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+#EXTINF:0 group-title="Noticias",A24
+http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenEEdQuHTOfSXsfpsQ2WQEUM/ts
+#EXTINF:-1 group-title="Noticias",Cronica
+http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenFSEf7Wl9gXjsRs70KeeDGA/ts
+#EXTINF:-1 group-title="Noticias",C5N
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0077
+#EXTINF:-1 group-title="Noticias",Canal 26
+https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
+#EXTINF:-1 group-title="Noticias",France 24
+https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+#EXTINF:-1 group-title="Noticias",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #Deportes
 #EXTINF:-1 group-title="Deportes",FOX SPORTS
 http://tv.soccerplus.link:8000/GEN2137/MTE21042024/556
@@ -82,19 +105,6 @@ http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/211363
 http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36387
 #EXTINF:-1 group-title="Deportes",DirecTV
 http://185.192.124.243:80/play/C-DOOXNkmUQI2dcCyCZvIjCB3q3VNYnAFcSfSapjfuR_Q5T4zFUJ94aZqG8_ovIh/m3u8
-#Noticias
-#EXTINF:-1 group-title="Noticias",TN NOTICIAS HD
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-#EXTINF:-1 group-title="Noticias",Nacion+
-https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
-#EXTINF:0 group-title="Noticias",A24
-http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenEEdQuHTOfSXsfpsQ2WQEUM/ts
-#EXTINF:-1 group-title="Noticias",Cronica
-http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenFSEf7Wl9gXjsRs70KeeDGA/ts
-#EXTINF:-1 group-title="Noticias",C5N
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0077
-#EXTINF:-1 group-title="Noticias", Canal 26
-http://xdplayer.tv:8080/play/9YbwDSr3Y4Y5VxUHJ1KsX0bKuuE3Ld8ufB7iPtyBFe09-hbGop548SG0vPTzWgJ_/ts
 #Peliculas
 #EXTINF:-1 group-title="Peliculas",Bayres Tv
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?TecnoPlaylist
@@ -135,6 +145,10 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/242029
 #EXTINF:-1 group-title="DeCable",CINE - HBO 2
 http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/19581
+#plutotv
+#EXTINF:-1 group-title="plutotv",Pluto TV Cine Acción
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #24/7
 #EXTINF:-1 group-title="24/7",ART ATTACK
 http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6gy1jJvjFS606NCZECFQ8BG/ts
@@ -184,3 +198,13 @@ http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6hwqRxqC7q
 http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6i34FQigsVBWnvuWzTmGlTq/ts
 #EXTINF:-1 group-title="24/7",UNIVERSO HARRY POTTER
 http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6hTzAmd0Q_ioe-ay27hjZDo/ts
+#Musica
+#EXTINF:-1 group-title="Musica",Global TV
+https://stmv.video.gmpro.top/global/global/playlist.m3u8
+#EXTINF:-1 group-title="Musica",MusicTop
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 group-title="Musica",Vevo Latino
+#otros
+Metro 12 TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0379
+https://d3k7iagvenqkpa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lgynwyncl1q5l/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
