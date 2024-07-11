@@ -14,37 +14,32 @@ http://home-playtv.com:8080/movie/AndresFlor/RZNRY/545986.mp4
 http://tvbox.dynedns.ovh:80/062765049141/418270655670/140280
 #EXTINF:-1 group-title="Infantiles",VariedTV
 https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Infantiles",Cartoonito
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/54405
-#EXTINF:-1 group-title="Infantiles",Cartoon Network  
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/54404
-#EXTINF:-1 group-title="Infantiles",DISNEY JUNIOR
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/225866
-#EXTINF:-1 group-title="Infantiles",DISNEY CHANNEL
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/439795
-#EXTINF:-1 group-title="Infantiles",NICK JR
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/242022
-#EXTINF:-1 group-title="Infantiles",DISCOVERY KIDS
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/9426
 #EXTINF:-1 group-title="Infantiles",PakaPaka
 https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/chunklist_w2051298164.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network"  group-title="Infantiles",Cartoon Network
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-#Generales
-#EXTINF:-1 group-title="Generales",America TV
-https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
-#EXTINF:-1 group-title="Generales",Zonda TV
-https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Generales",Sello TV 
-https://5f700d5b2c46f.streamlock.net:443/elsellotv/elsellotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Generales",Retro Magico
+#EXTINF:-1 group-title="Infantiles",Cartoonito
+http://home-playtv.com:8080/Eltico800/yqLAvES9xr/19474
+#EXTINF:-1 group-title="Infantiles",Cartoon Network  
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/1372
+#EXTINF:-1 group-title="Infantiles",DISNEY JUNIOR
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/1379
+#EXTINF:-1 group-title="Infantiles",DISNEY CHANNEL
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/1377
+#EXTINF:-1 group-title="Infantiles",NICK JR
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/1392
+#EXTINF:-1 group-title="Infantiles",DISCOVERY KIDS
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/1375
+#EXTINF:-1 group-title="Infantiles",Retro Magico
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Generales",Play Television
+#EXTINF:-1 group-title="Infantiles",Play Television
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8?PlaylistM3UCL
+
+#Generales
 #EXTINF:-1 group-title="Generales",Mas FM
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Generales",La 100
 https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Generales",America TV
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/22094
 #EXTINF:-1 group-title="Generales",Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Generales",5R TV Santa Fe
@@ -54,7 +49,7 @@ https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_
 #EXTINF:-1 group-title="Generales",El Nueve
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenJkrZH62gmQSalk78M20M4I/ts
 #EXTINF:-1 group-title="Generales",El Trece 
-https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/22098
 #EXTINF:-1 group-title="Generales",Telefe
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenOAotStoQaPgVKkRyWXY52Q/ts
 #EXTINF:0 group-title="Generales",TELEFE OPCION 2
@@ -84,7 +79,7 @@ https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #Deportes
 #EXTINF:-1 group-title="Deportes",FOX SPORTS
-http://tv.soccerplus.link:8000/GEN2137/MTE21042024/556
+http://tv.soccerplus.link:8000/AlvaroSuarez07/Fhij357W/556
 #EXTINF:-1 group-title="Deportes",FOX Sports 2
 http://tv.soccerplus.link:8000/GEN2137/MTE21042024/34588
 #EXTINF:-1 group-title="Deportes",FOX SPORTS 3
@@ -93,16 +88,14 @@ http://tv.soccerplus.link:8000/GEN2137/MTE21042024/92723
 http://tv.soccerplus.link:8000/andreajimenez/OPAOMYMrs9/34585
 #EXTINF:-1 group-title="Deportes",ESPN 3
 http://tv.soccerplus.link:8000/andreajimenez/OPAOMYMrs9/22113
-#EXTINF:-1 group-title="Deportes",ESPN EXTRA
-http://tv.soccerplus.link:8000/andreajimenez/OPAOMYMrs9/22116
+#EXTINF:-1 group-title="Deportes",ESPN 4
+http://tv.soccerplus.link:8000/AlvaroSuarez07/Fhij357W/34587
 #EXTINF:-1 group-title="Deportes",DeporTV 
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 group-title="Deportes",TYC SPORTS
 http://home-playtv.com:8080/MenaMinor/HFYKQ/21222
 #EXTINF:-1 group-title="Deportes",TNT SPORTS
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/211363
-#EXTINF:-1 group-title="Deportes",FoxSports
-http://home-playtv.com:8080/L@100.-qaS/QOYTR@@1u/36387
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/309414
 #EXTINF:-1 group-title="Deportes",DirecTV
 http://185.192.124.243:80/play/C-DOOXNkmUQI2dcCyCZvIjCB3q3VNYnAFcSfSapjfuR_Q5T4zFUJ94aZqG8_ovIh/m3u8
 #Peliculas
@@ -128,24 +121,21 @@ http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenLZMLHKdL59N_h62SMiyCdw/ts
 #EXTINF:-1 group-title="DeCable",Space
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenMETjT6nNaXM40t41kEKg98/ts
 #EXTINF:-1 group-title="DeCable",Fx HD
-http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenOkjYtdfyRqxQY1EAeQCvQk/ts
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/26924
 #EXTINF:-1 group-title="DeCable",Paramount
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/439808
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/1486
 #EXTINF:-1 group-title="DeCable",AMC
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/159149
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/26744
 #EXTINF:-1 group-title="DeCable",AXN
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/241995
-#EXTINF:-1 group-title="DeCable",CINE | Claro Cinema
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/276307
-#EXTINF:-1 group-title="DeCable",CINE | TCM
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/19563
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/26922
 #EXTINF:-1 group-title="DeCable",Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 group-title="DeCable",HBO
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/242029
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/141189
 #EXTINF:-1 group-title="DeCable",CINE - HBO 2
-http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/19581
-#plutotv
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/1030
+#EXTINF:-1 group-title="DeCable",CINE - HBO Family (L)(1080)
+http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/1035
 #EXTINF:-1 group-title="plutotv",Pluto TV Cine Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -154,42 +144,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f368
 http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6gy1jJvjFS606NCZECFQ8BG/ts
 #EXTINF:-1 group-title="24/7",DRAGON BALL SUPER
 http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6iuNIbzclrpyRNjgfcscQVO/ts
-#EXTINF:-1 group-title="24/7",CHESPIRITO
-http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6gqyGePiQpLBduThVttzLea/ts
-#EXTINF:-1 group-title="24/7",EL CHAVO DEL 8
-http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6gI3inN2lrGnOFjTnvUvLja/ts
-#EXTINF:-1 group-title="24/7",EL CHAVO ANIMADO
-http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6hHMyR657cvnITj3sLRIf7p/ts
-#EXTINF:-1 group-title="24/7",FIESTAMIX 1
-http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6ioHM_s2EaR_9qmKd8WAuH_/ts
-#EXTINF:-1 group-title="24/7",LAS FABULAS DE DISNEY
-http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6hYfhW5vYQaLb2L3clRZ7Ts/ts
-#EXTINF:-1 group-title="24/7",LOONEY TUNNES
-http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6gfDBFLyFLziBjjyX3fY01O/ts
+
 #EXTINF:-1 group-title="24/7",LOS SIMPSONS
 http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6iqZ5_UMHK--CDoFS_SY313/ts
-#EXTINF:-1 group-title="24/7",LOS SUPER CAMPEONES 2018
-http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6jJEudCIMPZPMJp4oeRwgdT/ts
-#EXTINF:-1 group-title="24/7",NARUTO
-http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6guFq-iVN-AVe7i2Vf1syul/ts
 #EXTINF:-1 group-title="24/7",PAW PATROL
 http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6grG1cYVWbQ50f1ICBiinq7/ts
 #EXTINF:-1 group-title="24/7",POKEMON
 http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6j1LfY3BdvbA56GSGY05cPt/ts
 #EXTINF:-1 group-title="24/7",TEEN TITANS
 http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6jP890ujLnZrKg41n5Q5o27/ts
-#EXTINF:-1 group-title="24/7",UNIVERSO MARVEL
-http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6jpFd6ROmU9xGc2Mgst4t9-/ts
-#EXTINF:-1 group-title="24/7",UNIVERSO PIXAR
-http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6gowB7cTYsUyueGkcsU8GON/ts
-#EXTINF:-1 group-title="24/7",UNIVERSO X-MEN
-http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6ilak5MmHG4FzdzBQ5Kkg7I/ts
-#EXTINF:-1 group-title="24/7",CASADO CON HIJOS
-http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6iqFMzhUg6qNMJLzpmRbFcE/ts
-#EXTINF:-1 group-title="24/7",GARFIELD
-http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6iKGWKokME2DkxsY0fI5Ts9/ts
-#EXTINF:-1 group-title="24/7",INSPECTOR GADGET
-http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6jGZsgubdFyaxKJsOLQM3uo/ts
 #EXTINF:-1 group-title="24/7",LA PANTERA ROSA
 http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6gJSjC_70qb2HlhU8WyFDSB/ts
 #EXTINF:-1 group-title="24/7",SCOOBY DOO
@@ -198,6 +161,12 @@ http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6hwqRxqC7q
 http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6i34FQigsVBWnvuWzTmGlTq/ts
 #EXTINF:-1 group-title="24/7",UNIVERSO HARRY POTTER
 http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6hTzAmd0Q_ioe-ay27hjZDo/ts
+#EXTINF:-1 group-title="24/7",UNIVERSO MARVEL
+http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6jpFd6ROmU9xGc2Mgst4t9-/ts
+#EXTINF:-1 group-title="24/7",UNIVERSO PIXAR
+http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6gowB7cTYsUyueGkcsU8GON/ts
+#EXTINF:-1 group-title="24/7",UNIVERSO X-MEN
+http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6ilak5MmHG4FzdzBQ5Kkg7I/ts
 #Musica
 #EXTINF:-1 group-title="Musica",Global TV
 https://stmv.video.gmpro.top/global/global/playlist.m3u8
@@ -208,3 +177,4 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 Metro 12 TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0379
 https://d3k7iagvenqkpa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lgynwyncl1q5l/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
