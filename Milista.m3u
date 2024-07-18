@@ -78,15 +78,17 @@ https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #Deportes
 #EXTINF:-1 group-title="Deportes",FOX SPORTS
-http://tv.soccerplus.link:8000/AlvaroSuarez07/Fhij357W/556
+http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9HsoUfpWaKqvMiDiVjm8glsgp/ts
 #EXTINF:-1 group-title="Deportes",FOX Sports 2
-http://tv.soccerplus.link:8000/GEN2137/MTE21042024/34588
+http://tv.soccerplus.link:8000/AlvaroSuarez07/Fhij357W/556
 #EXTINF:-1 group-title="Deportes",FOX SPORTS 3
-http://tv.soccerplus.link:8000/GEN2137/MTE21042024/92723
+http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9Hsr2bZtIFJUcEJz9hySbgdIM/ts
+#EXTINF:-1 group-title="Deportes",ESPN
+http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9HsoHlq78zGM2ZN2L-WIUhx07/ts
 #EXTINF:-1 group-title="Deportes",ESPN 2
 http://tv.soccerplus.link:8000/andreajimenez/OPAOMYMrs9/34585
 #EXTINF:-1 group-title="Deportes",ESPN 3
-http://tv.soccerplus.link:8000/andreajimenez/OPAOMYMrs9/22113
+http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9Hsr2bZtIFJUcEJz9hySbgdIM/ts
 #EXTINF:-1 group-title="Deportes",ESPN 4
 http://tv.soccerplus.link:8000/AlvaroSuarez07/Fhij357W/34587
 #EXTINF:-1 group-title="Deportes",DeporTV 
