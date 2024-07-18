@@ -19,19 +19,18 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/chunklist_w2051298164
 #EXTINF:-1 group-title="Infantiles",Cartoonito
 http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9HsoWk8vSaz9fETgXirXsw7T1/ts
 #EXTINF:-1 group-title="Infantiles",Cartoon Network  
-http://clubtv.link/1607J/key4513/lista3.php?c=a01h&token=TecnotvGenerador&f=.m3u8
+http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9HsrwWQ_VnlqNjlM9yI6JGHgJ/ts
 #EXTINF:-1 group-title="Infantiles",DISNEY JUNIOR
 http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9Hsr1-HqtZHap5nUyTNKXY4Sd/ts
 #EXTINF:-1 group-title="Infantiles",DISNEY CHANNEL
-http://tv.soccerplus.link:8000/curlers638/latino382/31344
+http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9HspgZnXd-B7CYCvO8Ri5wptO/ts
 #EXTINF:-1 group-title="Infantiles",NICK JR
-http://tv.soccerplus.link:8000/curlers638/latino382/22321
+http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9HspVMn-U5BuW3q8FeZGdVDRu/ts
 #EXTINF:-1 group-title="Infantiles",DISCOVERY KIDS
-http://tv.soccerplus.link:8000/curlers638/latino382/22313
+http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9HsrVAmhkbq5Wv6umRBjPOQxG/ts
 #EXTINF:-1 group-title="Infantiles",Retro Magico
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Infantiles",Play Television
-https://vivo.solumedia.com:19360/playtv/playtv.m3u8?PlaylistM3UCL
+
 
 #Generales
 #EXTINF:-1 group-title="Generales",Mas FM
@@ -132,9 +131,9 @@ http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/26922
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 group-title="DeCable",HBO
 http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/141189
-#EXTINF:-1 group-title="DeCable",CINE - HBO 2
+#EXTINF:-1 group-title="DeCable",HBO 2
 http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/1030
-#EXTINF:-1 group-title="DeCable",CINE - HBO Family (L)(1080)
+#EXTINF:-1 group-title="DeCable",CINE - HBO Family
 http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/1035
 #EXTINF:-1 group-title="plutotv",Pluto TV Cine Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
