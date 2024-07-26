@@ -58,9 +58,10 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0354
 http://twomonkeys.live:80/Victor1234/Victor1234/1072549
 #EXTINF:0 group-title="Generales",NET TV 27.2
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
+
 #Noticias
 #EXTINF:-1 group-title="Noticias",TN NOTICIAS HD
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0061
 #EXTINF:-1 group-title="Noticias",Nacion+
 https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:0 group-title="Noticias",A24
