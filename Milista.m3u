@@ -80,17 +80,17 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="Deportes",FOX SPORTS
 http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9HsoUfpWaKqvMiDiVjm8glsgp/ts
 #EXTINF:-1 group-title="Deportes",FOX Sports 2
-http://tv.soccerplus.link:8000/AlvaroSuarez07/Fhij357W/556
+http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6i2H4oxQ77wpdfiZKSUT3iy/ts
 #EXTINF:-1 group-title="Deportes",FOX SPORTS 3
 http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9Hsr2bZtIFJUcEJz9hySbgdIM/ts
 #EXTINF:-1 group-title="Deportes",ESPN
 http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9HsoHlq78zGM2ZN2L-WIUhx07/ts
 #EXTINF:-1 group-title="Deportes",ESPN 2
-http://tv.soccerplus.link:8000/andreajimenez/OPAOMYMrs9/34585
+http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6ho7A7go41B8GyMMP1LXbpS/ts
 #EXTINF:-1 group-title="Deportes",ESPN 3
 http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9Hsr2bZtIFJUcEJz9hySbgdIM/ts
 #EXTINF:-1 group-title="Deportes",ESPN 4
-http://tv.soccerplus.link:8000/AlvaroSuarez07/Fhij357W/34587
+http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6jFx7CBeKtFA_rgt7R1NsmR/ts
 #EXTINF:-1 group-title="Deportes",DeporTV 
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 group-title="Deportes",TYC SPORTS
@@ -99,6 +99,7 @@ http://home-playtv.com:8080/MenaMinor/HFYKQ/21222
 http://home-playtv.com:8080/Eltico800/yqLAvES9xr/36424
 #EXTINF:-1 group-title="Deportes",DirecTV
 http://185.192.124.243:80/play/C-DOOXNkmUQI2dcCyCZvIjCB3q3VNYnAFcSfSapjfuR_Q5T4zFUJ94aZqG8_ovIh/m3u8
+
 #Peliculas
 #EXTINF:-1 group-title="Peliculas",Bayres Tv
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?TecnoPlaylist
