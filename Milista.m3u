@@ -102,6 +102,9 @@ http://home-playtv.com:8080/MenaMinor/HFYKQ/21222
 http://home-playtv.com:8080/Eltico800/yqLAvES9xr/36424
 #EXTINF:-1 group-title="Deportes",DirecTV
 http://185.192.124.243:80/play/C-DOOXNkmUQI2dcCyCZvIjCB3q3VNYnAFcSfSapjfuR_Q5T4zFUJ94aZqG8_ovIh/m3u8
+#EXTINF:-1 group-title="Deportes",D.SPORTS+
+http://xdplayer.tv:8080/play/SrRq1p7HKhZ0CSMa3W4dMxEdyos0_9P5388RKJvV7MGUC5lmT69nCe-CrKWuKRYL/ts
+
 
 #Peliculas
 #EXTINF:-1 group-title="Peliculas",Bayres Tv
