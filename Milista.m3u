@@ -94,6 +94,8 @@ http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6ho7A7go41
 http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9Hsr2bZtIFJUcEJz9hySbgdIM/ts
 #EXTINF:-1 group-title="Deportes",ESPN 4
 http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6jFx7CBeKtFA_rgt7R1NsmR/ts
+#EXTINF:-1 group-title="Deportes",ESPN PREMIUM
+http://xdplayer.tv:8080/play/SrRq1p7HKhZ0CSMa3W4dM8qHR_5GbbcjyLY9wuL4-8c/ts
 #EXTINF:-1 group-title="Deportes",DeporTV 
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 group-title="Deportes",TYC SPORTS
