@@ -3,9 +3,6 @@
 https://sdmx.vip:443/play/ESOQK_rvNOlxXz6WM_vcTLGawei1_jd5l_WEXd6AIUk#.mp4
 #EXTINF:-1 group-title="peliculasestreno",IntensaMente 2 
 http://tvlatino.club:2082/movie/diamanteda1a/S9gszuE7aujh/467734.mp4
-#EXTINF:-1 group-title="peliculasestreno",El planeta de los simios: Nuevo reino
-http://alfatv.lat:2082/movie/Paloma2388/BVCXdast7622/313384.mkv
-
 
 #EXTM3U 
 #Infantiles 
@@ -32,10 +29,6 @@ https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8?PlaylistM3UCL
 
 
 #Generales
-#EXTINF:-1 group-title="Generales",Mas FM
-https://vivo.solumedia.com:19360/masfm/masfm.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Generales",La 100
-https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Generales",America TV
 http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/22094
 #EXTINF:-1 group-title="Generales",Net TV
@@ -186,19 +179,11 @@ http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9HsrEs1KiU7j
 #EXTINF:-1 group-title="24/7",Captain Tsubasa
 http://xdplayer.tv:8080/play/SrRq1p7HKhZ0CSMa3W4dM0GsGQc0ECYLlwg3fwOg22Ok_OZ2RMT0z26a3KiKm8Jv/ts
 
-
-
 #Musica
 #EXTINF:-1 group-title="Musica",Global TV
 https://stmv.video.gmpro.top/global/global/playlist.m3u8
-#EXTINF:-1 group-title="Musica",MusicTop
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1 group-title="Musica",Vevo Latino
-#otros
-Metro 12 TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0379
-https://d3k7iagvenqkpa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lgynwyncl1q5l/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 group-title="Musica",Fox
-
-http://offshore.lat:8080/play/Zg-DFd7TI8A9FjgOKYVtV2Ky7C2OMV_P_LzK0uK1PgxHCEGFS748yShRfKoeWLTs/ts
+#radios
+#EXTINF:-1 group-title="radios",Mas FM
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="radios",La 100
+https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8?PlaylistM3UCL
