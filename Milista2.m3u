@@ -70,7 +70,7 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 group-title="Peliculas",Canal 34 San Juan
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
-################################################################
+##################################################
 #EXTINF:-1 group-title="About",AGOSTO | Latino | teleclub! 
 http://tv.teleclub.xyz/hls/welcome.m3u8
 #EXTINF:-1 group-title="About", Activar desde www.teleclub.xyz/activar 
