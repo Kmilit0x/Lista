@@ -36,7 +36,7 @@ https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenJkrZH62gmQSalk78M20M4I/ts
 #EXTINF:0 group-title="Generales",TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-EXTINF:0 group-title="Generales",El Tres 
+#EXTINF:0 group-title="Generales",El Tres 
 https://www.youtube.com/live/cb12KmMMDJA?si=uwl8biQl2KJOvBRW
 #EXTINF:-1 group-title="Generales",Play Tv
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0354
