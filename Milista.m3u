@@ -41,7 +41,7 @@ https://youtu.be/Hkhh_e-78wI
 #EXTINF:-1 group-title="Generales",Play Tv
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0354
 EXTINF:-1 group-title="Generales",Canal 5
-http://twomonkeys.live:80/Victor1234/Victor1234/1072549
+http://daleplay.club:80/play/tt-tyIzphMEIVwRzW2tmd9yek1K77ABbICTg8CWXKoM26FgazfRYX74hkSU1nhjf/ts
 #EXTINF:-1 group-title="Generales",EL GOURMET
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenCo7AEJ1Ct9ppyFrNi70EJM/ts
 
@@ -155,6 +155,27 @@ http://xdplayer.tv:8080/play/SrRq1p7HKhZ0CSMa3W4dMxEdyos0_9P5388RKJvV7MGUC5lmT69
 ##################################################
 #24/7
 ##################################################
+
+#EXTINF:-1 group-title="24/7",24/7 El Chavo del 8 **
+http://daleplay.club:80/play/tt-tyIzphMEIVwRzW2tmd2YUAf-J8GbQQnhvp08vzUr_NWrIy11lfp1ZHppZu56a/ts
+
+
+#EXTINF:-1 group-title="24/7",24/7 II  CHESPIRITO
+http://tvlatino.club:2082/Cambio50restream/MpxJeUswKFLV/304514
+
+#EXTINF:-1 group-title="24/7",24/7 M|Peliculas Marvel
+http://tvlatino.club:2082/Cambio50restream/MpxJeUswKFLV/304521
+
+#EXTINF:-1 group-title="24/7",24/7 M|Películas Acción
+http://tvlatino.club:2082/Cambio50restream/MpxJeUswKFLV/304522
+
+#EXTINF:-1 group-title="24/7",24/7 M|Películas Romance
+http://tvlatino.club:2082/Cambio50restream/MpxJeUswKFLV/304543
+
+#EXTINF:-1 group-title="24/7",24/7 BLUEY
+http://tvlatino.club:2082/Cambio50restream/MpxJeUswKFLV/469581
+
+
 #EXTINF:-1 group-title="24/7",ART ATTACK
 http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6gy1jJvjFS606NCZECFQ8BG/ts
 #EXTINF:-1 group-title="24/7",DRAGON BALL SUPER
