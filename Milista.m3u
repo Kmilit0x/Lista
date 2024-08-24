@@ -40,7 +40,7 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 https://youtu.be/Hkhh_e-78wI
 #EXTINF:-1 group-title="Generales",Play Tv
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0354
-EXTINF:-1 group-title="Generales",Canal 5
+#EXTINF:-1 group-title="Generales",Canal 5
 http://daleplay.club:80/play/tt-tyIzphMEIVwRzW2tmd9yek1K77ABbICTg8CWXKoM26FgazfRYX74hkSU1nhjf/ts
 #EXTINF:-1 group-title="Generales",EL GOURMET
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenCo7AEJ1Ct9ppyFrNi70EJM/ts
@@ -155,9 +155,12 @@ http://xdplayer.tv:8080/play/SrRq1p7HKhZ0CSMa3W4dMxEdyos0_9P5388RKJvV7MGUC5lmT69
 ##################################################
 #24/7
 ##################################################
+24/7 EL CHAVO DEL 8  ⭐️
+http://home-playtv.com:8080/RodriguezLaura23/KMXND/216295
 
-#EXTINF:-1 group-title="24/7",24/7 El Chavo del 8 **
-http://daleplay.club:80/play/tt-tyIzphMEIVwRzW2tmd2YUAf-J8GbQQnhvp08vzUr_NWrIy11lfp1ZHppZu56a/ts
+#EXTINF:-1 group-title="24/7",24/7 TOY STORY ⭐️
+http://home-playtv.com:8080/RodriguezLaura23/KMXND/177367
+
 
 
 #EXTINF:-1 group-title="24/7",24/7 II  CHESPIRITO
@@ -171,6 +174,10 @@ http://tvlatino.club:2082/Cambio50restream/MpxJeUswKFLV/304522
 
 #EXTINF:-1 group-title="24/7",24/7 M|Películas Romance
 http://tvlatino.club:2082/Cambio50restream/MpxJeUswKFLV/304543
+
+#EXTINF:-1 group-title="24/7",24/7 Princesa Sofia ⭐️
+http://home-playtv.com:8080/RodriguezLaura23/KMXND/177121
+
 
 #EXTINF:-1 group-title="24/7",24/7 BLUEY
 http://tvlatino.club:2082/Cambio50restream/MpxJeUswKFLV/469581
@@ -206,6 +213,35 @@ http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6ilak5MmHG
 http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9HsrEs1KiU7jBciMKXmYGfZSe/ts
 #EXTINF:-1 group-title="24/7",Captain Tsubasa
 http://xdplayer.tv:8080/play/SrRq1p7HKhZ0CSMa3W4dM0GsGQc0ECYLlwg3fwOg22Ok_OZ2RMT0z26a3KiKm8Jv/ts
+
+#EXTINF:-1 group-title="24/7",24/7 TV S | Cobra Kai ©
+http://home-playtv.com:8080/RodriguezLaura23/KMXND/177380
+
+#EXTINF:-1 group-title="24/7",24/7 LAT | Cinema Disney Family ⁽ᴴᴰ⁾
+http://home-playtv.com:8080/RodriguezLaura23/KMXND/177324
+
+#EXTINF:-1 group-title="24/7",24/7 LAT | Disney Pixar ⁽ᴴᴰ⁾
+http://home-playtv.com:8080/RodriguezLaura23/KMXND/177339
+
+#EXTINF:-1 group-title="24/7",24/7 LAT | Cinema DreamWorks ⁽ᴴᴰ⁾
+http://home-playtv.com:8080/RodriguezLaura23/KMXND/177326
+
+#EXTINF:-1 group-title="24/7",24/7 Juego de Tronos
+http://home-playtv.com:8080/RodriguezLaura23/KMXND/177327
+
+#EXTINF:-1 group-title="24/7",#EXTINF:-1 group-title="24/7",24/7 | DURO DE MATAR
+http://home-playtv.com:8080/RodriguezLaura23/KMXND/531601
+
+#EXTINF:-1 group-title="24/7",24/7 Avatar: La leyenda de Aang
+http://home-playtv.com:8080/RodriguezLaura23/KMXND/531613
+
+#EXTINF:-1 group-title="24/7",24/7 Kenshin, El Guerrero Samurái: Recuerdos
+http://home-playtv.com:8080/RodriguezLaura23/KMXND/531616
+
+#EXTINF:-1 group-title="24/7",24/7 | Alerta Aeropuerto
+http://home-playtv.com:8080/RodriguezLaura23/KMXND/531669
+
+
 ##################################################
 #Musica
 ##################################################
