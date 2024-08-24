@@ -1,5 +1,7 @@
 #EXTM3U 
+##################################################
 #Infantiles 
+##################################################
 #EXTINF:-1 group-title="Infantiles",Reino infantil
 http://xdplayer.tv:8080/play/vy5zpLk8UiMWaDMt4WJ7lY8FkyDURiZdzfVsew01vZkWxGErnL4KrJNvmH2UIIdV/ts
 #EXTINF:-1 group-title="Infantiles",VariedTV
@@ -20,9 +22,9 @@ http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9HspVMn-U5Bu
 http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9HsrVAmhkbq5Wv6umRBjPOQxG/ts
 #EXTINF:-1 group-title="Infantiles",Retro Magico
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8?PlaylistM3UCL
-
-
+##################################################
 #Generales
+##################################################
 #EXTINF:-1 group-title="Generales",America TV
 http://daleplay.club:80/play/LzoS-afH2nyKkfvwnsrpEk8qAljiDb90B1WLSBwxMKBVNWfdyxKVX7Jk-ACT1ioB/ts
 #EXTINF:-1 group-title="Generales",Net TV
@@ -46,7 +48,6 @@ http://twomonkeys.live:80/Victor1234/Victor1234/1072549
 #EXTINF:-1 group-title="Generales",EL GOURMET *HD
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenCo7AEJ1Ct9ppyFrNi70EJM/ts
 
-
 ##################################################
 #Noticias
 ###################################################
@@ -62,16 +63,15 @@ http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenFSEf7Wl9gXjsRs70KeeDGA/ts
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0077
 #EXTINF:-1 group-title="Noticias",Canal 26
 http://xdplayer.tv:8080/play/SrRq1p7HKhZ0CSMa3W4dM_-XgcpUI2wNflfaOJ6gaXI/ts
-
 #EXTINF:-1 group-title="Noticias",France 24
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 group-title="Noticias",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
+##################################################
 #Deportes
+##################################################
 #EXTINF:-1 group-title="Deportes",Claro Sports
 http://xdplayer.tv:8080/play/SrRq1p7HKhZ0CSMa3W4dM2aQZHr446CWzP_dgHkUzxB2EKKm6V3HdFRW0phTj1xp/ts
-
 #EXTINF:-1 group-title="Deportes",FOX SPORTS
 http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9HsoUfpWaKqvMiDiVjm8glsgp/ts
 #EXTINF:-1 group-title="Deportes",FOX Sports 2
@@ -100,9 +100,9 @@ http://xdplayer.tv:8080/play/SrRq1p7HKhZ0CSMa3W4dM7qzr5mmTiXZ1zCcM2C4UjI/ts
 http://185.192.124.243:80/play/C-DOOXNkmUQI2dcCyCZvIjCB3q3VNYnAFcSfSapjfuR_Q5T4zFUJ94aZqG8_ovIh/m3u8
 #EXTINF:-1 group-title="Deportes",D.SPORTS+
 http://xdplayer.tv:8080/play/SrRq1p7HKhZ0CSMa3W4dMxEdyos0_9P5388RKJvV7MGUC5lmT69nCe-CrKWuKRYL/ts
-
-
+##################################################
 #Peliculas
+##################################################
 #EXTINF:-1 group-title="Peliculas",Bayres Tv
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?TecnoPlaylist
 #EXTINF:-1 group-title="Peliculas",Neo TV
@@ -143,13 +143,13 @@ http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9Hsq13WBcvoA
 http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9HsolsAlC8YEFC8si5eLSgJ3G/ts
 #EXTINF:-1 group-title="plutotv",Pluto TV Cine Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
+##################################################
 #24/7
+##################################################
 #EXTINF:-1 group-title="24/7",ART ATTACK
 http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6gy1jJvjFS606NCZECFQ8BG/ts
 #EXTINF:-1 group-title="24/7",DRAGON BALL SUPER
 http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6iuNIbzclrpyRNjgfcscQVO/ts
-
 #EXTINF:-1 group-title="24/7",LOS SIMPSONS
 http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6iqZ5_UMHK--CDoFS_SY313/ts
 #EXTINF:-1 group-title="24/7",PAW PATROL
@@ -176,11 +176,15 @@ http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6ilak5MmHG
 http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9HsrEs1KiU7jBciMKXmYGfZSe/ts
 #EXTINF:-1 group-title="24/7",Captain Tsubasa
 http://xdplayer.tv:8080/play/SrRq1p7HKhZ0CSMa3W4dM0GsGQc0ECYLlwg3fwOg22Ok_OZ2RMT0z26a3KiKm8Jv/ts
-
+##################################################
 #Musica
+##################################################
 #EXTINF:-1 group-title="Musica",Global TV
 https://stmv.video.gmpro.top/global/global/playlist.m3u8
+
+##################################################
 #radios
+##################################################
 #EXTINF:-1 group-title="radios",Mas FM
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="radios",La 100
