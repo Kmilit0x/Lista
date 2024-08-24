@@ -1,5 +1,51 @@
 #EXTM3U 
 ##################################################
+#Noticias
+###################################################
+#EXTINF:-1 group-title="Noticias",TN NOTICIAS HD
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0061
+#EXTINF:-1 group-title="Noticias",Nacion+
+https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+#EXTINF:0 group-title="Noticias",A24
+http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenEEdQuHTOfSXsfpsQ2WQEUM/ts
+#EXTINF:-1 group-title="Noticias",Cronica
+http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenFSEf7Wl9gXjsRs70KeeDGA/ts
+#EXTINF:-1 group-title="Noticias",C5N
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0077
+#EXTINF:-1 group-title="Noticias",Canal 26
+http://xdplayer.tv:8080/play/SrRq1p7HKhZ0CSMa3W4dM_-XgcpUI2wNflfaOJ6gaXI/ts
+#EXTINF:-1 group-title="Noticias",France 24
+https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+#EXTINF:-1 group-title="Noticias",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+##################################################
+#Generales
+##################################################
+#EXTINF:-1 group-title="Generales",America TV
+http://daleplay.club:80/play/LzoS-afH2nyKkfvwnsrpEk8qAljiDb90B1WLSBwxMKBVNWfdyxKVX7Jk-ACT1ioB/ts
+#EXTINF:-1 group-title="Generales",Net TV
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Generales",El Trece
+http://play.1list.vip/live/47988757980/qn805neotg/148018.ts
+#EXTINF:-1 group-title="Generales",5R TV Santa Fe
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Generales",TV Pública 
+https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:-1 group-title="Generales",El Nueve
+http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenJkrZH62gmQSalk78M20M4I/ts
+#EXTINF:0 group-title="Generales",TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+EXTINF:0 group-title="Generales",El Tres 
+https://www.youtube.com/live/cb12KmMMDJA?si=uwl8biQl2KJOvBRW
+#EXTINF:-1 group-title="Generales",Play Tv
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0354
+EXTINF:-1 group-title="Generales",Canal 5
+http://twomonkeys.live:80/Victor1234/Victor1234/1072549
+#EXTINF:-1 group-title="Generales",EL GOURMET *HD
+http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenCo7AEJ1Ct9ppyFrNi70EJM/ts
+
+##################################################
 #Infantiles 
 ##################################################
 #EXTINF:-1 group-title="Infantiles",Reino infantil
@@ -22,84 +68,10 @@ http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9HspVMn-U5Bu
 http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9HsrVAmhkbq5Wv6umRBjPOQxG/ts
 #EXTINF:-1 group-title="Infantiles",Retro Magico
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8?PlaylistM3UCL
-##################################################
-#Generales
-##################################################
-#EXTINF:-1 group-title="Generales",America TV
-http://daleplay.club:80/play/LzoS-afH2nyKkfvwnsrpEk8qAljiDb90B1WLSBwxMKBVNWfdyxKVX7Jk-ACT1ioB/ts
-#EXTINF:-1 group-title="Generales",Net TV
-https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Generales",El Trece
-http://play.1list.vip/live/47988757980/qn805neotg/148018.ts
-#EXTINF:-1 group-title="Generales",5R TV Santa Fe
-http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Generales",TV Pública 
-https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-#EXTINF:-1 group-title="Generales",El Nueve
-http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenJkrZH62gmQSalk78M20M4I/ts
-#EXTINF:0 group-title="Generales",TELEFE
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-EXTINF:-1 group-title="Generales",El Tres 
 
-#EXTINF:-1 group-title="Generales",Play Tv
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0354
-EXTINF:-1 group-title="Generales",Canal 5
-http://twomonkeys.live:80/Victor1234/Victor1234/1072549
-#EXTINF:-1 group-title="Generales",EL GOURMET *HD
-http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenCo7AEJ1Ct9ppyFrNi70EJM/ts
 
-##################################################
-#Noticias
-###################################################
-#EXTINF:-1 group-title="Noticias",TN NOTICIAS HD
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0061
-#EXTINF:-1 group-title="Noticias",Nacion+
-https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
-#EXTINF:0 group-title="Noticias",A24
-http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenEEdQuHTOfSXsfpsQ2WQEUM/ts
-#EXTINF:-1 group-title="Noticias",Cronica
-http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenFSEf7Wl9gXjsRs70KeeDGA/ts
-#EXTINF:-1 group-title="Noticias",C5N
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0077
-#EXTINF:-1 group-title="Noticias",Canal 26
-http://xdplayer.tv:8080/play/SrRq1p7HKhZ0CSMa3W4dM_-XgcpUI2wNflfaOJ6gaXI/ts
-#EXTINF:-1 group-title="Noticias",France 24
-https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
-#EXTINF:-1 group-title="Noticias",DW Español
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-##################################################
-#Deportes
-##################################################
-#EXTINF:-1 group-title="Deportes",Claro Sports
-http://xdplayer.tv:8080/play/SrRq1p7HKhZ0CSMa3W4dM2aQZHr446CWzP_dgHkUzxB2EKKm6V3HdFRW0phTj1xp/ts
-#EXTINF:-1 group-title="Deportes",FOX SPORTS
-http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9HsoUfpWaKqvMiDiVjm8glsgp/ts
-#EXTINF:-1 group-title="Deportes",FOX Sports 2
-http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6i2H4oxQ77wpdfiZKSUT3iy/ts
-#EXTINF:-1 group-title="Deportes",FOX SPORTS 3
-http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9Hsr2bZtIFJUcEJz9hySbgdIM/ts
-#EXTINF:-1 group-title="Deportes",ESPN
-http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9HsoHlq78zGM2ZN2L-WIUhx07/ts
-#EXTINF:-1 group-title="Deportes",ESPN 2
-http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6ho7A7go41B8GyMMP1LXbpS/ts
-#EXTINF:-1 group-title="Deportes",ESPN 3
-http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9Hsr2bZtIFJUcEJz9hySbgdIM/ts
-#EXTINF:-1 group-title="Deportes",ESPN 4
-http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6jFx7CBeKtFA_rgt7R1NsmR/ts
-#EXTINF:-1 group-title="Deportes",ESPN PREMIUM
-http://xdplayer.tv:8080/play/SrRq1p7HKhZ0CSMa3W4dM8qHR_5GbbcjyLY9wuL4-8c/ts
-#EXTINF:-1 group-title="Deportes",DeporTV 
-https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1 group-title="Deportes",TYC SPORTS
-http://home-playtv.com:8080/MenaMinor/HFYKQ/21222
-#EXTINF:-1 group-title="Deportes",TNT SPORTS
-http://xdplayer.tv:8080/play/SrRq1p7HKhZ0CSMa3W4dM1tQEpCmAMv4cLIqLkgf7yg/ts
-#EXTINF:-1 group-title="Deportes",TNT SPORTS 2
-http://xdplayer.tv:8080/play/SrRq1p7HKhZ0CSMa3W4dM7qzr5mmTiXZ1zCcM2C4UjI/ts
-#EXTINF:-1 group-title="Deportes",DirecTV
-http://185.192.124.243:80/play/C-DOOXNkmUQI2dcCyCZvIjCB3q3VNYnAFcSfSapjfuR_Q5T4zFUJ94aZqG8_ovIh/m3u8
-#EXTINF:-1 group-title="Deportes",D.SPORTS+
-http://xdplayer.tv:8080/play/SrRq1p7HKhZ0CSMa3W4dMxEdyos0_9P5388RKJvV7MGUC5lmT69nCe-CrKWuKRYL/ts
+
+
 ##################################################
 #Peliculas
 ##################################################
@@ -110,7 +82,9 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 group-title="Peliculas",Cosmos TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 group-title="Peliculas",Canal 34 San Juan
+##################################################
 #DeCable
+##################################################
 #EXTINF:-1 group-title="DeCable",STAR_CHANNEL
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenExmNgXKqIvI-U52po9jSGM/ts
 #EXTINF:-1 group-title="DeCable",UNIVERSAL
@@ -143,6 +117,41 @@ http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9Hsq13WBcvoA
 http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9HsolsAlC8YEFC8si5eLSgJ3G/ts
 #EXTINF:-1 group-title="plutotv",Pluto TV Cine Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+v##################################################
+#Deportes
+##################################################
+#EXTINF:-1 group-title="Deportes",Claro Sports
+http://xdplayer.tv:8080/play/SrRq1p7HKhZ0CSMa3W4dM2aQZHr446CWzP_dgHkUzxB2EKKm6V3HdFRW0phTj1xp/ts
+#EXTINF:-1 group-title="Deportes",FOX SPORTS
+http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9HsoUfpWaKqvMiDiVjm8glsgp/ts
+#EXTINF:-1 group-title="Deportes",FOX Sports 2
+http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6i2H4oxQ77wpdfiZKSUT3iy/ts
+#EXTINF:-1 group-title="Deportes",FOX SPORTS 3
+http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9Hsr2bZtIFJUcEJz9hySbgdIM/ts
+#EXTINF:-1 group-title="Deportes",ESPN
+http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9HsoHlq78zGM2ZN2L-WIUhx07/ts
+#EXTINF:-1 group-title="Deportes",ESPN 2
+http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6ho7A7go41B8GyMMP1LXbpS/ts
+#EXTINF:-1 group-title="Deportes",ESPN 3
+http://xdplayer.tv:8080/play/7N5xDU6eilFi9f_jnedIq08JAJLcKSvsBleuoRR9Hsr2bZtIFJUcEJz9hySbgdIM/ts
+#EXTINF:-1 group-title="Deportes",ESPN 4
+http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6jFx7CBeKtFA_rgt7R1NsmR/ts
+#EXTINF:-1 group-title="Deportes",ESPN PREMIUM
+http://xdplayer.tv:8080/play/SrRq1p7HKhZ0CSMa3W4dM8qHR_5GbbcjyLY9wuL4-8c/ts
+#EXTINF:-1 group-title="Deportes",DeporTV 
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",TYC SPORTS
+http://home-playtv.com:8080/MenaMinor/HFYKQ/21222
+#EXTINF:-1 group-title="Deportes",TNT SPORTS
+http://xdplayer.tv:8080/play/SrRq1p7HKhZ0CSMa3W4dM1tQEpCmAMv4cLIqLkgf7yg/ts
+#EXTINF:-1 group-title="Deportes",TNT SPORTS 2
+http://xdplayer.tv:8080/play/SrRq1p7HKhZ0CSMa3W4dM7qzr5mmTiXZ1zCcM2C4UjI/ts
+#EXTINF:-1 group-title="Deportes",DirecTV
+http://185.192.124.243:80/play/C-DOOXNkmUQI2dcCyCZvIjCB3q3VNYnAFcSfSapjfuR_Q5T4zFUJ94aZqG8_ovIh/m3u8
+#EXTINF:-1 group-title="Deportes",D.SPORTS+
+http://xdplayer.tv:8080/play/SrRq1p7HKhZ0CSMa3W4dMxEdyos0_9P5388RKJvV7MGUC5lmT69nCe-CrKWuKRYL/ts
+
 ##################################################
 #24/7
 ##################################################
