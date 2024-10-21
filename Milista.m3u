@@ -24,7 +24,8 @@ http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3Ub_kskDS_j9kCngxQ4CnIo
 http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/54199
 #EXTINF:-1 group-title="Noticias",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
+#EXTINF:-1 group-title="Noticias",Euronews Español
+http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3SywpAzKdTIFkLdDj2baFb7Qle4PshE2ic2eltSo3Jf1
 ##################################################
 #Generales
 ##################################################
@@ -57,7 +58,7 @@ https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 #EXTINF:-1 group-title="Noticias",La Casa de Mickey Mouse
 http://dnslivetv.online:80/Jesus10/Jesus10/1078493
 #EXTINF:-1 group-title="Infantiles",Reino infantil
-http://77p.fun:2082/restreamtvplux/Mhsi3wMSJSEjska343255/30604
+http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3foAKbFAA4pkxQ-9TMyMEFT_PhfwWpy43sqgWQh4yP-c
 #EXTINF:-1 group-title="Infantiles",VariedTV
 https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Infantiles",PakaPaka
@@ -68,8 +69,7 @@ http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3Wyyl5vJlEDtCLfBD2n0xPA
 http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3QHwSvd1nsOpaG74QCtVArQ
 #EXTINF:-1 group-title="Infantiles",DISNEY JUNIOR
 http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3UZ_hYL1Kf_lmvE0En0IVeU
-#EXTINF:-1 group-title="Infantiles",DISNEY CHANNEL
-DISNEY CHANNEL *HD | DUAL-AUDIO
+#EXTINF:-1 group-title="Infantiles",DISNEY ch
 http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3X0Pmz2nJEI9J1D4zq-4UWQ
 #EXTINF:0 group-title="Infantiles",NICK
 http://xdplayer.tv:8080/play/aCRqTa7eFXsyVdhwMW47wruSafLIDnAJHAR4X7uTxQeOKD1rCCysNdBXM0_BZmNG/ts
@@ -114,7 +114,7 @@ http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3ci8wWQFp1HglLUqCz4UDr4
 #EXTINF:-1 group-title="DeCable",Space
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenMETjT6nNaXM40t41kEKg98/ts
 #EXTINF:-1 group-title="DeCable",Fx HD
-http://xdplayer.tv:8080/play/aCRqTa7eFXsyVdhwMW47wvr9UElTnCPepvB1JPqJnDct1WpXIBGIg2n8822Dsg9n/ts
+http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3W7zlm6hKlUivQdYVGXWn5k
 #EXTINF:-1 group-title="DeCable",Paramount
 http://xdplayer.tv:8080/play/aCRqTa7eFXsyVdhwMW47wrKbVUVbKf15sHm5Ntkc-Ko/ts
 #EXTINF:-1 group-title="DeCable",AMC
@@ -129,10 +129,15 @@ http://xdplayer.tv:8080/play/aCRqTa7eFXsyVdhwMW47wqpWCOQVXtecqEMY-wLvLVDRPuw-EwD
 http://xdplayer.tv:8080/play/aCRqTa7eFXsyVdhwMW47wgych8NR34qkvSx7KqxT0_X06QlbSM957dgeLrm2zKwq/ts
 #EXTINF:-1 group-title="DeCable",CINE - HBO Family
 http://xdplayer.tv:8080/play/aCRqTa7eFXsyVdhwMW47wgych8NR34qkvSx7KqxT0_U975Fc8PonASaia_hryfS1/ts
-#EXTINF:-1 group-title="DeCable",HBO POP
+#EXTINF:-1 group-title=",DeCable",HBO POP
 http://xdplayer.tv:8080/play/aCRqTa7eFXsyVdhwMW47wruSafLIDnAJHAR4X7uTxQfM4AByi9d6F0SC0qQZvnw7/ts
 #EXTINF:-1 group-title="plutotv",Pluto TV Cine Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+FILM ARTS *HD | DUAL-AUDIO
+http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3S2UI67fM0irubDoo-8b7To
+
+
 
 v##################################################
 #Deportes
@@ -140,21 +145,23 @@ v##################################################
 #EXTINF:-1 group-title="Deportes",Claro Sports
 http://xdplayer.tv:8080/play/aCRqTa7eFXsyVdhwMW47woAom5uHrAnG14As-J3c18_MBZ2Io8lztx84EDNm1Umj/ts
 #EXTINF:-1 group-title="Deportes",FOX SPORTS
-http://xdplayer.tv:8080/play/aCRqTa7eFXsyVdhwMW47wkXdxJU6Er-pt28aHaZjfl7iBMWiuJQ71d7AXG3DD7hu/ts
+http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3WaQJ6wF21gal30WbSwyzNs
 #EXTINF:-1 group-title="Deportes",FOX Sports 2
-http://xdplayer.tv:8080/play/aCRqTa7eFXsyVdhwMW47wvr9UElTnCPepvB1JPqJnDfQEGYtdbFLZVJfunhhQFww/ts
+http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3Qs19Hw1u2j6Bu0C0aqIOPo
 #EXTINF:-1 group-title="Deportes",FOX SPORTS 3
-http://xdplayer.tv:8080/play/aCRqTa7eFXsyVdhwMW47wvr9UElTnCPepvB1JPqJnDdxAxltvNWqVpEPE59cihqd/ts
+http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3dykziOqIZrzKxtHMPFcWdU
+#EXTINF:-1 group-title="Deportes",FOX SPORTS PREMIUM *HD
+http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3Q6Wsic8RIzLQFlYNcNlHuo
 #EXTINF:-1 group-title="Deportes",ESPN
-http://xdplayer.tv:8080/play/aCRqTa7eFXsyVdhwMW47wrC_LJT_uBimXveozLLKAZOSMG8eDcM5Bp-dAIIxu-Bo/ts
+http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3VtX7FY-4us9OVBh_cdbhGvTMJaCV-dPmsVxaGPZDJqU
 #EXTINF:-1 group-title="Deportes",ESPN 2
-http://xdplayer.tv:8080/play/aCRqTa7eFXsyVdhwMW47wpRW_Z08nGMKR7pqm6oT-AHK8X43MbC16cZz-WFcpPIz/ts
+http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3UJHhgy_vvpUg2vjNZcueTsIfQhitmvbxOZQBqx046GU
 #EXTINF:-1 group-title="Deportes",ESPN 3
-http://xdplayer.tv:8080/play/aCRqTa7eFXsyVdhwMW47wpRW_Z08nGMKR7pqm6oT-AHaQITg-6Ng_RXihUnIQjS9/ts
+http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3Uzz3PwdJr7vxoLRZKoe5ZE9i5aHs0ZyKoBUO7C6y92D
 #EXTINF:-1 group-title="Deportes",ESPN 4
-http://xdplayer.tv:8080/play/NPK4kUSlDllM_U5L7vcOksKjR-Sa-BrUPawkabBkt6jFx7CBeKtFA_rgt7R1NsmR/ts
+http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3da0wRrOKAFMRd2XFIFol-aJ0_KGjvWTggqhvbvQbRyO
 #EXTINF:-1 group-title="Deportes",ESPN PREMIUM
-http://xdplayer.tv:8080/play/SrRq1p7HKhZ0CSMa3W4dM8qHR_5GbbcjyLY9wuL4-8c/ts
+http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3TpmQLZQw9h39AmwmvLH7AA
 #EXTINF:-1 group-title="Deportes",DeporTV 
 http://xdplayer.tv:8080/play/aCRqTa7eFXsyVdhwMW47wmGam5r1ijTmRKkb5YCRMVkwoGJSSP5yOexIbuStgjd8/ts
 #EXTINF:-1 group-title="Deportes",TYC SPORTS
