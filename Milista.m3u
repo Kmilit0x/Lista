@@ -38,7 +38,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 group-title="Generales",5R TV Santa Fe
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Generales",TV Pública 
-http://xdplayer.tv:8080/play/tQUb9k0vLXRfSUkiKxi1oX_pgBEzE2RusBHJ_BqrQNIupehOJgkAPVHs_o0XmWRU/ts
+http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3eGAv4636BRV3E6blTJFCsU
 #EXTINF:-1 group-title="Generales",El Nueve
 http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3VBpBXrsGAaPj6-zw_5NkV79H-j-JwXrmNH_05yO7HGi
 #EXTINF:0 group-title="Generales",TELEFE
@@ -51,7 +51,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0354
 http://daleplay.club:80/play/tt-tyIzphMEIVwRzW2tmd9yek1K77ABbICTg8CWXKoM26FgazfRYX74hkSU1nhjf/ts
 #EXTINF:-1 group-title="Noticias",Canal 4 (San Juan)
 https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
-CANAL 10 CORDOBA *FHD
+CANAL 10 CORDOBA
 http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3Q2x0ExR0-Mg_CaeBr9VJDiE1pYU4qFqUgMcU3VVHn5X
 
 
@@ -137,8 +137,10 @@ http://xdplayer.tv:8080/play/aCRqTa7eFXsyVdhwMW47wruSafLIDnAJHAR4X7uTxQfM4AByi9d
 #EXTINF:-1 group-title="plutotv",Pluto TV Cine Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-FILM ARTS *HD | DUAL-AUDIO
+FILM ARTS
 http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3S2UI67fM0irubDoo-8b7To
+TCM HD
+http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3TDFST-k0uSZolAeCopgYQM
 
 
 
