@@ -17,9 +17,9 @@ http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3fkWZdkk1JLf5ScdcST-h70
 #EXTINF:-1 group-title="Noticias",Cronica
 http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3cMwvMbJ-HtUG6kDE-Z2ino
 #EXTINF:-1 group-title="Noticias",C5N
-http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3dlP9aa1KiNW3tzCBGJoqt4
+http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3duCyTRMY9CQ-QMbvoxE14Nket5mm5O6-r_mNrpiaZja
 #EXTINF:-1 group-title="Noticias",Canal 26
-http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3YldXgVpsqUGe-MWn90mamE
+http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3Ub_kskDS_j9kCngxQ4CnIo
 #EXTINF:-1 group-title="Noticias",France 24
 http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/54199
 #EXTINF:-1 group-title="Noticias",DW Español
@@ -51,6 +51,9 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0354
 http://daleplay.club:80/play/tt-tyIzphMEIVwRzW2tmd9yek1K77ABbICTg8CWXKoM26FgazfRYX74hkSU1nhjf/ts
 #EXTINF:-1 group-title="Noticias",Canal 4 (San Juan)
 https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+CANAL 10 CORDOBA *FHD
+http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3Q2x0ExR0-Mg_CaeBr9VJDiE1pYU4qFqUgMcU3VVHn5X
+
 
 ##################################################
 #Infantiles 
@@ -64,9 +67,9 @@ https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Infantiles",PakaPaka
 https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/chunklist_w2051298164.m3u8
 #EXTINF:-1 group-title="Infantiles",Cartoonito
-http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3Wyyl5vJlEDtCLfBD2n0xPA
+http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3R1kqw9PFmWakbwgTMoh5UE
 #EXTINF:-1 group-title="Infantiles",Cartoon Network  
-http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3QHwSvd1nsOpaG74QCtVArQ
+http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3X5nPALwrb6caQFZTTKoIfE
 #EXTINF:-1 group-title="Infantiles",DISNEY JUNIOR
 http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3UZ_hYL1Kf_lmvE0En0IVeU
 #EXTINF:-1 group-title="Infantiles",DISNEY ch
@@ -100,7 +103,7 @@ https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
 #DeCable
 ##################################################
 #EXTINF:-1 group-title="DeCable",STAR_CHANNEL
-http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenExmNgXKqIvI-U52po9jSGM/ts
+http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3WIO1PPtM2ZiAWVrJgLQPMA
 #EXTINF:-1 group-title="DeCable",UNIVERSAL
 http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenMOh41Hpgm1aYBxFe2kyH3Y/ts
 #EXTINF:-1 group-title="DeCable",WARNER_TV
@@ -108,15 +111,15 @@ http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenDEyI5XQq337U1nVvd1fvaA/ts
 #EXTINF:-1 group-title="DeCable",TNT
 http://xdplayer.tv:8080/play/aCRqTa7eFXsyVdhwMW47wruSafLIDnAJHAR4X7uTxQcFE0gg_A_m7qz8ADo5TM9z/ts
 #EXTINF:-1 group-title="DeCable",CINEMAX
-http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3XtuPoxr31LkEVTNlBfAMF4
+http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3SmYIJMgpSd-IDPODysywXY
 #EXTINF:-1 group-title="DeCable",CINECANAL
-http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3ci8wWQFp1HglLUqCz4UDr4
+http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3S9TzWGsG4qOqoGuiqcK3aE
 #EXTINF:-1 group-title="DeCable",Space
-http://xdplayer.tv:8080/play/7ZRK2Rlf48PbClFxL_LenMETjT6nNaXM40t41kEKg98/ts
+http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3bgeuY6lfnnR5_7D3RfzO14
 #EXTINF:-1 group-title="DeCable",Fx HD
-http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3W7zlm6hKlUivQdYVGXWn5k
+http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3XvT7V0B162brSFwKOGTL8E
 #EXTINF:-1 group-title="DeCable",Paramount
-http://xdplayer.tv:8080/play/aCRqTa7eFXsyVdhwMW47wrKbVUVbKf15sHm5Ntkc-Ko/ts
+http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3RkrC91VNWHcD8RYYsM2bg4
 #EXTINF:-1 group-title="DeCable",AMC
 http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3QhQdT4e9zy8ZT53nhzm_9g
 #EXTINF:-1 group-title="DeCable",AXN
