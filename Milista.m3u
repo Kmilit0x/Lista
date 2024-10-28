@@ -301,7 +301,8 @@ Sent from my Android with Castify https://play.google.com/store/apps/details?id=
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="radios",La 100
 https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8?PlaylistM3UCL
-
+#EXTINF:-1 group-title="radios",LV3 Cordoba C3 - 700 TV - Cordoba - CO Cordoba
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0208
 ##################################################
 #Documentales
 ##################################################
