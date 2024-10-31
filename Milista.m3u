@@ -1,8 +1,8 @@
 #EXTM3U 
 ##################################################
-#pelicila
+#Peliculas
 ##################################################
-#EXTINF:-1 group-title="#pelicila",Robot salvaje
+#EXTINF:-1 group-title="#Peliculas",Robot salvaje
 http://daleplay.club:8080/movie/3848Yevkerkkk/Menrhrh73646aeatT/c940645a-f0b6-4d4f-b124-df634061b487.mp4
 
 
@@ -18,11 +18,11 @@ http://cincotv.org:25461/carolina11/rosero11/90966
 #EXTINF:-1 group-title="Noticias",Cronica
 http://xdplayer.tv:8080/play/oTc1nmElhsNxbcElvxX6b6DersTQYQYQvFNNu8DG3Zo03LEL-YbPZS_XQGMyZfV0
 #EXTINF:-1 group-title="Noticias",C5N
-http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3duCyTRMY9CQ-QMbvoxE14Nket5mm5O6-r_mNrpiaZja
+http://xdplayer.tv:8080/play/oTc1nmElhsNxbcElvxX6b48q0Q21HhktL-Ft5poREzw
 #EXTINF:-1 group-title="Noticias",Canal 26
 http://daleplay.club:8080/live/3848Yevkerkkk/Menrhrh73646aeatT/627e90fd-6f63-4499-b062-224d4bfea278.m3u8
 #EXTINF:-1 group-title="Noticias",France 24
-http://home-playtv.com:8080/GTnubetv/9XvbmwuFW8rF/54199
+https://tutv.online:443/esteb5982roj/CchZQLdGB3/248323.ts
 #EXTINF:-1 group-title="Noticias",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="Noticias",Euronews Español
@@ -50,10 +50,7 @@ https://youtu.be/Hkhh_e-78wI
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0354
 #EXTINF:-1 group-title="Generales",Canal 5
 http://daleplay.club:80/play/tt-tyIzphMEIVwRzW2tmd9yek1K77ABbICTg8CWXKoM26FgazfRYX74hkSU1nhjf/ts
-#EXTINF:-1 group-title="Noticias",Canal 4 (San Juan)
-https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
-CANAL 10 CORDOBA
-http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3Q2x0ExR0-Mg_CaeBr9VJDiE1pYU4qFqUgMcU3VVHn5X
+
 
 
 ##################################################
@@ -100,6 +97,10 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 #EXTINF:-1 group-title="Peliculas",Atacama
 https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Noticias",Canal 4 (San Juan)
+https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+CANAL 10 CORDOBA
+http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3Q2x0ExR0-Mg_CaeBr9VJDiE1pYU4qFqUgMcU3VVHn5X
 ##################################################
 #DeCable
 ##################################################
