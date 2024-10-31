@@ -97,7 +97,7 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 #EXTINF:-1 group-title="Peliculas",Atacama
 https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Noticias",Canal 4 (San Juan)
+#EXTINF:-1 group-title="Peliculas",Canal 4 (San Juan)
 https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 CANAL 10 CORDOBA
 http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3Q2x0ExR0-Mg_CaeBr9VJDiE1pYU4qFqUgMcU3VVHn5X
