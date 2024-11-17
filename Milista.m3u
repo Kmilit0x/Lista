@@ -45,7 +45,7 @@ https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
 https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 #EXTINF:-1 group-title="Peliculas",CANAL 10 CBA
 http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3Q2x0ExR0-Mg_CaeBr9VJDiE1pYU4qFqUgMcU3VVHn5X
-#EXTINF:-1 group-title="Peliculas",Canal Wow TV
+#EXTINF:-1 group-title="Peliculas",Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 
@@ -76,7 +76,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0354
 #EXTINF:-1 group-title="Generales",Canal 5
 http://daleplay.club:80/play/tt-tyIzphMEIVwRzW2tmd9yek1K77ABbICTg8CWXKoM26FgazfRYX74hkSU1nhjf/ts
 
-Canal 8 San Juan (1080p) [Not 24/7]
+#EXTINF:-1 group-title="Peliculas",Canal 8 San Juan
 https://ythls.armelin.one/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
 
 
