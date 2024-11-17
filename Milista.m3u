@@ -28,6 +28,11 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="Noticias",Euronews Español
 http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3SywpAzKdTIFkLdDj2baFb7Qle4PshE2ic2eltSo3Jf1
 
+#EXTINF:-1 group-title="Noticias",Paramount Movie Channel (720p)
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+
+Sent from my Android with Castify https://play.google.com/store/apps/details?id=com.castify
+
 ##################################################
 #Peliculas
 ##################################################
