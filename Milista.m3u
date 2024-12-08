@@ -1,12 +1,5 @@
 #EXTM3U 
 ##################################################
-#Peliculas
-##################################################
-#EXTINF:-1 group-title="#Peliculas",Robot salvaje
-http://daleplay.club:8080/movie/3848Yevkerkkk/Menrhrh73646aeatT/c940645a-f0b6-4d4f-b124-df634061b487.mp4
-
-
-##################################################
 #Noticias
 ###################################################
 #EXTINF:-1 group-title="Noticias",TN NOTICIAS HD
@@ -62,6 +55,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 
 #EXTINF:-1 group-title="Peliculas",RETRO TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 group-title="Peliculas",Robot salvaje
+http://daleplay.club:8080/movie/3848Yevkerkkk/Menrhrh73646aeatT/c940645a-f0b6-4d4f-b124-df634061b487.mp4
+
 ##################################################
 ##################################################
 #Generales
