@@ -111,7 +111,7 @@ http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/211237
 #EXTINF:0 group-title="Infantiles",NICK
 http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/9424
 
-Nickelodeon SD
+#EXTINF:-1 group-title="Infantiles",Nickelodeon SD
 http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/9576
 
 #EXTINF:-1 group-title="Infantiles",DISCOVERY KIDS
@@ -120,10 +120,6 @@ http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/439758
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Infantiles",Tooncast
 http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/19567
-
-
-
-
 
 #DeCable
 ##################################################
