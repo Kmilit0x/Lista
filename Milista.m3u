@@ -21,7 +21,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="Noticias",Euronews Español
 http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3SywpAzKdTIFkLdDj2baFb7Qle4PshE2ic2eltSo3Jf1
 
-#EXTINF:-1 group-title="Noticias
 
 ##################################################
 #Peliculas
@@ -40,24 +39,12 @@ https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
 https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 #EXTINF:-1 group-title="Peliculas",AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
-
-#EXTINF:-1 group-title="Peliculas",Garage TV Argentina
-https://stream1.sersat.com/hls/garagetv.m3u8
-
-#EXTINF:-1 group-title="Peliculas",Wow 
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-
-#EXTINF:-1 group-title="Peliculas",WOW TV  | SV
+#EXTINF:-1 group-title="Peliculas",WOW TV  
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Peliculas",Hell's Kitchen en español
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492b2794116800073e32dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f90-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=12baeda8-54dc-41d3-965e-6fd5c80400b1
-
 #EXTINF:-1 group-title="Peliculas",RETRO TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
-#EXTINF:-1 group-title="Peliculas",Robot salvaje
-http://daleplay.club:8080/movie/3848Yevkerkkk/Menrhrh73646aeatT/c940645a-f0b6-4d4f-b124-df634061b487.mp4
+
 
 ##################################################
 ##################################################
@@ -84,10 +71,16 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0354
 #EXTINF:-1 group-title="Generales",Canal 5
 http://daleplay.club:80/play/tt-tyIzphMEIVwRzW2tmd9yek1K77ABbICTg8CWXKoM26FgazfRYX74hkSU1nhjf/ts
 
-#EXTINF:-1 group-title="Peliculas",Canal 8 San Juan
+#EXTINF:-1 group-title="Generales",Canal 8 San Juan
 https://ythls.armelin.one/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
 
+#EXTINF:-1 group-title="Generales",Garage TV Argentina
+https://stream1.sersat.com/hls/garagetv.m3u8
 
+##################################################
+#PlutoTV
+#EXTINF:-1 group-title="PlutoTV",Hell's Kitchen en español
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492b2794116800073e32dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f90-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=12baeda8-54dc-41d3-965e-6fd5c80400b1
 
 ##################################################
 #Infantiles 
