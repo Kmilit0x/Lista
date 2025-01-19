@@ -57,6 +57,9 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 group-title="Peliculas",Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 group-title="Peliculas",Prodotel TV
+https://ss3.domint.net:3140/ptv_str/prodoteltv/playlist.m3u8
+
 
 ##################################################
 ##################################################
