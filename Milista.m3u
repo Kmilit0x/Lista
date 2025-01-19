@@ -35,6 +35,10 @@ http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3SywpAzKdTIFkLdDj2baFb7Qle4PshE
 ##################################################
 #Peliculas
 ##################################################
+#EXTINF:-1 group-title="Peliculas",Canal 40 Cauecte
+https://canalsj.kozow.com/canal40/index.m3u8
+
+
 #EXTINF:-1 group-title="Peliculas",Bayres Tv
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?TecnoPlaylist
 #EXTINF:-1 group-title="Peliculas",Neo TV
