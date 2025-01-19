@@ -112,6 +112,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550
 ##################################################
 #Infantiles 
 ##################################################
+#EXTINF:-1 group-title="Infantiles",Locomotion 
+http://51.222.85.85:81/hls/loco/index.m3u8
+
 #EXTINF:-1 group-title="Infantiles",Reino infantil
 http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3foAKbFAA4pkxQ-9TMyMEFT_PhfwWpy43sqgWQh4yP-c
 #EXTINF:-1 group-title="Infantiles",VariedTV
