@@ -2,6 +2,8 @@
 ##################################################
 #Noticias
 ###################################################
+#EXTINF:-1 group-title="Noticias",S3
+http://tvhomesmart.xyz:8080/movie/90630261/04043/268982.mp4
 #EXTINF:-1 group-title="Noticias",TN NOTICIAS HD
 http://tvhomesmart.xyz:8080/Cn9UBZBD/A5g8vT4V/61564
 #EXTINF:-1 group-title="Noticias",Nacion+
@@ -350,6 +352,5 @@ http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0208
 ##################################################
 #EXTINF:-1 group-title="Documentales",ANIMAL PLANET *LQ
 http://xdplayer.tv:8080/play/aCRqTa7eFXsyVdhwMW47wjcjln7XcqsG8Z1A9hpOl_vzFcFj1EAMPh3opV0JLiOg/ts
-#peliculas
-#EXTINF:-1 group-title="peliculas",s3
-http://tvhomesmart.xyz:8080/movie/90630261/04043/268982.mp4
+
+
