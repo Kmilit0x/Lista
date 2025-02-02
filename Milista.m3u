@@ -386,45 +386,134 @@ v##################################################
 #Deportes
 ##################################################
 
-#EXTINF:-1 group-title="Deportes",Canal 21 TV
-https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/clrospn.png?raw=true" group-title="Deportes",Claro Sports
+http://tv.teleclub.xyz/club/server_1/deportes/clarosports/index.m3u8
 
-#EXTINF:-1 group-title="Deportes",Canal 12 Puerto Madryn
-https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/clrospn.png?raw=true" group-title="Deportes",Claro Sports - !3
+http://tv.teleclub.xyz/club/server_3/deportes/clarosports/index.m3u8
 
-#EXTINF:-1 group-title="Deportes",Claro Sports
-http://xdplayer.tv:8080/play/aCRqTa7eFXsyVdhwMW47woAom5uHrAnG14As-J3c18_MBZ2Io8lztx84EDNm1Umj/ts
-#EXTINF:-1 group-title="Deportes",FOX SPORTS
-http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3WaQJ6wF21gal30WbSwyzNs
-#EXTINF:-1 group-title="Deportes",FOX Sports 2
-http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3Qs19Hw1u2j6Bu0C0aqIOPo
-#EXTINF:-1 group-title="Deportes",FOX SPORTS 3
-http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3dykziOqIZrzKxtHMPFcWdU
-#EXTINF:-1 group-title="Deportes",FOX SPORTS PREMIUM *HD
-http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3Q6Wsic8RIzLQFlYNcNlHuo
-#EXTINF:-1 group-title="Deportes",ESPN
-http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3VtX7FY-4us9OVBh_cdbhGvTMJaCV-dPmsVxaGPZDJqU
-#EXTINF:-1 group-title="Deportes",ESPN 2
-http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3UJHhgy_vvpUg2vjNZcueTsIfQhitmvbxOZQBqx046GU
-#EXTINF:-1 group-title="Deportes",ESPN 3
-http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3Uzz3PwdJr7vxoLRZKoe5ZE9i5aHs0ZyKoBUO7C6y92D
-#EXTINF:-1 group-title="Deportes",ESPN 4
-http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3da0wRrOKAFMRd2XFIFol-aJ0_KGjvWTggqhvbvQbRyO
-#EXTINF:-1 group-title="Deportes",ESPN PREMIUM
-http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3TpmQLZQw9h39AmwmvLH7AA
-#EXTINF:-1 group-title="Deportes",DeporTV 
-http://xdplayer.tv:8080/play/aCRqTa7eFXsyVdhwMW47wmGam5r1ijTmRKkb5YCRMVkwoGJSSP5yOexIbuStgjd8/ts
-#EXTINF:-1 group-title="Deportes",TYC SPORTS
-http://xdplayer.tv:8080/play/aCRqTa7eFXsyVdhwMW47wvBlWIont0R_zaKPdyVn6ZsjH_ZY390shzQ5z-oJ7SMH/ts
-#EXTINF:-1 group-title="Deportes",TNT SPORTS
-http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/36424
-#EXTINF:-1 group-title="Deportes",TNT SPORTS 2
-http://xdplayer.tv:8080/play/SrRq1p7HKhZ0CSMa3W4dM7qzr5mmTiXZ1zCcM2C4UjI/ts
-#EXTINF:-1 group-title="Deportes",DirecTV
-http://xdplayer.tv:8080/play/aCRqTa7eFXsyVdhwMW47wmGam5r1ijTmRKkb5YCRMVkwoGJSSP5yOexIbuStgjd8/ts
-#EXTINF:-1 group-title="Deportes",D.SPORTS+
-http://xdplayer.tv:8080/play/tQUb9k0vLXRfSUkiKxi1oeu0N3mNniaoZYholhiMfXKSf0IOE1iJX0VAgX3IOse_/ts
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dazn1.png?raw=true?raw=true" group-title="Deportes",DAZN 1
+http://tv.teleclub.xyz/club/server_1/deportes/dazn1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dazn2.png?raw=true" group-title="Deportes",DAZN 2
+http://tv.teleclub.xyz/club/server_1/deportes/dazn2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/daznf1.jpg?raw=true" group-title="Deportes",DAZN 3
+http://tv.teleclub.xyz/club/server_1/deportes/dazn3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/daznf1.jpg?raw=true" group-title="Deportes",DAZN F1
+http://tv.teleclub.xyz/club/server_1/deportes/daznf1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/liga1max.png?raw=true" group-title="Deportes",DAZN La Liga
+http://tv.teleclub.xyz/club/server_1/deportes/daznlaliga/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/liga1max.png?raw=true" group-title="Deportes",DAZN Moto GP
+http://tv.teleclub.xyz/club/server_1/deportes/daznmotogp/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dtvs1.png?raw=true" group-title="Deportes",Directv Sports
+http://tv.teleclub.xyz/club/server_1/deportes/directvsports/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dtvs3.png?raw=true" group-title="Deportes",Directv Sports +
+http://tv.teleclub.xyz/club/server_1/deportes/directvsportsplus/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dtvs2.png?raw=true" group-title="Deportes",Directv Sports 2
+http://tv.teleclub.xyz/club/server_1/deportes/directvsports2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/espnn.png?raw=true" group-title="Deportes",ESPN 1
+http://tv.teleclub.xyz/club/server_1/deportes/espn1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/espn2n.png?raw=true" group-title="Deportes",ESPN 2
+http://tv.teleclub.xyz/club/server_1/deportes/espn2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/espn3n.png?raw=true" group-title="Deportes",ESPN 3
+http://tv.teleclub.xyz/club/server_1/deportes/espn3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/espn4ab.png?raw=true" group-title="Deportes",ESPN 4
+http://tv.teleclub.xyz/club/server_1/deportes/espn4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/espn5.png?raw=true" group-title="Deportes",ESPN 5
+http://tv.teleclub.xyz/club/server_1/deportes/espn5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/espn6.png?raw=true" group-title="Deportes",ESPN 6
+http://tv.teleclub.xyz/club/server_1/deportes/espn6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/espn7.png?raw=true" group-title="Deportes",ESPN 7
+http://tv.teleclub.xyz/club/server_1/deportes/espn7/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/espnpr.png?raw=true" group-title="Deportes",ESPN Premium
+http://tv.teleclub.xyz/club/server_1/deportes/espnpremium/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/fxdpots.png?raw=true" group-title="Deportes",Fox Deportes
+http://tv.teleclub.xyz/club/server_1/deportes/foxdeportes/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/foxsports.png?raw=true" group-title="Deportes",Fox Sports 1
+http://tv.teleclub.xyz/club/server_1/deportes/foxsports1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/foxsportsmx.png?raw=true" group-title="Deportes",Fox Sports 1 MX
+http://tv.teleclub.xyz/club/server_1/deportes/foxsports1mx/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/foxsports2.png?raw=true" group-title="Deportes",Fox Sports 2
+http://tv.teleclub.xyz/club/server_1/deportes/foxsports2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/foxsports2mx.png?raw=true" group-title="Deportes",Fox Sports 2 MX
+http://tv.teleclub.xyz/club/server_1/deportes/foxsports2mx/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/foxsports2mx.png?raw=true" group-title="Deportes",Fox Sports 2 MX - !3
+http://tv.teleclub.xyz/club/server_3/deportes/foxsports2mx/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/foxsports3.png?raw=true" group-title="Deportes",Fox Sports 3
+http://tv.teleclub.xyz/club/server_1/deportes/foxsports3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/foxsports3mx.png?raw=true" group-title="Deportes",Fox Sports 3 MX
+http://tv.teleclub.xyz/club/server_1/deportes/foxsports3mx/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/foxpr.png?raw=true" group-title="Deportes",Fox Sports Premium MX
+http://tv.teleclub.xyz/club/server_1/deportes/foxsportspremiummx/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/g0lprnn.png?raw=true" group-title="Deportes",Gol Peru
+http://tv.teleclub.xyz/club/server_1/deportes/golperu/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/gltv.png?raw=true" group-title="Deportes",Gol TV
+http://tv.teleclub.xyz/club/server_1/deportes/goltv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/latest.png?raw=true" group-title="Deportes",L1 Max
+http://tv.teleclub.xyz/club/server_1/deportes/l1max/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/liga1.png?raw=true" group-title="Deportes",Liga 1
+http://tv.teleclub.xyz/club/server_1/deportes/liga1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/liga1max.png?raw=true" group-title="Deportes",Liga 1 Max
+http://tv.teleclub.xyz/club/server_1/deportes/liga1max/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/nbatv.png?raw=true" group-title="Deportes",NBA
+http://tv.teleclub.xyz/club/server_1/deportes/nba/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/nfltv.png?raw=true" group-title="Deportes",NFL Network
+http://tv.teleclub.xyz/club/server_1/deportes/nflnetwork/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/tntsports.png?raw=true" group-title="Deportes",TNT Sports
+http://tv.teleclub.xyz/club/server_1/deportes/tntsports/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/tudn.png?raw=true" group-title="Deportes",TUDN
+http://tv.teleclub.xyz/club/server_1/deportes/tudn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/tudn.png?raw=true" group-title="Deportes",TUDN - !3
+http://tv.teleclub.xyz/club/server_3/deportes/tudn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/tudnvix.jpg?raw=true" group-title="Deportes",TUDN VIX +
+http://tv.teleclub.xyz/club/server_1/deportes/tudnvixplus/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/tycspots.png?raw=true" group-title="Deportes",TyC Sports
+http://tv.teleclub.xyz/club/server_1/deportes/tycsports/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/winspots.png?raw=true" group-title="Deportes",Win Sports - !3
+http://tv.teleclub.xyz/club/server_3/deportes/winsports/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/wnpls.png?raw=true" group-title="Deportes",Win Sports Plus
+http://tv.teleclub.xyz/club/server_1/deportes/winsportsplus/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/wnpls.png?raw=true" group-title="Deportes",Win Sports Plus - !3
+http://tv.teleclub.xyz/club/server_3/deportes/winsportsplus/index.m3u8
 ##################################################
 #24/7
 ##################################################
@@ -515,27 +604,29 @@ http://xdplayer.tv:8080/play/aCRqTa7eFXsyVdhwMW47wigQUGunfD_hjnkz5xa4xJ5DzatgQjt
 #EXTINF:-1 group-title="24/7",24 HORAS | UNIVERSO STAR WARS
 http://xdplayer.tv:8080/play/aCRqTa7eFXsyVdhwMW47wiMFHcMM-wfR4V9L1MFcSERBZU1RENp3gdTzT00y_r1q/ts
 
-
-
 ##################################################
-#Musica
+# MUSICA
 ##################################################
-#EXTINF:-1 group-title="Musica",MULTIVISION *FHD
-http://xdplayer.tv:8080/play/aCRqTa7eFXsyVdhwMW47wqM1wTl-65zZB27mqWXvZbzZi81O9blXyo6IzsGCokYp/ts
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/EnerGeekRadio.png?raw=true" group-title="Musica",EnerGeek Radio !Ex
+http://tv.teleclub.xyz/club/server_url/musica/energeekradio/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/htv.png?raw=true" group-title="Musica",HTV
+http://tv.teleclub.xyz/club/server_2/musica/htv/index.m3u8
 
-#documentales
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="Musica",MTV
+http://tv.teleclub.xyz/club/server_2/musica/mtv/index.m3u8
 
-#Extinf:-1 group-title="documentales",ANIMAL PLANET 
-http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3b5LjVBOPQyNFao4oe8_C1E
-#Extinf:-1 group-title="documentales",DISCOVERY CHANNEL
-http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3eqw_Vrsrf3ma3DIHpGqtSI
-DISCOVERY H&H *HD | DUAL-AUDIO
-http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3cj-nD69NGq4SUXGjEDNMpQ
-DISCOVERY ID *HD | DUAL-AUDIO
-http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3SxEzwaTJElUhJQ0vDH5tYw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="Musica",MTV Hits
+http://tv.teleclub.xyz/club/server_2/musica/mtvhits/index.m3u8
 
-Sent from my Android with Castify https://play.google.com/store/apps/details?id=com.castify
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/music%20top.png?raw=true" group-title="Musica",Music Top
+http://tv.teleclub.xyz/club/server_2/musica/musictop/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eja3aRk.png" group-title="Musica",Telehit
+http://tv.teleclub.xyz/club/server_2/musica/telehit/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HATrmBq.png" group-title="Musica",Top Latino
+http://tv.teleclub.xyz/club/server_2/musica/toplatino/index.m3u8
 
 
 ##################################################
