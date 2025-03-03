@@ -1,9 +1,12 @@
 #EXTM3U 
-#Direccion de la lista
+#Direccion
 #https://raw.githubusercontent.com/Kmilit0x/Lista/refs/heads/main/Milista.m3u 
+
 ##################################################
 #Noticias
 ###################################################
+#EXTINF:-1 group-title="Noticias",prueba
+https://raw.githubusercontent.com/Kmilit0x/Lista/refs/heads/main/Milista2.m3u
 #EXTINF:-1 group-title="Noticias",TN NOTICIAS HD
 http://tvhomesmart.xyz:8080/Cn9UBZBD/A5g8vT4V/61564
 #EXTINF:-1 group-title="Noticias",Nacion+
