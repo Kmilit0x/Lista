@@ -67,7 +67,7 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?Playlis
 #EXTINF:-1 group-title="Generales",TV Pública 
 http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3eGAv4636BRV3E6blTJFCsU
 #EXTINF:-1 group-title="Generales",El Nueve
-http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3VBpBXrsGAaPj6-zw_5NkV79H-j-JwXrmNH_05yO7HGi
+http://fortv.cc:8080/0n8u9R/169324/164869
 #EXTINF:0 group-title="Generales",TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1 group-title="Generales",El Tres 
