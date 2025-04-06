@@ -6,6 +6,8 @@ http://defaultgen.com:3050/get.php?username=julrs444@gmail.com&password=vJhnqHt7
 ##################################################
 #Noticias
 ###################################################
+#EXTINF:0 group-title="Noticias",qARG| TN
+http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/32052.m3u8
 http://fortv.cc:8080/0n8u9R/169324/164873
 #EXTINF:-1 group-title="Noticias",Nacion+
 http://170.39.192.130:2095/56941877704tch/050924tch/313463
