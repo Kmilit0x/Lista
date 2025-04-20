@@ -1,24 +1,22 @@
 #EXTM3U 
 #Direccion
 #https://raw.githubusercontent.com/Kmilit0x/Lista/refs/heads/main/Milista.m3u 
-http://defaultgen.com:3050/get.php?username=julrs444@gmail.com&password=vJhnqHt7ir&type=m3u
-
 ##################################################
 #Noticias
 ###################################################
 #EXTINF:0 group-title="Noticias",TN
-http://ultrapremium.cloud:8080/camilofuent@gmail.com/Skapateconmigo00/16240
-http://fortv.cc:8080/0n8u9R/169324/164873
+
+
 #EXTINF:-1 group-title="Noticias",Nacion+
-http://170.39.192.130:2095/56941877704tch/050924tch/313463
+
 #EXTINF:0 group-title="Noticias",A24
-https://nxt.plus:8443/cablestream/uSgBFYRL78sA/225205
+
 #EXTINF:-1 group-title="Noticias",Cronica
-http://tvpremiund.ddns.me:2082/azplay1979/9765339856/2342
+
 #EXTINF:-1 group-title="Noticias",C5N
-http://defaultgen.com:3050/Jwinterdaal2/4vA6qz5DcK/659544
-#EXTINF:-1 group-title="Noticias",Canal 26
-http://1play.cool:25461/gersons593/9786b64a6f/30233
+
+#EXTINF:-1 group-title="Noticias",Canal26
+
 
 
 
@@ -31,7 +29,7 @@ https://canalsj.kozow.com/canal40/index.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8?TecnoPlaylist
 #EXTINF:-1 group-title="Peliculas",Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1 group-title="Peliculas",Cosmos TV
+#EXTINF:-1 group-title="Peliculas",CosmosTV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 group-title="Peliculas",Canal 34 San Juan
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
@@ -63,17 +61,12 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 group-title="Generales",5R TV Santa Fe
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Generales",TV Pública 
-http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3eGAv4636BRV3E6blTJFCsU
+
 #EXTINF:-1 group-title="Generales",El Nueve
-http://xdplayer.tv:8080/play/1qHnCV0SCsVTIo_8NQRF3VBpBXrsGAaPj6-zw_5NkV79H-j-JwXrmNH_05yO7HGi
+
 #EXTINF:0 group-title="Generales",TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-#EXTINF:-1 group-title="Generales",El Tres 
-https://youtu.be/Hkhh_e-78wI
-#EXTINF:-1 group-title="Generales",Play Tv
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0354
-#EXTINF:-1 group-title="Generales",Canal 5
-http://daleplay.club:80/play/tt-tyIzphMEIVwRzW2tmd9yek1K77ABbICTg8CWXKoM26FgazfRYX74hkSU1nhjf/ts
+
 #EXTINF:-1 group-title="Generales",Canal 8 San Juan
 https://ythls.armelin.one/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
 #EXTINF:-1 group-title="Generales",Garage TV Argentina
