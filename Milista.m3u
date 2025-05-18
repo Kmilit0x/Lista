@@ -6,7 +6,7 @@
 ###################################################
 
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/espnpr.png?raw=true" group-title="Deportes",ESPN Premium
-http://tv.teleclub.xyz/club/server_1/deportes/espnpremium/index.m3u8
+http://playtv44.com:8080/982913013/123456/52750
 
 #EXTINF:0 group-title="Noticias",TN
 http://stklatino.dynns.com:2082/Danielaramirez/xavzDw7pQQrB/2341
