@@ -5,6 +5,11 @@
 #Noticias
 ###################################################
 
+#EXTINF:-1 tvg-id="TN" tvg-name="TN Noticias" group-title="Noticias Argentina",TN Noticias en Vivo
+https://www.youtube.com/@todonoticias/live
+
+
+
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/espnpr.png?raw=true" group-title="Deportes",ESPN Premium
 http://playtv44.com:8080/982913013/123456/52750
 
