@@ -5,8 +5,8 @@
 #Noticias
 ###################################################
 
-#EXTINF:-1 tvg-id="TN" tvg-name="TN Noticias" group-title="Noticias Argentina",TN Noticias en Vivo
-https://www.youtube.com/@todonoticias/live
+#EXTINF:-1 tvg-id="TN" tvg-name="Canal de Noticias" group-title="Noticias Argentina",TN Noticias en Vivo
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
 
 
 
