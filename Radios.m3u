@@ -1,34 +1,58 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Noticias",Radio 10 AM 710
-https://s6.stweb.tv/radio10/live/playlist.m3u8
+########################
+# SANTA FE
+########################
 
-#EXTINF:-1 group-title="Noticias",La Red AM 910
-https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC.aac
+#EXTINF:-1 tvg-id="radio2.rosario" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Radio_2_Rosario_logo.png" group-title="Santa Fe",Radio 2 Rosario
+https://playerservices.streamtheworld.com/api/livestream-redirect/LT2_SC
 
-#EXTINF:-1 group-title="Noticias",Radio Nacional AM 870
-http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad1
+#EXTINF:-1 tvg-id="fmdelaplata.rosario" tvg-logo="https://i.imgur.com/9h2R1sE.png" group-title="Santa Fe",FM Del Plata Rosario
+https://playerservices.streamtheworld.com/api/livestream-redirect/FMDELPLATA_SC
 
-#EXTINF:-1 group-title="Noticias",AM 750
-https://mdstrm.com/audio/601bf3e463786007e6d3b9b0/icecast.audio
+#EXTINF:-1 tvg-id="fmlitoral" tvg-logo="https://i.imgur.com/Fy8K2kP.png" group-title="Santa Fe",FM Litoral
+https://streaming.radiosenlinea.com.ar/8100/stream
 
-#EXTINF:-1 group-title="Noticias",CNN Radio Argentina
-http://estudio.cnnradioargentina.com.ar:8000/stream
 
-#EXTINF:-1 group-title="Rock",Aspen 102.3
-https://playerservices.streamtheworld.com/api/livestream-redirect/ASPEN.mp3
+########################
+# BUENOS AIRES
+########################
 
-#EXTINF:-1 group-title="Rock",Mega 98.3
-https://playerservices.streamtheworld.com/api/livestream-redirect/MEGA983.mp3
+#EXTINF:-1 tvg-id="radiomitre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Radio_Mitre_logo.png" group-title="Buenos Aires",Radio Mitre
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_MITRE_SC
 
-#EXTINF:-1 group-title="Rock",Rock & Pop
-https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOP.mp3
+#EXTINF:-1 tvg-id="la100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/La_100_logo.png" group-title="Buenos Aires",La 100
+https://playerservices.streamtheworld.com/api/livestream-redirect/LA100_SC
 
-#EXTINF:-1 group-title="Pop",Los 40 Argentina
-https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINA.mp3
+#EXTINF:-1 tvg-id="radio10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Radio10logo.png" group-title="Buenos Aires",Radio 10
+https://s10.stweb.tv/radio10/live/playlist.m3u8
 
-#EXTINF:-1 group-title="Pop",Pop 101.5
-https://playerservices.streamtheworld.com/api/livestream-redirect/POP1015.mp3
 
-#EXTINF:-1 group-title="Latina",Vale 97.5
-https://playerservices.streamtheworld.com/api/livestream-redirect/VALE975.mp3
+########################
+# CORDOBA
+########################
+
+#EXTINF:-1 tvg-id="cadena3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Cadena3argentina.png" group-title="Cordoba",Cadena 3
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENA3_SC
+
+#EXTINF:-1 tvg-id="sucesos" tvg-logo="https://i.imgur.com/GFh6s2p.png" group-title="Cordoba",Radio Sucesos
+https://streaming.radiosucesos.com:8000/sucesos
+
+
+########################
+# MENDOZA
+########################
+
+#EXTINF:-1 tvg-id="nihuil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Radio_Nihuil_logo.png" group-title="Mendoza",Radio Nihuil
+https://playerservices.streamtheworld.com/api/livestream-redirect/NIHUIL_SC
+
+
+########################
+# NACIONAL
+########################
+
+#EXTINF:-1 tvg-id="nacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Radio_Nacional_Argentina_logo.png" group-title="Nacional",Radio Nacional
+http://sa.mp3.icecast.magma.edge-access.net/sc_rad1
+
+#EXTINF:-1 tvg-id="nacionalrock" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Nacional_Rock_logo.png" group-title="Nacional",Nacional Rock
+http://sa.mp3.icecast.magma.edge-access.net/sc_rad39
