@@ -2,7 +2,7 @@
 # podria utilizarse mplayer en vez de vlc
 
 AMs Nacionales
-
+#M3u
 http://cdn.instream.audio:9288/stream                                       Radio Madre         530
 https://streaming1.hostingmontevideo.com:7019/;                             Radio Colonia       550
 http://server.laradio.online:25224/live.mp3                                 Radio Argentina     570
