@@ -1,0 +1,77 @@
+# alias radio='function __radio(){ r=`grep -v "#" radios_nacionales.txt | grep -m 1 -i $1 | cut -d" " -f1`; cvlc $r 2> /dev/null; }; __radio'
+# podria utilizarse mplayer en vez de vlc
+
+AMs Nacionales
+
+http://cdn.instream.audio:9288/stream                                       Radio Madre         530
+https://streaming1.hostingmontevideo.com:7019/;                             Radio Colonia       550
+http://server.laradio.online:25224/live.mp3                                 Radio Argentina     570
+http://playerservices.streamtheworld.com/api/livestream-redirect/CONTINENTAL_SC                        Continental         590
+https://streammax.alsolnet.com/radiorivadavia                               Rivadavia           630
+http://server.laradio.online:25223/live.mp3                                 Belgrano-650        650
+http://s6.stweb.tv/radio10/live/playlist.m3u8                               Radio 10            710
+http://servidor.01argentina.com.ar:6358                                     Radio Rebelde       740
+http://192.99.38.174:9342/stream                                            AM 750              750
+# https://arcast.com.ar:9501/AM750.MP3                                      AM 750              750
+http://rcoop.cnwks.ws:8358                                                  Cooperativa         770
+https://buecrplb01.cienradios.com.ar/Mitre790.aac                           Radio Mitre         790
+http://streaming.radiolinksmedia.com:7830/;                                 Del Pueblo          830
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad1                    Radio Nacional      870
+https://strive-sdn-lsdlive-live.akamaized.net/live_passthrough_static/amlared/playlist.m3u8    La Red         910
+#http://200.58.118.108:8160/stream                                           Radio Gral Belg     950
+#http://streamlky.alsolnet.com:443/radio9                                    R9 La Deportiva     950
+http://streaming.radiolinksmedia.com:7890/;                                 Radio Génesis       970
+https://streamten.alsolnet.com/la990                                        la990               990
+http://181.119.157.98:8000/amdelplata.mp3                                   Del Plata          1030
+http://nnvserver.com:8032/stream                                            Güemes             1050
+#http://66.70.255.8:9368/baires?type=.mp3                                    El Mundo           1070
+http://radios.argentina.fm:1110/stream                                      De la ciudad       1110
+http://server.ohradio.com.ar:9344/;                                         Radio La Luna      1140
+# rtmp://server2.stweb.tv:1935/america/live_128                               Radio América      1190
+# http://78.129.163.129:19398/;stream.mp3                                   "                   "
+http://ample-zeno-09.radiojar.com/uv3vkhw2qvduv                             Eco medios         1220
+
+FMs CABA
+
+http://vivo.fmlatribu.com:8000/latribu.mp3                                                       La Tribu            88.7
+http://vivo.radioam750.com.ar/vivofm.mp3                                                         Malena              89.1
+http://14073.live.streamtheworld.com/ARPEGGIOAAC                                                 Arpeggio            89.5
+http://server6.stweb.tv:1935/rcvos/live/playlist.m3u8                                            Radio con vos       89.9
+http://208.98.41.72:9304                                                                         La Boca             90.1
+https://cdn.instream.audio/:9069/stream                                                          Delta               90.3
+# http://prepublish.f.qaotic.net/a02/ngrp:Vorterix_radio1_high-20057_all/Playlist.m3u8            Vorterix            92.1  --http-referrer "http://vmf.edge-apps.net/embed/universal_v2?asset=Vorterix_radio1_high-20057&type=live&autoplay=true&pdk=1.0.3&playerMode=jwp6"
+http://147.135.11.82:9904/;                                                                      Vorterix            92.1
+http://209.95.35.49:7240/Stream                                                                  Zero                92.5
+http://radios.argentina.fm:9270/stream                                                           La 2x4              92.7
+http://streaming.radiolinksmedia.com:8252/;stream                                                Late                93.1
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad39                                        Nacional Rock       93.7
+https://edge-np.cdn.mdstrm.com/5a9ee26311c043ae48e40bcd.mp3                                      RadioDisney         94.3
+http://mp3.metroaudio1.stream.avstreaming.net:7200/metro                                         Metro               95.1
+http://servidor.ilive.com.ar:9330/;                                                              Concepto            95.5
+http://play-rockandpop.cdn.sion.com:1935/rockandpop/audioweb/playlist.m3u8                       Rock & Pop          95.9
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad37                                        Nacional Clásica    96.7
+http://18543.live.streamtheworld.com/MUCHARADIO_SC                                               Mucha radio         97.1
+http://vale.stweb.tv:1935/vale/live/playlist.m3u8                                                Vale                97.5
+https://usa5.fastcast4u.com/proxy/radiocultura                                                   Cultura             97.9
+https://server1.stweb.tv/mega983/live/chunks.m3u8                                                Mega                98.3
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad38                                        Nacional Folklorica 98.7
+http://retransmisorasenelpais.cienradios.com.ar:8000/la100.aac                                   La 100              99.9
+https://blue.secure2.footprint.net/egress/bhandler/streamroot_lsd2latam/blue/chunklist_b98304.m3u8 Blue               100.7
+http://streaming.latina101.com.ar:8080/RadioLatina                                               Latina             101.1
+https://s8.stweb.tv/popradio/live/playlist.m3u8                                                  Pop                101.5
+http://server4.stweb.tv:1935/lapatriada/live/playlist.m3u8                                       La patriada        102.1
+http://playerservices.streamtheworld.com/api/livestream-redirect/ASPENAAC                        Aspen              102.3
+http://209.95.35.49:7013/live                                                                    Radio Uno          103.1
+http://streamall.alsolnet.com:443/klimaxok                                                       Klimax             103.5
+http://streamall.alsolnet.com:443/fmsonidohd?type=.flv                                           Sonido             103.5
+http://s11.stweb.tv/one/live/playlist.m3u8                                                       One                103.7
+http://14933.live.streamtheworld.com/RQPAAC                                                      RQP                104.3
+http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINAAAC              Los 40             105.5
+http://108.59.9.147/proxy/arvlyxui                                                               Milenium           106.7
+http://edge.espn.cdn.abacast.net/espn-deportesmp3-48                                             ESPN               107.9
+
+
+FM Onlines
+https://nowplaying.mdstrm.com/5b7dcf666253b80766f27858/576b06096457cff453000015/live/icecast.audio Futurock
+https://radio.relatores.com.ar/relatores.mp3                                                     Relatores
+https://cdn2.instream.audio/:8000/stream                                                               eldestaperadio
