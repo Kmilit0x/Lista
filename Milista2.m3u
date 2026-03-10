@@ -197,35 +197,4 @@ http://108.163.190.212:9628/listen.pls
 http://espnsslarugby-i.akamaihd.net/hls/live/225068/rugbytest/64/64.m3u8
 #EXTM3U
 
-#EXTINF:-1 group-title="Noticias",Radio 10 AM 710
-https://s6.stweb.tv/radio10/live/playlist.m3u8
 
-#EXTINF:-1 group-title="Noticias",La Red AM 910
-https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC.aac
-
-#EXTINF:-1 group-title="Noticias",Radio Nacional AM 870
-http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad1
-
-#EXTINF:-1 group-title="Noticias",AM 750
-https://mdstrm.com/audio/601bf3e463786007e6d3b9b0/icecast.audio
-
-#EXTINF:-1 group-title="Noticias",CNN Radio Argentina
-http://estudio.cnnradioargentina.com.ar:8000/stream
-
-#EXTINF:-1 group-title="Rock",Aspen 102.3
-https://playerservices.streamtheworld.com/api/livestream-redirect/ASPEN.mp3
-
-#EXTINF:-1 group-title="Rock",Mega 98.3
-https://playerservices.streamtheworld.com/api/livestream-redirect/MEGA983.mp3
-
-#EXTINF:-1 group-title="Rock",Rock & Pop
-https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOP.mp3
-
-#EXTINF:-1 group-title="Pop",Los 40 Argentina
-https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINA.mp3
-
-#EXTINF:-1 group-title="Pop",Pop 101.5
-https://playerservices.streamtheworld.com/api/livestream-redirect/POP1015.mp3
-
-#EXTINF:-1 group-title="Latina",Vale 97.5
-https://playerservices.streamtheworld.com/api/livestream-redirect/VALE975.mp3
