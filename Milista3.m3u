@@ -1,1 +1,668 @@
+############################
+# Radios Argentina
+############################
+#EXTINF:25,Maria - 88.5 TV - CABA FM - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_88.5_MARIA_____
+#EXTINF:0,LRL331 Jai - 96.3 TV - CABA FM - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_96.3_LRL331JAI_
+#EXTINF:0,Z80 Radio - 96.5 TV - CABA FM - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_96.5_Z80RADIO__
+#EXTINF:0,LRL318 Latina - 101.1 TV - CABA FM - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA101.1_LRL318LATI
+#EXTINF:0,La Patriada - 102.1 TV - CABA FM - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA102.1_LAPATRIADA
+#EXTINF:0,AMC - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CAMC_______
+#EXTINF:0,Argentinisima - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CARGENTINIS
+#EXTINF:0,Baby Shark - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CBABYSHARK_
+#EXTINF:0,Bloomberg - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CBLOOMBERG_
+#EXTINF:0,Bloomberg Quicktake - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CBLOOMBERGQ
+#EXTINF:0,CGTN Espanol - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CCGTNESPANO
+#EXTINF:0,DW Español - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CDWESPANOL_
+#EXTINF:0,Estrella Games - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CESTRELLAGA
+#EXTINF:0,Estrella News - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CESTRELLANE
+#EXTINF:0,Estrella TV - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CESTRELLATV
+#EXTINF:0,Fashion TV - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CFASHIONTV_
+#EXTINF:0,Galicia TV - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CGALICIATV_
+#EXTINF:0,Garage TV - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CGARAGETV__
+#EXTINF:0,Hispan TV - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CHISPANTV__
+#EXTINF:0,Musictop - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CMUSICTOP__
+#EXTINF:0,NHK World - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CNHKWORLD__
+#EXTINF:0,TierraMia - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTIERRAMIA_
+#EXTINF:0,TVE 24h - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTVE24H____
+#EXTINF:0,TyC Sports - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTYCSPORTS_
+#EXTINF:0,Telemundo New York - 47.1TV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__47.1TELEMUNDON
+#EXTINF:0,GenTV - 15.4TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__15.4GENTV_____
+#EXTINF:0,LRL456 Orbe 21 - 21.2TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__21.2LRL456ORBE
+#EXTINF:0,UNIFE - 25.1TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__25.1UNIFE_____
+#EXTINF:0,Telesur - 25.4TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__25.4TELESUR___
+#EXTINF:0,RT - 25.5TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__25.5RT________
+#EXTINF:0,Canal-E - 25.6TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__25.6CANAL-E___
+#EXTINF:0,Canal 26 - 26.1TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__26.1CANAL26___
+#EXTINF:0,Telemax - 26.3TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__26.3TELEMAX___
+#EXTINF:0,Bravo TV - 27.1TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__27.1BRAVOTV___
+#EXTINF:0,NET TV - 27.2TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__27.2NETTV_____
+#EXTINF:0,Urbana TeVe - 32.2TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__32.2URBANATEVE
+#EXTINF:0,LS86 America - 36.1TV - CABA TV TDA - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__36.1LS86AMERIC
+#EXTINF:0,AN24 TV - WebTV - CABA TV Web - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA___WEBAN24TV____
+#EXTINF:0,Canal 22 - WebTV - CABA TV Web - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA___WEBCANAL22___
+#EXTINF:0,Canal 72 - WebTV - CABA TV Web - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA___WEBCANAL72___
+#EXTINF:0,Solidaria TV - 19.1TV - Caseros - GB Gran Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARGBCASER__19.1SOLIDARIAT
+#EXTINF:0,NEO TV - 16.1TV - Florencio Varela - GB Gran Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARGBFLORE__16.1NEOTV_____
+#EXTINF:0,Quantica TV - 16.3TV - Florencio Varela - GB Gran Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARGBFLORE__16.3QUANTICATV
+#EXTINF:0,OK FM - 105.7 TV - Florencio Varela - GB Gran Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARGBFLORE105.7_OKFM______
+#EXTINF:0,Tradicional - 1340 TV - Florida - GB Gran Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARGBFLORI_1340_TRADICIONA
+#EXTINF:0,Five TV - 16.1TV - G de Laferrere - GB Gran Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARGBG_DE___16.1FIVETV____
+#EXTINF:0,Bayres tv - 41.1TV - G de Laferrere - GB Gran Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARGBG_DE___41.1BAYRESTV__
+#EXTINF:0,Santiago y Copla - 1130 TV - G de Laferrere - GB Gran Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARGBG_DE__1130_SANTIAGOYC
+#EXTINF:0,Telemix - 50 TV - Glew - GB Gran Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARGBGLEW____50_TELEMIX___
+#EXTINF:0,Telecreativa - 5 TV - Lanus - GB Gran Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARGBLANUS____5_TELECREATI
+#EXTINF:0,Radio de Todos - WebTV - Lanus - GB Gran Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARGBLANUS___WEBRADIODETOD
+#EXTINF:0,Cadena - 1470 TV - Lanus - GB Gran Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARGBLANUS_1470_CADENA____
+#EXTINF:0,TVP Marcos Paz - 19.1 TV - Marcos Paz - GB Gran Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARGBMARCO_19.1_TVPMARCOSP
+#EXTINF:0,TV Digital - WebTV - Merlo - GB Gran Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARGBMERLO___WEBTVDIGITAL_
+#EXTINF:0,Ciudad - 91.1 TV - Merlo - GB Gran Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARGBMERLO_91.1_CIUDAD____
+#EXTINF:0,MURKTV - 91.5 TV - Quilmes - GB Gran Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARGBQUILM_91.5_MURKTV____
+#EXTINF:0,KOA Radio - 107.1 TV - Rafael Castillo - GB Gran Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARGBRAFAE107.1_KOARADIO__
+#EXTINF:0,SION TV - 20 TV - San Fco Solano - GB Gran Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARGBSAN_F___20_SIONTV____
+#EXTINF:0,LRI427 Universidad - 89.1 TV - San Justo - GB Gran Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARGBSAN_J_89.1_LRI427UNIV
+#EXTINF:0,C4 Teleaire - 4 TV - San Martín - GB Gran Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARGBSAN_M____4_C4TELEAIRE
+#EXTINF:0,Provincial - 2CTV - San Miguel - GB Gran Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARGBSAN_M____2CPROVINCIAL
+#EXTINF:0,Santa Maria - 21CTV - San Miguel - GB Gran Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARGBSAN_M___21CSANTAMARIA
+#EXTINF:0,GP TV - 88.9 TV - San Miguel - GB Gran Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARGBSAN_M_88.9_GPTV______
+#EXTINF:0,La Poderosa - 99.3 TV - Sarandi - GB Gran Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARGBSARAN_99.3_LAPODEROSA
+#EXTINF:0,Beats - 100.5 TV - Tigre - GB Gran Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARGBTIGRE100.5_BEATS_____
+#EXTINF:0,LRI404 Trujui - 90.1 TV - Trujui - GB Gran Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARGBTRUJU_90.1_LRI404TRUJ
+#EXTINF:0,Estudio - 100.3 TV - 9 de Julio - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBA9_DE_100.3_ESTUDIO___
+#EXTINF:0,LRI974 Mega - 90.9 TV - Azul - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAAZUL__90.9_LRI974MEGA
+#EXTINF:0,BVC 4 - 4CTV - Bahia Blanca - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBABAHIA____4CBVC4______
+#EXTINF:0,TV2 Balcarce - 2 TV - Balcarce - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBABALCA____2_TV2BALCARC
+#EXTINF:0,CVN - 4CTV - Bragado - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBABRAGA____4CCVN_______
+#EXTINF:0,Lamil35 Canal 78 - 78 TV - Campana - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBACAMPA___78_LAMIL35CAN
+#EXTINF:0,Canal DSR - 3CTV - Carhué - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBACARHU____3CCANALDSR__
+#EXTINF:0,LRP910 92 Siete - 92.7 TV - Chivilcoy - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBACHIVI_92.7_LRP91092SI
+#EXTINF:0,Pringles en Vivo - CamTV - Coronel Pringles - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBACORON___CAMPRINGLESEN
+#EXTINF:0,Canal 2 CM - 14.1TV - Coronel Pringles - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBACORON__14.1CANAL2CM__
+#EXTINF:0,TeleJunín - 7CTV - Junín - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAJUNIN____7CTELEJUNIN_
+#EXTINF:0,Sicardi TV - 15.3TV - La Plata - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBALA_PL__15.3SICARDITV_
+#EXTINF:0,TV Universidad - 32.1TV - La Plata - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBALA_PL__32.1TVUNIVERSI
+#EXTINF:0,Rocha - 1570 TV - La Plata - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBALA_PL_1570_ROCHA_____
+#EXTINF:0,LRM378 Victoria - 98.5 TV - Magdalena - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAMAGDA_98.5_LRM378VICT
+#EXTINF:0,Canal 11 - 11 TV - Mar de Ajó - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAMAR_D___11_CANAL11___
+#EXTINF:0,Eter - 90.5 TV - Mar del Plata - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAMAR_D_90.5_ETER______
+#EXTINF:0,99.9 Radio - 99.9 TV - Mar del Plata - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAMAR_D_99.9_99.9RADIO_
+#EXTINF:0,Vorterix - 104.5 TV - Mar del Plata - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAMAR_D104.5_VORTERIX__
+#EXTINF:0,Canal 2 MDP - 2 TV - Mar del Plata TV - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAMAR_D____2_CANAL2MDP_
+#EXTINF:0,Clima + Servicios - 69CTV - Mar del Plata TV - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAMAR_D___69CCLIMA_SERV
+#EXTINF:0,Mar de la Pampas - CamTV - Mar delas Pampas - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAMAR_D___CAMMARDELAPAM
+#EXTINF:0,Maximo Paz - 98.9 TV - Maximo Paz - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAMAXIM_98.9_MAXIMOPAZ_
+#EXTINF:0,La Tribuna - 103.5 TV - Mercedes - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAMERCE103.5_LATRIBUNA_
+#EXTINF:0,Estacion 21 - 107.1 TV - Mercedes - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAMERCE107.1_ESTACION21
+#EXTINF:0,LRV313 Zona - 89.3 TV - Miramar - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAMIRAM_89.3_LRV313ZONA
+#EXTINF:0,Cam1 Necochea - CamTV - Necochea - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBANECOC___CAMCAM1NECOCH
+#EXTINF:0,LRM381 Estacion K2 - 96.3 TV - Necochea - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBANECOC_96.3_LRM381ESTA
+#EXTINF:0,LRI966 Cadena 103 - 103.1 TV - Olavarría - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAOLAVA103.1_LRI966CADE
+#EXTINF:0,LRP730 Fiesta - 105.1 TV - Olavarría - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAOLAVA105.1_LRP730FIES
+#EXTINF:0,LRP926 Urban - 98.5 TV - Pehuajó - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPEHUA_98.5_LRP926URBA
+#EXTINF:0,Telpin t2 - 2CTV - Pinamar - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM____2CTELPINT2__
+#EXTINF:0,CN3 - 3 TV - Pinamar - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM____3_CN3_______
+#EXTINF:0,Botavara - CamTV - Pinamar - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM___CAMBOTAVARA__
+#EXTINF:0,Bunge y El Mar - CamTV - Pinamar - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM___CAMBUNGEYELMA
+#EXTINF:0,Bunge y Libertador - CamTV - Pinamar - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM___CAMBUNGEYLIBE
+#EXTINF:0,Hemingway - CamTV - Pinamar - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM___CAMHEMINGWAY_
+#EXTINF:0,Muelle 1 - CamTV - Pinamar - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM___CAMMUELLE1___
+#EXTINF:0,Muelle 2 - CamTV - Pinamar - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM___CAMMUELLE2___
+#EXTINF:0,Pinamar Golf - CamTV - Pinamar - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM___CAMPINAMARGOL
+#EXTINF:0,Rambla 1 Ostende - CamTV - Pinamar - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM___CAMRAMBLA1OST
+#EXTINF:0,Rambla 2 Ostende - CamTV - Pinamar - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM___CAMRAMBLA2OST
+#EXTINF:0,LRI875 Power - 100.3 TV - Pinamar - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM100.3_LRI875POWE
+#EXTINF:0,Un Sueño en el Aire - 103.3 TV - Ranchos - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBARANCH103.3_UNSUENOENE
+#EXTINF:0,Canal 79 - 69CTV - S Clara del Mar - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAS_CLA___69CCANAL79___
+#EXTINF:0,Sierra de la Ventana - CamTV - Sa de la Ventana - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBASA_DE___CAMSIERRADELA
+#EXTINF:0,LRV729 Mundo - 102.1 TV - San A de Giles - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBASAN_A102.1_LRV729MUND
+#EXTINF:0,ATCCO - 69CTV - San Cte del Tuyú - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBASAN_C___69CATCCO_____
+#EXTINF:0,Canal 5 - 5 TV - Tandil - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBATANDI____5_CANAL5____
+#EXTINF:0,CELT TV - 2CTV - Tornquist - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBATORNQ____2CCELTTV____
+#EXTINF:0,Celta TV - 9 TV - Tres Arroyos - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBATRES_____9_CELTATV___
+#EXTINF:0,Señal Urbana + - 15.2 TV - Veronica - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVERON_15.2_SENALURBAN
+#EXTINF:0,Del Sur - 103.7 TV - Veronica - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVERON103.7_DELSUR____
+#EXTINF:0,104 y 3 Norte - CamTV - Villa Gesell - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAM104Y3NORTE
+#EXTINF:0,104 y 3 Sur - CamTV - Villa Gesell - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAM104Y3SUR__
+#EXTINF:0,107 y 3 Norte - CamTV - Villa Gesell - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAM107Y3NORTE
+#EXTINF:0,107 y 3 Sur - CamTV - Villa Gesell - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAM107Y3SUR__
+#EXTINF:0,112 y Playa - CamTV - Villa Gesell - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAM112YPLAYA_
+#EXTINF:0,Acceso Ciudad Norte - CamTV - Villa Gesell - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAMACCESOCIUD
+#EXTINF:0,Acceso RP11 Norte - CamTV - Villa Gesell - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAMACCESORP11
+#EXTINF:0,Aeropuerto - CamTV - Villa Gesell - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAMAEROPUERTO
+#EXTINF:0,Bosque Historico - CamTV - Villa Gesell - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAMBOSQUEHIST
+#EXTINF:0,Buenos Aires y Playa - CamTV - Villa Gesell - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAMBUENOSAIRE
+#EXTINF:0,Faro Querandi - CamTV - Villa Gesell - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAMFAROQUERAN
+#EXTINF:0,Muelle - CamTV - Villa Gesell - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAMMUELLE____
+#EXTINF:0,LRI708 La Villa - 91.1 TV - Villa Gesell - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA_91.1_LRI708LAVI
+#EXTINF:0,Clima + Servicios - 79CTV - Villa Maza - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___79CCLIMA_SERV
+#EXTINF:0,Full Medios - 90.1 TV - Zárate - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAZARAT_90.1_FULLMEDIOS
+#EXTINF:0,Rock - 103.3 TV - Zárate - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAZARAT103.3_ROCK______
+#EXTINF:0,LRK471 Catamarca RTV - 27.1TV - SFV de Catamarca - CA Catamarca
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCASFV_D__27.1LRK471CATA
+#EXTINF:0,Canal Once - 11 TV - Machagai - CC Chaco
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCCMACHA___11_CANALONCE_
+#EXTINF:0,Somos Uno - 26.1TV - Resistencia - CC Chaco
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCCRESIS__26.1SOMOSUNO__
+#EXTINF:0,Ciudad TV - 27.1TV - Resistencia - CC Chaco
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCCRESIS__27.1CIUDADTV__
+#EXTINF:0,NG Federal - 27.2TV - Resistencia - CC Chaco
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCCRESIS__27.2NGFEDERAL_
+#EXTINF:0,Resistencia - 90.3 TV - Resistencia - CC Chaco
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCCRESIS_90.3_RESISTENCI
+#EXTINF:0,Caleta Córdova - CamTV - Cdro Rivadavia - CH Chubut
+https://radiosargentina.com.ar/php/artvIP.php?id=ARCHCDRO____CAMCALETACORD
+#EXTINF:0,Centro I  Costanera - CamTV - Cdro Rivadavia - CH Chubut
+https://radiosargentina.com.ar/php/artvIP.php?id=ARCHCDRO____CAMCENTROICOS
+#EXTINF:0,Centro II Costanera - CamTV - Cdro Rivadavia - CH Chubut
+https://radiosargentina.com.ar/php/artvIP.php?id=ARCHCDRO____CAMCENTROIICO
+#EXTINF:0,Náutico Km3 - CamTV - Cdro Rivadavia - CH Chubut
+https://radiosargentina.com.ar/php/artvIP.php?id=ARCHCDRO____CAMNAUTICOKM3
+#EXTINF:0,LRF405 Universo - 89.5 TV - Cdro Rivadavia - CH Chubut
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCHCDRO__89.5_LRF405UNIV
+#EXTINF:0,ETC - 4CTV - Esquel - CH Chubut
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCHESQUE____4CETC_______
+#EXTINF:0,ISonica - 102.1 TV - Lago Puelo - CH Chubut
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCHLAGO_102.1_ISONICA___
+#EXTINF:0,Madryn TV - 12CTV - Puerto Madryn - CH Chubut
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCHPUERT___12CMADRYNTV__
+#EXTINF:0,Telecinco - 5 TV - Trelew - CH Chubut
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCHTRELE____5_TELECINCO_
+#EXTINF:0,Kaizen - 103.5 TV - Trelew - CH Chubut
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCHTRELE103.5_KAIZEN____
+#EXTINF:0,Imagen Regional TV - TV - Alejo Ledesma - CO Cordoba
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCOALEJO______IMAGENREGI
+#EXTINF:0,OK FM - 95.5 TV - Arroyito - CO Cordoba
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCOARROY_95.5_OKFM______
+#EXTINF:0,LRJ955 Comunicar TV - 907CTV - Colonia Caroya - CO Cordoba
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCOCOLON__907CLRJ955COMU
+#EXTINF:0,Las Rosas - 105.5 TV - Cordoba - CO Cordoba
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCOCORDO105.5_LASROSAS__
+#EXTINF:0,LV80 10 SRT - 30.1TV - Cordoba  TV - CO Cordoba
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCOCORDO__30.1LV8010SRT_
+#EXTINF:0,Canal U - 30.2TV - Cordoba  TV - CO Cordoba
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCOCORDO__30.2CANALU____
+#EXTINF:0,LRN768 RCM88 Ciudad - 100.3 TV - Coronel Moldes - CO Cordoba
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCOCORON100.3_LRN768RCM8
+#EXTINF:0,Canal Cooperativo - 6 TV - Freyre - CO Cordoba
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCOFREYR____6_CANALCOOPE
+#EXTINF:0,Canal COOP - 2CTV - Jesús María - CO Cordoba
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCOJESUS____2CCANALCOOP_
+#EXTINF:0,Good Radio - 101.1 TV - Jesús María - CO Cordoba
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCOJESUS101.1_GOODRADIO_
+#EXTINF:0,Mas - 97.5 TV - La Carlota - CO Cordoba
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCOLA_CA_97.5_MAS_______
+#EXTINF:0,Soledad - 88.5 TV - Las Higueras - CO Cordoba
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCOLAS_H_88.5_SOLEDAD___
+#EXTINF:0,LRT778 Cardinal C99 - 89.7 TV - Miramar - CO Cordoba
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCOMIRAM_89.7_LRT778CARD
+#EXTINF:0,Canal 50 Cooptel - 50 TV - Morteros - CO Cordoba
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCOMORTE___50_CANAL50COO
+#EXTINF:0,Urbana TV - 651CTV - Morteros - CO Cordoba
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCOMORTE__651CURBANATV__
+#EXTINF:0,LRN893 Republica - 95.5 TV - Morteros - CO Cordoba
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCOMORTE_95.5_LRN893REPU
+#EXTINF:0,UniRío TV - 31.1TV - Rio Cuarto - CO Cordoba
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCORIO_C__31.1UNIRIOTV__
+#EXTINF:0,Urbana TV - 97.5 TV - Rio Tercero - CO Cordoba
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCORIO_T_97.5_URBANATV__
+#EXTINF:0,Canal 4 - 4CTV - San Francisco - CO Cordoba
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCOSAN_F____4CCANAL4____
+#EXTINF:0,CEMDO TV - 9 TV - Villa Dolores - CO Cordoba
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCOVILLA____9_CEMDOTV___
+#EXTINF:0,Uniteve - 34.1TV - Villa Maria - CO Cordoba
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCOVILLA__34.1UNITEVE___
+#EXTINF:0,5tv - 5 TV - Corrientes - CR Corrientes
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCRCORRI____5_5TV_______
+#EXTINF:0,Telenord - 21CTV - Corrientes - CR Corrientes
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCRCORRI___21CTELENORD__
+#EXTINF:0,CTV Canal 7 - 35.1TV - Corrientes - CR Corrientes
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCRCORRI__35.1CTVCANAL7_
+#EXTINF:0,CN Goya - 10 TV - Goya - CR Corrientes
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCRGOYA____10_CNGOYA____
+#EXTINF:0,LRR778 Azahares - 101.5 TV - Juan Pujol - CR Corrientes
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCRJUAN_101.5_LRR778AZAH
+#EXTINF:0,Somos AVC - 2CTV - Monte Caseros - CR Corrientes
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCRMONTE____2CSOMOSAVC__
+#EXTINF:0,Yapeyú Cable Color - 2CTV - Yapeyú - CR Corrientes
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCRYAPEY____2CYAPEYUCABL
+#EXTINF:0,Aura Streaming - WebTV - Yapeyú - CR Corrientes
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCRYAPEY___WEBAURASTREAM
+#EXTINF:0,Itel - 2CTV - Chajarí - ER Entre Rios
+https://radiosargentina.com.ar/php/artvDI.php?id=ARERCHAJA____2CITEL______
+#EXTINF:0,Zona - 99.7 TV - Concordia - ER Entre Rios
+https://radiosargentina.com.ar/php/artvDI.php?id=ARERCONCO_99.7_ZONA______
+#EXTINF:0,NNM Neo Net Music - WebTV - Diamante - ER Entre Rios
+https://radiosargentina.com.ar/php/artvDI.php?id=ARERDIAMA___WEBNNMNEONETM
+#EXTINF:0,Canal 2 Gualeguay TC - 2CTV - Gualeguay - ER Entre Rios
+https://radiosargentina.com.ar/php/artvDI.php?id=ARERGUALE____2CCANAL2GUAL
+#EXTINF:0,Canal 4 - 4CTV - Nogoyá - ER Entre Rios
+https://radiosargentina.com.ar/php/artvDI.php?id=ARERNOGOY____4CCANAL4____
+#EXTINF:0,Oro Verde - 104.5 TV - Oro Verde - ER Entre Rios
+https://radiosargentina.com.ar/php/artvDI.php?id=ARERORO_V104.5_OROVERDE__
+#EXTINF:0,LRI450 Mi 9 Litoral - 35.1TV - Paraná - ER Entre Rios
+https://radiosargentina.com.ar/php/artvDI.php?id=ARERPARAN__35.1LRI450MI9L
+#EXTINF:0,Latina - 87.5 TV - Paraná - ER Entre Rios
+https://radiosargentina.com.ar/php/artvDI.php?id=ARERPARAN_87.5_LATINA____
+#EXTINF:0,Litoral - 103.1 TV - Paraná - ER Entre Rios
+https://radiosargentina.com.ar/php/artvDI.php?id=ARERPARAN103.1_LITORAL___
+#EXTINF:0,RMU - 107.5 TV - Paraná - ER Entre Rios
+https://radiosargentina.com.ar/php/artvDI.php?id=ARERPARAN107.5_RMU_______
+#EXTINF:0,LRM918 Eclipse - 96.3 TV - Valle Maria - ER Entre Rios
+https://radiosargentina.com.ar/php/artvDI.php?id=ARERVALLE_96.3_LRM918ECLI
+#EXTINF:0,FTC - 3 TV - Formosa - FO Formosa
+https://radiosargentina.com.ar/php/artvDI.php?id=ARFOFORMO____3_FTC_______
+#EXTINF:0,Sublime Gracia - WebTV - Formosa - FO Formosa
+https://radiosargentina.com.ar/php/artvDI.php?id=ARFOFORMO___WEBSUBLIMEGRA
+#EXTINF:0,Canal 4 - 4CTV - San S de Jujuy - JU Jujuy
+https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S____4CCANAL4____
+#EXTINF:0,Canal 13 - 13 TV - San S de Jujuy - JU Jujuy
+https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___13_CANAL13___
+#EXTINF:0,Camara 1 Canal 4 - CamTV - San S de Jujuy - JU Jujuy
+https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___CAMCAMARA1CAN
+#EXTINF:0,Camara 3 Canal 4 - CamTV - San S de Jujuy - JU Jujuy
+https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___CAMCAMARA3CAN
+#EXTINF:0,Camara 4 Canal 4 - CamTV - San S de Jujuy - JU Jujuy
+https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___CAMCAMARA4CAN
+#EXTINF:0,Camara 5 Canal 4 - CamTV - San S de Jujuy - JU Jujuy
+https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___CAMCAMARA5CAN
+#EXTINF:0,Camara 6 Canal 4 - CamTV - San S de Jujuy - JU Jujuy
+https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___CAMCAMARA6CAN
+#EXTINF:0,Camara 7 Canal 4 - CamTV - San S de Jujuy - JU Jujuy
+https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___CAMCAMARA7CAN
+#EXTINF:0,Camara 8 Canal 4 - CamTV - San S de Jujuy - JU Jujuy
+https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S___CAMCAMARA8CAN
+#EXTINF:0,LW80 Canal 7 - 36.1TV - San S de Jujuy - JU Jujuy
+https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S__36.1LW80CANAL7
+#EXTINF:0,Maxima - 99.7 TV - San S de Jujuy - JU Jujuy
+https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S_99.7_MAXIMA____
+#EXTINF:0,LRK923 Radio City - 107.1 TV - San S de Jujuy - JU Jujuy
+https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S107.1_LRK923RADI
+#EXTINF:0,TVCO - ITV - General Pico - LP La Pampa
+https://radiosargentina.com.ar/php/artvDI.php?id=ARLPGENER_____ITVCO______
+#EXTINF:0,LDM tv - CTV - Santa Rosa - LP La Pampa
+https://radiosargentina.com.ar/php/artvDI.php?id=ARLPSANTA_____CLDMTV_____
+#EXTINF:0,LU89 Canal 3 - 30.1TV - Santa Rosa - LP La Pampa
+https://radiosargentina.com.ar/php/artvDI.php?id=ARLPSANTA__30.1LU89CANAL3
+#EXTINF:0,TV Chepes - 5 TV - Chepes - LR La Rioja
+https://radiosargentina.com.ar/php/artvDI.php?id=ARLRCHEPE____5_TVCHEPES__
+#EXTINF:0,Teve Ocho - 8CTV - Chepes - LR La Rioja
+https://radiosargentina.com.ar/php/artvDI.php?id=ARLRCHEPE____8CTEVEOCHO__
+#EXTINF:0,Pucara - 91.7 TV - Chilecito - LR La Rioja
+https://radiosargentina.com.ar/php/artvDI.php?id=ARLRCHILE_91.7_PUCARA____
+#EXTINF:0,Canal 13 - 13 TV - La Rioja - LR La Rioja
+https://radiosargentina.com.ar/php/artvDI.php?id=ARLRLA_RI___13_CANAL13___
+#EXTINF:0,LV91 RTR 9 - 29.1TV - La Rioja - LR La Rioja
+https://radiosargentina.com.ar/php/artvDI.php?id=ARLRLA_RI__29.1LV91RTR9__
+#EXTINF:0,Fiesta - 99.3 TV - La Rioja - LR La Rioja
+https://radiosargentina.com.ar/php/artvDI.php?id=ARLRLA_RI_99.3_FIESTA____
+#EXTINF:0,Jardin - 87.9 TV - Junin - ME Mendoza
+https://radiosargentina.com.ar/php/artvDI.php?id=ARMEJUNIN_87.9_JARDIN____
+#EXTINF:0,Unidos en Libertad - 104.7 TV - Maipú - ME Mendoza
+https://radiosargentina.com.ar/php/artvDI.php?id=ARMEMAIPU104.7_UNIDOSENLI
+#EXTINF:0,JTA TV - 21.1TV - Mendoza - ME Mendoza
+https://radiosargentina.com.ar/php/artvDI.php?id=ARMEMENDO__21.1JTATV_____
+#EXTINF:0,LV83 Televida 9 - 28.1TV - Mendoza - ME Mendoza
+https://radiosargentina.com.ar/php/artvDI.php?id=ARMEMENDO__28.1LV83TELEVI
+#EXTINF:0,Aurora Argentina - 91.3 TV - Mendoza - ME Mendoza
+https://radiosargentina.com.ar/php/artvDI.php?id=ARMEMENDO_91.3_AURORAARGE
+#EXTINF:0,Ciudad - 90.5 TV - San Martín - ME Mendoza
+https://radiosargentina.com.ar/php/artvDI.php?id=ARMESAN_M_90.5_CIUDAD____
+#EXTINF:0,LRJ818 Dial - 101.1 TV - San Rafael - ME Mendoza
+https://radiosargentina.com.ar/php/artvDI.php?id=ARMESAN_R101.1_LRJ818DIAL
+#EXTINF:0,Valle de Uco - 8 TV - Tunuyán - ME Mendoza
+https://radiosargentina.com.ar/php/artvDI.php?id=ARMETUNUY____8_VALLEDEUCO
+#EXTINF:0,Full TV - 4CTV - 25 de Mayo - MI Misiones
+https://radiosargentina.com.ar/php/artvDI.php?id=ARMI25_DE____4CFULLTV____
+#EXTINF:0,LRH709 Alto Paraná - 90.5 TV - Eldorado - MI Misiones
+https://radiosargentina.com.ar/php/artvDI.php?id=ARMIELDOR_90.5_LRH709ALTO
+#EXTINF:0,LRH942 Uno - 104.3 TV - Eldorado - MI Misiones
+https://radiosargentina.com.ar/php/artvDI.php?id=ARMIELDOR104.3_LRH942UNO_
+#EXTINF:0,Tottal - 88.7 TV - Garupá - MI Misiones
+https://radiosargentina.com.ar/php/artvDI.php?id=ARMIGARUP_88.7_TOTTAL____
+#EXTINF:0,Centro TV - 8 TV - Oberá - MI Misiones
+https://radiosargentina.com.ar/php/artvDI.php?id=ARMIOBERA____8_CENTROTV__
+#EXTINF:0,LRH393 SMdl Misiones - 89.3 TV - Posadas - MI Misiones
+https://radiosargentina.com.ar/php/artvDI.php?id=ARMIPOSAD_89.3_LRH393SMDL
+#EXTINF:0,Donna TV - 97.7 TV - Posadas - MI Misiones
+https://radiosargentina.com.ar/php/artvDI.php?id=ARMIPOSAD_97.7_DONNATV___
+#EXTINF:0,Open - 101.7 TV - Posadas - MI Misiones
+https://radiosargentina.com.ar/php/artvDI.php?id=ARMIPOSAD101.7_OPEN______
+#EXTINF:0,LT17 Top - 107.3 TV - Posadas - MI Misiones
+https://radiosargentina.com.ar/php/artvDI.php?id=ARMIPOSAD107.3_LT17TOP___
+#EXTINF:0,Canal 4 - 4 TV - Posadas  TV - MI Misiones
+https://radiosargentina.com.ar/php/artvDI.php?id=ARMIPOSAD____4_CANAL4____
+#EXTINF:0,Noticias del 6 - 6 TV - Posadas  TV - MI Misiones
+https://radiosargentina.com.ar/php/artvDI.php?id=ARMIPOSAD____6_NOTICIASDE
+#EXTINF:0,Misiones Cuatro - 8 TV - Posadas  TV - MI Misiones
+https://radiosargentina.com.ar/php/artvDI.php?id=ARMIPOSAD____8_MISIONESCU
+#EXTINF:0,Canal 21 - 21 TV - Posadas  TV - MI Misiones
+https://radiosargentina.com.ar/php/artvDI.php?id=ARMIPOSAD___21_CANAL21___
+#EXTINF:0,35 TVD - 35 TV - Posadas  TV - MI Misiones
+https://radiosargentina.com.ar/php/artvDI.php?id=ARMIPOSAD___35_35TVD_____
+#EXTINF:0,Canal 2 - 35.1TV - Posadas  TV - MI Misiones
+https://radiosargentina.com.ar/php/artvDI.php?id=ARMIPOSAD__35.1CANAL2____
+#EXTINF:0,CVI - 5 TV - Puerto Iguazú - MI Misiones
+https://radiosargentina.com.ar/php/artvDI.php?id=ARMIPUERT____5_CVI_______
+#EXTINF:0,Yguazú - 99.9 TV - Puerto Iguazú - MI Misiones
+https://radiosargentina.com.ar/php/artvDI.php?id=ARMIPUERT_99.9_YGUAZU____
+#EXTINF:0,Retro Hit - 102.7 TV - Puerto Iguazú - MI Misiones
+https://radiosargentina.com.ar/php/artvDI.php?id=ARMIPUERT102.7_RETROHIT__
+#EXTINF:0,San Pedro TV - TV - San Pedro - MI Misiones
+https://radiosargentina.com.ar/php/artvDI.php?id=ARMISAN_P______SANPEDROTV
+#EXTINF:0,LRH976 CE - 106.5 TV - San Vicente - MI Misiones
+https://radiosargentina.com.ar/php/artvDI.php?id=ARMISAN_V106.5_LRH976CE__
+#EXTINF:0,LRU321 Lider - 89.7 TV - Caviahue-Copahue - NQ Neuquen
+https://radiosargentina.com.ar/php/artvDI.php?id=ARNQCAVIA_89.7_LRU321LIDE
+#EXTINF:0,CN 24/7 - 17CTV - Neuquén - NQ Neuquen
+https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU___17CCN24/7____
+#EXTINF:0,Canal 7 - CamTV - Neuquén - NQ Neuquen
+https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU___CAMCANAL7____
+#EXTINF:0,Isla 132 - CamTV - Neuquén - NQ Neuquen
+https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU___CAMISLA132___
+#EXTINF:0,Puente Río Limay - CamTV - Neuquén - NQ Neuquen
+https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU___CAMPUENTERIOL
+#EXTINF:0,Rotonda Río Limay - CamTV - Neuquén - NQ Neuquen
+https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU___CAMROTONDARIO
+#EXTINF:0,San Martín 1 - CamTV - Neuquén - NQ Neuquen
+https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU___CAMSANMARTIN1
+#EXTINF:0,San Martín 2 - CamTV - Neuquén - NQ Neuquen
+https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU___CAMSANMARTIN2
+#EXTINF:0,RTN - 28.1TV - Neuquén - NQ Neuquen
+https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU__28.1RTN_______
+#EXTINF:0,LU84 Canal 7 - 34.1TV - Neuquén - NQ Neuquen
+https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU__34.1LU84CANAL7
+#EXTINF:0,Capital - 88.5 TV - Neuquén - NQ Neuquen
+https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU_88.5_CAPITAL___
+#EXTINF:0,Radio 7 - 97.7 TV - Neuquén - NQ Neuquen
+https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU_97.7_RADIO7____
+#EXTINF:0,Cadena Ritmo - 101.1 TV - Neuquén - NQ Neuquen
+https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU101.1_CADENARITM
+#EXTINF:0,LRG720 RTN - 104.9 TV - Neuquén - NQ Neuquen
+https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU104.9_LRG720RTN_
+#EXTINF:0,La 105 Libertad - 105.1 TV - Neuquén - NQ Neuquen
+https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU105.1_LA105LIBER
+#EXTINF:0,LRU400 Chañar - 87.9 TV - San P del Chañar - NQ Neuquen
+https://radiosargentina.com.ar/php/artvDI.php?id=ARNQSAN_P_87.9_LRU400CHAN
+#EXTINF:0,LRG379 RSM - 98.5 TV - SM de los Andes - NQ Neuquen
+https://radiosargentina.com.ar/php/artvDI.php?id=ARNQSM_DE_98.5_LRG379RSM_
+#EXTINF:0,La Coope - 89.5 TV - Zapala - NQ Neuquen
+https://radiosargentina.com.ar/php/artvDI.php?id=ARNQZAPAL_89.5_LACOOPE___
+#EXTINF:0,LRU381 Zero - 94.5 TV - Catriel - RN Rio Negro
+https://radiosargentina.com.ar/php/artvDI.php?id=ARRNCATRI_94.5_LRU381ZERO
+#EXTINF:0,LRG929 La Puntual - 97.1 TV - Viedma - RN Rio Negro
+https://radiosargentina.com.ar/php/artvDI.php?id=ARRNVIEDM_97.1_LRG929LAPU
+#EXTINF:0,Impacto - 98.5 TV - Cafayate - SA Salta
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSACAFAY_98.5_IMPACTO___
+#EXTINF:0,Mosconi TVC - 7CTV - General Mosconi - SA Salta
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSAGENER____7CMOSCONITVC
+#EXTINF:0,Infinito - 96.5 TV - Salta - SA Salta
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSASALTA_96.5_INFINITO__
+#EXTINF:0,Pelicula 1 - WebTV - Salta  TV - SA Salta
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSASALTA___WEBPELICULA1_
+#EXTINF:0,Pelicula 2 - WebTV - Salta  TV - SA Salta
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSASALTA___WEBPELICULA2_
+#EXTINF:0,Pelicula 3 - WebTV - Salta  TV - SA Salta
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSASALTA___WEBPELICULA3_
+#EXTINF:0,Pelicula 4 - WebTV - Salta  TV - SA Salta
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSASALTA___WEBPELICULA4_
+#EXTINF:0,Pelicula 5 - WebTV - Salta  TV - SA Salta
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSASALTA___WEBPELICULA5_
+#EXTINF:0,Pelicula 6 - WebTV - Salta  TV - SA Salta
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSASALTA___WEBPELICULA6_
+#EXTINF:0,Canal 7 - 28.1TV - Salta  TV - SA Salta
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSASALTA__28.1CANAL7____
+#EXTINF:0,LRK724 Spacio TV - 107.1 TV - San J de Metán - SA Salta
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSASAN_J107.1_LRK724SPAC
+#EXTINF:0,Glciar Perito Moreno - CamTV - El Calafate - SC Santa Cruz
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSCEL_CA___CAMGLCIARPERI
+#EXTINF:0,Patagonia TV Tour - WebTV - El Calafate - SC Santa Cruz
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSCEL_CA___WEBPATAGONIAT
+#EXTINF:0,El Chaltén - CamTV - El Chaltén - SC Santa Cruz
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSCEL_CH___CAMELCHALTEN_
+#EXTINF:0,Canal 3 Paralelo 46 - 3CTV - Las Heras - SC Santa Cruz
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSCLAS_H____3CCANAL3PARA
+#EXTINF:0,Canal 5 Paralelo 46 - 5CTV - Pico Truncado - SC Santa Cruz
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSCPICO_____5CCANAL5PARA
+#EXTINF:0,Cable 10 - 10CTV - Rio Gallegos - SC Santa Cruz
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSCRIO_G___10CCABLE10___
+#EXTINF:0,Crossing TV - WebTV - Rio Gallegos - SC Santa Cruz
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSCRIO_G___WEBCROSSINGTV
+#EXTINF:0,LU85 Canal 9 - 30.1TV - Rio Gallegos - SC Santa Cruz
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSCRIO_G__30.1LU85CANAL9
+#EXTINF:0,Mediatica - 98.9 TV - Rio Gallegos - SC Santa Cruz
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSCRIO_G_98.9_MEDIATICA_
+#EXTINF:0,LW81 Canal 7 - 42.1TV - Stgo del Estero - SE S del Estero
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSESTGO___42.1LW81CANAL7
+#EXTINF:0,Activa - 88.7 TV - Rawson - SJ San Juan
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSJRAWSO_88.7_ACTIVA____
+#EXTINF:0,LRT949 Del Sol - 91.9 TV - San Juan - SJ San Juan
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSJSAN_J_91.9_LRT949DELS
+#EXTINF:0,Cosmos TV - 93.5 TV - San Juan - SJ San Juan
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSJSAN_J_93.5_COSMOSTV__
+#EXTINF:0,LRJ412 Concepto - 95.7 TV - San Juan - SJ San Juan
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSJSAN_J_95.7_LRJ412CONC
+#EXTINF:0,Canal Blu - 29.1TV - San Juan  TV - SJ San Juan
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSJSAN_J__29.1CANALBLU__
+#EXTINF:0,LRJ518 Canal 4 - 32.2TV - San Juan  TV - SJ San Juan
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSJSAN_J__32.2LRJ518CANA
+#EXTINF:0,XAMA UNSJ - 33.1TV - San Juan  TV - SJ San Juan
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSJSAN_J__33.1XAMAUNSJ__
+#EXTINF:0,Canal 34 - 34.1TV - San Juan  TV - SJ San Juan
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSJSAN_J__34.1CANAL34___
+#EXTINF:0,CTV - 2CTV - San Luis - SL San Luis
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSLSAN_L____2CCTV_______
+#EXTINF:0,Punk y Desorden - WebTV - San Luis - SL San Luis
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSLSAN_L___WEBPUNKYDESOR
+#EXTINF:0,LV90 Canal 13 - 28.1TV - San Luis - SL San Luis
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSLSAN_L__28.1LV90CANAL1
+#EXTINF:0,Canal 5 del Pueblo - 5 TV - Alcorta - ST Santa Fe
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSTALCOR____5_CANAL5DELP
+#EXTINF:0,Cable Imagen - CTV - Armstrong - ST Santa Fe
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSTARMST_____CCABLEIMAGE
+#EXTINF:0,LRI323 Lider - 90.7 TV - Bigand - ST Santa Fe
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSTBIGAN_90.7_LRI323LIDE
+#EXTINF:0,Nuevo Mundo - 10CTV - Carcarañá - ST Santa Fe
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSTCARCA___10CNUEVOMUNDO
+#EXTINF:0,LRI863 RC - 91.1 TV - Casilda - ST Santa Fe
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSTCASIL_91.1_LRI863RC__
+#EXTINF:0,Estudio Net - 100.5 TV - Casilda - ST Santa Fe
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSTCASIL100.5_ESTUDIONET
+#EXTINF:0,Correa Radiovision - 12CTV - Correa - ST Santa Fe
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSTCORRE___12CCORREARADI
+#EXTINF:0,Link TV - ITV - Esperanza - ST Santa Fe
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSTESPER_____ILINKTV____
+#EXTINF:0,TDC HD - CTV - Firmat - ST Santa Fe
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSTFIRMA_____CTDCHD_____
+#EXTINF:0,ViveTV - 36.1TV - Funes - ST Santa Fe
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSTFUNES__36.1VIVETV____
+#EXTINF:0,LRS769 Cdna Regional - 96.5 TV - Máximo Paz - ST Santa Fe
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSTMAXIM_96.5_LRS769CDNA
+#EXTINF:0,LT28 Rafaela - 1470 TV - Rafaela - ST Santa Fe
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSTRAFAE_1470_LT28RAFAEL
+#EXTINF:0,LRM869 Power Max - 104.5 TV - Recreo - ST Santa Fe
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSTRECRE104.5_LRM869POWE
+#EXTINF:75,AM 1330 - 1330 TV - Rosario - ST Santa Fe
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSTROSAR_1330_AM1330____
+#EXTINF:144,Uruguay - 87.9 TV - Rosario - ST Santa Fe
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSTROSAR_87.9_URUGUAY___
+#EXTINF:24,WOX - 88.3 TV - Rosario - ST Santa Fe
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSTROSAR_88.3_WOX_______
+#EXTINF:0,Del Plata - 93.5 TV - Rosario - ST Santa Fe
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSTROSAR_93.5_DELPLATA__
+#EXTINF:0,Pop - 96.1 TV - Rosario - ST Santa Fe
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSTROSAR_96.1_POP_______
+#EXTINF:0,CISC Canal 4 - 4CTV - San Cristóbal - ST Santa Fe
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSTSAN_C____4CCISCCANAL4
+#EXTINF:0,LRM707 Cadena 2000 - 106.1 TV - San Guillermo - ST Santa Fe
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSTSAN_G106.1_LRM707CADE
+#EXTINF:0,Noticias - 90.1 TV - Santa Fe - ST Santa Fe
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSTSANTA_90.1_NOTICIAS__
+#EXTINF:0,Aire - 91.1 TV - Santa Fe - ST Santa Fe
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSTSANTA_91.1_AIRE______
+#EXTINF:0,Sol - 91.5 TV - Santa Fe - ST Santa Fe
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSTSANTA_91.5_SOL_______
+#EXTINF:0,Mas - 95.9 TV - Santa Fe - ST Santa Fe
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSTSANTA_95.9_MAS_______
+#EXTINF:0,C5SF - 5 TV - Santa Fe  TV - ST Santa Fe
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSTSANTA____5_C5SF______
+#EXTINF:0,Claro de Luna - WebTV - Santa Fe  TV - ST Santa Fe
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSTSANTA___WEBCLARODELUN
+#EXTINF:0,Litus TV - 28.1TV - Santa Fe  TV - ST Santa Fe
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSTSANTA__28.1LITUSTV___
+#EXTINF:0,Veo Santo Tomé - 2CTV - Santo Tomé - ST Santa Fe
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSTSANTO____2CVEOSANTOTO
+#EXTINF:0,Canal 12 - 12 TV - Venado Tuerto - ST Santa Fe
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSTVENAD___12_CANAL12___
+#EXTINF:0,Ver TV - 98CTV - Venado Tuerto - ST Santa Fe
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSTVENAD___98CVERTV_____
+#EXTINF:0,Ivisión TV - CTV - Villa Gob Gálvez - ST Santa Fe
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSTVILLA_____CIVISIONTV_
+#EXTINF:0,LRF361 Aire Libre - 96.3 TV - Rio Grande - TF T del Fuego
+https://radiosargentina.com.ar/php/artvDI.php?id=ARTFRIO_G_96.3_LRF361AIRE
+#EXTINF:0,LRF363 Est del Siglo - 105.3 TV - Rio Grande - TF T del Fuego
+https://radiosargentina.com.ar/php/artvDI.php?id=ARTFRIO_G105.3_LRF363ESTD
+#EXTINF:0,TV2 - 2 TV - Ushuaia - TF T del Fuego
+https://radiosargentina.com.ar/php/artvDI.php?id=ARTFUSHUA____2_TV2_______
+#EXTINF:0,LRF785 RMX - 105.1 TV - Ushuaia - TF T del Fuego
+https://radiosargentina.com.ar/php/artvDI.php?id=ARTFUSHUA105.1_LRF785RMX_
+#EXTINF:0,El Palomar TV - 21.1TV - Bda del Río Salí - TU Tucuman
+https://radiosargentina.com.ar/php/artvDI.php?id=ARTUBDA_D__21.1ELPALOMART
+#EXTINF:0,SOLive - WebTV - Concepción - TU Tucuman
+https://radiosargentina.com.ar/php/artvDI.php?id=ARTUCONCE___WEBSOLIVE____
+#EXTINF:0,Metro 12 TV - 18.1TV - San M de Tucumán - TU Tucuman
+https://radiosargentina.com.ar/php/artvDI.php?id=ARTUSAN_M__18.1METRO12TV_
 
