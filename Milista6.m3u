@@ -1,5 +1,4 @@
 #EXTM3U
-
 ############################
 # TV ABIERTA
 ############################
@@ -15,80 +14,70 @@ http://107.152.39.199:8030/hls/canal7.m3u8
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Generales",Garage TV Argentina
 https://stream1.sersat.com/hls/garagetv.m3u8
-
 ############################
 # NOTICIAS
 ############################
-#EXTINF:-1 tvg-id="TN Noticias" tvg-name="TN Noticias" tvg-logo="https://i.imgur.com/xDjOUuz.png" group-title="NOTICIAS",TN Noticias
-http://186.0.248.91:20202/Live/388bf11831e448624341106dc007701d/tn_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARG: Cronica TV SD" tvg-logo="https://pbs.twimg.com/profile_images/1477725477850783750/DVygjO5R_400x400.jpg" group-title="→ ARGENTINA ←",ARG: Cronica TV SD
+#EXTINF:-1 tvg-id="TN Noticias" tvg-name="TN Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/250px-TN_todo_noticias_logo.svg.png" group-title="NOTICIAS",TN Noticias
+http://186.0.248.91:20202/Live/388bf11831e448624341106dc007701d/tn.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cronica TV" tvg-logo="https://pbs.twimg.com/profile_images/1477725477850783750/DVygjO5R_400x400.jpg" group-title="NOTICIAS",Cronica TV
 http://186.0.248.91:20202/Live/388bf11831e448624341106dc007701d/CronicaTv_480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARG: A24 HD (DTV)" tvg-logo="https://forounivers.com/uploads/monthly_2021_08/large_A24.png.abce3e334e38128090fcc84237346b40.png" group-title="→ ARGENTINA ←",ARG: A24 HD (DTV)
-https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/b4682204-6253-47ab-9163-20b71ab16fb1:SCL2/variant/b20e54831be1870c77de57c177c43ab4/bandwidth/2800000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 26 HD" tvg-logo="https://i.imgur.com/xDjOUuz.png" group-title="NOTICIAS",Canal 26 HD
-https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A24" tvg-logo="http://186.0.248.91:20202/images/A24.png" group-title="NOTICIAS",A24
+http://186.0.248.91:20202/Live/388bf11831e448624341106dc007701d/a24.playlist.m3u8
+#EXTINF:-1 tvg-id="Canal 26" tvg-name="Canal 26" tvg-logo="https://i.imgur.com/xDjOUuz.png" group-title="NOTICIAS",Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-id="24/7Noticias" tvg-name="Canal 26 HD" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="NOTICIAS",24/7Noticias
 https://panel.host-live.com:19360/cn247tv/Source.m3u8
 #EXTINF:-1 group-title="Noticias",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Argentina - C5N SD" tvg-logo="http://daleplay.biz:8080/images/bfa0e2b6f1134e36360a1261eee7eb9c.png" group-title="→ ARGENTINA ←",Argentina - C5N SD
-http://canal-pro.xyz:8080/982056213tv/99xj2f/15817
-
-
+#EXTINF:-1 tvg-id="C5N" tvg-name="C5N" tvg-logo="https://i.imgur.com/E3pamA5.png" group-title="NOTICIAS",C5N
+http://186.0.248.91:20202/Live/388bf11831e448624341106dc007701d/c5n.playlist.m3u8
 ############################
 # Cine Premiun
 ############################
-
-
+#EXTINF:-1 tvg-id="1006" tvg-name="Neo TV" tvg-logo="https://cdn.m3u.cl/logo/1006_Neo_TV.png", Neo TV ✪ | AR
+#https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Peliculas",CosmosTV
+#https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 group-title="Peliculas",Canal 34 San Juan
+#https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+#EXTINF:-1 group-title="Peliculas",Atacama
+#https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Peliculas",Canal 4 (San Juan)
+#https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+#EXTINF:-1 group-title="Peliculas",AXN
+#https://streamer1.nexgen.bz/AXN/index.m3u8
+#EXTINF:-1 group-title="Peliculas",WOW TV  
+#https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Peliculas",RETRO TV
+#http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="Peliculas",Orbit TV
+#https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Peliculas",Prodotel TV
+#https://ss3.domint.net:3140/ptv_str/prodoteltv/playlist.m3u8
+#EXTINF:-1 group-title="Peliculas", tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk83c8NwGWfiM8pj6n67OrrDEmbsvPbsvz1w&s"Canal 9 Televida
+http://186.0.248.91:20202/Live/388bf11831e448624341106dc007701d/canal9televida_720.m3u8
 
 ############################
 # INFANTILES
 ############################
 #EXTINF:-1 group-title="Infantiles",Locomotion 
-http://51.222.85.85:81/hls/loco/index.m3u8
+#http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 group-title="Infantiles",VariedTV
-https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8?PlaylistM3UCL
-
-
-############################
-# Peliculas
-############################
-#EXTINF:-1 tvg-id="1006" tvg-name="Neo TV" tvg-logo="https://cdn.m3u.cl/logo/1006_Neo_TV.png", Neo TV ✪ | AR
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Peliculas",CosmosTV
-https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:-1 group-title="Peliculas",Canal 34 San Juan
-https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-#EXTINF:-1 group-title="Peliculas",Atacama
-https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Peliculas",Canal 4 (San Juan)
-https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
-#EXTINF:-1 group-title="Peliculas",AXN
-https://streamer1.nexgen.bz/AXN/index.m3u8
-#EXTINF:-1 group-title="Peliculas",WOW TV  
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Peliculas",RETRO TV
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 group-title="Peliculas",Orbit TV
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Peliculas",Prodotel TV
-https://ss3.domint.net:3140/ptv_str/prodoteltv/playlist.m3u8
-
+#https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8?PlaylistM3UCL
 ############################
 # DEPORTES
 ############################
 #EXTINF:-1 tvg-id="tycsports.ar" group-title="DEPORTES",TyC Sports
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
-
 ############################
 # 🎵 MUSICA
 ############################
 #EXTINF:30, Latina TV
-https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
+#https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
 #EXTINF:-1 tvg-id="CumbiaMix.ar" tvg-name="Cumbia Mix" group-title="MUSICA",Cumbia Mix
-https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
+#https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
 #EXTINF:-1 tvg-id="UrbanMix.ar" tvg-name="Urban Mix" group-title="MUSICA",Urban Mix
-https://cloud.tvomix.com/URBANMIX/index.m3u8
+#https://cloud.tvomix.com/URBANMIX/index.m3u8
 
 
 
