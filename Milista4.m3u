@@ -5,14 +5,14 @@
 #EXTINF:-1 tvg-id="Telefe" group-title="TV ABIERTA",Telefe
 http://107.152.39.199:8030/hls/canal13.m3u8
 #EXTINF:-1 tvg-id="America" group-title="TV ABIERTA",America
-http://186.0.248.91:20202/Live/388bf11831e448624341106dc007701d/americatv_540.m3u8
+http://vipkendrake.top:8080/VIP018871758977562208/0c9700c36706/4722
 #EXTINF:-1 tvg-id="El Trece" group-title="TV ABIERTA",El Trece
 http://186.0.248.91:20202/Live/388bf11831e448624341106dc007701d/eltrece_540.m3u8
 #EXTINF:-1 tvg-id="elnueve" tvg-logo="https://cdn.m3u.cl/logo/1357_El_Nueve.png" group-title="TV ABIERTA",El Nueve
 http://107.152.39.199:8030/hls/canal7.m3u8
-#EXTINF:-1 group-title="Generales",Net TV
+#EXTINF:-1 group-title="TV ABIERTA",Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Generales",Garage TV Argentina
+#EXTINF:-1 group-title="TV ABIERTA",Garage TV Argentina
 https://stream1.sersat.com/hls/garagetv.m3u8
 ############################
 # NOTICIAS
@@ -22,15 +22,16 @@ http://186.0.248.91:20202/Live/388bf11831e448624341106dc007701d/tn.playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cronica TV" tvg-logo="https://pbs.twimg.com/profile_images/1477725477850783750/DVygjO5R_400x400.jpg" group-title="NOTICIAS",Cronica TV
 http://186.0.248.91:20202/Live/388bf11831e448624341106dc007701d/CronicaTv_480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A24" tvg-logo="http://186.0.248.91:20202/images/A24.png" group-title="NOTICIAS",A24
-https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/db76ce0a-d0a5-4cf1-aa13-4095957c3923:SCL2/variant/b20e54831be1870c77de57c177c43ab4/bandwidth/2800000.m3u8
+https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/df3e9701-9ce7-46c1-9c95-24359d64e4de:SCL2/master.m3u8
 #EXTINF:-1 tvg-id="Canal 26" tvg-name="Canal 26" tvg-logo="https://i.imgur.com/xDjOUuz.png" group-title="NOTICIAS",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-id="24/7Noticias" tvg-name="24/7Noticias" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="NOTICIAS",24/7Noticias
 https://panel.host-live.com:19360/cn247tv/Source.m3u8
-#EXTINF:-1 group-title="Noticias",DW Español
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Deutsche_Welle_symbol_2012.svg",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="C5N" tvg-name="C5N" tvg-logo="https://i.imgur.com/E3pamA5.png" group-title="NOTICIAS",C5N
-http://186.0.248.91:20202/Live/388bf11831e448624341106dc007701d/c5n.playlist.m3u8
+#EXTINF:-1 tvg-id="C5N" tvg-name="C5N" tvg-logo="" group-title="NOTICIAS",C5N
+#http://186.0.248.91:20202/Live/388bf11831e448624341106dc007701d/c5n.playlist.m3u8
+https://youtu.be/SF06Qy1Ct6Y
 ############################
 # Cine Premiun
 ############################
