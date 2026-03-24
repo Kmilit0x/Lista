@@ -29,7 +29,7 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
 https://panel.host-live.com:19360/cn247tv/Source.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Deutsche_Welle_symbol_2012.svg",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="C5N" tvg-name="C5N" tvg-logo="" group-title="NOTICIAS",C5N
+#EXTINF:-1 tvg-id="C5N" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="NOTICIAS",C5N
 http://186.0.248.91:20202/Live/388bf11831e448624341106dc007701d/c5n.playlist.m3u8
 ############################
 # Cine Premiun
