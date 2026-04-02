@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-id="Telefe" group-title="TV ABIERTA",Telefe
 http://107.152.39.199:8030/hls/canal13.m3u8
 #EXTINF:-1 tvg-id="America" group-title="TV ABIERTA",America
-https://live.gideo.video/americateve2/master.m3u8
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="El Trece" group-title="TV ABIERTA",El Trece
 http://186.0.248.91:20202/Live/388bf11831e448624341106dc007701d/eltrece_540.m3u8
 #EXTINF:-1 tvg-id="elnueve" tvg-logo="https://cdn.m3u.cl/logo/1357_El_Nueve.png" group-title="TV ABIERTA",El Nueve
