@@ -32,6 +32,8 @@ https://panel.host-live.com:19360/cn247tv/Source.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="C5N" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="NOTICIAS",C5N
 http://186.0.248.91:20202/Live/388bf11831e448624341106dc007701d/c5n.playlist.m3u8
+#EXTINF:-1 tvg-id="Nacion+" tvg-name="Nacion+" tvg-logo="",Nacion+
+https://edge-live16-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc1MzY5NzU4Iiwic2lwIjoiMTg2LjEyMy4xNTYuMTUyIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0xhX05hY2lvbi9TQV9MaXZlX2Rhc2hfZW5jX0MvIiwic2Vzc2lvbl9jZG5faWQiOiI2YzI4YTM1NTQ4ODhjNTA2Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiNzciLCJzb3VyY2VzIjpbODUsMTQ0LDg2LDg4XX0=.Xta0K98ZaWd9CDyq0DQ07kpWg6tbfKik9UnXsm_6yshPESuan-jnC6oStYgw66-Y-dGOdc8ODGTMM8Uz9Qn5TQ==/live/c7eds/La_Nacion/SA_Live_dash_enc_C/La_Nacion.mpd
 ############################
 # Cine Premiun
 ############################
