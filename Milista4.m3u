@@ -2,6 +2,9 @@
 ############################
 # TV ABIERTA
 ############################
+#EXTINF:-1 group-title="Estables" tvg-logo="https://vod.magma.qaotic.net/media/posters-live/cronica/cronica.jpg", Cronica TV 
+https://www.youtube.com/watch?v=avly0uwZzOE&ab_channel=Cr%C3%B3nicaTV
+
 #EXTINF:-1 tvg-id="Telefe" group-title="TV ABIERTA",Telefe
 http://107.152.39.199:8030/hls/canal13.m3u8
 #EXTINF:-1 tvg-id="America" group-title="TV ABIERTA",America
