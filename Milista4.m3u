@@ -2,5 +2,5 @@
 ############################
 # TV ABIERTA
 ############################
-#EXTINF:-1 tvg-id="Telefe" group-title="TV ABIERTA",Telefe
+#EXTINF:-1 tvg-id="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="TV ABIERTA",Telefe 
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
