@@ -3,4 +3,4 @@
 # TV ABIERTA
 ############################
 #EXTINF:-1 tvg-id="Telefe" group-title="TV ABIERTA",Telefe
-http://107.152.39.199:8030/hls/canal13.m3u8
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
