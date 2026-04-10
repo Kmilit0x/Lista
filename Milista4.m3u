@@ -4,6 +4,8 @@
 ############################
 #EXTINF:-1 group-title="Noticias",24/7 Canal de Noticias
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
+#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/2048px-Canal_26_logo_%282022%29.svg.png", Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 
 ############################
