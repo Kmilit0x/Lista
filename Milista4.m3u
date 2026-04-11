@@ -31,7 +31,6 @@ http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-18.playl
 http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-19.playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ENT| El GOURMET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/120px-Elgourmetlogo2015.png" group-title="TVABIERTA",ENT| El GOURMET
 http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-25.playlist.m3u8
-
 ############################
 # Peliculas
 ############################
@@ -48,10 +47,30 @@ https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
 ############################
 #EXTINF:-1 tvg-id="XtremaCartoons.ar@SD" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="Infantiles",Xtrema Cartoons
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
-
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-30.playlist.m3u8
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="ES:DISNEY CHANEL HD" tvg-logo="https://i.ibb.co/8YDMdk8/DCH.png" group-title="Infantiles",DISNEY CHANEL
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-32.playlist.m3u8
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="ES:Disney Jr" tvg-logo="https://i.ibb.co/Gn6BRm7/PLAYDC.png" group-title="Infantiles",Disney Jr
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-35_480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:DISCOVERY KIDS HD" tvg-logo="" group-title="Infantiles",DISCOVERY KIDS
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-34.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paka Paka | AR" tvg-logo="https://cdn.m3u.cl/logo/206_Paka_Paka.png" group-title="Infantiles",Paka Paka | AR
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-36.playlist.m3u8
 ############################
-# Infantiles
+# Deportes
 ############################
-#EXTINF:-1 tvg-id="1100" tvg-name="DEPORTV" tvg-logo="https://cdn.m3u.cl/logo/1100_DEPORTV.png", DEPORTV
+#EXTINF:-1 tvg-id="1100" tvg-name="DEPORTV" tvg-logo="https://cdn.m3u.cl/logo/1100_DEPORTV.png" group-title="Deportes", DEPORTV
 http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/deportv.playlist.m3u8
+############################
+# Documentales
+############################
+#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] HISTORY HD" tvg-logo="" group-title="Documentales",HISTORY Chanel
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-40_480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] HISTORY HD" tvg-logo="" group-title="Documentales",HISTORY Chanel2
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-41.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] DISCOVERY HD" tvg-logo="" group-title="Documentales",DISCOVERY 
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-44.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[Canal+ PL	] ANIMAL PLANET HD" tvg-logo="" group-title="Documentales",ANIMAL PLANET 
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-45.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[Canal+ PL	] NATIONAL GEOGRAPHIC" tvg-logo="" group-title="Documentales",NATIONAL GEOGRAPHIC
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-46.playlist.m3u8
+
