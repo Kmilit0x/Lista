@@ -50,37 +50,32 @@ http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-62.playl
 http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-64.playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="C/S• TNT NOVELAS (HD) »1«" tvg-logo="https://i.ibb.co/kHp2Q54/Logo-TNT-Novelas.png" group-title="Peliculas",TNT NOVELAs
 http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-65.playlist.m3u8
-universal
+#EXTINF:-1 tvg-id="" tvg-name="C/S• UNIVERSAL CHANNEL (HD) »1«" tvg-logo="https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg" group-title="Peliculas",UNIVERSAL CHANNEL 
 http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-67.playlist.m3u8
-startchanel
+#EXTINF:-1 tvg-id="202dtv.co" tvg-name="C/S• STAR CHANNEL (HD) »1«" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg" group-title="Peliculas",C/S• STAR CHANNEL (HD) »1«
 http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-68.playlist.m3u8
-space
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SPACE (HD) »1«" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg" group-title="Peliculas",SPACE 
 http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-69.playlist.m3u8
-TCL
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:TLC HD" tvg-logo="" group-title="Peliculas",TLC
 http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/tlc_480.m3u8
-volver
+#EXTINF:0,170-Volver HD
 http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-74.playlist.m3u8
-universal
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STUDIO UNIVERSAL (HD) »1«" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg" group-title="Peliculas",STUDIO UNIVERSAL
 http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-75.playlist.m3u8
-AMC
+#EXTINF:-1 tvg-id="AMC Break" tvg-name="ES:AMC BREAK" tvg-logo="https://i.ibb.co/rcGChBx/BIOGRA.png" group-title="Peliculas",ES:AMC BREAK
 http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-76.playlist.m3u8
-AXN
+#EXTINF:-1 tvg-id="AXN Movies HD" tvg-name="ES:AXN MOVIES HD" tvg-logo="https://i.ibb.co/5hq2ShB/SET.png" group-title="Peliculas",ES:AXN MOVIES 
 http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-77.playlist.m3u8
-FX
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/fx.png" group-title="Peliculas",FX
 http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-78.playlist.m3u8
-TCM
+#EXTINF:-1 tvg-id="504dtv.cl" tvg-name="ZCL• TCM (HD)" tvg-logo="http://puntoz.net/LOGOS/tcmp.png" group-title="Peliculas",ZCL• TCM (HD)
 http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-79.playlist.m3u8
-HBO
+#EXTINF:-1 tvg-id="1481dtv.cl" tvg-name="ZCL• HBO (HD)" tvg-logo="http://puntoz.xyz/LOGOS/hbocosubB.png" group-title="Peliculas",ZCL• HBO
 http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-102.playlist.m3u8
-HNO PLUS
+#EXTINF:-1 tvg-id="526dtv.cl" tvg-name="C/S• HBO PLUS (HD) »2«" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg" group-title="Peliculas",HBO PLUS
 http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-109.playlist.m3u8
-HBO Family
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:HBO FAMILY HD" tvg-logo="" group-title="Peliculas",HBO FAMILY
 http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-101.playlist.m3u8
-
-
-
-
-
 ############################
 # Infantiles
 ############################
@@ -99,15 +94,15 @@ http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-36.playl
 ############################
 #EXTINF:-1 tvg-id="1100" tvg-name="DEPORTV" tvg-logo="https://cdn.m3u.cl/logo/1100_DEPORTV.png" group-title="Deportes", DEPORTV
 http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/deportv.playlist.m3u8
-ESPN
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 1" tvg-logo="https://tinyurl.com/y5xm55ya" group-title="Deportes",ESPN 
 http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-94.playlist.m3u8
-ESPN2
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 2" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/espn2.png" group-title="Deportes",ESPN 2
 http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-97.playlist.m3u8
-TYC
+#EXTINF:-1 tvg-id="" tvg-name="DEP• TYC SPORTS AR DASH" tvg-logo="" group-title="Deportes",TYC SPORTS
 http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-90.playlist.m3u8
-FOX
+#EXTINF:-1 tvg-id="" tvg-name="[Canal+ PL	] FOX" tvg-logo="" group-title="Deportes",FOX
 http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-91.playlist.m3u8
-FOX 2
+#EXTINF:-1 tvg-id="" tvg-name="DEP• FOX SPORTS 2 MX (HD) »1«" tvg-logo="https://i.postimg.cc/d01285jt/fox2.png" group-title="Deportes",FOX SPORTS 2
 http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-93.playlist.m3u8
 ############################
 # Documentales
@@ -122,9 +117,3 @@ http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-44.playl
 http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-45.playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[Canal+ PL	] NATIONAL GEOGRAPHIC" tvg-logo="" group-title="Documentales",NATIONAL GEOGRAPHIC
 http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-46.playlist.m3u8
-
-############################
-# Peliculas2
-############################
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Peliculas2",Peliculas2
-http://201.217.246.42:44310/?index
