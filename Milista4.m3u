@@ -42,6 +42,45 @@ https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremaTerror.ar@SD" tvg-logo="https://i.imgur.com/FcaTUym.png" group-title="Peliculas",Xtrema Terror
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cinemax_new.png/800px-Cinemax_new.png" group-title="Peliculas",CINEMAX 1 
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-61.playlist.m3u8
+#EXTINF:-1 tvg-id="507dtv.co" tvg-name="C/S• CINE CANAL (HD) »1«" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg" group-title="Peliculas",CINE CANAL
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-62.playlist.m3u8
+#EXTINF:-1 tvg-id="213dtv.cl" tvg-name="C/S• TNT SERIES (HD) »1«" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg" group-title="Peliculas",TNT SERIES
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-64.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C/S• TNT NOVELAS (HD) »1«" tvg-logo="https://i.ibb.co/kHp2Q54/Logo-TNT-Novelas.png" group-title="Peliculas",TNT NOVELAs
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-65.playlist.m3u8
+universal
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-67.playlist.m3u8
+startchanel
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-68.playlist.m3u8
+space
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-69.playlist.m3u8
+TCL
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/tlc_480.m3u8
+volver
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-74.playlist.m3u8
+universal
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-75.playlist.m3u8
+AMC
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-76.playlist.m3u8
+AXN
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-77.playlist.m3u8
+FX
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-78.playlist.m3u8
+TCM
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-79.playlist.m3u8
+HBO
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-102.playlist.m3u8
+HNO PLUS
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-109.playlist.m3u8
+HBO Family
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-101.playlist.m3u8
+
+
+
+
+
 ############################
 # Infantiles
 ############################
@@ -60,6 +99,16 @@ http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-36.playl
 ############################
 #EXTINF:-1 tvg-id="1100" tvg-name="DEPORTV" tvg-logo="https://cdn.m3u.cl/logo/1100_DEPORTV.png" group-title="Deportes", DEPORTV
 http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/deportv.playlist.m3u8
+ESPN
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-94.playlist.m3u8
+ESPN2
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-97.playlist.m3u8
+TYC
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-90.playlist.m3u8
+FOX
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-91.playlist.m3u8
+FOX 2
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-93.playlist.m3u8
 ############################
 # Documentales
 ############################
@@ -74,3 +123,8 @@ http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-45.playl
 #EXTINF:-1 tvg-id="" tvg-name="[Canal+ PL	] NATIONAL GEOGRAPHIC" tvg-logo="" group-title="Documentales",NATIONAL GEOGRAPHIC
 http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-46.playlist.m3u8
 
+############################
+# Peliculas2
+############################
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Peliculas2",Peliculas2
+http://201.217.246.42:44310/?index
