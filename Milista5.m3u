@@ -1,1 +1,7 @@
 
+#EXTM3U
+############################
+# Noticias
+############################
+#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/2048px-Canal_26_logo_%282022%29.svg.png", Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
