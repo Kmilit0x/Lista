@@ -14,8 +14,12 @@ http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/tn.playlist.m3
 http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/a24.playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="La Nacion+ | AR" tvg-logo="https://cdn.m3u.cl/logo/1361_La_Nacion_.png" group-title="Noticias",La Nacion+
 http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/lntv.playlist.m3u8
-#EXTINF:-1 tvg-id="IPNoticias.ar@SD",IP Noticias (480p)
+#EXTINF:-1 tvg-id="IPNoticias.ar@SD",IP Noticias
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-21_480.m3u8
+#EXTINF:-1 tvg-id="0206" tvg-name="France 24 Español" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",France 24 Español
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="0205" tvg-name="DW" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/2560px-Deutsche_Welle_symbol_2012.svg.png",DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 ############################
 # TVABIERTA
 ############################
