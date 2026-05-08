@@ -2,5 +2,78 @@
 ############################
 # Noticias
 ############################
-#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/2048px-Canal_26_logo_%282022%29.svg.png", Canal 26
+#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="Noticias",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV" group-title="Noticias",Crónica TV
+http://201.217.246.42:44310/Live/693e608d40c62ada1b5b32a1f5997797/CronicaTv.480.25164.ts
+#EXTINF:-1 tvg-id="0932" tvg-name="C5N" group-title="Noticias",C5N
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/c5n_480.m3u8
+#EXTINF:-1 tvg-id="TN Noticias" tvg-name="TN Noticias" group-title="NOTICIAS",TN Noticias
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/tn.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A24" group-title="NOTICIAS",A24
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/a24.playlist.m3u8
+############################
+# TVABIERTA
+############################
+#EXTINF:-1 tvg-id="AmericaInternacional.ar@SD" group-title="TVABIERTA",America Internacional
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-17_720.m3u8
+#EXTINF:-1 tvg-id="Telefe" group-title="TVABIERTA",Telefe 
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
+#EXTINF:-1 tvg-id="Telefe" group-title="TVABIERTA",Telefe Rosario
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-10.playlist.m3u8
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-10.playlist.m3u8
+#EXTINF:-1 tvg-id="1358" group-title="TVABIERTA" tvg-name="El Trece",El Trece
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/eltrece.playlist.m3u8
+#EXTINF:-1 tvg-id="492" tvg-name="TV Publica" group-title="TVABIERTA",TV Publica
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/tvpublica.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 9 Litoral | AR" group-title="TVABIERTA",Canal 9 Litoral
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-18.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Encuentro | AR" group-title="TVABIERTA",Encuentro
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-19.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENT| El GOURMET" group-title="TVABIERTA",El GOURMET
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-25.playlist.m3u8
+############################
+# Peliculas
+############################
+#EXTINF:-1 tvg-id="BayresTV.ar@SD",Bayres TV (720p)
+https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaAccion.ar@SD" group-title="Peliculas",Xtrema Accion
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-id="BayresTV.ar@SD",Bayres TV (720p)
+https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaAccion.ar@SD" group-title="Peliculas",Xtrema Accion
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX 1 FHD" group-title="Peliculas",CINEMAX 1 
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-61.playlist.m3u8
+#EXTINF:-1 tvg-id="507dtv.co" tvg-name="C/S• CINE CANAL (HD) »1«" group-title="Peliculas",CINE CANAL
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-62.playlist.m3u8
+#EXTINF:-1 tvg-id="213dtv.cl" tvg-name="C/S• TNT SERIES (HD) »1«" group-title="Peliculas",TNT SERIES
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-64.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C/S• TNT NOVELAS (HD) »1«" group-title="Peliculas",TNT NOVELAs
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-65.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C/S• UNIVERSAL CHANNEL (HD) »1«" group-title="Peliculas",UNIVERSAL CHANNEL 
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-67.playlist.m3u8
+#EXTINF:-1 tvg-id="202dtv.co" tvg-name="C/S• STAR CHANNEL (HD) »1«" group-title="Peliculas",C/S• STAR CHANNEL (HD) »1«
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-68.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SPACE (HD) »1«" group-title="Peliculas",SPACE 
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-69.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:TLC HD" group-title="Peliculas",TLC
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/tlc_480.m3u8
+#EXTINF:0,170-Volver HD
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-74.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STUDIO UNIVERSAL (HD) »1«" group-title="Peliculas",STUDIO UNIVERSAL
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-75.playlist.m3u8
+#EXTINF:-1 tvg-id="AMC Break" tvg-name="ES:AMC BREAK" group-title="Peliculas",ES:AMC BREAK
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-76.playlist.m3u8
+#EXTINF:-1 tvg-id="AXN Movies HD" tvg-name="ES:AXN MOVIES HD"  group-title="Peliculas",ES:AXN MOVIES 
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-77.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" group-title="Peliculas",FX
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-78.playlist.m3u8
+#EXTINF:-1 tvg-id="504dtv.cl" tvg-name="ZCL• TCM (HD)" group-title="Peliculas",ZCL• TCM (HD)
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-79.playlist.m3u8
+#EXTINF:-1 tvg-id="1481dtv.cl" tvg-name="ZCL• HBO (HD)" group-title="Peliculas",ZCL• HBO
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-102.playlist.m3u8
+#EXTINF:-1 tvg-id="526dtv.cl" tvg-name="C/S• HBO PLUS (HD) »2«" group-title="Peliculas",HBO PLUS
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-109.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:HBO FAMILY HD" tvg-logo="" group-title="Peliculas",HBO FAMILY
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-101.playlist.m3u8
