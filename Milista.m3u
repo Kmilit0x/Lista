@@ -34,6 +34,19 @@ http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-25.playl
 #EXTINF:0 tvg-id="" group-title="TVABIERTA",Volver
 http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-74.playlist.m3u8
 ############################
+# Infantiles
+############################
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="ES:DISNEY CHANEL HD" group-title="Infantiles",DISNEY CHANEL
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-32.playlist.m3u8
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="ES:Disney Jr" group-title="Infantiles",Disney Jr
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-35_480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:DISCOVERY KIDS HD" group-title="Infantiles",DISCOVERY KIDS
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-34.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paka Paka | AR" group-title="Infantiles",Paka Paka 
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-36.playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaCartoons.ar@SD" group-title="Infantiles",Xtrema Cartoons
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+############################
 # Peliculas
 ############################
 #EXTINF:-1 tvg-id="BayresTV.ar@SD" group-title="Peliculas",Bayres TV (720p)
