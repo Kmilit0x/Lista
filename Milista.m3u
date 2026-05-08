@@ -87,4 +87,46 @@ http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-77.playl
 http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-78.playlist.m3u8
 #EXTINF:-1 tvg-id="504dtv.cl" tvg-name="ZCL• TCM (HD)" group-title="Peliculas",TCM
 http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-79.playlist.m3u8
+############################
+# Deportes
+############################
+#EXTINF:-1 tvg-id="1100" tvg-name="DEPORTV" tvg-logo="" group-title="Deportes", DEPORTV
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/deportv.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 1" tvg-logo="" group-title="Deportes",ESPN 
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-94.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 2" tvg-logo="" group-title="Deportes",ESPN 2
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-97.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• TYC SPORTS AR DASH" tvg-logo="" group-title="Deportes",TYC SPORTS
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-90.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[Canal+ PL	] FOX" tvg-logo="" group-title="Deportes",FOX
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-91.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• FOX SPORTS 2 MX (HD) »1«" tvg-logo="" group-title="Deportes",FOX SPORTS 2
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-93.playlist.m3u8
+############################
+# Documentales
+############################
+#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] HISTORY HD" tvg-logo="" group-title="Documentales",HISTORY Chanel
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-40_480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] HISTORY HD" tvg-logo="" group-title="Documentales",HISTORY Chanel2
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-41.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] DISCOVERY HD" tvg-logo="" group-title="Documentales",DISCOVERY 
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-44.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[Canal+ PL	] ANIMAL PLANET HD" tvg-logo="" group-title="Documentales",ANIMAL PLANET 
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-45.playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[Canal+ PL	] NATIONAL GEOGRAPHIC" tvg-logo="" group-title="Documentales",NATIONAL GEOGRAPHIC
+http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-46.playlist.m3u8
+############################
+# Regionales
+############################
+#EXTINF:-1 tvg-id="AiredeSantaFe.ar@SD",Aire de Santa Fe 
+https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
+############################
+# Musica
+############################
+#EXTINF:-1 tvg-id="MusicTop.ar@SD" group-title="Musica",MusicTop
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+#EXTINF:-1 tvg-id="XLevelMedia.ar@SD" group-title="Musica",X Level Media
+https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
+#EXTINF:-1 tvg-id="UrbanMix.ar@SD" group-title="Musica",Urban Mix 
+https://cloud.tvomix.com/URBANMIX/index.m3u8
 
