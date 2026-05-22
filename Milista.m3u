@@ -16,7 +16,7 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 # TVABIERTA
 ############################
 #EXTINF:-1 tvg-id="AmericaInternacional.ar@SD" group-title="TVABIERTA",America Internacional
-
+http://avefenixtv.com:80/guillermo_ramos/Ramos2023G/712703.ts
 #EXTINF:-1 tvg-id="Telefe" group-title="TVABIERTA",Telefe 
 
 #EXTINF:-1 tvg-id="Telefe" group-title="TVABIERTA",Telefe Rosario
