@@ -2,31 +2,33 @@
 ############################
 # Noticias
 ############################
-#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="Noticias",Canal 26
+#EXTINF:-1 tvg-id="" tvg-name="Canal 26" group-title="Noticias",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-#EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV" group-title="Noticias",Crónica TV
-
+#EXTINF:-1 tvg-id="" tvg-name="Crónica TV" group-title="Noticias",Crónica TV
+http://avefenixtv.com:80/guillermo_ramos/Ramos2023G/712706.ts
 #EXTINF:-1 tvg-id="0932" tvg-name="C5N" group-title="Noticias",C5N
-
+http://avefenixtv.com:80/guillermo_ramos/Ramos2023G/712705.ts
 #EXTINF:-1 tvg-id="TN Noticias" tvg-name="TN Noticias" group-title="Noticias",TN Noticias
-
+http://avefenixtv.com:80/guillermo_ramos/Ramos2023G/712717.ts
 #EXTINF:-1 tvg-id="" tvg-name="A24" group-title="Noticias",A24
-
+http://avefenixtv.com:80/guillermo_ramos/Ramos2023G/712702.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nacion+" group-title="Noticias",Nacion+
+http://avefenixtv.com:80/guillermo_ramos/Ramos2023G/712712.ts
 ############################
 # TVABIERTA
 ############################
 #EXTINF:-1 tvg-id="AmericaInternacional.ar@SD" group-title="TVABIERTA",America Internacional
 http://avefenixtv.com:80/guillermo_ramos/Ramos2023G/712703.ts
 #EXTINF:-1 tvg-id="Telefe" group-title="TVABIERTA",Telefe 
-
+http://avefenixtv.com:80/guillermo_ramos/Ramos2023G/712714.ts
 #EXTINF:-1 tvg-id="Telefe" group-title="TVABIERTA",Telefe Rosario
 
 #EXTINF:-1 tvg-id="" group-title="TVABIERTA" tvg-name="El Trece",El Trece
-
+http://avefenixtv.com:80/guillermo_ramos/Ramos2023G/712710.ts
 #EXTINF:-1 tvg-id="492" tvg-name="TV Publica" group-title="TVABIERTA",TV Publica
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 9 Litoral | AR" group-title="TVABIERTA",Canal 9 Litoral
-
+#EXTINF:-1 tvg-id="" tvg-name="Canal 9" group-title="TVABIERTA",Canal 9 
+http://avefenixtv.com:80/guillermo_ramos/Ramos2023G/712708.ts
 #EXTINF:-1 tvg-id="" tvg-name="Encuentro | AR" group-title="TVABIERTA",Encuentro
 
 #EXTINF:-1 tvg-id="" tvg-name="ENT| El GOURMET" group-title="TVABIERTA",El GOURMET
