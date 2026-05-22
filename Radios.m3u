@@ -1,205 +1,80 @@
-#M3U
-#EXTINF:-1 group-title="Rock",Rock & Pop
-https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOP.mp3
+#EXTM3U url-tvg="https://impeditor.com/epg/capanueve/capanueve"
 
-#EXTINF:-1 group-title="Noticias",Radio 10 AM 710
-https://s6.stweb.tv/radio10/live/playlist.m3u8
+# General/Abierta
+#EXTINF:-1 tvg-id="0935" tvg-name="América TV" group-title="General/Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logotipo_de_America_TV.svg/1933px-Logotipo_de_America_TV.svg.png",América TV
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 tvg-id="0919" tvg-name="Canal de la Ciudad" group-title="General/Abierta" tvg-logo="https://files.catbox.moe/ql9rbg.png",Canal de la Ciudad
+https://g4.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="General/Abierta" tvg-logo="https://files.catbox.moe/k3fp5s.png",El Nueve
+http://107.152.39.199:8030/hls/canal7.m3u8
+#EXTINF:-1 tvg-id="0915" group-title="General/Abierta" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png",El Trece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.m3u8player.online/
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-id="0939" tvg-name="Net TV" group-title="General/Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" ,Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+#EXTINF:-1 tvg-id="1909" tvg-name="Telefe" group-title="General/Abierta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",Telefe
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:-1 tvg-id="0903" tvg-name="TV Pública" group-title="General/Abierta" tvg-logo="https://files.catbox.moe/3yz8zs.png",TV Publica
+https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+#EXTINF:-1 tvg-id="0640" tvg-name="Unife TV" group-title="General/Abierta" tvg-logo="https://files.catbox.moe/gb2iih.png",Unife TV
+https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 
-#EXTINF:-1 group-title="Noticias",La Red AM 910
-https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC.aac
+---
 
-#EXTINF:-1 group-title="Noticias",Radio Nacional AM 870
-http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad1
+# Noticias
+#EXTINF:-1 tvg-id="0222" tvg-name="A24" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/A24_%282025%29.svg/2560px-A24_%282025%29.svg.png",A24
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
+#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/2048px-Canal_26_logo_%282022%29.svg.png",Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png", TN
+#EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
+#EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png",Crónica TV
+https://g1.vxral-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/playlist.m3u8?sense=true
+#EXTINF:-1 tvg-id="0964" tvg-name="Canal E" group-title="Noticias" tvg-logo="https://files.catbox.moe/tacipf.png",Canal E
+https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="0922" tvg-name="Argentina 12" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Argentina12_2025.svg/2560px-Argentina12_2025.svg.png",Argentina 12
+https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA__24.5ARGENTINA1
+#EXTINF:-1 tvg-id="0904" tvg-name="LN+" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/La-Nacion-Mas-Logo.svg/2560px-La-Nacion-Mas-Logo.svg.png",LN+
+https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA__25.3LN________
 
-#EXTINF:-1 group-title="Rock",Aspen 102.3
-https://playerservices.streamtheworld.com/api/livestream-redirect/ASPEN.mp3
 
-#EXTINF:0,Hit List
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110816
-#EXTINF:0,Hip-Hop/R&B
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110817
-#EXTINF:0,Teen Beats
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110818
-#EXTINF:0,Today's Country
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110819
-#EXTINF:0,Alternative
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110820
-#EXTINF:0,Pop Latino
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110821
-#EXTINF:0,R&B/Soul
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110822
-#EXTINF:0,Rap
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110823
-#EXTINF:0,Dance/EDM
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110824
-#EXTINF:0,Musica Urbana
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110825
-#EXTINF:0,Kidz Only!
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110826
-#EXTINF:0,Mexicana
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110827
-#EXTINF:0,Pop & Country
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110828
-#EXTINF:0,Pop Hits
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110829
-#EXTINF:0,Tropicales
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110830
-#EXTINF:0,Rock
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110831
-#EXTINF:0,90's
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110832
-#EXTINF:0,Rap 2K
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110833
-#EXTINF:0,Throwback Jamz
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110834
-#EXTINF:0,Toddler Tunes
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110835
-#EXTINF:0,Y2K
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110836
-#EXTINF:0,Events 01:
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110837
-#EXTINF:0,Events 02:
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110838
-#EXTINF:0,Events: 03
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110839
-#EXTINF:0,Events: 04
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110840
-#EXTINF:0,Events: 05
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110841
-#EXTINF:0,Events: 06
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110842
-#EXTINF:0,Events: 07
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110843
-#EXTINF:0,Events: 08
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110844
-#EXTINF:0,Events: 09
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110845
-#EXTINF:0,Events: 10
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110846
-#EXTINF:0,Events: 11
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110847
-#EXTINF:0,Events: 12
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110848
-#EXTINF:0,Events: 13
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110849
-#EXTINF:0,Events: 14
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110850
-#EXTINF:0,Events: 15
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110851
-#EXTINF:0,Music Choice Max
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110853
-#EXTINF:0,Music Choice Fresh
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110854
-#EXTINF:0,Y2K - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110963
-#EXTINF:0,90's - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110964
-#EXTINF:0,80's - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110965
-#EXTINF:0,70's - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110966
-#EXTINF:0,60s Movement - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110967
-#EXTINF:0,Rock - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110968
-#EXTINF:0,Soft Rock - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110969
-#EXTINF:0,Hard Rock - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110970
-#EXTINF:0,Classic Rock - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110971
-#EXTINF:0,Rock Hits - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110972
-#EXTINF:0,Metal - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110973
-#EXTINF:0,Alternative - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110974
-#EXTINF:0,Adult Alternative - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110975
-#EXTINF:0,Classic Alternative - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110976
-#EXTINF:0,Indie - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110977
-#EXTINF:0,New Wave - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110978
-#EXTINF:0,Pop Hits - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110979
-#EXTINF:0,Pop & Country - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110980
-#EXTINF:0,Hit List - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110981
-#EXTINF:0,Love Songs - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110982
-#EXTINF:0,Malt Shop Favorites - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110983
-#EXTINF:0,Classic Country - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110984
-#EXTINF:0,Today's Country - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110985
-#EXTINF:0,Country Hits - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110986
-#EXTINF:0,Honky Tonk - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110987
-#EXTINF:0,Bluegrass - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110988
-#EXTINF:0,Americana - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110989
-#EXTINF:0,Folk - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110990
-#EXTINF:0,Light Classical - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110991
-#EXTINF:0,Classical Masterpieces - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110992
-#EXTINF:0,Symphony - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110993
-#EXTINF:0,Singers & Swing - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110994
-#EXTINF:0,Big Band - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110995
-#EXTINF:0,Smooth Jazz - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110996
-#EXTINF:0,Jazz - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110997
-#EXTINF:0,Jazz Vocal Hits - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110998
-#EXTINF:0,Jazz Vocal Standards - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/110999
-#EXTINF:0,Blues
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/111000
-#EXTINF:0,Party Favorites - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/111001
-#EXTINF:0,Reggae - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/111002
-#EXTINF:0,Throwback Jamz - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/111003
-#EXTINF:0,Funk - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/111004
-#EXTINF:0,Hip-Hop and R&B - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/111005
-#EXTINF:0,Rap - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/111006
-#EXTINF:0,Mainstream Rap - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/111007
-#EXTINF:0,R&B Soul - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/111008
-#EXTINF:0,R&B Classics - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/111009
-#EXTINF:0,R&B 2K - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/111010
-#EXTINF:0,Rap Pioneers - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/111011
-#EXTINF:0,Gospel - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/111012
-#EXTINF:0,Gospel Hallelujah - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/111013
-#EXTINF:0,Contemporary Christian - Audio only
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/111014
-#EXTINF:0,Nature Sounds
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/111015
-#EXTINF:0,Sleep Noise
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/111016
-#EXTINF:0,LA_SD:PAN:SER TV 11
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/115043
-#EXTINF:0,LA: 5 STARMAX
-http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/115044
+---
 
+# Internacional
+#EXTINF:-1 tvg-id="0205" tvg-name="DW" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/2560px-Deutsche_Welle_symbol_2012.svg.png",DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+#EXTINF:-1 tvg-id="0213" tvg-name="Euronews" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png",Euronews
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d59b7cbef25000728221clivestitch/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=&profilesFromStream=true
+#EXTINF:-1 tvg-id="0206" tvg-name="France 24 Español" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",France 24 Español
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="0209" tvg-name="RT en Español" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png",RT en Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="0204" tvg-name="TeleSUR" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TeleSUR.png",TeleSUR
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+
+---
+
+# Documentales/Temáticos
+#EXTINF:-1 tvg-id="" tvg-name="Naturaleza" group-title="Documentales/Temáticos",Naturaleza
+https://anym3u8player.com/youtube.php/id/690bf6de0cc9e.m3u8
+
+---
+
+# Temáticos Argentinos
+#EXTINF:-1 tvg-id="0912" tvg-name="Argentinisima Satelital" group-title="Temáticos Argentinos" tvg-logo="https://files.catbox.moe/7cghqq.png",Argentinisima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:-1 tvg-id="0907" tvg-name="Canal 9 Multivisión" group-title="Temáticos Argentinos" tvg-logo="https://files.catbox.moe/iqx1h4.png",Canal 9 Multivisión
+https://panel.host-live.com:19360/8250/8250.m3u8
+#EXTINF:-1 tvg-id="0534" tvg-name="Canal de la Música" group-title="Temáticos Argentinos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png",Canal de la Música 
+https://g1.mc-slo.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-id="0936" tvg-name="Ciudad Magazine" group-title="Temáticos Argentinos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png",Ciudad Magazine
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
+
+---
+
+# Otros/Extras
+#EXTINF:-1 tvg-id="0937" tvg-name="Telemax" group-title="Otros/Extras" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png",Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
