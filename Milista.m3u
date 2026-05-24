@@ -1,68 +1,183 @@
 #EXTM3U
 ############################
-# TV ABIERTA
+# Noticias
 ############################
-#EXTINF:-1 tvg-id="America" group-title="TV ABIERTA",America
-http://canal-pro.xyz:8080/982056213tv/99xj2f/247
+#EXTINF:-1 tvg-id="" tvg-name="Canal 26" group-title="Noticias",Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Crónica TV" group-title="Noticias",Crónica TV
+http://avefenixtv.com:80/guillermo_ramos/Ramos2023G/712706.ts
+#EXTINF:-1 tvg-id="0932" tvg-name="C5N" group-title="Noticias",C5N
+http://avefenixtv.com:80/guillermo_ramos/Ramos2023G/712705.ts
+#EXTINF:-1 tvg-id="TN Noticias" tvg-name="TN Noticias" group-title="Noticias",TN Noticias
+http://avefenixtv.com:80/guillermo_ramos/Ramos2023G/712717.ts
+#EXTINF:-1 tvg-id="" tvg-name="A24" group-title="Noticias",A24
+http://avefenixtv.com:80/guillermo_ramos/Ramos2023G/712702.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nacion+" group-title="Noticias",Nacion+
+http://avefenixtv.com:80/guillermo_ramos/Ramos2023G/712712.ts
+#EXTINF:-1 tvg-id="" tvg-name="Noticias24/7" group-title="Noticias",Noticias24/7
+https://panel.host-live.com:19360/cn247tv/Source.m3u8
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Deutsche_Welle_symbol_2012.svg",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-id="elnueve" tvg-logo="https://cdn.m3u.cl/logo/1357_El_Nueve.png" group-title="TV ABIERTA",El Nueve
-http://107.152.39.199:8030/hls/canal7.m3u8
-#EXTINF:-1 group-title="TV ABIERTA",Net TV
+############################
+# TVABIERTA
+############################
+#EXTINF:-1 tvg-id="AmericaInternacional.ar@SD" group-title="TVABIERTA",America Internacional
+http://avefenixtv.com:80/guillermo_ramos/Ramos2023G/712703.ts
+#EXTINF:-1 tvg-id="Telefe" group-title="TVABIERTA",Telefe 
+http://avefenixtv.com:80/guillermo_ramos/Ramos2023G/712714.ts
+#EXTINF:-1 tvg-id="Telefe" group-title="TVABIERTA",Telefe Rosario
+
+#EXTINF:-1 tvg-id="" group-title="TVABIERTA" tvg-name="El Trece",El Trece
+http://avefenixtv.com:80/guillermo_ramos/Ramos2023G/712710.ts
+#EXTINF:-1 tvg-id="492" tvg-name="TV Publica" group-title="TVABIERTA",TV Publica
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 9" group-title="TVABIERTA",Canal 9 
+http://avefenixtv.com:80/guillermo_ramos/Ramos2023G/712708.ts
+#EXTINF:-1 tvg-id="" tvg-name="Encuentro | AR" group-title="TVABIERTA",Encuentro
+
+#EXTINF:-1 tvg-id="" tvg-name="ENT| El GOURMET" group-title="TVABIERTA",El GOURMET
+
+#EXTINF:0 tvg-id="" group-title="TVABIERTA",Volver
+#EXTINF:0,24-Bravo TV
+https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
+#EXTINF:0,25-Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="TV ABIERTA",Garage TV Argentina
-https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:0,26-Canal Encuentro
+http://45.5.149.219:8000/play/a05s/index.m3u8
+#EXTINF:0,27-Argentinisima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8?PlaylistM3UCL
+#EXTINF:0,28-Ciudad Magazine
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 ############################
-# NOTICIAS
+# Infantiles
 ############################
-
-
-
-############################
-# Cine Premiun
-############################
-#EXTINF:-1 tvg-id="1006" tvg-name="Neo TV" tvg-logo="https://cdn.m3u.cl/logo/1006_Neo_TV.png", Neo TV ? | AR
-#https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Peliculas",CosmosTV
-#https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:-1 group-title="Peliculas",Canal 34 San Juan
-#https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-#EXTINF:-1 group-title="Peliculas",Atacama
-#https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
-#https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
-#EXTINF:-1 group-title="Peliculas",AXN
-#https://streamer1.nexgen.bz/AXN/index.m3u8
-#EXTINF:-1 group-title="Peliculas",WOW TV  
-#https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Peliculas",RETRO TV
-#http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 group-title="Peliculas",Orbit TV
-#https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Peliculas",Prodotel TV
-#https://ss3.domint.net:3140/ptv_str/prodoteltv/playlist.m3u8
-#EXTINF:-1 group-title="Peliculas", tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk83c8NwGWfiM8pj6n67OrrDEmbsvPbsvz1w&s"Canal 9 Televida
-http://186.0.248.91:20202/Live/388bf11831e448624341106dc007701d/canal9televida_720.m3u8
-############################
-# INFANTILES
-############################
-#EXTINF:-1 group-title="Infantiles",Locomotion 
-#http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 group-title="Infantiles",VariedTV
-#https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8?PlaylistM3UCL
+https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="ES:DISNEY CHANEL HD" group-title="Infantiles",DISNEY CHANEL
+
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="ES:Disney Jr" group-title="Infantiles",Disney Jr
+
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:DISCOVERY KIDS HD" group-title="Infantiles",DISCOVERY KIDS
+
+#EXTINF:-1 tvg-id="" tvg-name="Paka Paka | AR" group-title="Infantiles",Paka Paka 
+
+#EXTINF:-1 tvg-id="XtremaCartoons.ar@SD" group-title="Infantiles",Xtrema Cartoons
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 ############################
-# DEPORTES
+# Peliculas
 ############################
-#EXTINF:-1 group-title="DEPORTES",TyC Sports
-https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
+#EXTINF:-1 group-title="Peliculas",CosmosTV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 group-title="Peliculas",Canal 34 San Juan
+https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+#EXTINF:-1 group-title="Peliculas",Atacama
+https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Peliculas",Canal 4 (San Juan)
+https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+#EXTINF:-1 group-title="Peliculas",Bayres TV (720p)
+https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
+#EXTINF:-1 group-title="Peliculas",Canal 7 Salta
+https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSASALTA_96.5_INFINITO__
+#EXTINF:0,Pelicula 1 - WebTV - Salta  TV - SA Salta
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSASALTA___WEBPELICULA1_
+#EXTINF:0,Pelicula 2 - WebTV - Salta  TV - SA Salta
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSASALTA___WEBPELICULA2_
+#EXTINF:0,Pelicula 3 - WebTV - Salta  TV - SA Salta
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSASALTA___WEBPELICULA3_
+#EXTINF:0,Pelicula 4 - WebTV - Salta  TV - SA Salta
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSASALTA___WEBPELICULA4_
+#EXTINF:0,Pelicula 5 - WebTV - Salta  TV - SA Salta
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSASALTA___WEBPELICULA5_
+#EXTINF:0,Pelicula 6 - WebTV - Salta  TV - SA Salta
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSASALTA___WEBPELICULA6_
+
+
+#EXTINF:-1 tvg-id="1481dtv.cl" tvg-name="ZCL• HBO (HD)" group-title="Peliculas",HBO
+
+#EXTINF:-1 tvg-id="526dtv.cl" tvg-name="C/S• HBO PLUS (HD) »2«" group-title="Peliculas",HBO PLUS
+
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:HBO FAMILY HD" tvg-logo="" group-title="Peliculas",HBO FAMILY
+
+#EXTINF:-1 tvg-id="XtremaAccion.ar@SD" group-title="Peliculas",Xtrema Accion
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaAccion.ar@SD" group-title="Peliculas",Xtrema Accion
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX 1 FHD" group-title="Peliculas",CINEMAX 1 
+
+#EXTINF:-1 tvg-id="507dtv.co" tvg-name="C/S• CINE CANAL (HD) »1«" group-title="Peliculas",CINE CANAL
+
+#EXTINF:-1 tvg-id="213dtv.cl" tvg-name="C/S• TNT SERIES (HD) »1«" group-title="Peliculas",TNT SERIES
+
+#EXTINF:-1 tvg-id="" tvg-name="C/S• TNT NOVELAS (HD) »1«" group-title="Peliculas",TNT NOVELAs
+
+#EXTINF:-1 tvg-id="" tvg-name="C/S• UNIVERSAL CHANNEL (HD) »1«" group-title="Peliculas",UNIVERSAL CHANNEL 
+
+#EXTINF:-1 tvg-id="202dtv.co" tvg-name="C/S• STAR CHANNEL (HD) »1«" group-title="Peliculas",STAR CHANNEL
+
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SPACE (HD) »1«" group-title="Peliculas",SPACE 
+
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:TLC HD" group-title="Peliculas",TLC
+
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STUDIO UNIVERSAL (HD) »1«" group-title="Peliculas",STUDIO UNIVERSAL
+
+#EXTINF:-1 tvg-id="AMC Break" tvg-name="ES:AMC BREAK" group-title="Peliculas",AMC
+
+#EXTINF:-1 tvg-id="AXN Movies HD" tvg-name="ES:AXN MOVIES HD"  group-title="Peliculas",AXN  
+
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" group-title="Peliculas",FX
+
+#EXTINF:-1 tvg-id="504dtv.cl" tvg-name="ZCL• TCM (HD)" group-title="Peliculas",TCM
+
 ############################
-# ?? MUSICA
+# Deportes
 ############################
-#EXTINF:30, Latina TV
-#https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA",Cumbia Mix
-#https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
-#EXTINF:-1 group-title="MUSICA",Urban Mix
-#https://cloud.tvomix.com/URBANMIX/index.m3u8
-#EXTINF:-1 group-title="NOTICIAS",Canal 26
-#https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1 tvg-id="1100" tvg-name="DEPORTV" tvg-logo="" group-title="Deportes", DEPORTV
+
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 1" tvg-logo="" group-title="Deportes",ESPN 
+
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 2" tvg-logo="" group-title="Deportes",ESPN 2
+
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN PREMIUM"  group-title="Deportes",ESPN Premium ARG
+http://flexlive.lat:8080//live/SoldiamarMatamoros1024/e4ExXBdcnJ67/192186.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEP• TYC SPORTS AR DASH" tvg-logo="" group-title="Deportes",TYC SPORTS
+
+#EXTINF:-1 tvg-id="" tvg-name="[Canal+ PL	] FOX" tvg-logo="" group-title="Deportes",FOX
+
+#EXTINF:-1 tvg-id="" tvg-name="DEP• FOX SPORTS 2 MX (HD) »1«" tvg-logo="" group-title="Deportes",FOX SPORTS 2
+
+############################
+# Documentales
+############################
+#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] HISTORY HD" tvg-logo="" group-title="Documentales",HISTORY Chanel
+
+#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] HISTORY HD" tvg-logo="" group-title="Documentales",HISTORY Chanel2
+
+#EXTINF:-1 tvg-id="" tvg-name="[Allente DK] DISCOVERY HD" tvg-logo="" group-title="Documentales",DISCOVERY 
+
+#EXTINF:-1 tvg-id="" tvg-name="[Canal+ PL	] ANIMAL PLANET HD" tvg-logo="" group-title="Documentales",ANIMAL PLANET 
+
+#EXTINF:-1 tvg-id="" tvg-name="[Canal+ PL	] NATIONAL GEOGRAPHIC" tvg-logo="" group-title="Documentales",NATIONAL GEOGRAPHIC
+
+############################
+# Regionales
+############################
+#EXTINF:-1 tvg-id="AiredeSantaFe.ar@SD",Aire de Santa Fe 
+https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
+############################
+# Musica
+############################
+#EXTINF:-1 group-title="Musica",X Level Media
+https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
+
+#EXTINF:-1 tvg-id="MusicTop.ar@SD" group-title="Musica",MusicTop
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+#EXTINF:-1 tvg-id="XLevelMedia.ar@SD" group-title="Musica",X Level Media
+https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
+#EXTINF:-1 tvg-id="UrbanMix.ar@SD" group-title="Musica",Urban Mix 
+https://cloud.tvomix.com/URBANMIX/index.m3u8
 
