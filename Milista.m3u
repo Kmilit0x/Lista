@@ -2,52 +2,51 @@
 ############################
 # Noticias
 ############################
-#EXTINF:-1 tvg-id="" tvg-name="Canal 26" group-title="Noticias",Canal 26
+#EXTINF:-1 tvg-name="Canal 26" group-title="Noticias",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Crónica TV" group-title="Noticias",Crónica TV
+#EXTINF:-1 tvg-name="Crónica TV" group-title="Noticias",Crónica TV
 http://avefenixtv.com:80/guillermo_ramos/Ramos2023G/712706.ts
-#EXTINF:-1 tvg-id="0932" tvg-name="C5N" group-title="Noticias",C5N
+#EXTINF:-1 tvg-name="C5N" group-title="Noticias",C5N
 http://avefenixtv.com:80/guillermo_ramos/Ramos2023G/712705.ts
-#EXTINF:-1 tvg-id="TN Noticias" tvg-name="TN Noticias" group-title="Noticias",TN Noticias
+#EXTINF:-1 tvg-name="TN Noticias" group-title="Noticias",TN Noticias
 http://avefenixtv.com:80/guillermo_ramos/Ramos2023G/712717.ts
-#EXTINF:-1 tvg-id="" tvg-name="A24" group-title="Noticias",A24
+#EXTINF:-1 tvg-name="A24" group-title="Noticias",A24
 http://avefenixtv.com:80/guillermo_ramos/Ramos2023G/712702.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nacion+" group-title="Noticias",Nacion+
+#EXTINF:-1 tvg-name="Nacion+" group-title="Noticias",Nacion+
 http://avefenixtv.com:80/guillermo_ramos/Ramos2023G/712712.ts
-#EXTINF:-1 tvg-id="" tvg-name="Noticias24/7" group-title="Noticias",Noticias24/7
+#EXTINF:-1 tvg-name="Noticias24/7" group-title="Noticias",Noticias24/7
 https://panel.host-live.com:19360/cn247tv/Source.m3u8
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Deutsche_Welle_symbol_2012.svg",DW Español
+#EXTINF:-1 tvg-name="Noticias24/7" group-title="Noticias",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 ############################
 # TVABIERTA
 ############################
-#EXTINF:-1 tvg-id="AmericaInternacional.ar@SD" group-title="TVABIERTA",America Internacional
-http://avefenixtv.com:80/guillermo_ramos/Ramos2023G/712703.ts
-#EXTINF:-1 tvg-id="Telefe" group-title="TVABIERTA",Telefe 
-http://avefenixtv.com:80/guillermo_ramos/Ramos2023G/712714.ts
-#EXTINF:-1 tvg-id="Telefe" group-title="TVABIERTA",Telefe Rosario
+#EXTINF:-1 tvg-name="America Internacional" group-title="TVABIERTA",America Internacional
 
-#EXTINF:-1 tvg-id="" group-title="TVABIERTA" tvg-name="El Trece",El Trece
-http://avefenixtv.com:80/guillermo_ramos/Ramos2023G/712710.ts
-#EXTINF:-1 tvg-id="492" tvg-name="TV Publica" group-title="TVABIERTA",TV Publica
+#EXTINF:-1 tvg-name="Telefe" group-title="TVABIERTA",Telefe 
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal 9" group-title="TVABIERTA",Canal 9 
-http://avefenixtv.com:80/guillermo_ramos/Ramos2023G/712708.ts
-#EXTINF:-1 tvg-id="" tvg-name="Encuentro | AR" group-title="TVABIERTA",Encuentro
+#EXTINF:-1 tvg-name="Telefe Rosario" group-title="TVABIERTA",Telefe Rosario
 
-#EXTINF:-1 tvg-id="" tvg-name="ENT| El GOURMET" group-title="TVABIERTA",El GOURMET
+#EXTINF:-1 tvg-name="El Trece" group-title="TVABIERTA",El Trece
 
-#EXTINF:0 tvg-id="" group-title="TVABIERTA",Volver
-#EXTINF:0,24-Bravo TV
+#EXTINF:-1 tvg-name="TV Publica" group-title="TVABIERTA",TV Publica
+
+#EXTINF:-1 tvg-name="Canal 9" group-title="TVABIERTA",Canal 9 
+
+#EXTINF:-1 tvg-name="Encuentro | AR" group-title="TVABIERTA",Encuentro
+
+#EXTINF:-1 tvg-name="ENT| El GOURMET" group-title="TVABIERTA",El GOURMET
+
+#EXTINF:0,24 tvg-name="Bravo TV" group-title="TVABIERTA",Bravo TV
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
-#EXTINF:0,25-Net TV
+#EXTINF:0,25 tvg-name="Net TV" group-title="TVABIERTA"Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0,26-Canal Encuentro
+#EXTINF:0,26 tvg-name="Bravo TV" group-title="TVABIERTA",Canal Encuentro
 http://45.5.149.219:8000/play/a05s/index.m3u8
-#EXTINF:0,27-Argentinisima Satelital
+#EXTINF:0,27 tvg-name="Argentinisima Satelital" group-title="TVABIERTA",Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8?PlaylistM3UCL
-#EXTINF:0,28-Ciudad Magazine
+#EXTINF:0,28 tvg-name="Ciudad Magazine" group-title="TVABIERTA",Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 ############################
@@ -57,16 +56,17 @@ https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="ES:DISNEY CHANEL HD" group-title="Infantiles",DISNEY CHANEL
+#EXTINF:-1 tvg-name="ES:DISNEY CHANEL HD" group-title="Infantiles",DISNEY CHANEL
 
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="ES:Disney Jr" group-title="Infantiles",Disney Jr
+#EXTINF:-1 tvg-name="ES:Disney Jr" group-title="Infantiles",Disney Jr
 
-#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:DISCOVERY KIDS HD" group-title="Infantiles",DISCOVERY KIDS
+#EXTINF:-1 tvg-name="VIP_BR:DISCOVERY KIDS HD" group-title="Infantiles",DISCOVERY KIDS
 
-#EXTINF:-1 tvg-id="" tvg-name="Paka Paka | AR" group-title="Infantiles",Paka Paka 
+#EXTINF:-1 tvg-name="Paka Paka | AR" group-title="Infantiles",Paka Paka 
 
-#EXTINF:-1 tvg-id="XtremaCartoons.ar@SD" group-title="Infantiles",Xtrema Cartoons
+#EXTINF:-1 tvg-name="Xtrema Cartoons" group-title="Infantiles",Xtrema Cartoons
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+
 ############################
 # Peliculas
 ############################
@@ -83,27 +83,13 @@ https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 #EXTINF:-1 group-title="Peliculas",Canal 7 Salta
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 https://radiosargentina.com.ar/php/artvDI.php?id=ARSASALTA_96.5_INFINITO__
-#EXTINF:0,Pelicula 1 - WebTV - Salta  TV - SA Salta
-https://radiosargentina.com.ar/php/artvDI.php?id=ARSASALTA___WEBPELICULA1_
-#EXTINF:0,Pelicula 2 - WebTV - Salta  TV - SA Salta
-https://radiosargentina.com.ar/php/artvDI.php?id=ARSASALTA___WEBPELICULA2_
-#EXTINF:0,Pelicula 3 - WebTV - Salta  TV - SA Salta
-https://radiosargentina.com.ar/php/artvDI.php?id=ARSASALTA___WEBPELICULA3_
-#EXTINF:0,Pelicula 4 - WebTV - Salta  TV - SA Salta
-https://radiosargentina.com.ar/php/artvDI.php?id=ARSASALTA___WEBPELICULA4_
-#EXTINF:0,Pelicula 5 - WebTV - Salta  TV - SA Salta
-https://radiosargentina.com.ar/php/artvDI.php?id=ARSASALTA___WEBPELICULA5_
-#EXTINF:0,Pelicula 6 - WebTV - Salta  TV - SA Salta
-https://radiosargentina.com.ar/php/artvDI.php?id=ARSASALTA___WEBPELICULA6_
+#EXTINF:-1 tvg-name="ZCL• HBO (HD)" group-title="Peliculas",HBO
 
+#EXTINF:-1 tvg-name="C/S• HBO PLUS (HD) »2«" group-title="Peliculas",HBO PLUS
 
-#EXTINF:-1 tvg-id="1481dtv.cl" tvg-name="ZCL• HBO (HD)" group-title="Peliculas",HBO
+#EXTINF:-1 tvg-name="VIP_BR:HBO FAMILY HD" tvg-logo="" group-title="Peliculas",HBO FAMILY
 
-#EXTINF:-1 tvg-id="526dtv.cl" tvg-name="C/S• HBO PLUS (HD) »2«" group-title="Peliculas",HBO PLUS
-
-#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:HBO FAMILY HD" tvg-logo="" group-title="Peliculas",HBO FAMILY
-
-#EXTINF:-1 tvg-id="XtremaAccion.ar@SD" group-title="Peliculas",Xtrema Accion
+#EXTINF:-1 tvg-name="" group-title="Peliculas",Xtrema Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremaAccion.ar@SD" group-title="Peliculas",Xtrema Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
@@ -167,58 +153,57 @@ https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 ############################
 # Regionales
 ############################
-#EXTINF:-1 tvg-id="AiredeSantaFe.ar@SD",Aire de Santa Fe 
+#EXTINF:-1 group-title="Regionales",Aire de Santa Fe 
 https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
 ############################
 # Musica
 ############################
 #EXTINF:-1 group-title="Musica",X Level Media
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
-
 #EXTINF:-1 tvg-id="MusicTop.ar@SD" group-title="Musica",MusicTop
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 #EXTINF:-1 tvg-id="XLevelMedia.ar@SD" group-title="Musica",X Level Media
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
-#EXTINF:-1 tvg-id="UrbanMix.ar@SD" group-title="Musica",Urban Mix 
+#EXTINF:-1 group-title="Musica",Urban Mix 
 https://cloud.tvomix.com/URBANMIX/index.m3u8
-
-
-
-#EXTINF:0,A&E HD
+############################
+# Extras
+############################
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Extras",A&E HD
 http://181.224.200.5:2277/play/a01e/index.m3u8
-#EXTINF:0,ATV
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Extras",ATV
 http://181.224.200.5:2277/play/3232/index.m3u8
-#EXTINF:0,AXN HD
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Extras",AXN HD
 http://181.224.200.5:2277/play/a01h/index.m3u8
-#EXTINF:0,America TV HD
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Extras",America TV HD
 http://181.224.200.5:2277/play/a0dc/index.m3u8
-#EXTINF:0,Animal Planet HD
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Extras",Animal Planet HD
 http://181.224.200.5:2277/play/a00r/index.m3u8
-#EXTINF:0,Cinecanal HD
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Extras",Cinecanal HD
 http://181.224.200.5:2277/play/a013/index.m3u8
-#EXTINF:0,De Pelicula
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Extras",De Pelicula
 http://181.224.200.5:2277/play/a0d1/index.m3u8
-#EXTINF:0,Discovery Channel  HD
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Extras",Discovery Channel  HD
 http://181.224.200.5:2277/play/a00t/index.m3u8
-#EXTINF:0,Discovery Kids HD
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Extras",Discovery Kids HD
 http://181.224.200.5:2277/play/a00o/index.m3u8
-#EXTINF:0,Discovery Theater HD
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Extras",Discovery Theater HD
 http://181.224.200.5:2277/play/a0bj/index.m3u8
-#EXTINF:0,Discovery World HD
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Extras",Discovery World HD
 http://181.224.200.5:2277/play/a0ap/index.m3u8
-#EXTINF:0,Disney HD
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Extras",Disney HD
 http://181.224.200.5:2277/play/a014/index.m3u8
-#EXTINF:0,Disney Jr.
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Extras",Disney Jr.
 http://181.224.200.5:2277/play/a0dm/index.m3u8
-#EXTINF:0,ESPN 2 HD
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Extras",ESPN 2 HD
 http://181.224.200.5:2277/play/a02c/index.m3u8
-#EXTINF:0,ESPN 3 HD
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Extras",ESPN 3 HD
 http://181.224.200.5:2277/play/a02g/index.m3u8
-#EXTINF:0,ESPN 4HD
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Extras",ESPN 4HD
 http://181.224.200.5:2277/play/a02o/index.m3u8
-#EXTINF:0,ESPN 5HD
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Extras",ESPN 5HD
 http://181.224.200.5:2277/play/a02k/index.m3u8
-#EXTINF:0,ESPN 6HD
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Extras",ESPN 6HD
 http://181.224.200.5:2277/play/a02h/index.m3u8
 #EXTINF:0,ESPN 7HD
 http://181.224.200.5:2277/play/a02l/index.m3u8
