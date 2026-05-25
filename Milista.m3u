@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-name="Canal 26" group-title="Noticias",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-name="Crónica TV" group-title="Noticias",Crónica TV
-http://avefenixtv.com:80/guillermo_ramos/Ramos2023G/712706.ts
+https://edge-live09-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc5OTI1NTg5Iiwic2lwIjoiMTg2LjEyMy4xNTYuMTUyIiwicGF0aCI6Ii9saXZlL2M3ZWRzL0Nyb25pY2FUVi9TQV9MaXZlX2Rhc2hfZW5jX0MvIiwic2Vzc2lvbl9jZG5faWQiOiIyNmVlOWQ5MDQxMDdkOTA3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjMxNCIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.Njf5cvAPVYtoYoWt-JML6XEdnES41YwrbxFKKfkijoi-WnSIwcj7ZInPXZYcFVODqthxzJaMg2OgofH81xGwBg==/live/c4eds/CronicaTV/SA_Live_dash_enc_C/CronicaTV.mpd
 #EXTINF:-1 tvg-name="C5N" group-title="Noticias",C5N
 http://avefenixtv.com:80/guillermo_ramos/Ramos2023G/712705.ts
 #EXTINF:-1 tvg-name="TN Noticias" group-title="Noticias",TN Noticias
