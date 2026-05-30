@@ -5,8 +5,7 @@
 #EXTINF:-1 tvg-name="Canal 26" group-title="Noticias",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-name="Crónica TV" group-title="Noticias",Crónica TV
-https://bestleague.top//tok.html?get=Q2FuYWw5&lang=1
-#EXTINF:-1 tvg-name="TN Noticias" group-title="Noticias",TN Noticias
+https://flow-cdn-gcp.app.flow.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgwMTQxMDEzIiwic2lwIjoiODQuMjUyLjExNC44IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1ROVF9TcG9ydHNfSEQvU0FfTGl2ZV9kYXNoX2VuY18yMi8iLCJzZXNzaW9uX2Nkbl9pZCI6IjhkNjcxMGMxZGYwMTA4YWMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMzM5Iiwic291cmNlcyI6WzIwOSw4NSwxNDQsODYsODhdfQ==.S8P7hHNwTwy2zv1N8aflrtf_jJlkytqX5UBK6njp4nT6bUIkbfpZtbquqD4NLU5B_bEQYKJTUd587f5fNdTDKQ==/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd#EXTINF:-1 tvg-name="TN Noticias" group-title="Noticias",TN Noticias
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index_TN_DAI_Beta_1080.m3u8
 #EXTINF:-1 tvg-name="C5N" group-title="Noticias",C5N
 http://stanx.vip:80/live/antonioalci38/rg56i8jfhhyt/799057.m3u8
