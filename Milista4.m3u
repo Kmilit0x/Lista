@@ -3,10 +3,10 @@
 # Noticias
 ############################
 #EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/2048px-Canal_26_logo_%282022%29.svg.png", Canal 26
-#https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 http://201.217.246.42:44310/Live/693e608d40c62ada1b5b32a1f5997797/c26.playlist.m3u8
 #EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png", Crónica TV
-http://201.217.246.42:44310/Live/693e608d40c62ada1b5b32a1f5997797/CronicaTv.480.25164.ts
+https://bestleague.top//tok.html?get=QW1lcmljYVRW
 #EXTINF:-1 tvg-id="0932" tvg-name="C5N" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/3840px-C5N_2017_Alternate.svg.png", C5N
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/c5n_480.m3u8
 #EXTINF:-1 tvg-id="TN Noticias" tvg-name="TN Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/250px-TN_todo_noticias_logo.svg.png" group-title="NOTICIAS",TN Noticias
