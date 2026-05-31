@@ -2,141 +2,283 @@
 ############################
 # Noticias
 ############################
-#EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/2048px-Canal_26_logo_%282022%29.svg.png", Canal 26
+#EXTINF:-1 tvg-name="Canal 26" group-title="Noticias",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-http://201.217.246.42:44310/Live/693e608d40c62ada1b5b32a1f5997797/c26.playlist.m3u8
-#EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png", Crónica TV
-https://bestleague.top//tok.html?get=QW1lcmljYVRW
-#EXTINF:-1 tvg-id="0932" tvg-name="C5N" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/3840px-C5N_2017_Alternate.svg.png", C5N
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/c5n_480.m3u8
-#EXTINF:-1 tvg-id="TN Noticias" tvg-name="TN Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/250px-TN_todo_noticias_logo.svg.png" group-title="NOTICIAS",TN Noticias
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/tn.playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A24" tvg-logo="http://186.0.248.91:20202/images/A24.png" group-title="NOTICIAS",A24
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/a24.playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="La Nacion+ | AR" tvg-logo="https://cdn.m3u.cl/logo/1361_La_Nacion_.png" group-title="Noticias",La Nacion+
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/lntv.playlist.m3u8
-#EXTINF:-1 tvg-id="IPNoticias.ar@SD",IP Noticias
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-21_480.m3u8
-#EXTINF:-1 tvg-id="0206" tvg-name="France 24 Español" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",France 24 Español
+#EXTINF:-1 tvg-name="TN Noticias" group-title="Noticias",TN Noticias
+https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index_TN_DAI_Beta_1080.m3u8
+#EXTINF:-1 tvg-name="A24" group-title="Noticias",A24
+http://superflash.ovh:8080/live/NDHSH1N6/73927371/885699.m3u8
+#EXTINF:-1 tvg-name="Noticias24/7" group-title="Noticias",Noticias24/7
+https://panel.host-live.com:19360/cn247tv/Source.m3u8
+#EXTINF:-1 tvg-name="Noticias24/7" group-title="Noticias",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-name="Canal E" group-title="Noticias" ,Canal E
+https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="France 24 Español" group-title="Noticias",France 24 Español
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="0205" tvg-name="DW" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/2560px-Deutsche_Welle_symbol_2012.svg.png",DW
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+#EXTINF:-1 tvg-name="RT en Español" group-title="Noticias",RT en Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-name="TeleSUR" group-title="Noticias",TeleSUR
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+#EXTINF:-1 tvg-name="IP Noticias" group-title="Noticias",IP Noticias
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-21_480.m3u8
+#EXTINF:-1 tvg-name="Crónica TV" group-title="Noticias",Crónica TV
+
+#EXTINF:-1 tvg-name="C5N" group-title="Noticias",C5N
+
+#EXTINF:-1 tvg-name="Nacion+" group-title="Noticias",Nacion+
+
 ############################
 # TVABIERTA
 ############################
-#EXTINF:-1 tvg-id="AmericaInternacional.ar@SD" group-title="TVABIERTA",America Internacional
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-17_720.m3u8
-#EXTINF:-1 tvg-id="Telefe" group-title="TVABIERTA",Telefe 
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
-#EXTINF:-1 tvg-id="Telefe" group-title="TVABIERTA",Telefe Rosario
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-10.playlist.m3u8
-#EXTINF:-1 tvg-id="1358" group-title="TVABIERTA" tvg-name="El Trece" tvg-logo="https://cdn.m3u.cl/logo/1358_El_Trece.png",El Trece
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/eltrece.playlist.m3u8
-#EXTINF:-1 tvg-id="492" tvg-name="TV Publica" group-title="TVABIERTA" tvg-logo="https://cdn.m3u.cl/logo/492_TV_Publica.png", TV Publica
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/tvpublica.playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 9 Litoral | AR" tvg-logo="https://cdn.m3u.cl/logo/236_Canal_9_Litoral.png" group-title="TVABIERTA",Canal 9 Litoral
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-18.playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Encuentro | AR" tvg-logo="https://cdn.m3u.cl/logo/1359_Encuentro.png" group-title="TVABIERTA",Encuentro | AR
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-19.playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ENT| El GOURMET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/120px-Elgourmetlogo2015.png" group-title="TVABIERTA",ENT| El GOURMET
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-25.playlist.m3u8
-############################
-# Peliculas
-############################
-#EXTINF:-1 tvg-id="BayresTV.ar@SD",Bayres TV (720p)
-https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaAccion.ar@SD" group-title="Peliculas",Xtrema Accion
-https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cinemax_new.png/800px-Cinemax_new.png" group-title="Peliculas",CINEMAX 1 
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-61.playlist.m3u8
-#EXTINF:-1 tvg-id="507dtv.co" tvg-name="C/S• CINE CANAL (HD) »1«" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg" group-title="Peliculas",CINE CANAL
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-62.playlist.m3u8
-#EXTINF:-1 tvg-id="213dtv.cl" tvg-name="C/S• TNT SERIES (HD) »1«" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg" group-title="Peliculas",TNT SERIES
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-64.playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="C/S• TNT NOVELAS (HD) »1«" tvg-logo="https://i.ibb.co/kHp2Q54/Logo-TNT-Novelas.png" group-title="Peliculas",TNT NOVELAs
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-65.playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="C/S• UNIVERSAL CHANNEL (HD) »1«" tvg-logo="https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg" group-title="Peliculas",UNIVERSAL CHANNEL 
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-67.playlist.m3u8
-#EXTINF:-1 tvg-id="202dtv.co" tvg-name="C/S• STAR CHANNEL (HD) »1«" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg" group-title="Peliculas",C/S• STAR CHANNEL (HD) »1«
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-68.playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="C/S• SPACE (HD) »1«" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg" group-title="Peliculas",SPACE 
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-69.playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:TLC HD" tvg-logo="" group-title="Peliculas",TLC
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/tlc_480.m3u8
-#EXTINF:0,170-Volver HD
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-74.playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="C/S• STUDIO UNIVERSAL (HD) »1«" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg" group-title="Peliculas",STUDIO UNIVERSAL
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-75.playlist.m3u8
-#EXTINF:-1 tvg-id="AMC Break" tvg-name="ES:AMC BREAK" tvg-logo="https://i.ibb.co/rcGChBx/BIOGRA.png" group-title="Peliculas",ES:AMC BREAK
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-76.playlist.m3u8
-#EXTINF:-1 tvg-id="AXN Movies HD" tvg-name="ES:AXN MOVIES HD" tvg-logo="https://i.ibb.co/5hq2ShB/SET.png" group-title="Peliculas",ES:AXN MOVIES 
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-77.playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/fx.png" group-title="Peliculas",FX
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-78.playlist.m3u8
-#EXTINF:-1 tvg-id="504dtv.cl" tvg-name="ZCL• TCM (HD)" tvg-logo="http://puntoz.net/LOGOS/tcmp.png" group-title="Peliculas",ZCL• TCM (HD)
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-79.playlist.m3u8
-#EXTINF:-1 tvg-id="1481dtv.cl" tvg-name="ZCL• HBO (HD)" tvg-logo="http://puntoz.xyz/LOGOS/hbocosubB.png" group-title="Peliculas",ZCL• HBO
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-102.playlist.m3u8
-#EXTINF:-1 tvg-id="526dtv.cl" tvg-name="C/S• HBO PLUS (HD) »2«" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg" group-title="Peliculas",HBO PLUS
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-109.playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:HBO FAMILY HD" tvg-logo="" group-title="Peliculas",HBO FAMILY
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-101.playlist.m3u8
+#EXTINF:-1 tvg-name="America" group-title="TVABIERTA",America 
+http://181.224.200.5:2277/play/a0dc/index.m3u8
+#EXTINF:0,24 tvg-name="Bravo TV" group-title="TVABIERTA",Bravo TV
+https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
+#EXTINF:0,25 tvg-name="Net TV" group-title="TVABIERTA",Net TV
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,27 tvg-name="Argentinisima Satelital" group-title="TVABIERTA",Argentinisima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8?PlaylistM3UCL
+#EXTINF:0,28 tvg-name="Ciudad Magazine" group-title="TVABIERTA",Ciudad Magazine
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+
+#EXTINF:-1 tvg-name="Telefe" group-title="TVABIERTA",Telefe 
+
+#EXTINF:-1 tvg-name="Telefe Rosario" group-title="TVABIERTA",Telefe Rosario
+
+#EXTINF:-1 tvg-name="El Trece" group-title="TVABIERTA",El Trece
+
+#EXTINF:-1 tvg-name="TV Publica" group-title="TVABIERTA",TV Publica
+
+#EXTINF:-1 tvg-name="Canal 9" group-title="TVABIERTA",Canal 9 
+
+#EXTINF:-1 tvg-name="Encuentro | AR" group-title="TVABIERTA",Encuentro
+
+#EXTINF:-1 tvg-name="ENT| El GOURMET" group-title="TVABIERTA",El GOURMET
+
+
 ############################
 # Infantiles
 ############################
-#EXTINF:-1 tvg-id="XtremaCartoons.ar@SD" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="Infantiles",Xtrema Cartoons
+#EXTINF:-1 group-title="Infantiles",VariedTV
+https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="Xtrema Cartoons" group-title="Infantiles",Xtrema Cartoons
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
-#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="ES:DISNEY CHANEL HD" tvg-logo="https://i.ibb.co/8YDMdk8/DCH.png" group-title="Infantiles",DISNEY CHANEL
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-32.playlist.m3u8
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="ES:Disney Jr" tvg-logo="https://i.ibb.co/Gn6BRm7/PLAYDC.png" group-title="Infantiles",Disney Jr
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-35_480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:DISCOVERY KIDS HD" tvg-logo="" group-title="Infantiles",DISCOVERY KIDS
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-34.playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Paka Paka | AR" tvg-logo="https://cdn.m3u.cl/logo/206_Paka_Paka.png" group-title="Infantiles",Paka Paka | AR
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-36.playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="ES:DISNEY CHANEL HD" group-title="Infantiles",DISNEY CHANEL
+
+#EXTINF:-1 tvg-name="ES:Disney Jr" group-title="Infantiles",Disney Jr
+
+#EXTINF:-1 tvg-name="VIP_BR:DISCOVERY KIDS HD" group-title="Infantiles",DISCOVERY KIDS
+
+#EXTINF:-1 tvg-name="Paka Paka | AR" group-title="Infantiles",Paka Paka 
+
+
+############################
+# Peliculas
+############################
+#EXTINF:-1 group-title="Peliculas",CosmosTV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 group-title="Peliculas", Neo TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Peliculas",Canal 34 San Juan
+https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+#EXTINF:-1 group-title="Peliculas",Bayres TV (720p)
+https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
+#EXTINF:-1 group-title="Peliculas",Canal 7 Salta
+https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
+#EXTINF:-1 tvg-name="" group-title="Peliculas",Xtrema Accion
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Peliculas",Cinecanal HD
+http://181.224.200.5:2277/play/a013/index.m3u8
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Peliculas",De Pelicula
+http://181.224.200.5:2277/play/a0d1/index.m3u8
+
+
+
+#EXTINF:-1 tvg-name="ZCL• HBO (HD)" group-title="Peliculas",HBO
+
+#EXTINF:-1 tvg-name="C/S• HBO PLUS (HD) »2«" group-title="Peliculas",HBO PLUS
+
+#EXTINF:-1 tvg-name="VIP_BR:HBO FAMILY HD" tvg-logo="" group-title="Peliculas",HBO FAMILY
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX 1 FHD" group-title="Peliculas",CINEMAX 1 
+
+#EXTINF:-1 tvg-id="507dtv.co" tvg-name="C/S• CINE CANAL (HD) »1«" group-title="Peliculas",CINE CANAL
+
+#EXTINF:-1 tvg-id="213dtv.cl" tvg-name="C/S• TNT SERIES (HD) »1«" group-title="Peliculas",TNT SERIES
+
+#EXTINF:-1 tvg-id="" tvg-name="C/S• TNT NOVELAS (HD) »1«" group-title="Peliculas",TNT NOVELAs
+
+#EXTINF:-1 tvg-id="" tvg-name="C/S• UNIVERSAL CHANNEL (HD) »1«" group-title="Peliculas",UNIVERSAL CHANNEL 
+
+#EXTINF:-1 tvg-id="202dtv.co" tvg-name="C/S• STAR CHANNEL (HD) »1«" group-title="Peliculas",STAR CHANNEL
+
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SPACE (HD) »1«" group-title="Peliculas",SPACE 
+
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:TLC HD" group-title="Peliculas",TLC
+
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STUDIO UNIVERSAL (HD) »1«" group-title="Peliculas",STUDIO UNIVERSAL
+
+#EXTINF:-1 tvg-id="AMC Break" tvg-name="ES:AMC BREAK" group-title="Peliculas",AMC
+
+#EXTINF:-1 tvg-id="AXN Movies HD" tvg-name="ES:AXN MOVIES HD"  group-title="Peliculas",AXN  
+
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" group-title="Peliculas",FX
+
+#EXTINF:-1 tvg-id="504dtv.cl" tvg-name="ZCL• TCM (HD)" group-title="Peliculas",TCM
+
+
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Peliculas",Discovery Channel  HD
+http://181.224.200.5:2277/play/a00t/index.m3u8
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Peliculas",Discovery Kids HD
+http://181.224.200.5:2277/play/a00o/index.m3u8
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Peliculas",Discovery Theater HD
+http://181.224.200.5:2277/play/a0bj/index.m3u8
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Peliculas",Discovery World HD
+http://181.224.200.5:2277/play/a0ap/index.m3u8
+#EXTINF:0 group-title="Peliculas",Panamericana
+http://181.224.200.5:2277/play/kkio/index.m3u8
+#EXTINF:0 group-title="Peliculas",Paramount HD
+http://181.224.200.5:2277/play/a0df/index.m3u8
+#EXTINF:0 group-title="Peliculas",Pasiones HD
+http://181.224.200.5:2277/play/4324/index.m3u8
+#EXTINF:0 group-title="Peliculas",RPP
+http://181.224.200.5:2277/play/a04b/index.m3u8
+#EXTINF:0 group-title="Peliculas",Sony HD
+http://181.224.200.5:2277/play/a01f/index.m3u8
+#EXTINF:0 group-title="Peliculas",Star Channel HD
+http://181.224.200.5:2277/play/a00z/index.m3u8
+#EXTINF:0 group-title="Peliculas",Studio Universal HD
+http://181.224.200.5:2277/play/a01j/index.m3u8
+#EXTINF:0 group-title="Peliculas",Telemundo
+http://181.224.200.5:2277/play/a01q/index.m3u8
+#EXTINF:0 group-title="Peliculas",Tlnovelas 
+http://181.224.200.5:2277/play/a0d0/index.m3u8
+#EXTINF:0 group-title="Peliculas",UNIVERSAL CHANNEL HD
+http://181.224.200.5:2277/play/a0ak/index.m3u8
+#EXTINF:0 group-title="Peliculas",UP
+http://181.224.200.5:2277/play/a0d2/index.m3u8
+#EXTINF:0 group-title="Peliculas",Warner Channel HD
+http://181.224.200.5:2277/play/a01g/index.m3u8
+
 ############################
 # Deportes
 ############################
-#EXTINF:-1 tvg-id="1100" tvg-name="DEPORTV" tvg-logo="https://cdn.m3u.cl/logo/1100_DEPORTV.png" group-title="Deportes", DEPORTV
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/deportv.playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 1" tvg-logo="https://tinyurl.com/y5xm55ya" group-title="Deportes",ESPN 
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-94.playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 2" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/espn2.png" group-title="Deportes",ESPN 2
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-97.playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="US: ESPN PREMIUM"  group-title="Deportes",ESPN Premium ARGESPN Premium ARG
-http://cineplay.vip:2086/LuisMedellin1/9rKwRRaD5CrG/251623
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN PREMIUM"  group-title="Deportes",ESPN Premium ARG
+
 #EXTINF:-1 tvg-id="" tvg-name="DEP• TYC SPORTS AR DASH" tvg-logo="" group-title="Deportes",TYC SPORTS
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-90.playlist.m3u8
+https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="[Canal+ PL	] FOX" tvg-logo="" group-title="Deportes",FOX
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-91.playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DEP• FOX SPORTS 2 MX (HD) »1«" tvg-logo="https://i.postimg.cc/d01285jt/fox2.png" group-title="Deportes",FOX SPORTS 2
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-93.playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DEP• FOX SPORTS 2 MX (HD) »1«" tvg-logo="" group-title="Deportes",FOX SPORTS 2
+
+#EXTINF:0 group-title="Deportes",ESPN 7HD
+http://181.224.200.5:2277/play/a02l/index.m3u8
+#EXTINF:11 group-title="Deportes",ESPN HD
+http://181.224.200.5:2277/play/aa07/index.m3u8
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Deportes",ESPN 2 HD
+http://181.224.200.5:2277/play/a02c/index.m3u8
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Deportes",ESPN 3 HD
+http://181.224.200.5:2277/play/a02g/index.m3u8
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Deportes",ESPN 4HD
+http://181.224.200.5:2277/play/a02o/index.m3u8
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Deportes",ESPN 5HD
+http://181.224.200.5:2277/play/a02k/index.m3u8
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Deportes",ESPN 6HD
+http://181.224.200.5:2277/play/a02h/index.m3u8
+
 ############################
 # Documentales
 ############################
 #EXTINF:-1 tvg-id="" tvg-name="[Allente DK] HISTORY HD" tvg-logo="" group-title="Documentales",HISTORY Chanel
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-40_480.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="[Allente DK] HISTORY HD" tvg-logo="" group-title="Documentales",HISTORY Chanel2
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-41.playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="[Allente DK] DISCOVERY HD" tvg-logo="" group-title="Documentales",DISCOVERY 
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-44.playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[Canal+ PL	] ANIMAL PLANET HD" tvg-logo="" group-title="Documentales",ANIMAL PLANET 
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-45.playlist.m3u8
+
+#EXTINF:-1 tvg-name="ANIMAL PLANET HD" group-title="Documentales",ANIMAL PLANET 
+http://181.224.200.5:2277/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[Canal+ PL	] NATIONAL GEOGRAPHIC" tvg-logo="" group-title="Documentales",NATIONAL GEOGRAPHIC
-http://201.217.246.42:44310/Live/9e2a94aba730d87ae47b79681248aec1/local-46.playlist.m3u8
+
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Documentales",Animal Planet HD
+http://181.224.200.5:2277/play/a00r/index.m3u8
 ############################
 # Regionales
 ############################
-#EXTINF:-1 tvg-id="AiredeSantaFe.ar@SD",Aire de Santa Fe 
+#EXTINF:-1 group-title="Regionales",Aire de Santa Fe 
 https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
 ############################
 # Musica
 ############################
+#EXTINF:-1 tvg-name="Canal de la Música" group-title="Temáticos Argentinos",Canal de la Música 
+https://g1.mc-slo.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
+#EXTINF:-1 group-title="Musica",X Level Media
+https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 #EXTINF:-1 tvg-id="MusicTop.ar@SD" group-title="Musica",MusicTop
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 #EXTINF:-1 tvg-id="XLevelMedia.ar@SD" group-title="Musica",X Level Media
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
-#EXTINF:-1 tvg-id="UrbanMix.ar@SD" group-title="Musica",Urban Mix 
+#EXTINF:-1 group-title="Musica",Urban Mix 
 https://cloud.tvomix.com/URBANMIX/index.m3u8
 
+############################
+# Educacion
+############################
+#EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Education",Platzi TV (1080p)
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+#EXTINF:-1 tvg-id="TVUniversidad.ar" tvg-logo="https://i.imgur.com/0MXsQ25.png" group-title="Education",TVU Universidad Nacional de La Plata (720p) 
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
+
+
+
+
+
+
+############################
+# Extras
+############################
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Extras",A&E HD
+http://181.224.200.5:2277/play/a01e/index.m3u8
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Extras",ATV
+http://181.224.200.5:2277/play/3232/index.m3u8
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Extras",AXN HD
+http://181.224.200.5:2277/play/a01h/index.m3u8
+
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Extras",Disney HD
+http://181.224.200.5:2277/play/a014/index.m3u8
+#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Extras",Disney Jr.
+http://181.224.200.5:2277/play/a0dm/index.m3u8
+
+#EXTINF:0,El Gourmet HD
+http://181.224.200.5:2277/play/a00n/index.m3u8
+#EXTINF:0,FX HD
+http://181.224.200.5:2277/play/a011/index.m3u8
+#EXTINF:0,Global
+http://181.224.200.5:2277/play/a0co/index.m3u8
+#EXTINF:0,Golden Edge
+http://181.224.200.5:2277/play/a0bd/index.m3u8
+#EXTINF:0,Golden HD
+http://181.224.200.5:2277/play/a0do/index.m3u8
+#EXTINF:0,History 2
+http://181.224.200.5:2277/play/a01b/index.m3u8
+#EXTINF:0,History Channel HD
+http://181.224.200.5:2277/play/a02b/index.m3u8
+#EXTINF:0,Home & Health HD
+http://181.224.200.5:2277/play/a00p/index.m3u8
+#EXTINF:0,ID HD
+http://181.224.200.5:2277/play/a00m/index.m3u8
+#EXTINF:0,LOVE NATURE
+http://181.224.200.5:2277/play/a036/index.m3u8
+#EXTINF:0,Las Estrellas HD
+http://181.224.200.5:2277/play/a00s/index.m3u8
+#EXTINF:0,NTN24
+http://181.224.200.5:2277/play/a026/index.m3u8
+#EXTINF:0,Nat Geo HD
+http://181.224.200.5:2277/play/a012/index.m3u8
+#EXTINF:0,Nickelodeon HD
+http://181.224.200.5:2277/play/a0bm/index.m3u8
