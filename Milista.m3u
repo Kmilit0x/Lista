@@ -23,6 +23,8 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 #EXTINF:-1 tvg-name="IP Noticias" group-title="Noticias",IP Noticias
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-21_480.m3u8
 #EXTINF:-1 tvg-name="Crónica TV" group-title="Noticias",Crónica TV
+https://cdn03.gigared.com.ar/live/eds/C5N/sa_live_dash/C5N.mpd
+
 ############################
 # TVABIERTA
 ############################
