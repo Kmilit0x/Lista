@@ -43,6 +43,8 @@ https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-name="Xtrema Cartoons" group-title="Infantiles",Xtrema Cartoons
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+#EXTINF:-1 tvg-name="Disney JR" group-title="Infantiles",Disney JR
+http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 ############################
 # Peliculas
 ############################
@@ -139,6 +141,10 @@ https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 #EXTINF:-1 group-title="Musica",Urban Mix 
 https://cloud.tvomix.com/URBANMIX/index.m3u8
+#EXTINF:-1 group-title="Musica",XITE_Nuevo_Latino
+https://d3bsgqzbpkrvbb.cloudfront.net/XITE_Nuevo_Latino.m3u8
+#EXTINF:-1 group-title="Musica",XITE_Siempre_Latino
+https://d1xc25jm9e0l4b.cloudfront.net/XITE_Siempre_Latino.m3u8
 ############################
 # Educacion
 ############################
@@ -187,3 +193,8 @@ http://181.224.200.5:2277/play/a026/index.m3u8
 http://181.224.200.5:2277/play/a012/index.m3u8
 #EXTINF:0,Nickelodeon HD
 http://181.224.200.5:2277/play/a0bm/index.m3u8
+
+#Varios
+
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
