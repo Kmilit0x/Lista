@@ -83,12 +83,8 @@ https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 http://45.5.117.57:8999/play/a03j/index.m3u8
 #EXTINF:-1 group-title="Peliculas",TCM
 http://45.5.117.57:8999/play/a02h/index.m3u8
-#EXTINF:-1 group-title="Peliculas",Star Channel
-http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/local-68.playlist.m3u8
 #EXTINF:-1 group-title="Peliculas",Sony Movies
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 group-title="Peliculas",Sony Channel
-http://45.5.117.57:8999/play/a02t/index.m3u8
 #EXTINF:-1 group-title="Peliculas",Runtime Accion
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
 #EXTINF:-1 group-title="Peliculas",Xtrema Accion
@@ -97,10 +93,8 @@ https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 http://181.224.200.5:2277/play/a013/index.m3u8
 #EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Peliculas",De Pelicula
 http://181.224.200.5:2277/play/a0d1/index.m3u8
-#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Peliculas",Discovery Channel  HD
-http://181.224.200.5:2277/play/a00t/index.m3u8
-#EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Peliculas",Discovery Kids HD
-http://181.224.200.5:2277/play/a00o/index.m3u8
+
+
 #EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Peliculas",Discovery Theater HD
 http://181.224.200.5:2277/play/a0bj/index.m3u8
 #EXTINF:0 tvg-id="XLevelMedia.ar@SD" group-title="Peliculas",Discovery World HD
