@@ -30,13 +30,13 @@ http://lunar.pm:8080/2054107680/xhER7FXz3jyZ/122331
 #EXTINF:-1 tvg-name="America" group-title="TVABIERTA",America 
 #http://181.224.200.5:2277/play/a0dc/index.m3u8
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
-#EXTINF:0,24 tvg-name="Bravo TV" group-title="TVABIERTA",Bravo TV
+#EXTINF:0 tvg-name="Bravo TV" group-title="TVABIERTA",Bravo TV
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
-#EXTINF:0,25 tvg-name="Net TV" group-title="TVABIERTA",Net TV
+#EXTINF:0 tvg-name="Net TV" group-title="TVABIERTA",Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0,27 tvg-name="Argentinisima Satelital" group-title="TVABIERTA",Argentinisima Satelital
+#EXTINF:0 tvg-name="Argentinisima Satelital" group-title="TVABIERTA",Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8?PlaylistM3UCL
-#EXTINF:0,28 tvg-name="Ciudad Magazine" group-title="TVABIERTA",Ciudad Magazine
+#EXTINF:0 tvg-name="Ciudad Magazine" group-title="TVABIERTA",Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 ############################
 # Infantiles
