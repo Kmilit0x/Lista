@@ -1,10 +1,10 @@
-#EXTINF:11,26TV group-title="Noticias",prueba
+#EXTINF:11,26TV 
 http://190.7.19.197:232/play/a042/index.m3u8
-#EXTINF:0,A&E HD group-title="Noticias",prueba
+#EXTINF:0,A&E HD
 http://190.7.19.197:232/play/a00c/index.m3u8
-#EXTINF:0,A24 group-title="Noticias",prueba
+#EXTINF:0,A24
 http://190.7.19.197:232/play/a03z/index.m3u8
-#EXTINF:0,AIRE SANTA FE group-title="Noticias",prueba
+#EXTINF:0,AIRE SANTA FE
 http://190.7.19.197:232/play/a08r/index.m3u8
 #EXTINF:0,AM Sports
 http://190.7.19.197:232/play/a044/index.m3u8
