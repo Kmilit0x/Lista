@@ -2,6 +2,8 @@
 ############################
 # Noticias
 ############################
+#EXTINF:-1 group-title="Noticias",prueba
+http://190.7.19.197:232/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 26" group-title="Noticias",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-name="TN Noticias" group-title="Noticias",TN Noticias
