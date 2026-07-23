@@ -8,6 +8,9 @@ http://38.44.109.41:8003/play/a02l/index.m3u8
 http://miotv.cc:8080/Lopez123/Lopez123/187361
 #EXTINF:0 group-title="Mundial",Telefe HD
 http://190.7.19.197:232/play/a059/index.m3u8
+
+#EXTINF:0 group-title="Mundial",ARG: Canal 3 Rosario
+http://asenkis.kismo1.org:80/rJfsCUs5/dSmGUYuh/354906
 #Noticias
 #EXTINF:11,26TV group-title="Noticias",Canal 26
 http://190.7.19.197:232/play/a042/index.m3u8
